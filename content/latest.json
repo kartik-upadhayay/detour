@@ -1,402 +1,428 @@
 {
   "schema": 1,
-  "date": "2026-10-11",
-  "generatedAt": "2026-10-10T19:36:29+00:00",
+  "date": "2026-10-12",
+  "generatedAt": "2026-10-12T03:44:37+00:00",
   "words": [
     {
-      "word": "Facade",
-      "pos": "noun",
-      "pronunciation": "fuh-SAHD",
-      "meaning": "A deceptive outward appearance.",
-      "insteadOf": "front / fake look",
-      "example": "Behind the confident facade, he was nervous."
-    },
-    {
-      "word": "Ephemeral",
-      "pos": "adjective",
-      "pronunciation": "ih-FEM-er-ul",
-      "meaning": "Lasting a very short time.",
-      "insteadOf": "short-lived",
-      "example": "Most internet trends are ephemeral, gone in a week."
-    },
-    {
-      "word": "Propensity",
-      "pos": "noun",
-      "pronunciation": "pruh-PEN-sih-tee",
-      "meaning": "A natural tendency to behave in a certain way.",
-      "insteadOf": "tendency",
-      "example": "I have a propensity to open Instagram when bored."
-    },
-    {
-      "word": "Sycophant",
-      "pos": "noun",
-      "pronunciation": "SIK-uh-fant",
-      "meaning": "A person who flatters powerful people to gain advantage.",
-      "insteadOf": "suck-up / chamcha",
-      "example": "Every boss attracts a few sycophants."
-    },
-    {
-      "word": "Mundane",
-      "pos": "adjective",
-      "pronunciation": "mun-DAYN",
-      "meaning": "Lacking interest or excitement; dull and ordinary.",
-      "insteadOf": "boring",
-      "example": "Even mundane chores feel lighter with a good podcast."
-    },
-    {
-      "word": "Articulate",
+      "word": "Gauge",
       "pos": "verb",
-      "pronunciation": "ar-TIK-yuh-layt",
-      "meaning": "To express an idea clearly and effectively.",
-      "insteadOf": "explain / say",
-      "example": "Try to articulate the problem in one sentence."
+      "pronunciation": "gayj",
+      "meaning": "To estimate or measure an attitude, situation, or reaction.",
+      "insteadOf": "figure out",
+      "example": "Let's chat over chai to gauge how the team feels about the sprint deadline."
     },
     {
-      "word": "Delineate",
-      "pos": "verb",
-      "pronunciation": "dih-LIN-ee-ayt",
-      "meaning": "To describe or mark out precisely.",
-      "insteadOf": "outline",
-      "example": "The proposal delineates each phase of the study."
-    },
-    {
-      "word": "Paradigm",
-      "pos": "noun",
-      "pronunciation": "PAIR-uh-dym",
-      "meaning": "A typical pattern or model; a framework of thinking.",
-      "insteadOf": "model / way of thinking",
-      "example": "Deep learning shifted the paradigm in protein folding."
-    },
-    {
-      "word": "Superfluous",
+      "word": "Feasible",
       "pos": "adjective",
-      "pronunciation": "soo-PUR-floo-us",
-      "meaning": "Unnecessary, especially through being more than enough.",
-      "insteadOf": "extra / unneeded",
-      "example": "Cut the superfluous slides; keep it to ten."
+      "pronunciation": "FEE-zuh-buhl",
+      "meaning": "Possible to do easily or conveniently.",
+      "insteadOf": "doable",
+      "example": "Is it feasible to finish this machine learning module before the college fest?"
+    },
+    {
+      "word": "Hiccup",
+      "pos": "noun",
+      "pronunciation": "HIK-uhp",
+      "meaning": "A temporary minor problem or setback.",
+      "insteadOf": "small issue",
+      "example": "We faced a minor hiccup with the API integration during the hackathon."
+    },
+    {
+      "word": "Skewed",
+      "pos": "adjective",
+      "pronunciation": "skyood",
+      "meaning": "Not balanced or symmetrical; distorted.",
+      "insteadOf": "biased",
+      "example": "The survey results are skewed because most respondents are from our hostel block."
+    },
+    {
+      "word": "Redress",
+      "pos": "verb",
+      "pronunciation": "ri-DRES",
+      "meaning": "To remedy or set right an undesirable situation.",
+      "insteadOf": "fix",
+      "example": "The placement cell needs to redress the lack of tech roles for non-CS grads."
+    },
+    {
+      "word": "Tentative",
+      "pos": "adjective",
+      "pronunciation": "TEN-tuh-tiv",
+      "meaning": "Not certain or fixed; provisional.",
+      "insteadOf": "not confirmed",
+      "example": "We have a tentative plan for the Goa trip, pending our semester exam dates."
+    },
+    {
+      "word": "Hone",
+      "pos": "verb",
+      "pronunciation": "hohn",
+      "meaning": "To sharpen or refine an ability over time.",
+      "insteadOf": "improve",
+      "example": "I am doing daily LeetCode problems to hone my data structures skills."
+    },
+    {
+      "word": "Volatile",
+      "pos": "adjective",
+      "pronunciation": "VOL-uh-tuhl",
+      "meaning": "Liable to change rapidly and unpredictably.",
+      "insteadOf": "unpredictable",
+      "example": "The Noida traffic during evening rush hour is completely volatile."
+    },
+    {
+      "word": "Reiterate",
+      "pos": "verb",
+      "pronunciation": "ree-IT-uh-rayt",
+      "meaning": "To say something again for clarity or emphasis.",
+      "insteadOf": "say again",
+      "example": "Let me reiterate the core requirements before we start coding."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Skibidi",
-      "meaning": "A nonsense word originating from internet meme culture that can mean cool, bad, or just act as generic filler.",
-      "example": "Bro, that new jacket is honestly so skibidi.",
-      "context": "Used heavily by Gen Alpha and younger Gen Z to sound chaotic or ironic. Calling someone 'skibidi' usually means they are weird or untrustworthy.",
-      "tone": "playful",
-      "nsfw": false,
-      "id": "skibidi"
+      "term": "Fr / No cap",
+      "meaning": "'For real' / 'no lie': I'm being serious.",
+      "example": "This biryani is the best in Delhi, no cap.",
+      "tone": "casual",
+      "context": "Adds sincerity. 'Cap' = lie; 'that's cap' = that's false.",
+      "id": "fr-no-cap",
+      "nsfw": false
     },
     {
       "type": "psych",
-      "term": "Hovering",
-      "meaning": "Tactics used by a toxic or narcissistic ex to try to suck you back into a relationship after a breakup.",
-      "example": "My ex just liked a tweet from five years ago, total hovering behavior.",
-      "context": "Brought up in dating podcasts and breakup advice reels. Not rude to use, just diagnostic.",
+      "term": "Attachment styles",
+      "meaning": "Patterns of how people bond in relationships: secure, anxious, avoidant, or disorganised.",
+      "example": "Anxious + avoidant: one chases, the other runs. Classic.",
       "tone": "serious",
-      "nsfw": false,
-      "id": "hovering"
+      "context": "Pop-psych favourite for explaining dating dynamics.",
+      "id": "attachment-styles",
+      "nsfw": false
     },
     {
       "type": "acronym",
-      "term": "DIME",
-      "meaning": "A financial planning acronym standing for Debt, Income, Mortgage, and Education to calculate life insurance needs.",
-      "example": "Before buying term insurance, make sure you calculate your DIME properly.",
-      "context": "Dropped by finance influencers on YouTube and Instagram Reels when discussing personal finance and adulting.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "dime"
-    },
-    {
-      "type": "meme",
-      "term": "Sigma Grindset",
-      "meaning": "A satirical or earnest meme archetype of a solitary, hyper-focused male who rejects society's rules to achieve success.",
-      "example": "Waking up at 4 AM just to drink black coffee and stare at a wall is pure sigma grindset.",
-      "context": "Used mockingly or seriously in reels about hustle culture, entrepreneurship, and lone wolves.",
-      "tone": "mocking",
-      "nsfw": false,
-      "id": "sigma-grindset"
-    },
-    {
-      "type": "slang",
-      "term": "Bussin",
-      "meaning": "Extremely good, delicious, or impressive, usually applied to food.",
-      "example": "This roadside momos stall is genuinely bussin.",
-      "context": "Common in food vlogs and casual hangouts when something tastes exceptionally good.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "bussin"
+      "term": "GOAT",
+      "meaning": "Greatest Of All Time.",
+      "example": "Kohli chasing is GOAT behaviour.",
+      "tone": "playful",
+      "context": "Sports and pop-culture hype.",
+      "id": "goat",
+      "nsfw": false
     },
     {
       "type": "paradox",
-      "term": "Fermi Paradox",
-      "meaning": "The apparent contradiction between the high probability of extraterrestrial civilizations existing and the complete lack of evidence for or contact with them.",
-      "example": "Thinking about the Fermi Paradox at 2 AM always gives me an existential crisis.",
-      "context": "Brought up in science podcasts, space documentaries, and late-night philosophical debates with friends.",
+      "term": "Sunk cost fallacy",
+      "meaning": "Continuing something only because you've already invested in it, even when quitting is smarter.",
+      "example": "'We've dated 4 years, I can't leave now.' That's the sunk cost fallacy.",
+      "tone": "serious",
+      "context": "Relationships, bad movies, failing projects.",
+      "id": "sunk-cost-fallacy",
+      "nsfw": false
+    },
+    {
+      "type": "meme",
+      "term": "Ratio",
+      "meaning": "When a reply gets more likes than the original post, meaning people agree with the reply.",
+      "example": "His hot take got ratioed into oblivion.",
+      "tone": "mocking",
+      "context": "Twitter/X dunking culture.",
+      "id": "ratio",
+      "nsfw": false
+    },
+    {
+      "type": "slang",
+      "term": "Ate / Ate and left no crumbs",
+      "meaning": "Did something perfectly or looked amazing.",
+      "example": "Her presentation ate and left no crumbs.",
+      "tone": "playful",
+      "context": "Hyping a great performance, outfit or comeback.",
+      "id": "ate-ate-and-left-no-crumbs",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Cuckold",
+      "meaning": "Historically a man whose wife cheats on him; now also a fetish where someone is aroused by their partner being with someone else.",
+      "example": "Appears in cheating stories and as an insult ('cuck') online.",
+      "tone": "crude",
+      "context": "'Cuck' is a common online insult for a weak or submissive man.",
+      "nsfw": true,
+      "id": "cuckold"
+    },
+    {
+      "type": "acronym",
+      "term": "ICYMI",
+      "meaning": "In case you missed it.",
+      "example": "ICYMI, the results are out.",
       "tone": "casual",
-      "nsfw": false,
-      "id": "fermi-paradox"
+      "context": "Resharing news or posts.",
+      "id": "icymi",
+      "nsfw": false
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Delhi Police detained over 7,000 protesters during demonstrations against the Chief Election Commissioner, leading to temporary metro closures and internet suspensions.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/cjp-protests-day-1-7000-detained-including-four-ex-cms-metro-shutdowns-and-cji-s-intervention-how-it-unfolded-11791654676992.html"
-      },
-      {
-        "text": "India strongly rejected concerns raised by the UN Human Rights Office regarding the recent protest detentions, calling the remarks misplaced and unwarranted.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/misplaced-unwarranted-india-slams-ohchr-for-raising-concern-over-sir-protest/articleshow/134859376.cms"
-      },
-      {
-        "text": "The Supreme Court scheduled a special hearing to address the transit corridor shutdowns and metro station closures across Delhi.",
+        "text": "Heavy rain and thunderstorms lashed Delhi, prompting the IMD to issue a red alert and causing waterlogging across several areas.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/cities/Delhi/cjp-protests-jantar-mantar-new-delhi-election-commissioner-gyanesh-kumar-resignation-sir-cec-row-october-10-2026-live-news/article71566021.ece"
+        "url": "https://www.thehindu.com/news/cities/Delhi/heavy-rain-thunderstorms-lash-delhi-imd-issues-red-alert/article71573688.ece"
       },
       {
-        "text": "Delhi Metro services and station gates fully resumed normal operations after temporary restrictions were lifted following Saturday's protests.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/delhi-metro-update-dmrc-says-entry-and-exit-of-all-stations-now-open-amid-protest-against-cec-gyanesh-kumar-11791652299485.html"
+        "text": "Six Delhi Metro stations were shut and traffic advisories issued ahead of planned protests by the INDIA bloc and opposition parties.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/6-delhi-metro-stations-shut-traffic-advisory-india-bloc-protest-cec-gyanesh-kumar-today-cjp-12171680#publisher=newsstand"
       },
       {
-        "text": "The Reserve Bank of India opened a special window for public sector oil companies to meet daily dollar needs amid rising global oil prices.",
+        "text": "Two Indian seafarers went missing and nine were rescued following a drone attack on a tanker at the Sohar Anchorage.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/two-indian-seafarers-missing-nine-rescued-after-drone-attack-on-tanker-at-sohar-anchorage-says-sonowal/article71573679.ece"
+      },
+      {
+        "text": "Maharashtra students ended their 10-day protest after IAS officer Tukaram Mundhe was appointed to lead an inquiry committee into recruitment irregularities.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/maharashtra/tukaram-mundhe-appointed-secretary-of-panel-to-overhaul-mpsc-aspirants-end-agitation/article71573596.ece"
+      },
+      {
+        "text": "Atomic Energy Commission Chairman Ajit Kumar Mohanty stated that the nuclear sector expects 7.5 lakh crore in private investment by 2047.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/as-oil-prices-rise-rbi-opens-special-window-for-psu-oil-firms-tomeet-their-daily-dollar-need/article71567121.ece"
+        "url": "https://www.thehindu.com/business/Industry/75-lakh-crore-private-investment-likely-in-nuke-sector-30-gw-contribution-by-2047-aec-chief-mohanty/article71571310.ece"
       },
       {
-        "text": "India initiated an anti-dumping investigation into imports of Pen-G and its salts from China following evidence of market dumping.",
+        "text": "India initiated an anti-dumping probe concerning Pen-G and related salts imported from China based on evidence gathered by the DGTR.",
         "source": "The Hindu Business",
         "url": "https://www.thehindu.com/business/Industry/india-initiates-anti-dumping-probe-on-pen-g-salts-from-china/article71569088.ece"
       },
       {
-        "text": "Security forces recovered a large cache of arms and ammunition from a natural cave during an operation in north Kashmir's forests.",
+        "text": "Telangana plans to seek a special financial package from the Centre to mitigate the potential agricultural impact of an El Nino event.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/telangana/telangana-to-seek-special-financial-package-from-centre-to-tackle-potential-el-nino-impact-ponguleti/article71572291.ece"
+      },
+      {
+        "text": "An IndiGo flight from Delhi to Chennai was diverted to Hyderabad after a power bank triggered a fire on board.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/huge-cache-of-arms-ammunition-recovered-from-cave-in-jammu-and-kashmir-12167555#publisher=newsstand"
+        "url": "https://www.ndtv.com/india-news/powerbank-triggers-fire-on-delhi-chennai-indigo-flight-plane-diverted-to-hyderabad-12169834#publisher=newsstand"
       },
       {
-        "text": "The Allahabad High Court quashed a dowry FIR and warned against the misuse of criminal law in short-lived marriages.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/allahabad-hc-warns-against-misuse-of-criminal-law-in-short-lived-marriages-quashes-dowry-fir-101791658260113.html"
-      },
-      {
-        "text": "Commerce Minister Piyush Goyal stated that India and the United States will finalize their trade pact keeping changed global circumstances in mind.",
+        "text": "Commerce and Industry Minister Piyush Goyal announced that India and the United States will finalize their trade pact considering evolving circumstances.",
         "source": "The Hindu Business",
         "url": "https://www.thehindu.com/business/india-us-trade-pact-to-be-finalised-keeping-changed-circumstances-in-mind-piyush-goyal/article71569239.ece"
       }
     ],
     "world": [
       {
-        "text": "Russian glide bomb strikes in Zaporizhzhia killed at least 15 people, including children, following a controversial U.S.-Russia diesel supply deal.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgdpv642g5o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Navi Pillay won the Nobel Peace Prize for her lifelong commitment to international law and justice for the oppressed.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/09/navanethem-navi-pillay-wins-nobel-peace-prize"
-      },
-      {
-        "text": "Hurricane Isaias caused four deaths and widespread power outages after making landfall on the U.S. Gulf coast.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "A magnitude 7.7 earthquake struck southern Panama, damaging buildings and triggering panic in the capital.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/09/panama-earthquake"
-      },
-      {
-        "text": "A mass shooting in Erie, Pennsylvania, left nine people dead, including two children and the suspected attacker.",
+        "text": "North Korea fired multiple ballistic missiles towards the sea in an apparent show of force following South Korea's recent weapons test.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/10/nine-killed-in-shooting-in-us-state-of-pennsylvania-including-two-children?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/10/12/north-korea-fires-multiple-ballistic-missiles-towards-the-sea?traffic_source=rss"
+      },
+      {
+        "text": "At least 139 migrants died and dozens remain missing after a boat carrying people from Djibouti to Yemen capsized.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/12/at-least-139-dead-as-migrant-boat-from-djibouti-to-yemen-capsizes?traffic_source=rss"
+      },
+      {
+        "text": "Polish police detained a man suspected of planning an assassination plot against Prime Minister Donald Tusk and his defense minister.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rvynl5p5o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Panama declared a state of emergency after powerful earthquakes and subsequent aftershocks toppled buildings and prompted regional evacuations.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/11/panama-eathquake-state-of-emergency"
+      },
+      {
+        "text": "Ukraine struck a Russian Yandex data center in the third targeted attack on the tech giant this week, forcing operations to suspend.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cw0k0g57mk3zo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "LBNtChg4t4k",
-      "title": "CRITICAL THINKING - Cognitive Biases: Reference Dependence and Loss Aversion [HD]",
-      "channel": "Wireless Philosophy",
-      "category": "mind",
-      "url": "https://www.youtube.com/watch?v=LBNtChg4t4k",
-      "thumbnail": "https://i.ytimg.com/vi/LBNtChg4t4k/hqdefault.jpg",
+      "id": "YaDvRdLMkHs",
+      "title": "Existentialism: Crash Course Philosophy #16",
+      "channel": "CrashCourse",
+      "category": "philosophy",
+      "url": "https://www.youtube.com/watch?v=YaDvRdLMkHs",
+      "thumbnail": "https://i.ytimg.com/vi/YaDvRdLMkHs/hqdefault.jpg",
       "published": "",
-      "learn": "How loss aversion and reference dependence secretly distort everyday decisions.",
-      "minutes": 5
+      "learn": "Why you are entirely responsible for defining your own purpose in life.",
+      "minutes": 8
     },
     "more": [
       {
-        "id": "CeR-WcKfvNU",
-        "title": "The Great Indian Railways: World's Most Complex Rail System",
-        "channel": "Lastly",
+        "id": "RWldvqO4AIY",
+        "title": "How India runs the world's biggest election",
+        "channel": "Vox",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=CeR-WcKfvNU",
-        "thumbnail": "https://i.ytimg.com/vi/CeR-WcKfvNU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RWldvqO4AIY",
+        "thumbnail": "https://i.ytimg.com/vi/RWldvqO4AIY/hqdefault.jpg",
         "published": "",
-        "learn": "How complex scheduling and freight logistics keep India's massive railway system moving.",
-        "minutes": 26
+        "learn": "How a nation manages the logistics of voting for nearly a billion people.",
+        "minutes": 7
       },
       {
-        "id": "y0EcjtOB_uU",
-        "title": "If You Don't Understand Bonds, You Don't Understand Money",
-        "channel": "Lock Stock Finance",
+        "id": "A7fZp9dwELo",
+        "title": "How Does the Stock Market Work? (Stocks, Exchanges, IPOs, and More)",
+        "channel": "Concerning Reality",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=y0EcjtOB_uU",
-        "thumbnail": "https://i.ytimg.com/vi/y0EcjtOB_uU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=A7fZp9dwELo",
+        "thumbnail": "https://i.ytimg.com/vi/A7fZp9dwELo/hqdefault.jpg",
         "published": "",
-        "learn": "How fixed income securities and debt markets actually work for investors.",
-        "minutes": 9
-      },
-      {
-        "id": "wOn87TT28Ok",
-        "title": "Brian Rothenberg - How To Build & Scale a Marketplace from $0 to Billions",
-        "channel": "Traction",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=wOn87TT28Ok",
-        "thumbnail": "https://i.ytimg.com/vi/wOn87TT28Ok/hqdefault.jpg",
-        "published": "",
-        "learn": "How platforms balance supply and demand to scale two-sided marketplaces.",
-        "minutes": 14
-      },
-      {
-        "id": "wgfSDrqYMJ4",
-        "title": "What are Word Embeddings?",
-        "channel": "IBM Technology",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=wgfSDrqYMJ4",
-        "thumbnail": "https://i.ytimg.com/vi/wgfSDrqYMJ4/hqdefault.jpg",
-        "published": "",
-        "learn": "How vector embeddings translate words into mathematical meanings for search.",
+        "learn": "How shares, exchanges, and IPOs actually determine the price of a company.",
         "minutes": 8
       },
       {
-        "id": "DLCUn6h7qRo",
-        "title": "Semester Ethics Course condensed into 22mins (Part 1 of 2)",
-        "channel": "Jeffrey Kaplan",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=DLCUn6h7qRo",
-        "thumbnail": "https://i.ytimg.com/vi/DLCUn6h7qRo/hqdefault.jpg",
+        "id": "ZesA-Iqju4U",
+        "title": "The wild power of aggregation theory",
+        "channel": "The Verge",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=ZesA-Iqju4U",
+        "thumbnail": "https://i.ytimg.com/vi/ZesA-Iqju4U/hqdefault.jpg",
         "published": "",
-        "learn": "How foundational moral frameworks shape everyday ethical dilemmas and choices.",
-        "minutes": 22
+        "learn": "Why owning the customer relationship beats owning physical assets every single time.",
+        "minutes": 8
       },
       {
-        "id": "uE_UuHRtXCY",
-        "title": "Demolition, disease, and death: Building the Panama Canal - Alex Gendler",
-        "channel": "TED-Ed",
+        "id": "qU3fmidNbJE",
+        "title": "AI Agents Fundamentals In 21 Minutes",
+        "channel": "Tina Huang",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=qU3fmidNbJE",
+        "thumbnail": "https://i.ytimg.com/vi/qU3fmidNbJE/hqdefault.jpg",
+        "published": "",
+        "learn": "How autonomous AI systems chain multiple prompts and tools to complete complex tasks.",
+        "minutes": 21
+      },
+      {
+        "id": "oBNoa4c7J6I",
+        "title": "Foot in the Door Phenomenon",
+        "channel": "Bo Bennett",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=oBNoa4c7J6I",
+        "thumbnail": "https://i.ytimg.com/vi/oBNoa4c7J6I/hqdefault.jpg",
+        "published": "",
+        "learn": "Why agreeing to a tiny request makes you infinitely more likely to comply later.",
+        "minutes": 5
+      },
+      {
+        "id": "E96mQyxSxfk",
+        "title": "The Largest Megaproject in History",
+        "channel": "IMPERIAL",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=uE_UuHRtXCY",
-        "thumbnail": "https://i.ytimg.com/vi/uE_UuHRtXCY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=E96mQyxSxfk",
+        "thumbnail": "https://i.ytimg.com/vi/E96mQyxSxfk/hqdefault.jpg",
         "published": "",
-        "learn": "How human grit, disease, and engineering conquered the continental divide.",
-        "minutes": 5
+        "learn": "How a colossal railroad transformed global trade, empires, and the Siberian wilderness.",
+        "minutes": 18
       },
       {
-        "id": "xZbcwi7SfZE",
-        "title": "The Antibiotic Apocalypse Explained",
-        "channel": "Kurzgesagt – In a Nutshell",
+        "id": "_5q8hzF9VVE",
+        "title": "The Theory of Continental Drift",
+        "channel": "Mike Sammartano",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=xZbcwi7SfZE",
-        "thumbnail": "https://i.ytimg.com/vi/xZbcwi7SfZE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_5q8hzF9VVE",
+        "thumbnail": "https://i.ytimg.com/vi/_5q8hzF9VVE/hqdefault.jpg",
         "published": "",
-        "learn": "How bacteria outsmart medicines and trigger the growing antimicrobial resistance crisis.",
-        "minutes": 5
+        "learn": "How massive moving slabs of rock continuously reshape the surface of our planet.",
+        "minutes": 11
       }
     ]
   },
   "podcasts": [
     {
-      "id": "founders-434-sam-walton",
-      "title": "#434 Sam Walton",
+      "id": "founders-436-ari-emanuel-s-autobiography",
+      "title": "#436 Ari Emanuel's Autobiography",
       "show": "Founders",
       "category": "business",
-      "audioUrl": "https://traffic.megaphone.fm/DSLLC1116428270.mp3",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC5030588491.mp3",
       "link": "",
-      "durationSec": 2946,
+      "durationSec": 4185,
       "startSec": null,
-      "why": "Discover how a retail legend built America's biggest empire from the ground up."
+      "why": "Uncover the ruthless playbook and wild ambition behind Hollywood superpower Ari Emanuel's rise."
     },
     {
-      "id": "startalk-cosmic-queries-space-junk-with-moriba-jah",
-      "title": "Cosmic Queries – Space Junk! with Moriba Jah",
+      "id": "startalk-what-is-intelligence-with-david-krakauer",
+      "title": "What Is Intelligence? With David Krakauer",
       "show": "StarTalk",
       "category": "science",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/af18cf7c-b701-4ad9-97de-ef2adbaffcf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=af18cf7c-b701-4ad9-97de-ef2adbaffcf7&feed=4T39_jAj",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d26d4d46-3525-40fc-8d2a-72f8a43302c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d26d4d46-3525-40fc-8d2a-72f8a43302c1&feed=4T39_jAj",
       "link": "siriusxm.com",
-      "durationSec": 3291,
+      "durationSec": 4640,
       "startSec": null,
-      "why": "Find out what happens when Earth's orbit turns into a dangerous cosmic junkyard."
+      "why": "Explore whether AI is truly smart and why intelligence even evolved in the cosmos."
     }
   ],
   "onThisDay": [
     {
-      "year": 1987,
+      "year": 1871,
       "kind": "event",
-      "text": "The Indian Peace Keeping Force began Operation Pawan to take control of Jaffna from the Tamil Tigers as part of the Indo-Sri Lanka Accord.",
-      "url": "https://en.wikipedia.org/wiki/Sri_Lankan_civil_war",
+      "text": "The British enacted the Criminal Tribes Act, unjustly stigmatizing numerous local communities across India as criminal by birth.",
+      "url": "https://en.wikipedia.org/wiki/Criminal_Tribes_Act",
       "india": true
     },
     {
-      "year": 1902,
+      "year": 1864,
       "kind": "born",
-      "text": "Jayaprakash Narayan, the iconic Indian activist and politician who spearheaded the pivotal Total Revolution against the Indira Gandhi government, was born.",
-      "url": "https://en.wikipedia.org/wiki/Jayaprakash_Narayan",
+      "text": "Kamini Roy, British India's first female graduate, was born, paving the way for women in education and literature.",
+      "url": "https://en.wikipedia.org/wiki/Kamini_Roy",
       "india": true
     },
     {
-      "year": 1942,
-      "kind": "born",
-      "text": "Amitabh Bachchan, the legendary Indian film actor and cultural icon who redefined Bollywood cinema, was born.",
-      "url": "https://en.wikipedia.org/wiki/Amitabh_Bachchan",
+      "year": 1967,
+      "kind": "died",
+      "text": "Ram Manohar Lohia, a prominent Indian freedom fighter and socialist politician, died, leaving a lasting legacy in Indian political thought.",
+      "url": "https://en.wikipedia.org/wiki/Ram_Manohar_Lohia",
       "india": true
     },
     {
-      "year": 1984,
+      "year": 1979,
       "kind": "event",
-      "text": "Astronaut Kathryn D. Sullivan became the first American woman to perform a space walk aboard the Space Shuttle Challenger.",
-      "url": "https://en.wikipedia.org/wiki/Space_Shuttle_Challenger",
+      "text": "Typhoon Tip reached the lowest sea-level pressure ever recorded, becoming the most intense tropical cyclone in history.",
+      "url": "https://en.wikipedia.org/wiki/Typhoon_Tip",
       "india": false
     },
     {
-      "year": 1968,
+      "year": 1492,
       "kind": "event",
-      "text": "Apollo 7 launched as the first manned mission of NASA's Apollo program and the first three-man American space mission.",
-      "url": "https://en.wikipedia.org/wiki/Apollo_7",
+      "text": "Christopher Columbus made landfall in the Caribbean, initiating the European colonization of the Americas.",
+      "url": "https://en.wikipedia.org/wiki/East_Indies",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Dhruv Rathee and other figures were reportedly detained by Delhi Police ahead of a planned CJP protest.",
-      "why": "Sparks intense political debate and outrage across social media.",
-      "url": "https://www.reddit.com/r/india/comments/1x25xet/dhruv_rathee_detained_by_delhi_police_from/",
+      "text": "YouTuber Dhruv Rathee claimed in a new video that he was kidnapped rather than legally arrested or detained by authorities.",
+      "why": "Massive viral debate over detention drama and police tactics.",
+      "url": "https://www.reddit.com/r/india/comments/1x30nnr/dhruv_rathees_latest_video_after_his_release_says/",
       "source": "r/india"
     },
     {
-      "text": "Lamine Yamal has officially launched his debut fashion collection with American Eagle in Barcelona.",
-      "why": "The young football star is making major moves off the pitch.",
-      "url": "https://www.goal.com/en-in/lists/lamine-yamal-barcelona-wonderkid-fashion-collection/bltd4f6a374427e58fc",
-      "source": "Goal.com"
+      "text": "SoftBank's Masayoshi Son is reportedly seeking up to $100 billion from Gulf investors to fund a massive new AI push.",
+      "why": "Staggering amounts of money driving the global AI race.",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/after-investing-65-billion-in-sam-altmans-openal-japans-richest-man-masayoshi-son-is-seeking-100-billion-to-fund-other-ai-projects/articleshow/134870942.cms",
+      "source": "The Times of India"
     },
     {
-      "text": "Nicolas Cage stated he is probably not working with Amazon again after refusing to sign an AI waiver for Spider-Noir.",
-      "why": "Major Hollywood pushback against AI in entertainment.",
-      "url": "https://www.reddit.com/r/technology/comments/1x2k752/nicolas_cage_says_hes_probably_not_working_with/",
+      "text": "Major tech platforms including YouTube, TikTok, and Meta have reportedly rejected paid ads for the upcoming documentary 'Musk'.",
+      "why": "Censorship claims and heavy controversy surrounding the Elon Musk doc.",
+      "url": "https://www.reddit.com/r/technology/comments/1x3bwy9/the_major_social_media_platforms_are_all/",
       "source": "r/technology"
     },
     {
-      "text": "Amitabh Bachchan got emotional on Kaun Banega Crorepati as his late mother Teji Bachchan's voice was played.",
-      "why": "A touching moment capturing widespread audience attention.",
-      "url": "https://www.ndtv.com/lifestyle/amitabh-bachchan-recalls-how-mother-teji-bachchan-maintained-discipline-at-home-12165549",
-      "source": "NDTV"
+      "text": "A massive Cartoon Network leak has exposed decades of confidential behind-the-scenes animation files online.",
+      "why": "Pure nostalgia overload and a massive blow to the studio.",
+      "url": "https://www.reddit.com/r/technology/comments/1x3iz6s/a_massive_cartoon_network_leak_exposes_decades_of/",
+      "source": "r/technology"
     },
     {
-      "text": "Nvidia has reportedly halted GeForce RTX 5090 production to focus entirely on AI data center GPUs.",
-      "why": "Gamers are panicking over expected price hikes and severe supply shortages.",
-      "url": "https://www.reddit.com/r/technology/comments/1x2e3ar/nvidia_reportedly_halts_geforce_rtx_5090/",
+      "text": "A remote employee was fired after she refused to send her employer 160 webcam photos of herself every single day.",
+      "why": "Outrage over extreme corporate surveillance and toxic work culture.",
+      "url": "https://www.reddit.com/r/technology/comments/1x381fm/a_remote_employee_refused_160_webcam_photos_a_day/",
       "source": "r/technology"
+    },
+    {
+      "text": "The U.S. has temporarily suspended Microsoft and Adobe from a green card labor program, impacting Indian IT applications.",
+      "why": "Direct hit on career and immigration dreams for Indian techies.",
+      "url": "https://www.cnbc.com/2026/10/08/microsoft-adobe-green-card-labor-suspension.html",
+      "source": "CNBC"
     }
   ]
 }

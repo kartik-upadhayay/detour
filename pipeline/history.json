@@ -87,7 +87,16 @@
   "articulate",
   "delineate",
   "paradigm",
-  "superfluous"
+  "superfluous",
+  "gauge",
+  "feasible",
+  "hiccup",
+  "skewed",
+  "redress",
+  "tentative",
+  "hone",
+  "volatile",
+  "reiterate"
  ],
  "loop": [
   "glazing",
@@ -158,7 +167,15 @@
   "dime",
   "sigma-grindset",
   "bussin",
-  "fermi-paradox"
+  "fermi-paradox",
+  "fr-no-cap",
+  "attachment-styles",
+  "goat",
+  "sunk-cost-fallacy",
+  "ratio",
+  "ate-ate-and-left-no-crumbs",
+  "cuckold",
+  "icymi"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -261,7 +278,15 @@
   "wgfSDrqYMJ4",
   "DLCUn6h7qRo",
   "uE_UuHRtXCY",
-  "xZbcwi7SfZE"
+  "xZbcwi7SfZE",
+  "YaDvRdLMkHs",
+  "RWldvqO4AIY",
+  "A7fZp9dwELo",
+  "ZesA-Iqju4U",
+  "qU3fmidNbJE",
+  "oBNoa4c7J6I",
+  "E96mQyxSxfk",
+  "_5q8hzF9VVE"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -291,7 +316,9 @@
   "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/f563aed8-5f61-457a-9e78-8872917a83a1/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=f563aed8-5f61-457a-9e78-8872917a83a1&feed=Y8lFbOT4",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/0b073402-73ed-444b-99d4-501d2f206826/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=0b073402-73ed-444b-99d4-501d2f206826&feed=4T39_jAj",
   "https://traffic.megaphone.fm/DSLLC1116428270.mp3",
-  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/af18cf7c-b701-4ad9-97de-ef2adbaffcf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=af18cf7c-b701-4ad9-97de-ef2adbaffcf7&feed=4T39_jAj"
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/af18cf7c-b701-4ad9-97de-ef2adbaffcf7/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=af18cf7c-b701-4ad9-97de-ef2adbaffcf7&feed=4T39_jAj",
+  "https://traffic.megaphone.fm/DSLLC5030588491.mp3",
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/d26d4d46-3525-40fc-8d2a-72f8a43302c1/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=d26d4d46-3525-40fc-8d2a-72f8a43302c1&feed=4T39_jAj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -349,6 +376,14 @@
   "Cognitive biases in decision making: how loss aversion and confirmation bias trick our brains",
   "Utilitarianism vs Deontology: ethics and moral frameworks for everyday choices",
   "The construction of the Panama Canal: the engineering marvel and geopolitical struggle",
-  "How antibiotics work and the rising threat of antimicrobial resistance"
+  "How antibiotics work and the rising threat of antimicrobial resistance",
+  "How the Indian Census is conducted and why it is a massive logistical marvel",
+  "Understanding equity shares and how the stock market actually prices companies",
+  "How aggregator business models work: Ola, Uber, and Oyo strategy explained",
+  "How AI agent workflows and autonomous multi-step agents work under the hood",
+  "The foot-in-the-door technique: how small commitments lead to major persuasion",
+  "Existentialism and Jean-Paul Sartre: 'existence precedes essence' explained",
+  "The construction and impact of the Trans-Siberian Railway as a geopolitical turning point",
+  "How plate tectonics work and why the continents are constantly moving"
  ]
 }

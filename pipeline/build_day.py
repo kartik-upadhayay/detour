@@ -228,6 +228,8 @@ def build_words(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
             if valid_word(w) and slug(w["word"]) not in seen and all(slug(w["word"]) != slug(x["word"]) for x in words):
                 words.append(w)
         print(f"  gemini words: {len(words)} new")
+        if not words:
+            print(f"  ! gemini words sample: {json.dumps(got, ensure_ascii=False)[:400]}", file=sys.stderr)
     if len(words) < WORDS_PER_DAY:
         # Top up from the starter list: unseen first, then the ones shown longest ago. Never come up short.
         seed = json.loads((PIPE / "seed" / "words.json").read_text(encoding="utf-8"))
@@ -243,8 +245,16 @@ def build_words(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
 
 
 def valid_word(w) -> bool:
-    return isinstance(w, dict) and all(isinstance(w.get(k), str) and w[k].strip()
-                                       for k in ("word", "meaning", "insteadOf", "example"))
+    """Accept a word if it has the essentials; fix up key-name variants Gemini sometimes uses."""
+    if not isinstance(w, dict):
+        return False
+    for alt in ("instead_of", "insteadof", "replaces", "plainWord", "plain_word"):
+        if alt in w and not w.get("insteadOf"):
+            w["insteadOf"] = w.pop(alt)
+    if "definition" in w and not w.get("meaning"):
+        w["meaning"] = w.pop("definition")
+    w.setdefault("insteadOf", "")
+    return all(isinstance(w.get(k), str) and w[k].strip() for k in ("word", "meaning", "example"))
 
 
 def build_loop(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
@@ -257,6 +267,8 @@ def build_loop(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
             if valid_card(c) and slug(c["term"]) not in seen and all(slug(c["term"]) != slug(x["term"]) for x in cards):
                 cards.append(c)
         print(f"  gemini loop cards: {len(cards)} new")
+        if not cards:
+            print(f"  ! gemini loop sample: {json.dumps(got, ensure_ascii=False)[:400]}", file=sys.stderr)
     if len(cards) < LOOP_PER_DAY:
         # Top up from the starter cards, round-robin across types for variety; unseen first, then oldest.
         seed = json.loads((PIPE / "seed" / "loop.json").read_text(encoding="utf-8"))

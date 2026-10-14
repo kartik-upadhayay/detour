@@ -1,422 +1,410 @@
 {
   "schema": 1,
-  "date": "2026-10-13",
-  "generatedAt": "2026-10-13T00:43:19+00:00",
+  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T05:07:08+00:00",
   "words": [
     {
-      "word": "Shift",
+      "word": "Procrastinate",
       "pos": "verb",
-      "pronunciation": "shift",
-      "meaning": "To change direction or focus smoothly.",
-      "insteadOf": "change",
-      "example": "We need to shift our project focus before the deadline."
+      "pronunciation": "proh-KRAS-tuh-nayt",
+      "meaning": "To delay or postpone action.",
+      "insteadOf": "put off",
+      "example": "I procrastinate most when the task is vague."
     },
     {
-      "word": "Refine",
+      "word": "Vicarious",
+      "pos": "adjective",
+      "pronunciation": "vy-KAIR-ee-us",
+      "meaning": "Experienced through someone else's actions, not your own.",
+      "insteadOf": "second-hand",
+      "example": "Travel vlogs give a vicarious thrill."
+    },
+    {
+      "word": "Elucidate",
       "pos": "verb",
-      "pronunciation": "ri-FAYN",
-      "meaning": "To improve something by making small changes.",
-      "insteadOf": "make better",
-      "example": "Let's refine the backend code before the demo tomorrow."
+      "pronunciation": "ih-LOO-sih-dayt",
+      "meaning": "To make something clear; to explain.",
+      "insteadOf": "explain",
+      "example": "Could you elucidate how the model was validated?"
     },
     {
-      "word": "Diverse",
+      "word": "Resilient",
       "pos": "adjective",
-      "pronunciation": "dih-VURS",
-      "meaning": "Showing a great deal of variety.",
-      "insteadOf": "different kinds of",
-      "example": "Our college fest attracts a diverse crowd from across Delhi."
+      "pronunciation": "rih-ZIL-yunt",
+      "meaning": "Able to recover quickly from difficulties.",
+      "insteadOf": "strong / tough",
+      "example": "Resilient teams treat failures as data."
     },
     {
-      "word": "Reliable",
-      "pos": "adjective",
-      "pronunciation": "ri-LY-uh-buhl",
-      "meaning": "Consistently good in quality or performance.",
-      "insteadOf": "dependable",
-      "example": "We need a reliable Wi-Fi connection for this online interview."
+      "word": "Mitigate",
+      "pos": "verb",
+      "pronunciation": "MIT-ih-gayt",
+      "meaning": "To make something less severe or painful.",
+      "insteadOf": "reduce",
+      "example": "A bedtime alarm helps mitigate late-night scrolling."
     },
     {
-      "word": "Outline",
+      "word": "Juxtaposition",
       "pos": "noun",
-      "pronunciation": "OWT-lyn",
-      "meaning": "A general summary or description.",
-      "insteadOf": "basic plan",
-      "example": "Send me an outline of your research paper by tonight."
+      "pronunciation": "juk-stuh-puh-ZISH-un",
+      "meaning": "Placing two things close together for contrasting effect.",
+      "insteadOf": "contrast",
+      "example": "The juxtaposition of luxury cars and slums was striking."
     },
     {
-      "word": "Subtle",
-      "pos": "adjective",
-      "pronunciation": "SUHT-uhl",
-      "meaning": "So delicate or precise as to be difficult to analyze.",
-      "insteadOf": "slight",
-      "example": "There is a subtle bug in our login page animation."
-    },
-    {
-      "word": "Clarity",
-      "pos": "noun",
-      "pronunciation": "KLAR-i-tee",
-      "meaning": "The quality of being easy to see or understand.",
-      "insteadOf": "making things clear",
-      "example": "Can you add more clarity to your presentation slides?"
-    },
-    {
-      "word": "Advise",
+      "word": "Undermine",
       "pos": "verb",
-      "pronunciation": "ad-VYZ",
-      "meaning": "To offer suggestions about the best course of action.",
-      "insteadOf": "tell what to do",
-      "example": "Please advise me on which internship offer to accept."
+      "pronunciation": "un-der-MYN",
+      "meaning": "To weaken gradually or secretly.",
+      "insteadOf": "weaken",
+      "example": "Constant comparison undermines your confidence."
     },
     {
-      "word": "Diverse",
+      "word": "Meticulous",
       "pos": "adjective",
-      "pronunciation": "dih-VURS",
-      "meaning": "Made up of differing elements or types.",
-      "insteadOf": "mixed",
-      "example": "We had a diverse discussion over chai about tech startups."
+      "pronunciation": "muh-TIK-yuh-lus",
+      "meaning": "Showing great attention to detail; very careful.",
+      "insteadOf": "very careful",
+      "example": "She was meticulous about labelling every sample."
+    },
+    {
+      "word": "Pragmatic",
+      "pos": "adjective",
+      "pronunciation": "prag-MAT-ik",
+      "meaning": "Dealing with things sensibly and practically, not idealistically.",
+      "insteadOf": "practical",
+      "example": "Let's be pragmatic and finish the core feature first."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Brain rot",
-      "meaning": "The mental fog from consuming too much low-quality online content; also the content itself.",
-      "example": "Three hours of Skibidi edits. Pure brain rot.",
+      "term": "Jiggle physics",
+      "meaning": "A video game and internet term used to describe exaggerated bouncing or movement of body parts, especially breasts or buttocks, during animation.",
+      "example": "Bro, the new game engine has insane jiggle physics.",
+      "context": "Often brought up while discussing video game graphics, anime, or reels joking about unrealistic character design. Casual tone.",
       "tone": "casual",
-      "context": "Self-aware joke about doomscrolling. Oxford's Word of the Year 2024.",
-      "id": "brain-rot",
+      "nsfw": true,
+      "id": "jiggle-physics"
+    },
+    {
+      "type": "psych",
+      "term": "Bystander effect",
+      "meaning": "A social psychological phenomenon where individuals are less likely to offer help to a victim when other people are present.",
+      "example": "Everyone just stood there filming the fight instead of helping because of the bystander effect.",
+      "context": "Used in serious or analytical discussions on podcasts or reels when breaking down why crowds fail to act in emergencies.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "bystander-effect"
+    },
+    {
+      "type": "meme",
+      "term": "Bro really thought he was him",
+      "meaning": "A mocking caption or phrase used when someone tries to act cool, confident, or heroic and completely fails.",
+      "example": "Did you see him try to skateboard and faceplant? Bro really thought he was him.",
+      "context": "Used in comment sections of Instagram reels or YouTube shorts showing cringe or embarrassing fails.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "bro-really-thought-he-was-him"
+    },
+    {
+      "type": "slang",
+      "term": "Mog",
+      "meaning": "To visibly and overwhelmingly outshine someone else in physical attractiveness, height, or presence when standing next to them.",
+      "example": "He walked into the room and totally mogged everyone there.",
+      "context": "Commonly used in gym culture, fitness reels, and among Gen Z guys joking about appearance. Can sound arrogant if overused.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "mog"
+    },
+    {
+      "type": "slang",
+      "term": "Simp",
+      "meaning": "Someone who does way too much for a person they're attracted to, often without getting anything back.",
+      "example": "He drove 40 km at midnight to deliver her momos. Simp.",
+      "tone": "mocking",
+      "context": "Roasting over-eager romantic effort.",
+      "id": "simp",
       "nsfw": false
     },
     {
       "type": "psych",
-      "term": "Boundaries",
-      "meaning": "Limits you set on what behaviour you accept from others.",
-      "example": "I don't answer work calls after 9 PM. That's a boundary.",
+      "term": "Breadcrumbing",
+      "meaning": "Giving someone just enough attention (likes, occasional texts) to keep them hooked without commitment.",
+      "example": "He never makes plans, just reacts to her stories every few days.",
       "tone": "serious",
-      "context": "Therapy-speak now common in everyday talk.",
-      "id": "boundaries",
+      "context": "Dating behaviour that keeps someone waiting.",
+      "id": "breadcrumbing",
       "nsfw": false
     },
     {
       "type": "acronym",
-      "term": "FOMO / JOMO",
-      "meaning": "Fear of missing out / joy of missing out.",
-      "example": "Skipped the party and slept early. JOMO.",
-      "tone": "casual",
-      "context": "Social pressure vs. happily staying in.",
-      "id": "fomo-jomo",
+      "term": "LGBTQIA+",
+      "meaning": "Lesbian, Gay, Bisexual, Transgender, Queer/Questioning, Intersex, Asexual, and others.",
+      "example": "The college started an LGBTQIA+ support group.",
+      "tone": "serious",
+      "context": "Umbrella term for gender and sexual minorities.",
+      "id": "lgbtqia",
       "nsfw": false
     },
     {
       "type": "paradox",
-      "term": "Trolley problem",
-      "meaning": "Would you pull a lever to divert a trolley so it kills one person instead of five?",
-      "example": "Self-driving cars face a real-life trolley problem.",
-      "tone": "serious",
-      "context": "Ethics debates; also a huge meme format with absurd versions.",
-      "id": "trolley-problem",
-      "nsfw": false
-    },
-    {
-      "type": "meme",
-      "term": "Roman Empire",
-      "meaning": "Something you think about weirdly often, from the trend about men thinking about the Roman Empire daily.",
-      "example": "That 2012 cricket final is my Roman Empire.",
-      "tone": "playful",
-      "context": "'What's your Roman Empire?' = what do you obsess over?",
-      "id": "roman-empire",
-      "nsfw": false
-    },
-    {
-      "type": "slang",
-      "term": "Lowkey / Highkey",
-      "meaning": "Lowkey = secretly or a little; highkey = openly, very much.",
-      "example": "I lowkey want to skip the party. Highkey obsessed with this song.",
+      "term": "Paradox of choice",
+      "meaning": "Too many options make us more anxious and less satisfied with our decision.",
+      "example": "40 minutes choosing on Netflix, then watching nothing.",
       "tone": "casual",
-      "context": "Softening or amplifying a feeling.",
-      "id": "lowkey-highkey",
-      "nsfw": false
-    },
-    {
-      "type": "psych",
-      "term": "Narcissist",
-      "meaning": "Someone with excessive self-importance, need for admiration and lack of empathy. NPD is the clinical disorder.",
-      "example": "Every conversation becomes about him. Narcissist energy.",
-      "tone": "serious",
-      "context": "Heavily overused online; a real diagnosis is rare and clinical.",
-      "id": "narcissist",
-      "nsfw": false
-    },
-    {
-      "type": "acronym",
-      "term": "POV",
-      "meaning": "Point of view: on reels, it sets up a scenario you're meant to imagine being in.",
-      "example": "POV: you open Insta for 5 minutes and it's 2 AM.",
-      "tone": "playful",
-      "context": "Reel/meme format.",
-      "id": "pov",
+      "context": "Dating apps, shopping, careers.",
+      "id": "paradox-of-choice",
       "nsfw": false
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Pulse prices across India are rising due to adverse weather conditions, lower domestic supplies, and costlier imports.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/prices-of-pulses-soar-amid-supply-crunch-and-adverse-weather-101791831631813.html"
-      },
-      {
-        "text": "The Department of Expenditure has initiated FY28 budget planning, requesting ministries to submit new spending proposals early.",
+        "text": "Union Minister L Murugan has offered his resignation, triggering speculation about an impending Union Cabinet reshuffle.",
         "source": "Mint",
-        "url": "https://www.livemint.com/news/india/centre-kicks-off-fy28-budget-planning-seeks-new-spending-proposals-11791795497082.html"
+        "url": "https://www.livemint.com/news/india/who-is-l-murugan-from-son-of-daily-wage-labourers-to-mos-why-his-resignation-fuels-cabinet-reshuffle-buzz-11791951909289.html"
       },
       {
-        "text": "National Security Advisor Ajit Doval and Iran's security chief discussed the West Asia conflict and bilateral issues during a phone call.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/iran-security-chief-mohsen-rezaei-speaks-to-nsa-ajit-doval-on-phone-call-discuss-issues-of-mutual-interest-101791823528422.html"
-      },
-      {
-        "text": "GE Aerospace plans to double its sourcing from India to $400 million by 2030 to support global manufacturing and maintenance.",
+        "text": "The Indian rupee gained 44 paise to reach 94.92 against the U.S. dollar in early trade, supported by RBI intervention measures.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/ge-to-double-india-sourcing-to-400-mn-by-2030-ge-cfm-engines-set-to-power-9-in-10-aircraft/article71575196.ece"
+        "url": "https://www.thehindu.com/business/rupee-rises-44-paise-to-9492-against-us-dollar-in-early-trade/article71582299.ece"
       },
       {
-        "text": "Four people were killed in an IED blast on the Pakistan-occupied Jammu and Kashmir side near the Poonch Line of Control.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/poonch-loc-four-killed-in-ied-blast-on-pakistan-occupied-jammu-and-kashmir-side-vigilance-heightened-11791829222800.html"
+        "text": "Delhi Police registered four FIRs against social media handles spreading misleading information and attempting to create an anti-India narrative.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/delhi-police-registers-four-firs-against-rumour-mongers-pakistan-social-media-handles-under-scanner/article71578965.ece"
       },
       {
-        "text": "The Supreme Court urged the government to cap prices of non-patented medicines to make healthcare more affordable.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/sc-to-government-cap-prices-of-non-patented-medicines/articleshow/134905026.cms"
-      },
-      {
-        "text": "President Droupadi Murmu appointed new governors for several states, naming RV Arlekar for Tamil Nadu and Om Prakash Mathur for Kerala.",
+        "text": "The death toll in the Bihar boat capsize incident in Raghopur rose to 13, prompting a state administrative probe.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/rv-arlekar-tamil-nadu-governor-om-prakash-mathur-kerala-president-droupadi-murmu-fresh-appointments-odisha-sikkim-uttarakhand-101791820209037.html"
+        "url": "https://www.hindustantimes.com/india-news/bihar-boat-capsize-death-toll-raghopur-tragedy-samrat-choudhary-tejashwi-yadav-patna-news-101791951587117.html"
       },
       {
-        "text": "The Indian Army launched 'Bharat Rice' to improve the quality of food rations supplied to troops deployed in remote areas.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/indian-army-launches-bharat-rice-to-improve-ration-quality-for-troops-in-remote-areas-11791827932211.html"
+        "text": "Election watchdogs and opposition figures criticized the J&K Waqf Board's proposal to enforce uniform Friday sermons, leading to a U-turn by the chairperson.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/omar-mehbooba-mirwaiz-oppose-jk-waqf-boards-push-for-uniform-friday-sermons/article71578682.ece"
+      },
+      {
+        "text": "The Supreme Court stayed ongoing criminal proceedings against political leader Rahul Gandhi over his 2018 remarks regarding the Prime Minister.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/sc-stays-proceeding-against-rahul-gandhi-over-2018-remarks-about-pm/articleshow/134929603.cms"
+      },
+      {
+        "text": "Ground monitoring teams have been deployed to track farm fires in northern regions as satellite monitoring fails to catch all stubble burning incidents.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/farm-fires-evading-satellite-monitoring-prompt-focussed-ground-monitoring-101791951235309.html"
+      },
+      {
+        "text": "The Ministry of Mines invited bids to grant operating rights for two offshore mineral blocks in the Andaman Sea.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/centre-invites-bids-for-two-offshore-mineral-blocks-in-andaman-sea-101791951271032.html"
       }
     ],
     "world": [
       {
-        "text": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "text": "Pope Leo XIV underwent successful surgery to remove a lower lobe of his right lung after being diagnosed with lung cancer, according to the Vatican.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvd9dvv22o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Iran war live: Trump says Houthis ‘misbehaving’ as Riyadh flights halted",
+        "text": "Singapore’s economy expanded by 5.4 percent in the July-September quarter, driven by strong growth amid the ongoing artificial intelligence boom.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/13/iran-war-live-trump-says-houthis-misbehaving-as-riyadh-flights-halted?traffic_source=rss"
+        "url": "https://www.aljazeera.com/economy/2026/10/14/singapores-economy-grows-more-than-5-percent-amid-ai-boom?traffic_source=rss"
       },
       {
-        "text": "Bolivia investigates ex-president Evo Morales over alleged ties to 2009 killings",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/12/bolivia-investigates-ex-president-evo-morales-2009-killings"
-      },
-      {
-        "text": "Ethiopian govt forces enter key Tigray town near Eritrea border",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/ethiopian-govt-forces-enter-key-tigray-town-near-eritrea-border/article71576602.ece"
-      },
-      {
-        "text": "Why Moscow is staying tight-lipped on Trump's energy ceasefire",
+        "text": "Germany put a Ukrainian national on trial four years after the attacks, accusing him of plotting to destroy Russia's Nord Stream gas pipelines.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cjx2359qekrdo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Houthi missile attack targets Saudi capital Riyadh for third day in a row",
+        "text": "Bank of America was hit with a 1.2 billion dollar fine by the Treasury for failing to adequately flag transactions linked to potential Chinese money laundering networks.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvxy6n3z8o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Russian ballistic missile strikes hit a key power plant in Kyiv for a second consecutive day without advance warning from international partners.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/12/houthi-missile-attack-targets-saudi-capital-riyadh-for-third-day-in-a-row?traffic_source=rss"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/14/kyiv-russian-ballistic-missile-strikes-no-advance-warning?traffic_source=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "alJaltUmrGo",
-      "title": "Imperialism: Crash Course World History #35",
-      "channel": "CrashCourse",
-      "category": "history",
-      "url": "https://www.youtube.com/watch?v=alJaltUmrGo",
-      "thumbnail": "https://i.ytimg.com/vi/alJaltUmrGo/hqdefault.jpg",
+      "id": "PqtggjVAi8M",
+      "title": "How Are Memories Stored Inside Your Brain?",
+      "channel": "Kurzgesagt – In a Nutshell",
+      "category": "science",
+      "url": "https://www.youtube.com/watch?v=PqtggjVAi8M",
+      "thumbnail": "https://i.ytimg.com/vi/PqtggjVAi8M/hqdefault.jpg",
       "published": "",
-      "learn": "How European powers rapidly colonized and partitioned the African continent.",
+      "learn": "How your brain encodes, consolidates, and retrieves long-term memories",
       "minutes": 13
     },
     "more": [
       {
-        "id": "-Au5PxsAjMk",
-        "title": "Why is your Privacy & Data so Important? | Dhruv Rathee explains Cambridge Analytica, PayTM, Aadhaar",
-        "channel": "Dhruv Rathee",
+        "id": "Ny8tX2_3DDI",
+        "title": "IPPB Saving Account all details | India post payment bank account good or bad",
+        "channel": "FinTech Rohit",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=-Au5PxsAjMk",
-        "thumbnail": "https://i.ytimg.com/vi/-Au5PxsAjMk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Ny8tX2_3DDI",
+        "thumbnail": "https://i.ytimg.com/vi/Ny8tX2_3DDI/hqdefault.jpg",
         "published": "",
-        "learn": "How your digital identity works and why data privacy matters.",
-        "minutes": 12
-      },
-      {
-        "id": "qIw-yFC-HNU",
-        "title": "The Basics of Investing (Stocks, Bonds, Mutual Funds, and Types of Interest)",
-        "channel": "Professor Dave Explains",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=qIw-yFC-HNU",
-        "thumbnail": "https://i.ytimg.com/vi/qIw-yFC-HNU/hqdefault.jpg",
-        "published": "",
-        "learn": "How stocks, bonds, and mutual funds build long-term wealth.",
+        "learn": "How India Post operates payment banking services across rural and urban communities",
         "minutes": 7
       },
       {
-        "id": "g5VTZnhX5WU",
-        "title": "How Supreme Built A Billion Dollar Brand Empire",
-        "channel": "CNBC Make It",
+        "id": "vftjBTjFlzI",
+        "title": "Why You NEED an Emergency Fund!",
+        "channel": "Two Cents",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=vftjBTjFlzI",
+        "thumbnail": "https://i.ytimg.com/vi/vftjBTjFlzI/hqdefault.jpg",
+        "published": "",
+        "learn": "Why an emergency fund protects you from debt when unexpected expenses strike",
+        "minutes": 7
+      },
+      {
+        "id": "YhANWIaAl7k",
+        "title": "How Ghost Kitchens Went From $1 Trillion Hype To A Struggling Business Model",
+        "channel": "CNBC",
         "category": "business",
-        "url": "https://www.youtube.com/watch?v=g5VTZnhX5WU",
-        "thumbnail": "https://i.ytimg.com/vi/g5VTZnhX5WU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YhANWIaAl7k",
+        "thumbnail": "https://i.ytimg.com/vi/YhANWIaAl7k/hqdefault.jpg",
         "published": "",
-        "learn": "How streetwear brands turn artificial scarcity into billion-dollar empires.",
-        "minutes": 10
+        "learn": "Why delivery-only ghost kitchens struggled after facing high fees and thin margins",
+        "minutes": 12
       },
       {
-        "id": "eMlx5fFNoYc",
-        "title": "Attention in transformers, step-by-step | Deep Learning Chapter 6",
-        "channel": "3Blue1Brown",
+        "id": "z0sD2BvUfM0",
+        "title": "How to Use ElevenLabs - Best Text to Speech AI Voices (FULL GUIDE)",
+        "channel": "Alec Wilcock",
         "category": "ai",
-        "url": "https://www.youtube.com/watch?v=eMlx5fFNoYc",
-        "thumbnail": "https://i.ytimg.com/vi/eMlx5fFNoYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z0sD2BvUfM0",
+        "thumbnail": "https://i.ytimg.com/vi/z0sD2BvUfM0/hqdefault.jpg",
         "published": "",
-        "learn": "How the attention mechanism powers modern language models like GPT.",
-        "minutes": 26
+        "learn": "How to generate realistic synthetic voices using advanced text-to-speech tools",
+        "minutes": 16
       },
       {
-        "id": "7wUCyjiyXdg",
-        "title": "Active Listening Skills",
-        "channel": "Alexander Lyon Communication Coach",
+        "id": "RqAOrr_FPxo",
+        "title": "Why You Feel Anxious Socializing (and What to Do about It) | Fallon Goodman | TED",
+        "channel": "TED",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=7wUCyjiyXdg",
-        "thumbnail": "https://i.ytimg.com/vi/7wUCyjiyXdg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=RqAOrr_FPxo",
+        "thumbnail": "https://i.ytimg.com/vi/RqAOrr_FPxo/hqdefault.jpg",
         "published": "",
-        "learn": "Practical techniques to make people feel genuinely heard and understood.",
-        "minutes": 6
+        "learn": "Why you feel watched in public and how to reduce social anxiety",
+        "minutes": 15
       },
       {
-        "id": "R9OCA6UFE-0",
-        "title": "The philosophy of Stoicism - Massimo Pigliucci",
-        "channel": "TED-Ed",
+        "id": "LGXRpbDuDGE",
+        "title": "When Life Hurts, Care Less About It | The Philosophy of Marcus Aurelius",
+        "channel": "Einzelgänger",
         "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=R9OCA6UFE-0",
-        "thumbnail": "https://i.ytimg.com/vi/R9OCA6UFE-0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LGXRpbDuDGE",
+        "thumbnail": "https://i.ytimg.com/vi/LGXRpbDuDGE/hqdefault.jpg",
         "published": "",
-        "learn": "How to separate what you can control from what you cannot.",
-        "minutes": 5
+        "learn": "How to apply Marcus Aurelius's Stoic principles to handle pain and stress",
+        "minutes": 14
       },
       {
-        "id": "6tw_JVz_IEc",
-        "title": "How CRISPR lets you edit DNA - Andrea M. Henle",
-        "channel": "TED-Ed",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=6tw_JVz_IEc",
-        "thumbnail": "https://i.ytimg.com/vi/6tw_JVz_IEc/hqdefault.jpg",
+        "id": "quLhkqwtOg8",
+        "title": "Secrets Of The Great Wall | Ancient China From Above | National Geographic",
+        "channel": "National Geographic Asia",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=quLhkqwtOg8",
+        "thumbnail": "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg",
         "published": "",
-        "learn": "How molecular scissors can precisely rewrite the code of life.",
-        "minutes": 5
+        "learn": "How ancient engineering and strategic geography shaped the Great Wall of China",
+        "minutes": 44
       }
     ]
   },
   "podcasts": [
     {
-      "id": "how-i-built-this-alamo-drafthouse-cinema-tim-and-karrie-league-2023",
-      "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
-      "show": "How I Built This",
-      "category": "business",
-      "audioUrl": "https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
-      "link": "",
-      "durationSec": 4610,
+      "id": "darknet-diaries-177-national-public-data",
+      "title": "177: National Public Data",
+      "show": "Darknet Diaries",
+      "category": "ai",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/791c66f0-0bfc-420d-96a3-816c78a17f4c/darknet-diaries-ep177-national-public-data.mp3",
+      "link": "https://darknetdiaries.com/episode/177/",
+      "durationSec": 2869,
       "startSec": null,
-      "why": "Leasing an abandoned theater on a shoestring budget sparked a thriving national cinema chain."
+      "why": "A vengeful hacker breaches National Public Data in a wild, real-life cyber thriller."
     },
     {
-      "id": "ologies-extreme-meteorology-el-ni-o-with-marshall-shepherd",
-      "title": "Extreme Meteorology (EL NIÑO) with Marshall Shepherd",
-      "show": "Ologies",
-      "category": "science",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/560de65f-7988-45cf-ae02-4dd135eb5c91/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=560de65f-7988-45cf-ae02-4dd135eb5c91&feed=FO6kxYGj",
-      "link": "https://www.siriusxm.com",
-      "durationSec": 3812,
+      "id": "you-re-dead-to-me-scottish-supernatural-beliefs-witches-ghosts-and-fairies-in-th",
+      "title": "Scottish Supernatural Beliefs: witches, ghosts and fairies in the early modern period",
+      "show": "You're Dead to Me",
+      "category": "history",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7c79t.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m0031gy4",
+      "durationSec": 3481,
       "startSec": null,
-      "why": "Experts casually break down the wild science of El Niño and extreme weather with fun banter."
+      "why": "Historians and comedians break down wild early modern Scottish ghost and witch trials."
     }
   ],
   "onThisDay": [
     {
-      "year": 1987,
-      "kind": "died",
-      "text": "Kishore Kumar, the legendary Indian playback singer and actor whose versatile voice defined generations of Bollywood music, died.",
-      "url": "https://en.wikipedia.org/wiki/Kishore_Kumar",
-      "india": true
-    },
-    {
-      "year": 1911,
-      "kind": "died",
-      "text": "Sister Nivedita, the pioneering Irish-Indian social worker and educator who was a close disciple of Swami Vivekananda, died.",
-      "url": "https://en.wikipedia.org/wiki/Sister_Nivedita",
-      "india": true
-    },
-    {
-      "year": 1911,
-      "kind": "born",
-      "text": "Ashok Kumar, one of Indian cinema's first major superstars and a foundational actor of Bollywood, was born.",
-      "url": "https://en.wikipedia.org/wiki/Ashok_Kumar",
-      "india": true
-    },
-    {
-      "year": 2016,
+      "year": 1956,
       "kind": "event",
-      "text": "King Bhumibol Adulyadej of Thailand died after a 70-year reign, which was then the longest of any current monarch.",
-      "url": "https://en.wikipedia.org/wiki/Monarchy_of_Thailand",
+      "text": "B. R. Ambedkar publicly converted to Buddhism along with hundreds of thousands of followers, launching the Dalit Buddhist movement to challenge caste oppression.",
+      "url": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+      "india": true
+    },
+    {
+      "year": 1240,
+      "kind": "died",
+      "text": "Razia Sultana, the pioneering female ruler of the Delhi Sultanate who broke gender barriers to sit on the throne, died.",
+      "url": "https://en.wikipedia.org/wiki/Razia_Sultan",
+      "india": true
+    },
+    {
+      "year": 2012,
+      "kind": "event",
+      "text": "Felix Baumgartner made a historic stratospheric jump, becoming the first person to break the sound barrier without vehicular power.",
+      "url": "https://en.wikipedia.org/wiki/Felix_Baumgartner",
       "india": false
     },
     {
-      "year": 1972,
+      "year": 1066,
       "kind": "event",
-      "text": "A Uruguayan Air Force flight crashed in the Andes mountains, leading to an extraordinary survival story after more than two months.",
-      "url": "https://en.wikipedia.org/wiki/Uruguayan_Air_Force_Flight_571",
+      "text": "William the Conqueror's forces triumphed at the Battle of Hastings, killing King Harold Godwinson and fundamentally altering English history.",
+      "url": "https://en.wikipedia.org/wiki/Norman_Conquest",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Thousands of opposition leaders and supporters marched from Barakhamba Road to the Supreme Court in Delhi to protest.",
-      "why": "Massive political showdown hitting headlines across India right now.",
-      "url": "https://www.reddit.com/r/india/comments/1x42z5q/thousands_gathered_to_join_the_opposition_leaders/",
+      "text": "HCLTech shares jumped over 7 percent, driving the Nifty IT index to its biggest single-day gain in 17 months after posting strong Q2 results.",
+      "why": "Massive rally catching every IT investor off guard.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/hcltech-jumps-over-5-tcs-up-4-why-are-it-stocks-rallying/articleshow/134908713.cms",
+      "source": "The Times of India"
+    },
+    {
+      "text": "Polycab shares tumbled 5 percent after the NSE removed the stock from the F&O segment and imposed a 100 percent margin.",
+      "why": "Panic selling and legal battles hitting retail investors hard.",
+      "url": "https://upstox.com/news/market-news/stocks/polycab-india-shares-decline-5-as-nse-removes-stock-from-f-and-o-segment-from-dec-30/article-201740/",
+      "source": "Upstox"
+    },
+    {
+      "text": "PM Modi declared India as the mother of democracy during a speech highlighting the nation's tradition of open debate.",
+      "why": "Sparking intense online debates across political circles.",
+      "url": "https://www.reddit.com/r/india/comments/1x4pelm/india_is_the_mother_of_democracy_says_pm_modi_we/",
       "source": "r/india"
     },
     {
-      "text": "Rahul Gandhi claimed at a press conference that 200 government officers are in touch with the opposition.",
-      "why": "Explosive political claims driving intense debates online.",
-      "url": "https://www.reddit.com/r/india/comments/1x3vtsv/modi_ji_200_officers_in_your_government_are_in/",
+      "text": "An anti-drug activist in Punjab was shot dead on a Facebook live stream while exposing local drug trade networks.",
+      "why": "Pure horror and outrage spreading rapidly across social feeds.",
+      "url": "https://www.reddit.com/r/india/comments/1x4p7vu/antidrug_activist_shot_dead_while_exposing_drug/",
       "source": "r/india"
     },
     {
-      "text": "A Kerala teen reportedly stated 'father will take care of it' after allegedly killing three people with a Mini Cooper.",
-      "why": "Shocking arrogance and tragic accident sparking nationwide outrage.",
-      "url": "https://www.reddit.com/r/india/comments/1x3sr6b/father_will_take_care_of_it_kerala_teen_after/",
-      "source": "r/india"
-    },
-    {
-      "text": "A Delhi man died after being brutally thrashed over a metro seat dispute, leading to arrests including an ex-IAS officer and his son.",
-      "why": "Horrifying violence over something so trivial has everyone talking.",
-      "url": "https://www.reddit.com/r/india/comments/1x3tu3w/delhi_man_dies_after_being_thrashed_over_metro/",
-      "source": "r/india"
-    },
-    {
-      "text": "Federal agents raided the home of US Democratic Congresswoman Ilhan Omar, prompting her to state she will not be silenced.",
-      "why": "Major US political controversy making global waves.",
-      "url": "https://www.theguardian.com/us-news/2026/oct/12/federal-agents-ilhan-omar-home-raid",
-      "source": "The Guardian"
+      "text": "Rajinikanth's upcoming film 'Jailer 2' reportedly raked in 34 crores before release, sending the box office buzzing.",
+      "why": "Thalaivar hype is breaking records all over again.",
+      "url": "https://www.eenadu.net/telugu-news/movies/before-you-go-jailer-2-movie-here-the-first-part-details/0212/126185825",
+      "source": "Eenadu"
     }
   ]
 }

@@ -3350,11 +3350,13 @@
  "PqtggjVAi8M": {
   "id": "PqtggjVAi8M",
   "title": "How Are Memories Stored Inside Your Brain?",
-  "channel": "Kurzgesagt",
+  "channel": "Kurzgesagt – In a Nutshell",
   "category": "science",
   "url": "https://www.youtube.com/watch?v=PqtggjVAi8M",
   "thumbnail": "https://i.ytimg.com/vi/PqtggjVAi8M/hqdefault.jpg",
-  "published": "2026-06-16"
+  "published": "",
+  "learn": "How your brain encodes, consolidates, and retrieves long-term memories",
+  "minutes": 13
  },
  "8qQW4LTWgtc": {
   "id": "8qQW4LTWgtc",
@@ -4829,5 +4831,82 @@
   "published": "",
   "learn": "How molecular scissors can precisely rewrite the code of life.",
   "minutes": 5
+ },
+ "Ny8tX2_3DDI": {
+  "id": "Ny8tX2_3DDI",
+  "title": "IPPB Saving Account all details | India post payment bank account good or bad",
+  "channel": "FinTech Rohit",
+  "category": "india",
+  "url": "https://www.youtube.com/watch?v=Ny8tX2_3DDI",
+  "thumbnail": "https://i.ytimg.com/vi/Ny8tX2_3DDI/hqdefault.jpg",
+  "published": "",
+  "learn": "How India Post operates payment banking services across rural and urban communities",
+  "minutes": 7
+ },
+ "vftjBTjFlzI": {
+  "id": "vftjBTjFlzI",
+  "title": "Why You NEED an Emergency Fund!",
+  "channel": "Two Cents",
+  "category": "money",
+  "url": "https://www.youtube.com/watch?v=vftjBTjFlzI",
+  "thumbnail": "https://i.ytimg.com/vi/vftjBTjFlzI/hqdefault.jpg",
+  "published": "",
+  "learn": "Why an emergency fund protects you from debt when unexpected expenses strike",
+  "minutes": 7
+ },
+ "YhANWIaAl7k": {
+  "id": "YhANWIaAl7k",
+  "title": "How Ghost Kitchens Went From $1 Trillion Hype To A Struggling Business Model",
+  "channel": "CNBC",
+  "category": "business",
+  "url": "https://www.youtube.com/watch?v=YhANWIaAl7k",
+  "thumbnail": "https://i.ytimg.com/vi/YhANWIaAl7k/hqdefault.jpg",
+  "published": "",
+  "learn": "Why delivery-only ghost kitchens struggled after facing high fees and thin margins",
+  "minutes": 12
+ },
+ "z0sD2BvUfM0": {
+  "id": "z0sD2BvUfM0",
+  "title": "How to Use ElevenLabs - Best Text to Speech AI Voices (FULL GUIDE)",
+  "channel": "Alec Wilcock",
+  "category": "ai",
+  "url": "https://www.youtube.com/watch?v=z0sD2BvUfM0",
+  "thumbnail": "https://i.ytimg.com/vi/z0sD2BvUfM0/hqdefault.jpg",
+  "published": "",
+  "learn": "How to generate realistic synthetic voices using advanced text-to-speech tools",
+  "minutes": 16
+ },
+ "RqAOrr_FPxo": {
+  "id": "RqAOrr_FPxo",
+  "title": "Why You Feel Anxious Socializing (and What to Do about It) | Fallon Goodman | TED",
+  "channel": "TED",
+  "category": "mind",
+  "url": "https://www.youtube.com/watch?v=RqAOrr_FPxo",
+  "thumbnail": "https://i.ytimg.com/vi/RqAOrr_FPxo/hqdefault.jpg",
+  "published": "",
+  "learn": "Why you feel watched in public and how to reduce social anxiety",
+  "minutes": 15
+ },
+ "LGXRpbDuDGE": {
+  "id": "LGXRpbDuDGE",
+  "title": "When Life Hurts, Care Less About It | The Philosophy of Marcus Aurelius",
+  "channel": "Einzelgänger",
+  "category": "philosophy",
+  "url": "https://www.youtube.com/watch?v=LGXRpbDuDGE",
+  "thumbnail": "https://i.ytimg.com/vi/LGXRpbDuDGE/hqdefault.jpg",
+  "published": "",
+  "learn": "How to apply Marcus Aurelius's Stoic principles to handle pain and stress",
+  "minutes": 14
+ },
+ "quLhkqwtOg8": {
+  "id": "quLhkqwtOg8",
+  "title": "Secrets Of The Great Wall | Ancient China From Above | National Geographic",
+  "channel": "National Geographic Asia",
+  "category": "history",
+  "url": "https://www.youtube.com/watch?v=quLhkqwtOg8",
+  "thumbnail": "https://i.ytimg.com/vi/quLhkqwtOg8/hqdefault.jpg",
+  "published": "",
+  "learn": "How ancient engineering and strategic geography shaped the Great Wall of China",
+  "minutes": 44
  }
 }

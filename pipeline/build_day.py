@@ -212,18 +212,34 @@ def prompt(name: str, **kw) -> str:
 
 # ---------------------------------------------------------------- sections
 
+def _oldest_first(items: list[dict], key, history: list[str]) -> list[dict]:
+    """Items never shown first (shuffled by caller), then the ones shown longest ago."""
+    order = {k: i for i, k in enumerate(history)}  # later index = shown more recently
+    return sorted(items, key=lambda it: order.get(key(it), -1))
+
+
 def build_words(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
     seen = set(hist["words"])
+    words: list[dict] = []
     if key:
         got = gemini(prompt("words", count=str(WORDS_PER_DAY),
                             avoid=", ".join(hist["words"][-400:]) or "(none)"), key)
-        words = [w for w in (got or []) if valid_word(w) and slug(w["word"]) not in seen]
-        if len(words) >= 6:
-            return words[:WORDS_PER_DAY]
-    seed = json.loads((PIPE / "seed" / "words.json").read_text(encoding="utf-8"))
-    pool = [w for w in seed if slug(w["word"]) not in seen] or seed
-    rng.shuffle(pool)
-    return pool[:WORDS_PER_DAY]
+        for w in got if isinstance(got, list) else []:
+            if valid_word(w) and slug(w["word"]) not in seen and all(slug(w["word"]) != slug(x["word"]) for x in words):
+                words.append(w)
+        print(f"  gemini words: {len(words)} new")
+    if len(words) < WORDS_PER_DAY:
+        # Top up from the starter list: unseen first, then the ones shown longest ago. Never come up short.
+        seed = json.loads((PIPE / "seed" / "words.json").read_text(encoding="utf-8"))
+        rng.shuffle(seed)
+        have = {slug(w["word"]) for w in words}
+        for w in _oldest_first(seed, lambda w: slug(w["word"]), hist["words"]):
+            if len(words) >= WORDS_PER_DAY:
+                break
+            if slug(w["word"]) not in have:
+                words.append(w)
+                have.add(slug(w["word"]))
+    return words[:WORDS_PER_DAY]
 
 
 def valid_word(w) -> bool:
@@ -237,18 +253,21 @@ def build_loop(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
     if key:
         got = gemini(prompt("loop", count=str(LOOP_PER_DAY),
                             avoid=", ".join(hist["loop"][-600:]) or "(none)"), key)
-        cards = [c for c in (got or []) if valid_card(c) and slug(c["term"]) not in seen]
-    if len(cards) < 5:
+        for c in got if isinstance(got, list) else []:
+            if valid_card(c) and slug(c["term"]) not in seen and all(slug(c["term"]) != slug(x["term"]) for x in cards):
+                cards.append(c)
+        print(f"  gemini loop cards: {len(cards)} new")
+    if len(cards) < LOOP_PER_DAY:
+        # Top up from the starter cards, round-robin across types for variety; unseen first, then oldest.
         seed = json.loads((PIPE / "seed" / "loop.json").read_text(encoding="utf-8"))
-        pool = [c for c in seed if slug(c["term"]) not in seen] or seed
-        rng.shuffle(pool)
-        # round-robin across types so every day has variety
-        by_type = {t: [c for c in pool if c["type"] == t] for t in LOOP_TYPES}
-        cards = []
+        rng.shuffle(seed)
+        have = {slug(c["term"]) for c in cards}
+        ordered = [c for c in _oldest_first(seed, lambda c: slug(c["term"]), hist["loop"]) if slug(c["term"]) not in have]
+        by_type = {t: [c for c in ordered if c["type"] == t] for t in LOOP_TYPES}
         while len(cards) < LOOP_PER_DAY and any(by_type.values()):
             for t in LOOP_TYPES:
                 if by_type[t] and len(cards) < LOOP_PER_DAY:
-                    cards.append(by_type[t].pop())
+                    cards.append(by_type[t].pop(0))
     for c in cards:
         c["id"] = slug(c["term"])
         c["nsfw"] = bool(c.get("nsfw", False))
@@ -553,18 +572,18 @@ def main() -> int:
 
 
 def validate(c: dict) -> list[str]:
-    p = []
-    if len(c["words"]) < 5:
-        p.append(f"only {len(c['words'])} words")
-    if len(c["loop"]) < 5:
-        p.append(f"only {len(c['loop'])} loop cards")
-    if len(c["news"]["india"]) < 3:
-        p.append(f"only {len(c['news']['india'])} India bullets")
-    if len(c["news"]["world"]) < 3:
-        p.append(f"only {len(c['news']['world'])} world bullets")
+    """Only an empty day blocks publishing; a thin section is better than yesterday's content."""
+    thin = []
+    for name, n, want in (("words", len(c["words"]), 5), ("loop cards", len(c["loop"]), 5),
+                          ("India bullets", len(c["news"]["india"]), 3), ("world bullets", len(c["news"]["world"]), 3)):
+        if n < want:
+            thin.append(f"only {n} {name}")
     if not c["videos"]["hero"]:
-        p.append("no hero video")
-    return p
+        thin.append("no videos")
+    if thin:
+        print("  ! thin today (publishing anyway): " + ", ".join(thin), file=sys.stderr)
+    empty = not c["words"] and not c["loop"] and not c["news"]["india"] and not c["news"]["world"]
+    return ["nothing at all to publish"] if empty else []
 
 
 if __name__ == "__main__":

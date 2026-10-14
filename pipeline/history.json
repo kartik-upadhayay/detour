@@ -114,7 +114,16 @@
   "juxtaposition",
   "undermine",
   "meticulous",
-  "pragmatic"
+  "pragmatic",
+  "cognizant",
+  "eloquent",
+  "diligent",
+  "advocate",
+  "scrutinize",
+  "catalyst",
+  "complacent",
+  "conundrum",
+  "lethargic"
  ],
  "loop": [
   "glazing",
@@ -209,7 +218,15 @@
   "simp",
   "breadcrumbing",
   "lgbtqia",
-  "paradox-of-choice"
+  "paradox-of-choice",
+  "bookie",
+  "ohio",
+  "lock-in",
+  "thirst-trap",
+  "projection",
+  "dink",
+  "occam-s-razor",
+  "sigma-sigma-male"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -336,7 +353,15 @@
   "z0sD2BvUfM0",
   "RqAOrr_FPxo",
   "LGXRpbDuDGE",
-  "quLhkqwtOg8"
+  "quLhkqwtOg8",
+  "Z_8F_jazYjc",
+  "ySH5SudRwak",
+  "oWZbWzAyHAE",
+  "Wx1oiBCmxjY",
+  "tsDkpbAtZGE",
+  "E0XnniP9PCk",
+  "oQX9Lh65rAA",
+  "gm02Oid8sbs"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -372,7 +397,9 @@
   "https://rss.art19.com/episodes/7bc6885b-e29f-4ae8-a587-2e17b1d8bea3.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
   "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/560de65f-7988-45cf-ae02-4dd135eb5c91/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=560de65f-7988-45cf-ae02-4dd135eb5c91&feed=FO6kxYGj",
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/791c66f0-0bfc-420d-96a3-816c78a17f4c/darknet-diaries-ep177-national-public-data.mp3",
-  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7c79t.mp3"
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7c79t.mp3",
+  "https://traffic.megaphone.fm/DSLLC7209633121.mp3",
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6j6l1.mp3"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -454,6 +481,14 @@
   "The spotlight effect: why we think everyone is watching us and how to overcome social anxiety",
   "Marcus Aurelius and Meditations: practical journaling and self-reflection for modern life",
   "The construction of the Great Wall of China: history, strategy, and engineering marvel",
-  "How memory works in the human brain: short-term storage, consolidation, and long-term recall"
+  "How memory works in the human brain: short-term storage, consolidation, and long-term recall",
+  "How the Indian Space Research Organisation (ISRO) achieves low-cost space missions",
+  "Understanding credit cards, reward points, and the interchange fee system",
+  "How luxury fashion brands use counterfeit strategies and brand perception to drive sales",
+  "How AI fine-tuning and reinforcement learning from human feedback (RLHF) work",
+  "The psychology of first impressions and the primacy effect in social interactions",
+  "Hedonic adaptation: why we always want more and how to escape the happiness treadmill",
+  "The Library of Alexandria: its rise, destruction, and loss of ancient knowledge",
+  "How the placebo effect tricks the brain and body into physical healing"
  ]
 }

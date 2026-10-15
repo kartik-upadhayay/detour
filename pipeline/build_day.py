@@ -514,7 +514,8 @@ def main() -> int:
     args = ap.parse_args()
 
     now = dt.datetime.now(dt.timezone.utc)
-    day = now.astimezone(IST).date()
+    # The day turns over at 06:00 IST, matching the app: a 01:00 run still belongs to yesterday.
+    day = (now.astimezone(IST) - dt.timedelta(hours=6)).date()
     if args.skip_if_done and (CONTENT / "latest.json").exists():
         if json.loads((CONTENT / "latest.json").read_text(encoding="utf-8")).get("date") == day.isoformat():
             print(f"{day} already built; nothing to do")

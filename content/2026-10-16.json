@@ -1,0 +1,410 @@
+{
+  "schema": 1,
+  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T03:35:12+00:00",
+  "words": [
+    {
+      "word": "Facilitate",
+      "pos": "verb",
+      "pronunciation": "fuh-SIL-ih-tayt",
+      "meaning": "To make an action or process easier.",
+      "insteadOf": "help / make easier",
+      "example": "A shared doc facilitates group work."
+    },
+    {
+      "word": "Plausible",
+      "pos": "adjective",
+      "pronunciation": "PLAW-zuh-bul",
+      "meaning": "Seeming reasonable or probable.",
+      "insteadOf": "believable / possible",
+      "example": "That's a plausible explanation, but test it."
+    },
+    {
+      "word": "Nuanced",
+      "pos": "adjective",
+      "pronunciation": "NOO-ahnst",
+      "meaning": "Characterised by subtle shades of meaning or expression.",
+      "insteadOf": "detailed / complicated",
+      "example": "The debate deserved a more nuanced take than a 30-second reel."
+    },
+    {
+      "word": "Candid",
+      "pos": "adjective",
+      "pronunciation": "KAN-did",
+      "meaning": "Truthful and straightforward; frank.",
+      "insteadOf": "honest",
+      "example": "Thanks for being candid about the deadline."
+    },
+    {
+      "word": "Arbitrary",
+      "pos": "adjective",
+      "pronunciation": "AR-bih-trer-ee",
+      "meaning": "Based on random choice rather than reason.",
+      "insteadOf": "random",
+      "example": "The cut-off seemed arbitrary to everyone."
+    },
+    {
+      "word": "Laconic",
+      "pos": "adjective",
+      "pronunciation": "luh-KON-ik",
+      "meaning": "Using very few words.",
+      "insteadOf": "short / brief",
+      "example": "His laconic 'ok' could mean anything."
+    },
+    {
+      "word": "Placate",
+      "pos": "verb",
+      "pronunciation": "PLAY-kayt",
+      "meaning": "To make someone less angry or hostile.",
+      "insteadOf": "calm down",
+      "example": "He bought samosas to placate the team after the delay."
+    },
+    {
+      "word": "Impetus",
+      "pos": "noun",
+      "pronunciation": "IM-puh-tus",
+      "meaning": "A force that makes something happen or happen faster.",
+      "insteadOf": "push / motivation",
+      "example": "The hackathon gave us the impetus to finish."
+    },
+    {
+      "word": "Rectify",
+      "pos": "verb",
+      "pronunciation": "REK-tih-fy",
+      "meaning": "To put something right; correct.",
+      "insteadOf": "fix",
+      "example": "We'll rectify the error in the next version."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Bop",
+      "meaning": "A song that is extremely catchy and good, or casually used to describe someone who is sexually active with many partners.",
+      "example": "Bro, put that new track on, it's an absolute bop.",
+      "context": "Used in music discussions or gossip among friends. Calling a person a bop can be derogatory depending on the tone.",
+      "tone": "casual",
+      "nsfw": true,
+      "id": "bop"
+    },
+    {
+      "type": "slang",
+      "term": "Rizz",
+      "meaning": "Charm or skill at flirting; short for charisma.",
+      "example": "He talked to her for two minutes and got her number. Unreal rizz.",
+      "tone": "playful",
+      "context": "Praising (or roasting) someone's flirting game. 'W rizz' = good, 'no rizz' = none.",
+      "id": "rizz",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Trauma bond",
+      "meaning": "A strong emotional attachment to someone who causes you harm, created by cycles of abuse and affection.",
+      "example": "She keeps going back to him even after the fights. It's a trauma bond.",
+      "tone": "serious",
+      "context": "Explains why people stay in toxic relationships.",
+      "id": "trauma-bond",
+      "nsfw": false
+    },
+    {
+      "type": "acronym",
+      "term": "SIP / ETF",
+      "meaning": "Systematic Investment Plan (investing a fixed amount monthly) / Exchange-Traded Fund (a fund traded like a stock).",
+      "example": "Start a ₹1000 SIP in a Nifty 50 ETF or index fund.",
+      "tone": "serious",
+      "context": "Every finance influencer says these. Know them.",
+      "id": "sip-etf",
+      "nsfw": false
+    },
+    {
+      "type": "paradox",
+      "term": "Pareto principle (80/20)",
+      "meaning": "Roughly 80% of results come from 20% of causes.",
+      "example": "20% of chapters give 80% of exam marks. Study those first.",
+      "tone": "casual",
+      "context": "Productivity and business talk.",
+      "id": "pareto-principle-80-20",
+      "nsfw": false
+    },
+    {
+      "type": "meme",
+      "term": "Tell me ___ without telling me ___",
+      "meaning": "Format: reveal something indirectly through a detail.",
+      "example": "Tell me you're an engineer without telling me: 'Maggi at 3 AM before the viva.'",
+      "tone": "playful",
+      "context": "Reel/caption format.",
+      "id": "tell-me-without-telling-me",
+      "nsfw": false
+    },
+    {
+      "type": "slang",
+      "term": "Glazing",
+      "meaning": "Over-praising someone excessively, like a fanboy.",
+      "example": "Bro, stop glazing Elon in every conversation.",
+      "tone": "mocking",
+      "context": "Calling out someone who hypes a person way too much.",
+      "id": "glazing",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Open relationship",
+      "meaning": "A committed couple who agree that one or both can have sexual partners outside the relationship.",
+      "example": "They opened the relationship after five years together.",
+      "tone": "serious",
+      "context": "Usually sexual non-exclusivity; polyamory usually also allows romantic bonds.",
+      "nsfw": true,
+      "id": "open-relationship"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "The Supreme Court ruled that fees for professional courses can be hiked midstream only in exceptional circumstances.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/fees-for-professional-courses-can-be-hiked-midstream-only-in-exceptional-cases-sc/articleshow/134979878.cms"
+      },
+      {
+        "text": "The central government raised the windfall tax on petrol exports and cut the duty on diesel exports, effective October 16.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece"
+      },
+      {
+        "text": "The Supreme Court held that the AT-1 bonds of Yes Bank worth Rs 8,400 crore cannot be written off.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/cant-write-off-at-1-bonds-of-yes-bank-worth-rs-8-4k-crore-sc/articleshow/134979841.cms"
+      },
+      {
+        "text": "The Supreme Court upheld a high court decision barring Tamil Nadu from providing reservation to converts based on pre-conversion status.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/breaking-down-the-share-of-social-groups-among-religions-101792091840588.html"
+      },
+      {
+        "text": "The government raised the deepwater gas price ceiling to $9.89 per MMBtu, while keeping the APM gas cap for legacy fields at $7.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece"
+      },
+      {
+        "text": "Union Home Minister Amit Shah stated that the central government has opened bank accounts for over 7,000 surrendered Maoists.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/opened-bank-accounts-for-7-000-surrendered-maoists-shah-101792091481088.html"
+      },
+      {
+        "text": "The Supreme Court agreed to examine a plea seeking a regulatory framework for protests near judicial complexes.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/sc-agrees-to-examine-plea-on-curbs-for-stir-near-court-complexes-101792091300587.html"
+      },
+      {
+        "text": "Union Home Minister Amit Shah declared that violent Naxalism is over and the primary task now is to heal wounds.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/violent-naxalism-isover-task-now-is-toheal-wounds-amit-shah/articleshow/134979253.cms"
+      }
+    ],
+    "world": [
+      {
+        "text": "An armed suspect killed three children and a teacher at an Oregon primary school before being shot dead by a local community member.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "At least 33 pupils and a teacher died in Pakistan when a school roof collapsed and buried three classrooms under heavy debris.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Former Venezuelan president Nicolás Maduro appeared in a New York court to plead not guilty to newly added torture-related charges.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Brazil's Congress approved a constitutional amendment to shorten the maximum work week to 40 hours and ban six-day workweeks.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
+      },
+      {
+        "text": "Russia and Ukraine exchanged strikes targeting energy infrastructure, with Russian forces hitting a bridge and two vessels in the Black Sea.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/russia-says-it-hit-kyiv-bridge-two-vessels-in-black-sea/article71544840.ece"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "KwR3nxojS0g",
+      "title": "Dollar Cost Averaging vs. Lump Sum Investing",
+      "channel": "Ben Felix",
+      "category": "money",
+      "url": "https://www.youtube.com/watch?v=KwR3nxojS0g",
+      "thumbnail": "https://i.ytimg.com/vi/KwR3nxojS0g/hqdefault.jpg",
+      "published": "",
+      "learn": "Why dollar-cost averaging beats lump-sum investing during volatile market conditions",
+      "minutes": 5
+    },
+    "more": [
+      {
+        "id": "0SS0B9lY30s",
+        "title": "Patent in India procedure , time line and cost of patent filing - is it worth the investment ?",
+        "channel": "Patent in India",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=0SS0B9lY30s",
+        "thumbnail": "https://i.ytimg.com/vi/0SS0B9lY30s/hqdefault.jpg",
+        "published": "",
+        "learn": "How to navigate India's patent timeline, costs, and filing procedures for domestic innovation",
+        "minutes": 14
+      },
+      {
+        "id": "JXr49yp0tNc",
+        "title": "Vertical Integration (With Real World Examples)  | From A Business Professor",
+        "channel": "Business School 101",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=JXr49yp0tNc",
+        "thumbnail": "https://i.ytimg.com/vi/JXr49yp0tNc/hqdefault.jpg",
+        "published": "",
+        "learn": "How owning your entire supply chain transforms market power and profit margins",
+        "minutes": 10
+      },
+      {
+        "id": "nKSk_TiR8YA",
+        "title": "Most devs don't understand how LLM tokens work",
+        "channel": "Matt Pocock",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=nKSk_TiR8YA",
+        "thumbnail": "https://i.ytimg.com/vi/nKSk_TiR8YA/hqdefault.jpg",
+        "published": "",
+        "learn": "How text gets broken down into numeric tokens for large language models",
+        "minutes": 10
+      },
+      {
+        "id": "cFdCzN7RYbw",
+        "title": "Science Of Persuasion",
+        "channel": "Team Cialdini",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=cFdCzN7RYbw",
+        "thumbnail": "https://i.ytimg.com/vi/cFdCzN7RYbw/hqdefault.jpg",
+        "published": "",
+        "learn": "How small unexpected favors trigger powerful psychological urges to reciprocate",
+        "minutes": 11
+      },
+      {
+        "id": "3bQsZxDQgzU",
+        "title": "PHILOSOPHY - Sartre",
+        "channel": "The School of Life",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=3bQsZxDQgzU",
+        "thumbnail": "https://i.ytimg.com/vi/3bQsZxDQgzU/hqdefault.jpg",
+        "published": "",
+        "learn": "How we deceive ourselves into following societal expectations instead of choosing freely",
+        "minutes": 6
+      },
+      {
+        "id": "i9p-a8YJO-o",
+        "title": "How the Suez Canal changed the world - Lucia Carminati",
+        "channel": "TED-Ed",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=i9p-a8YJO-o",
+        "thumbnail": "https://i.ytimg.com/vi/i9p-a8YJO-o/hqdefault.jpg",
+        "published": "",
+        "learn": "How the Suez Canal reshaped global shipping routes and imperial geopolitics",
+        "minutes": 5
+      },
+      {
+        "id": "fciGNBN0nKM",
+        "title": "How optimizing circadian rhythms can increase healthy years | Satchin Panda | TEDxBoston",
+        "channel": "TEDx Talks",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=fciGNBN0nKM",
+        "thumbnail": "https://i.ytimg.com/vi/fciGNBN0nKM/hqdefault.jpg",
+        "published": "",
+        "learn": "How light exposure directly controls your biological clock and sleep cycles",
+        "minutes": 13
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "founders-435-mark-zuckerberg-s-empire",
+      "title": "#435 Mark Zuckerberg's Empire",
+      "show": "Founders",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC8986910456.mp3",
+      "link": "",
+      "durationSec": 2471,
+      "startSec": null,
+      "why": "Uncover the wild, high-stakes story of how Mark Zuckerberg built history's biggest digital empire."
+    },
+    {
+      "id": "you-re-dead-to-me-medieval-korea-from-the-goryeo-to-joseon-periods",
+      "title": "Medieval Korea: from the Goryeo to Joseon periods",
+      "show": "You're Dead to Me",
+      "category": "history",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3",
+      "link": "http://www.bbc.co.uk/programmes/m0030lsn",
+      "durationSec": 3645,
+      "startSec": null,
+      "why": "Explore the epic history and hidden drama of medieval Korea with expert banter and laughs."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1905,
+      "kind": "event",
+      "text": "The British Raj partitioned the Bengal Presidency, sparking widespread nationalist resistance and protests across the country.",
+      "url": "https://en.wikipedia.org/wiki/British_Raj",
+      "india": true
+    },
+    {
+      "year": 1799,
+      "kind": "died",
+      "text": "Veerapandiya Kattabomman was executed by the British for refusing to submit to their colonial rule, becoming a prominent freedom fighter.",
+      "url": "https://en.wikipedia.org/wiki/Veerapandiya_Kattabomman",
+      "india": true
+    },
+    {
+      "year": 1964,
+      "kind": "event",
+      "text": "China successfully conducted its first nuclear test, becoming the world's fifth nuclear-armed power and altering Asian geopolitics.",
+      "url": "https://en.wikipedia.org/wiki/Project_596",
+      "india": false
+    },
+    {
+      "year": 1923,
+      "kind": "event",
+      "text": "Roy and Walt Disney founded the Disney Brothers Cartoon Studio, which grew into one of the world's largest entertainment corporations.",
+      "url": "https://en.wikipedia.org/wiki/Roy_O._Disney",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Bollywood actor and US citizen Imran Khan has reportedly been asked by Mumbai Police to leave India by October 28 after joining an anti-CEC protest.",
+      "why": "Viral news sparking massive debate over immigration laws and political protests.",
+      "url": "https://www.reddit.com/r/india/comments/1x6dkt0/mumbai_police_ask_actor_imran_khan_to_leave_india/",
+      "source": "r/india"
+    },
+    {
+      "text": "US police have reportedly arrested a teenager who allegedly plotted a mass shooting at a Hindu temple in Illinois.",
+      "why": "Terrifying thwarted attack making global headlines and trending across social media.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x6gf7c/us_teen_arrested_for_plotting_mass_shooting_at/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "The central government has reportedly levied a windfall tax of 2.5 rupees per litre on petrol exports, effective immediately.",
+      "why": "Major economic policy change directly impacting fuel pricing and trending heavily.",
+      "url": "https://www.jagran.com/news/national-25-per-litre-windfall-tax-on-petrol-exports-40406481.html",
+      "source": "Jagran"
+    },
+    {
+      "text": "A Delhi Ramlila committee plans to burn a 30-foot cockroach effigy alongside Ravana during upcoming Dussehra celebrations.",
+      "why": "Bizarre and meme-worthy festive plans taking over feeds.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x6pblc/a_ramlila_committee_in_delhis_pitampura_plans_to/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "Oppo's upcoming wide-folding Reno X phone has had its key display features and specifications leaked online ahead of its official launch.",
+      "why": "Major tech leak exciting smartphone enthusiasts across platforms.",
+      "url": "https://www.gadgets360.com/mobiles/news/oppo-wide-folding-phone-display-tipped-specifications-features-12190026",
+      "source": "Gadgets 360"
+    }
+  ]
+}

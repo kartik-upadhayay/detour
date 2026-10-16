@@ -123,7 +123,16 @@
   "catalyst",
   "complacent",
   "conundrum",
-  "lethargic"
+  "lethargic",
+  "facilitate",
+  "plausible",
+  "nuanced",
+  "candid",
+  "arbitrary",
+  "laconic",
+  "placate",
+  "impetus",
+  "rectify"
  ],
  "loop": [
   "glazing",
@@ -226,7 +235,15 @@
   "projection",
   "dink",
   "occam-s-razor",
-  "sigma-sigma-male"
+  "sigma-sigma-male",
+  "bop",
+  "rizz",
+  "trauma-bond",
+  "sip-etf",
+  "pareto-principle-80-20",
+  "tell-me-without-telling-me",
+  "glazing",
+  "open-relationship"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -361,7 +378,15 @@
   "tsDkpbAtZGE",
   "E0XnniP9PCk",
   "oQX9Lh65rAA",
-  "gm02Oid8sbs"
+  "gm02Oid8sbs",
+  "KwR3nxojS0g",
+  "0SS0B9lY30s",
+  "JXr49yp0tNc",
+  "nKSk_TiR8YA",
+  "cFdCzN7RYbw",
+  "3bQsZxDQgzU",
+  "i9p-a8YJO-o",
+  "fciGNBN0nKM"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -399,7 +424,9 @@
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/791c66f0-0bfc-420d-96a3-816c78a17f4c/darknet-diaries-ep177-national-public-data.mp3",
   "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p7c79t.mp3",
   "https://traffic.megaphone.fm/DSLLC7209633121.mp3",
-  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6j6l1.mp3"
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p6j6l1.mp3",
+  "https://traffic.megaphone.fm/DSLLC8986910456.mp3",
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -489,6 +516,14 @@
   "The psychology of first impressions and the primacy effect in social interactions",
   "Hedonic adaptation: why we always want more and how to escape the happiness treadmill",
   "The Library of Alexandria: its rise, destruction, and loss of ancient knowledge",
-  "How the placebo effect tricks the brain and body into physical healing"
+  "How the placebo effect tricks the brain and body into physical healing",
+  "How the Indian Patent Office works and why patent filing matters for domestic innovation",
+  "Understanding dollar-cost averaging in mutual funds and why SIPs beat market timing",
+  "How vertical integration works: strategy behind companies that own their entire supply chain",
+  "How AI tokenization works: how text is broken down into numbers for large language models",
+  "The principle of reciprocity: how small unexpected favors drive human persuasion and influence",
+  "Sartre and bad faith: how we deceive ourselves into following societal expectations instead of choosing freely",
+  "The construction of the Suez Canal: the engineering feat and geopolitical struggle that reshaped global trade",
+  "How human circadian rhythms work and how light exposure controls our biological clock"
  ]
 }

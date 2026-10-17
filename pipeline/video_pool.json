@@ -5227,5 +5227,93 @@
   "published": "",
   "learn": "How the Greek alliance strategically united to face the massive Persian invasion.",
   "minutes": 10
+ },
+ "1nstixjMS7A": {
+  "id": "1nstixjMS7A",
+  "title": "The Asian Monsoon - The World's Largest Weather System",
+  "channel": "Geodiode",
+  "category": "india",
+  "url": "https://www.youtube.com/watch?v=1nstixjMS7A",
+  "thumbnail": "https://i.ytimg.com/vi/1nstixjMS7A/hqdefault.jpg",
+  "published": "",
+  "learn": "How planetary pressure systems and geography drive the world's largest weather system",
+  "minutes": 16
+ },
+ "mec-QpjQMXY": {
+  "id": "mec-QpjQMXY",
+  "title": "The rule of 72 for compound interest | Interest and debt | Finance & Capital Markets | Khan Academy",
+  "channel": "Khan Academy",
+  "category": "money",
+  "url": "https://www.youtube.com/watch?v=mec-QpjQMXY",
+  "thumbnail": "https://i.ytimg.com/vi/mec-QpjQMXY/hqdefault.jpg",
+  "published": "",
+  "learn": "How money doubles over time using the simple rule of 72",
+  "minutes": 9
+ },
+ "BTjxUS_PylA": {
+  "id": "BTjxUS_PylA",
+  "title": "8 Most Important System Design Concepts You Should Know",
+  "channel": "ByteByteGo",
+  "category": "business",
+  "url": "https://www.youtube.com/watch?v=BTjxUS_PylA",
+  "thumbnail": "https://i.ytimg.com/vi/BTjxUS_PylA/hqdefault.jpg",
+  "published": "",
+  "learn": "Essential system design patterns that power modern scalable tech platforms",
+  "minutes": 6
+ },
+ "Ilg3gGewQ5U": {
+  "id": "Ilg3gGewQ5U",
+  "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
+  "channel": "3Blue1Brown",
+  "category": "ai",
+  "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U",
+  "thumbnail": "https://i.ytimg.com/vi/Ilg3gGewQ5U/hqdefault.jpg",
+  "published": "",
+  "learn": "How calculus and chain rule allow neural networks to fix their mistakes",
+  "minutes": 12
+ },
+ "d4aD-epti4c": {
+  "id": "d4aD-epti4c",
+  "title": "Why It's So Hard to Admit You're Wrong | Cognitive Dissonance",
+  "channel": "SciShow Psych",
+  "category": "mind",
+  "url": "https://www.youtube.com/watch?v=d4aD-epti4c",
+  "thumbnail": "https://i.ytimg.com/vi/d4aD-epti4c/hqdefault.jpg",
+  "published": "",
+  "learn": "Why our brains twist facts to reduce the agony of conflicting beliefs",
+  "minutes": 5
+ },
+ "csIW4W_DYX4": {
+  "id": "csIW4W_DYX4",
+  "title": "PHILOSOPHY - Aristotle",
+  "channel": "The School of Life",
+  "category": "philosophy",
+  "url": "https://www.youtube.com/watch?v=csIW4W_DYX4",
+  "thumbnail": "https://i.ytimg.com/vi/csIW4W_DYX4/hqdefault.jpg",
+  "published": "",
+  "learn": "How finding the golden mean between extremes leads to a flourishing life",
+  "minutes": 7
+ },
+ "moDvjW9Z6_I": {
+  "id": "moDvjW9Z6_I",
+  "title": "Building the Transcontinental Railroad",
+  "channel": "CBS Sunday Morning",
+  "category": "history",
+  "url": "https://www.youtube.com/watch?v=moDvjW9Z6_I",
+  "thumbnail": "https://i.ytimg.com/vi/moDvjW9Z6_I/hqdefault.jpg",
+  "published": "",
+  "learn": "How a massive engineering feat united a fractured continent across mountains and plains",
+  "minutes": 6
+ },
+ "-VIoPGSGHoQ": {
+  "id": "-VIoPGSGHoQ",
+  "title": "How Your Gut Bacteria Control Your Decisions (It's Not What You Think)",
+  "channel": "Dr. Tracey Marks",
+  "category": "science",
+  "url": "https://www.youtube.com/watch?v=-VIoPGSGHoQ",
+  "thumbnail": "https://i.ytimg.com/vi/-VIoPGSGHoQ/hqdefault.jpg",
+  "published": "",
+  "learn": "How microscopic gut bacteria secretly shape your daily mood and mental health",
+  "minutes": 9
  }
 }

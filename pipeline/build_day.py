@@ -52,12 +52,12 @@ WORD_THEMES = [
 ]
 LOOP_ANGLES = [
     "the newest Gen Z and Gen Alpha internet slang of 2025-2026", "dating apps and modern relationship terms",
-    "gaming, streamers and Twitch/Discord culture", "finance-bro, crypto and hustle-culture lingo",
-    "therapy-speak and mental-health terms people use casually", "Indian internet slang, Hinglish meme words and desi Twitter",
-    "office and corporate jargon young professionals mock", "gym, fitness and looksmaxxing culture",
-    "fandoms, anime, K-pop and pop-culture references", "cognitive biases, psychology effects and laws of human behaviour",
+    "gaming and streamer culture", "money, crypto and hustle-culture lingo",
+    "therapy-speak and mental-health terms people use casually", "Indian internet slang and desi meme culture",
+    "office and corporate jargon young people joke about", "fitness, looks and self-improvement culture",
+    "pop culture, anime and fandom references", "cognitive biases and psychology effects",
     "tech, startup and AI buzzwords", "philosophy thought experiments and famous paradoxes",
-    "viral meme formats and reaction phrases", "cricket and sports banter", "fashion, aesthetics and 'core' trends",
+    "viral meme formats and reaction phrases",
 ]
 INDIA_BULLETS = (8, 10)
 WORLD_BULLETS = (5, 6)
@@ -243,8 +243,8 @@ def build_words(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
         themes = rng.sample(WORD_THEMES, 2)
         for attempt, theme in enumerate(themes):
             letters = ", ".join(rng.sample("BCDEFGHILMNOPRSTV", 3))
-            got = gemini(prompt("words", count="30", focus=theme, letters=letters,
-                                avoid=", ".join(hist["words"][-500:] + [slug(w["word"]) for w in words]) or "(none)"), key)
+            shown = [t.replace("-", " ") for t in hist["words"][-500:]] + [w["word"] for w in words]
+            got = gemini(prompt("words", count="30", focus=theme, letters=letters, avoid=", ".join(shown) or "(none)"), key)
             fresh = 0
             for w in got if isinstance(got, list) else []:
                 if len(words) >= WORDS_PER_DAY:
@@ -291,8 +291,8 @@ def build_loop(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
         # Same trick as words: a fresh angle each day and a big candidate pool, then filter out repeats.
         angles = rng.sample(LOOP_ANGLES, 2)
         for angle in angles:
-            got = gemini(prompt("loop", count="24", focus=angle,
-                                avoid=", ".join(hist["loop"][-700:] + [c["term"] for c in cards]) or "(none)"), key)
+            shown = [t.replace("-", " ") for t in hist["loop"][-700:]] + [c["term"] for c in cards]
+            got = gemini(prompt("loop", count="24", focus=angle, avoid=", ".join(shown) or "(none)"), key)
             fresh: list[dict] = []
             for c in got if isinstance(got, list) else []:
                 if valid_card(c) and slug(c["term"]) not in seen and all(slug(c["term"]) != slug(x["term"]) for x in cards + fresh):

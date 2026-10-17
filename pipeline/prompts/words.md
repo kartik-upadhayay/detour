@@ -1,10 +1,12 @@
 You pick vocabulary for a 21-year-old Indian college student who wants to sound sharper in English conversation, emails and interviews.
 
-Give {{count}} candidate words. Today's focus: {{focus}}.
+Give {{count}} candidate words. Today's flavour: {{focus}}. The flavour only guides which words you pick; it never lowers the level.
 At least half of them should start with one of these letters: {{letters}}.
 
 Rules:
+- Level: a clear step above everyday vocabulary, the words that make a speaker sound sharp (think galvanize, equivocate, cavalier, nonchalant, scathing, myopic, insidious). Never basic words like grow, climb, slide, growth or decay.
 - Useful, not obscure: words an articulate person actually uses, not spelling-bee words.
+- Write each word capitalised as a normal word, e.g. "Cavalier".
 - Mix parts of speech and difficulty.
 - Each word replaces a plain everyday word or phrase he already uses.
 - Avoid the obvious "vocabulary list" staples everyone gets (pragmatic, meticulous, resilient, candid, autonomous, transparent, ubiquitous, ephemeral...). Dig a layer deeper.

@@ -1,417 +1,418 @@
 {
   "schema": 1,
   "date": "2026-10-17",
-  "generatedAt": "2026-10-17T04:20:09+00:00",
+  "generatedAt": "2026-10-17T06:00:59+00:00",
   "words": [
     {
-      "word": "Ubiquitous",
-      "pos": "adjective",
-      "pronunciation": "yoo-BIK-wi-tus",
-      "meaning": "Found everywhere at the same time.",
-      "insteadOf": "everywhere / common",
-      "example": "Reels have become ubiquitous; even my dad sends them now."
+      "word": "mutate",
+      "pos": "verb",
+      "pronunciation": "myoo-teyt",
+      "meaning": "To undergo a significant and often unexpected form of change.",
+      "insteadOf": "change a lot",
+      "example": "Our final year group project keeps mutating into something completely different."
     },
     {
-      "word": "Benevolent",
-      "pos": "adjective",
-      "pronunciation": "buh-NEV-uh-lunt",
-      "meaning": "Well-meaning and kindly.",
-      "insteadOf": "kind",
-      "example": "A benevolent senior shared all her old notes."
+      "word": "decay",
+      "pos": "verb",
+      "pronunciation": "dih-key",
+      "meaning": "To slowly fall into a state of ruin or decline.",
+      "insteadOf": "get worse",
+      "example": "The college hostel infrastructure has started to decay quite visibly."
     },
     {
-      "word": "Inevitable",
-      "pos": "adjective",
-      "pronunciation": "in-EV-ih-tuh-bul",
-      "meaning": "Certain to happen; unavoidable.",
-      "insteadOf": "bound to happen",
-      "example": "Bugs are inevitable; ship anyway and fix fast."
-    },
-    {
-      "word": "Anomaly",
+      "word": "climb",
       "pos": "noun",
-      "pronunciation": "uh-NOM-uh-lee",
-      "meaning": "Something that deviates from what is standard or expected.",
-      "insteadOf": "odd thing / exception",
-      "example": "One anomaly in the data turned out to be a typo."
+      "pronunciation": "klahym",
+      "meaning": "A difficult process of making steady progress upward.",
+      "insteadOf": "hard work to improve",
+      "example": "Getting my CGPA above eight this semester was a steep climb."
     },
     {
-      "word": "Obsolete",
-      "pos": "adjective",
-      "pronunciation": "ob-suh-LEET",
-      "meaning": "No longer produced or used; out of date.",
-      "insteadOf": "outdated",
-      "example": "Floppy disks are obsolete, but the save icon lives on."
-    },
-    {
-      "word": "Pertinent",
-      "pos": "adjective",
-      "pronunciation": "PUR-tih-nunt",
-      "meaning": "Relevant to the matter at hand.",
-      "insteadOf": "relevant",
-      "example": "Only include pertinent results in the abstract."
-    },
-    {
-      "word": "Hubris",
+      "word": "slide",
       "pos": "noun",
-      "pronunciation": "HYOO-bris",
-      "meaning": "Excessive pride or self-confidence.",
-      "insteadOf": "arrogance / overconfidence",
-      "example": "Skipping the backup was pure hubris."
+      "pronunciation": "slahyd",
+      "meaning": "A continuous, worsening loss of position or quality.",
+      "insteadOf": "falling down",
+      "example": "Our cricket team needs to arrest this sudden slide before the tournament finals."
     },
     {
-      "word": "Rapport",
+      "word": "spike",
       "pos": "noun",
-      "pronunciation": "ra-POR",
-      "meaning": "A close, harmonious relationship of mutual understanding.",
-      "insteadOf": "connection / bond",
-      "example": "Good rapport with your mentor makes feedback easier."
+      "pronunciation": "spahyk",
+      "meaning": "A sudden, sharp upward movement or increase.",
+      "insteadOf": "sudden jump",
+      "example": "We saw a massive traffic spike right after posting the app on Reddit."
     },
     {
-      "word": "Ambivalent",
-      "pos": "adjective",
-      "pronunciation": "am-BIV-uh-lunt",
-      "meaning": "Having mixed or contradictory feelings about something.",
-      "insteadOf": "unsure / confused",
-      "example": "I'm ambivalent about moving cities for the job."
+      "word": "sag",
+      "pos": "verb",
+      "pronunciation": "sag",
+      "meaning": "To sink or droop under weight or due to fatigue.",
+      "insteadOf": "drop down",
+      "example": "My concentration always sags during the post-lunch DBMS lecture."
+    },
+    {
+      "word": "growth",
+      "pos": "noun",
+      "pronunciation": "grohth",
+      "meaning": "The process of developing and expanding over time.",
+      "insteadOf": "getting better",
+      "example": "Writing weekly code has led to visible personal growth in my logic."
+    },
+    {
+      "word": "stagnate",
+      "pos": "verb",
+      "pronunciation": "stag-neyt",
+      "meaning": "To stop developing, progressing, or flowing.",
+      "insteadOf": "stay stuck",
+      "example": "If you stop learning new frameworks, your career will quickly stagnate."
+    },
+    {
+      "word": "crumble",
+      "pos": "verb",
+      "pronunciation": "kruhm-buhl",
+      "meaning": "To break apart or fail completely under pressure.",
+      "insteadOf": "fall apart",
+      "example": "Our backend architecture completely crumbled when the heavy user traffic hit."
     }
   ],
   "loop": [
     {
-      "type": "acronym",
-      "term": "SIP",
-      "meaning": "Systematic Investment Plan, a method of investing a fixed sum regularly in mutual funds.",
-      "example": "Start your SIP early if you want compound interest to do its magic.",
-      "context": "Dropped constantly by finance bros on Instagram reels and podcasts. Completely standard.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "sip"
-    },
-    {
       "type": "slang",
-      "term": "Gyatt",
-      "meaning": "Exclamation (from 'goddamn') when reacting to someone's attractive body, usually their backside.",
-      "example": "Used as a crude reaction comment under gym or dance videos.",
-      "tone": "crude",
-      "context": "Sexual reaction slang. Know it so you get the meme, but it's disrespectful to say about real people.",
-      "nsfw": true,
-      "id": "gyatt"
+      "term": "tuk-tuk",
+      "meaning": "A derogatory cricket term used for a batter who plays extremely slow, defensive innings that halt the team's run rate.",
+      "example": "Bro played a classic tuk-tuk knock and left the team defending a below-par total.",
+      "context": "Used while watching T20 matches or highlights to mock anchor batsmen who eat up too many dot balls. Mildly rude.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "tuk-tuk"
     },
     {
       "type": "psych",
-      "term": "Love-bombing",
-      "meaning": "Overwhelming someone with affection and gifts early on to gain control.",
-      "example": "Week one: flowers daily, 'you're my soulmate'. Week six: controlling who she meets.",
+      "term": "loser-flow",
+      "meaning": "A psychological state where a string of minor failures creates anxiety, leading to a compounding spiral of poor performance.",
+      "example": "He dropped two catches at slip and now he's in total loser-flow, missing every routine ground ball.",
+      "context": "Discussed on sports podcasts regarding athletes experiencing a mental slump. Not rude, analytical.",
       "tone": "serious",
-      "context": "Red flag in dating stories; often precedes manipulation.",
-      "id": "love-bombing",
-      "nsfw": false
+      "nsfw": false,
+      "id": "loser-flow"
     },
     {
       "type": "acronym",
-      "term": "PTSD",
-      "meaning": "Post-Traumatic Stress Disorder: a mental health condition after a traumatic event, with flashbacks, anxiety and avoidance.",
-      "example": "He has PTSD after the accident and avoids driving.",
-      "tone": "serious",
-      "context": "Often used jokingly ('that exam gave me PTSD'), but the real condition is serious.",
-      "id": "ptsd",
-      "nsfw": false
+      "term": "net-run-rate",
+      "meaning": "A mathematical formula used in cricket tournaments to rank teams with equal points based on their run margins.",
+      "example": "We need to beat them by 80 runs just to fix our terrible net-run-rate.",
+      "context": "Dropped constantly during tournament group stages when qualification depends on math rather than just winning. Casual.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "net-run-rate"
     },
     {
       "type": "paradox",
-      "term": "Diderot effect",
-      "meaning": "Buying one new thing triggers a spiral of buying more to match it.",
-      "example": "Bought a new desk, now I 'need' a lamp, chair and monitor.",
-      "tone": "casual",
-      "context": "Consumerism and lifestyle creep.",
-      "id": "diderot-effect",
-      "nsfw": false
+      "term": "yips",
+      "meaning": "A sudden, unexplained loss of basic athletic skills and muscle memory in experienced players due to performance anxiety.",
+      "example": "He was an elite bowler, but after missing that one crucial run-out, he got the yips and can't throw straight anymore.",
+      "context": "Discussed in sports podcasts when an athlete suddenly collapses mentally. Serious or analytical tone.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "yips"
     },
     {
       "type": "meme",
-      "term": "Brother ewwww",
-      "meaning": "Reaction expressing disgust at something cringe or gross.",
-      "example": "Pineapple on biryani? Brother ewwww.",
+      "term": "expressions-of-dhoni",
+      "meaning": "Using calm, blank-faced reactions or stoic stares to indicate absolute indifference or quiet confidence in a crisis.",
+      "example": "When everyone started panicking during the exam leak news, I just gave them the Dhoni stare.",
+      "context": "A staple Indian sports meme format used when someone stays unflappable during chaos. Playful.",
       "tone": "playful",
-      "context": "Comment-section reaction.",
-      "id": "brother-ewwww",
-      "nsfw": false
+      "nsfw": false,
+      "id": "expressions-of-dhoni"
     },
     {
       "type": "slang",
-      "term": "NPC",
-      "meaning": "Someone who acts robotically, follows the crowd and has no original thoughts, like a background video-game character.",
-      "example": "He just repeats whatever's trending. Total NPC behaviour.",
-      "tone": "mocking",
-      "context": "Insulting someone as unoriginal or mindless.",
-      "id": "npc",
-      "nsfw": false
+      "term": "cricinfo-and-chill",
+      "meaning": "Staying in to passively monitor live cricket scores and ball-by-ball commentary instead of going out.",
+      "example": "Party tonight? Nah man, I'm doing cricinfo-and-chill for the IPL eliminator.",
+      "context": "A casual sports spin on Netflix and chill, dropped when choosing sports over social plans. Not rude.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "cricinfo-and-chill"
     },
     {
       "type": "psych",
-      "term": "Ghosting",
-      "meaning": "Ending contact suddenly with no explanation.",
-      "example": "Three great dates, then she ghosted me.",
+      "term": "reflected-glory-syndrom",
+      "meaning": "The psychological urge to heavily associate oneself with the success of a winning sports team or celebrity to boost self-esteem.",
+      "example": "Look at him posting stories celebrating RCB's win like he was batting out there. Pure reflected glory syndrome.",
+      "context": "Used to tease overly passionate sports fans who say 'we won' when talking about their favorite franchise. Playful.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "reflected-glory-syndrom"
+    },
+    {
+      "type": "acronym",
+      "term": "dls",
+      "meaning": "Duckworth-Lewis-Stern, the complex mathematical system used to calculate target scores in rain-shortened cricket matches.",
+      "example": "The match got shortened and everyone started guessing what the DLS par score would be.",
+      "context": "Brought up whenever weather interrupts a cricket match, leading to confusion and wild predictions. Casual.",
       "tone": "casual",
-      "context": "Dating and even job hiring ('the recruiter ghosted me').",
-      "id": "ghosting",
-      "nsfw": false
+      "nsfw": false,
+      "id": "dls"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "The Ministry of External Affairs urged the United States to ensure the safety of Indian communities following a foiled temple attack in Illinois.",
+        "text": "Eight people were killed and fifteen others injured after a minibus fell into a drain along the Delhi-Mumbai Expressway in Kota due to suspected driver fatigue.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/mea-calls-on-us-to-ensure-safety-security-of-indians-after-foiled-illinois-temple-attack/article71594327.ece"
+        "url": "https://www.thehindu.com/news/national/rajasthan/8-killed-15-injured-as-minibus-falls-into-15-foot-drain-along-delhi-mumbai-expressway-in-kota/article71595511.ece"
       },
       {
-        "text": "Serum Institute's Cervavac vaccine received WHO prequalification, allowing UN agencies to procure the shot for children and young adults.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/sci-tech/health/serum-institutes-hpv-vaccine-cervavac-receives-who-prequalification/article71554508.ece"
-      },
-      {
-        "text": "Ladakh was officially expanded with the creation of Sankoo as its eighth district alongside five new tehsils carved out of Kargil.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/ladakh-new-districts-sankoo-narendra-modi-amit-shah-kargil-101792203503849.html"
-      },
-      {
-        "text": "Twenty-four Indian seafarers remain safe following reported tanker attacks in Hormuz and Romania, according to the Ministry of Ports and Shipping.",
+        "text": "The minimum age for recruitment as a railway station master has been raised from 18 to 20 years by the authorities.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/24-indian-seafarers-safe-after-tankers-attacked-in-strait-of-hormuz-romania-12197556#publisher=newsstand"
+        "url": "https://www.ndtv.com/education/railway-board-raises-minimum-age-for-direct-recruitment-to-station-master-post-from-18-to-20-years-12197914#publisher=newsstand"
       },
       {
-        "text": "The Press Council of India issued new guidelines for journalists covering protests, emphasizing professional neutrality, safety, and ethical reporting standards.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/pci-sets-out-dos-and-don-ts-for-journalists-covering-protests-101792176794574.html"
-      },
-      {
-        "text": "The Supreme Court agreed to examine a plea addressing systemic accessibility blind spots that leave disabled travelers stranded across Indian airports.",
+        "text": "Starlink announced it has built its infrastructure in India with requisite government approvals and remains ready to offer high-speed internet services.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece"
+        "url": "https://www.thehindu.com/business/starlink-says-built-indias-infrastructure-with-requisite-government-approvals-ready-to-offer-hi-speed-internet/article71595458.ece"
       },
       {
-        "text": "The Enforcement Directorate summoned senior leader Pinarayi Vijayan in connection with an ongoing money laundering investigation.",
+        "text": "CJP founder Abhijeet Dipke was placed under preventive arrest by Delhi Police following anti-Election Commission protests in the national capital.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/probe-agency-ed-summons-pinarayi-vijayan-in-money-laundering-case-12197077#publisher=newsstand"
+        "url": "https://www.ndtv.com/india-news/cjps-abhijeet-dipke-under-preventive-arrest-aisa-chief-neha-bora-released-over-protests-in-delhi-12197504#publisher=newsstand"
       },
       {
-        "text": "The Reserve Bank of India announced plans to permit interoperability among account aggregators to provide users a consolidated view of financial assets.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/rbi-to-allow-inter-operability-among-account-aggregators-integrate-bank-deposits-with-cas/article71555668.ece"
+        "text": "Security forces engaged in an encounter with terrorists in Jammu and Kashmir's Kupwara district.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/encounter-breaks-out-between-security-forces-terrorists-in-jks-kupwara/articleshow/135007460.cms"
+      },
+      {
+        "text": "IAS and IPS officers in Maharashtra will donate one day's salary to aid farmers after 305 talukas were declared drought-affected.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/maharashtra-drought-ias-ips-officers-to-donate-one-days-salary-to-aid-farmers-12197836#publisher=newsstand"
+      },
+      {
+        "text": "BJP veteran and former Deputy Prime Minister LK Advani was admitted to a Delhi hospital due to pulmonary issues.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/bjp-veteran-lk-advani-admitted-to-delhi-hospital-over-pulmonary-issues/articleshow/135007243.cms"
+      },
+      {
+        "text": "India rejected claims made by a UN rapporteur regarding youth protests, urging authorities to verify facts first.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/verify-before-she-vilifies-india-un-rapporteurs-claims-on-youth-protests/articleshow/135007051.cms"
+      },
+      {
+        "text": "Prime Minister Narendra Modi will visit Canada on December 11 and 12, Canadian officials confirmed following a phone call.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/pm-modi-to-visit-canada-on-december-11-12-mark-carney-confirms-after-phone-call/articleshow/135006386.cms"
       }
     ],
     "world": [
       {
-        "text": "Mexican courts sentenced three men to 158 years in prison for the murders of Australian and American surfers in Baja California.",
+        "text": "President Trump has paused several newly enacted sanctions against Russia, stating that specific punitive measures run counter to United States national interests.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Russian military strikes across Ukraine have killed at least eight people and severely damaged the country's power grid, causing widespread electricity outages.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
+      },
+      {
+        "text": "A Mexican court has sentenced three men to 158 years in prison each for the 2024 murders of two Australian brothers and their American friend.",
         "source": "The Guardian",
         "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
       },
       {
-        "text": "US President Donald Trump waived several sanctions on Russian oil and gas, stating the move serves American national interests.",
+        "text": "Saudi authorities reported that three people were killed in Riyadh following Houthi-claimed aerial attacks targeting the airport.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+        "url": "https://www.thehindu.com/news/international/saudi-authorities-say-three-killed-in-houthi-claimed-attacks-on-riyadh-airport/article71565580.ece"
       },
       {
-        "text": "Former Venezuelan President Nicolás Maduro appeared in a New York court to deny newly rewritten indictment charges alleging a campaign of torture.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
-      },
-      {
-        "text": "An Iranian oil supertanker caught fire in the Strait of Hormuz after striking a naval mine, according to the Islamic Revolutionary Guard Corps.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
-      },
-      {
-        "text": "Brazil recorded its lowest level of Amazon deforestation since records began in 1988, marking a significant environmental milestone ahead of elections.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+        "text": "North Korea announced the successful testing of a newly developed underwater torpedo system equipped with artificial intelligence capabilities.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/north-korea-claims-to-have-tested-a-new-ai-enabled-zam-20-torpedo-system/article71595423.ece"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "afbP6sB_Atc",
-      "title": "Watch this to keep more customers",
-      "channel": "Alex Hormozi",
+      "id": "aoeal3ljnqw",
+      "title": "What Are Network Effects? (Startup Mini-Series)",
+      "channel": "NFX",
       "category": "business",
-      "url": "https://www.youtube.com/watch?v=afbP6sB_Atc",
-      "thumbnail": "https://i.ytimg.com/vi/afbP6sB_Atc/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=aoeal3ljnqw",
+      "thumbnail": "https://i.ytimg.com/vi/aoeal3ljnqw/hqdefault.jpg",
       "published": "",
-      "learn": "How subscription businesses retain customers and prevent costly churn.",
-      "minutes": 40
+      "learn": "Why platforms like Uber become monopolies and how network effects drive market dominance.",
+      "minutes": 7
     },
     "more": [
       {
-        "id": "VwyrMQEZRys",
-        "title": "Public Interest Litigation (PIL) | Explained | With cases",
-        "channel": "Lawpedia",
+        "id": "C2FX6Vw_k3E",
+        "title": "How the US-Iran War Could Unexpectedly Boost Canada's Oil Power",
+        "channel": "Abhijit Chavda",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=VwyrMQEZRys",
-        "thumbnail": "https://i.ytimg.com/vi/VwyrMQEZRys/hqdefault.jpg",
-        "published": "",
-        "learn": "How citizens can use PILs to drive legal change and accountability.",
-        "minutes": 16
+        "url": "https://www.youtube.com/watch?v=C2FX6Vw_k3E",
+        "thumbnail": "https://i.ytimg.com/vi/C2FX6Vw_k3E/hqdefault.jpg",
+        "published": "2026-05-26"
       },
       {
-        "id": "fb7YCVR5fIU",
-        "title": "How To Read Financial Statements In 9 Minutes!! Easier Than You Think!",
-        "channel": "Brian Feroldi",
+        "id": "jYJHb3wvaDM",
+        "title": "What is a CIBIL Score? | CIBIL Score Explained",
+        "channel": "Deepak TechTimes",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=fb7YCVR5fIU",
-        "thumbnail": "https://i.ytimg.com/vi/fb7YCVR5fIU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jYJHb3wvaDM",
+        "thumbnail": "https://i.ytimg.com/vi/jYJHb3wvaDM/hqdefault.jpg",
         "published": "",
-        "learn": "How to read financial statements to measure personal and business wealth.",
-        "minutes": 9
+        "learn": "How your CIBIL score is calculated and why lenders care about your credit history.",
+        "minutes": 5
       },
       {
-        "id": "gl1r1XV0SLw",
-        "title": "What is a Vector Database? Powering Semantic Search & AI Applications",
-        "channel": "IBM Technology",
+        "id": "_ZvnD73m40o",
+        "title": "Prompt Engineering Tutorial – Master ChatGPT and LLM Responses",
+        "channel": "freeCodeCamp.org",
         "category": "ai",
-        "url": "https://www.youtube.com/watch?v=gl1r1XV0SLw",
-        "thumbnail": "https://i.ytimg.com/vi/gl1r1XV0SLw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_ZvnD73m40o",
+        "thumbnail": "https://i.ytimg.com/vi/_ZvnD73m40o/hqdefault.jpg",
         "published": "",
-        "learn": "How vector databases and embeddings power modern AI semantic search.",
+        "learn": "How to structure prompts and context to get precise outputs from AI models.",
+        "minutes": 41
+      },
+      {
+        "id": "R1Yl9nvXIE0",
+        "title": "The Pygmalion Effect, Growth Mindset, & Learning ft. Robert Rosenthal",
+        "channel": "Trevor Ragan",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=R1Yl9nvXIE0",
+        "thumbnail": "https://i.ytimg.com/vi/R1Yl9nvXIE0/hqdefault.jpg",
+        "published": "",
+        "learn": "How high expectations from others can subconsciously boost your actual performance.",
+        "minutes": 17
+      },
+      {
+        "id": "jQOfbObFOCw",
+        "title": "PHILOSOPHY - Albert Camus",
+        "channel": "The School of Life",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=jQOfbObFOCw",
+        "thumbnail": "https://i.ytimg.com/vi/jQOfbObFOCw/hqdefault.jpg",
+        "published": "",
+        "learn": "How to embrace life and create your own meaning in an indifferent universe.",
         "minutes": 9
       },
       {
-        "id": "vN1aRN5bQQ0",
-        "title": "How Habits Can Change Your Life (and Your Brain)",
-        "channel": "Be Smart",
-        "category": "mind",
-        "url": "https://www.youtube.com/watch?v=vN1aRN5bQQ0",
-        "thumbnail": "https://i.ytimg.com/vi/vN1aRN5bQQ0/hqdefault.jpg",
-        "published": "",
-        "learn": "How the brain forms habit loops and how to change them.",
-        "minutes": 6
-      },
-      {
-        "id": "J0aX8QMkFAI",
-        "title": "Nihilism vs. Existentialism vs. Absurdism — Explained and Compared",
-        "channel": "The Living Philosophy",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=J0aX8QMkFAI",
-        "thumbnail": "https://i.ytimg.com/vi/J0aX8QMkFAI/hqdefault.jpg",
-        "published": "",
-        "learn": "How to find personal meaning when life has no inherent purpose.",
-        "minutes": 14
-      },
-      {
-        "id": "rUmD0jFTnCA",
-        "title": "How the Transcontinental Railroad Transformed America | The Engineering that Built the World (S1)",
-        "channel": "HISTORY",
+        "id": "FwitONWEgsk",
+        "title": "The Battle of Thermopylae - The Hellenic Alliance - Part 1 - Extra History",
+        "channel": "Extra History",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=rUmD0jFTnCA",
-        "thumbnail": "https://i.ytimg.com/vi/rUmD0jFTnCA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FwitONWEgsk",
+        "thumbnail": "https://i.ytimg.com/vi/FwitONWEgsk/hqdefault.jpg",
         "published": "",
-        "learn": "How engineering the Transcontinental Railroad transformed American commerce and geography.",
-        "minutes": 11
+        "learn": "How the Greek alliance strategically united to face the massive Persian invasion.",
+        "minutes": 10
       },
       {
-        "id": "2ycHwcV9MvM",
-        "title": "The Truth About the Gut to Brain Connection",
-        "channel": "SciShow",
+        "id": "krXXSCb_P9Y",
+        "title": "What is Plate Tectonics: Crash Course Geology #10",
+        "channel": "CrashCourse",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=2ycHwcV9MvM",
-        "thumbnail": "https://i.ytimg.com/vi/2ycHwcV9MvM/hqdefault.jpg",
-        "published": "",
-        "learn": "How gut bacteria communicate with your brain to influence mood.",
-        "minutes": 10
+        "url": "https://www.youtube.com/watch?v=krXXSCb_P9Y",
+        "thumbnail": "https://i.ytimg.com/vi/krXXSCb_P9Y/hqdefault.jpg",
+        "published": "2026-06-25"
       }
     ]
   },
   "podcasts": [
     {
-      "id": "founders-437-the-tycoons-carnegie-rockefeller-gould-morgan",
-      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
-      "show": "Founders",
+      "id": "how-i-built-this-10-years-of-how-i-built-this-a-decade-of-innovation-risk-and-re",
+      "title": "10 Years of How I Built This:  A Decade of Innovation, Risk and Reinvention",
+      "show": "How I Built This",
       "category": "business",
-      "audioUrl": "https://traffic.megaphone.fm/DSLLC2102531802.mp3",
+      "audioUrl": "https://rss.art19.com/episodes/fdd4f8d2-9920-427e-ae2a-ae2d44768a31.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
       "link": "",
-      "durationSec": 3251,
+      "durationSec": 4220,
       "startSec": null,
-      "why": "Discover how four visionary tycoons completely invented the American supereconomy from scratch."
+      "why": "A decade of drama, risk, and massive startup wins that makes you want to build."
     },
     {
-      "id": "radiolab-the-smell-of-hell",
-      "title": "The Smell of Hell",
-      "show": "Radiolab",
+      "id": "startalk-the-chemistry-of-life-with-kate-the-chemist",
+      "title": "The Chemistry of Life with Kate the Chemist",
+      "show": "StarTalk",
       "category": "science",
-      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d77514be-6029-4291-bead-0dcecca30a7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d77514be-6029-4291-bead-0dcecca30a7c&feed=EmVW7VGp",
-      "link": "https://www.radiolab.org",
-      "durationSec": 2589,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/866cbaa5-f443-4100-aac7-e4ab367c3ba2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=866cbaa5-f443-4100-aac7-e4ab367c3ba2&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 2550,
       "startSec": null,
-      "why": "Uncover the surprising truth behind the one universal scent humans always associate with death."
+      "why": "Aliens, diamonds, and the chemistry of life explained with jokes and zero boring lectures."
     }
   ],
   "onThisDay": [
     {
       "year": 1979,
       "kind": "event",
-      "text": "1979: Mother Teresa was awarded the Nobel Peace Prize for her dedicated humanitarian work supporting the poorest and most vulnerable people in India and globally.",
+      "text": "1979: Mother Teresa was awarded the Nobel Peace Prize for her dedicated humanitarian work supporting the poorest and most vulnerable in India.",
       "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
       "india": true
     },
     {
       "year": 1817,
       "kind": "born",
-      "text": "1817: Syed Ahmad Khan, the pioneering Indian philosopher and educator who founded Aligarh Muslim University, was born.",
+      "text": "1817: Syed Ahmad Khan, a visionary Indian philosopher and educator who founded the Aligarh Muslim University, was born.",
       "url": "https://en.wikipedia.org/wiki/Syed_Ahmad_Khan",
       "india": true
     },
     {
-      "year": 1991,
-      "kind": "event",
-      "text": "1991: Rudrapur bombings by Sikh separatists killed 41 people during a Hindu celebration in Uttarakhand, marking a dark chapter of sectarian violence.",
-      "url": "https://en.wikipedia.org/wiki/1991_Rudrapur_bombings",
+      "year": 1970,
+      "kind": "born",
+      "text": "1970: Anil Kumble, one of India's greatest legendary cricketers and match-winning spin bowlers, was born.",
+      "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
       "india": true
     },
     {
       "year": 1777,
       "kind": "event",
-      "text": "1777: British general John Burgoyne surrendered during the American Revolutionary War, a turning point that convinced France to enter the conflict in alliance with the United States.",
+      "text": "1777: British general John Burgoyne surrendered during the American Revolutionary War, a pivotal victory that convinced France to enter the conflict.",
       "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
       "india": false
     },
     {
-      "year": 1604,
+      "year": 1931,
       "kind": "event",
-      "text": "1604: German astronomer Johannes Kepler began observing Kepler's Supernova, an exceptionally bright celestial event that advanced early modern astronomy.",
-      "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "text": "1931: American gangster Al Capone was convicted on five counts of income-tax evasion, successfully ending his notorious criminal reign.",
+      "url": "https://en.wikipedia.org/wiki/Al_Capone",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Dhruv Rathee traveled to London to stage a protest against the Modi government at Parliament Square amid legal troubles.",
-      "why": "Massive political debate online between his supporters and critics.",
-      "url": "https://www.livehindustan.com/national/dhruv-rathee-reached-london-amid-abhijeet-dipke-detention-claims-international-protest-201792200182818.html",
-      "source": "Hindustan"
+      "text": "Rajinikanth’s Jailer 2 crossed the Rs 200 crore mark worldwide after earning record-breaking first-day collections.",
+      "why": "Massive box office numbers have everyone talking.",
+      "url": "https://www.thehindu.com/news/national/kerala/exhibitors-in-keralam-jubilant-as-rajinikanths-jailer-2-earns-record-first-day-collections/article71591317.ece",
+      "source": "The Hindu"
     },
     {
-      "text": "Anjali Arora abruptly left a stage performance after the 'Kacha Badam' song was played, sparking a major debate over artist respect.",
-      "why": "Viral clip sparking fierce online arguments among netizens.",
-      "url": "https://www.indiatv.in/entertainment/tv/anjali-arora-furious-moment-kacha-badam-started-playing-left-stage-within-12-minutes-asking-dont-you-know-how-to-respect-artist-2026-10-16-1249223",
-      "source": "India TV Hindi"
+      "text": "India and West Indies face off in a tense, high-scoring 5th T20I decider in rainy Bengaluru.",
+      "why": "It is a high-stakes series finale.",
+      "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-5th-t20i-1529234/match-preview",
+      "source": "Cricinfo"
     },
     {
-      "text": "Reliance has stated that while Starlink is welcome, it must strictly follow Indian laws amidst an ongoing satcom row with Elon Musk.",
-      "why": "High-stakes corporate clash capturing the tech world's attention.",
+      "text": "OPPO globally unveiled ColorOS 17 featuring AI integrations and a smoother interface.",
+      "why": "Tech enthusiasts are buzzing about the new features.",
+      "url": "https://www.oppo.com/en/newsroom/press/oppo-color-os-17/",
+      "source": "OPPO"
+    },
+    {
+      "text": "Reliance reportedly rebutted Elon Musk in the ongoing satellite communication row, stating Starlink must follow the law.",
+      "why": "A massive corporate showdown everyone is debating.",
       "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7awwa/welcome_starlink_but_it_must_follow_law_reliance/",
       "source": "r/IndiaSpeaks"
     },
     {
-      "text": "A massive fire engulfed the historic Maa Bhagwati temple in Badiyakot, severely damaging its centuries-old wooden structure.",
-      "why": "Deeply shocking visuals leading to widespread grief and outrage.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7bgj1/uttarakhand_a_massive_fire_engulfed_the_historic/",
-      "source": "r/IndiaSpeaks"
-    },
-    {
-      "text": "Samsung has teased the upcoming launch of the Galaxy F70 5G in India under Rs 20,000 with an AMOLED display.",
-      "why": "Budget smartphone enthusiasts are hyping up the specs.",
-      "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php",
-      "source": "GSMArena.com"
+      "text": "IIT Madras reopened the GATE 2027 registration window and ruled out any further deadline extensions.",
+      "why": "Thousands of engineering students are scrambling.",
+      "url": "https://www.telegraphindia.com/edugraph/news/iit-madras-reopens-gate-2027-registration-with-late-fee-check-new-deadline/cid/2184802",
+      "source": "Telegraph India"
     }
   ]
 }

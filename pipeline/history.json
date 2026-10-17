@@ -141,7 +141,16 @@
   "pertinent",
   "hubris",
   "rapport",
-  "ambivalent"
+  "ambivalent",
+  "mutate",
+  "decay",
+  "climb",
+  "slide",
+  "spike",
+  "sag",
+  "growth",
+  "stagnate",
+  "crumble"
  ],
  "loop": [
   "glazing",
@@ -260,7 +269,15 @@
   "diderot-effect",
   "brother-ewwww",
   "npc",
-  "ghosting"
+  "ghosting",
+  "tuk-tuk",
+  "loser-flow",
+  "net-run-rate",
+  "yips",
+  "expressions-of-dhoni",
+  "cricinfo-and-chill",
+  "reflected-glory-syndrom",
+  "dls"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -411,7 +428,15 @@
   "vN1aRN5bQQ0",
   "J0aX8QMkFAI",
   "rUmD0jFTnCA",
-  "2ycHwcV9MvM"
+  "2ycHwcV9MvM",
+  "aoeal3ljnqw",
+  "C2FX6Vw_k3E",
+  "jYJHb3wvaDM",
+  "_ZvnD73m40o",
+  "R1Yl9nvXIE0",
+  "jQOfbObFOCw",
+  "FwitONWEgsk",
+  "krXXSCb_P9Y"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -453,7 +478,9 @@
   "https://traffic.megaphone.fm/DSLLC8986910456.mp3",
   "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3",
   "https://traffic.megaphone.fm/DSLLC2102531802.mp3",
-  "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d77514be-6029-4291-bead-0dcecca30a7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d77514be-6029-4291-bead-0dcecca30a7c&feed=EmVW7VGp"
+  "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d77514be-6029-4291-bead-0dcecca30a7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d77514be-6029-4291-bead-0dcecca30a7c&feed=EmVW7VGp",
+  "https://rss.art19.com/episodes/fdd4f8d2-9920-427e-ae2a-ae2d44768a31.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/866cbaa5-f443-4100-aac7-e4ab367c3ba2/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=866cbaa5-f443-4100-aac7-e4ab367c3ba2&feed=4T39_jAj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -559,6 +586,14 @@
   "The psychology of habit loops: cue, routine, and reward in behavioral change",
   "Nihilism and absurdism: finding personal meaning when life has no inherent purpose",
   "The fascinating history and strategic construction of the Transcontinental Railroad",
-  "How the human gut microbiome and gut-brain axis influence mood and health"
+  "How the human gut microbiome and gut-brain axis influence mood and health",
+  "How the Comptroller and Auditor General (CAG) audits Indian government spending and exposes scams",
+  "Understanding credit scores: how CIBIL works, why it matters for loans, and how to build credit in college",
+  "Network effects: why platforms like WhatsApp and Uber become monopolies and how marketplaces win",
+  "Prompt engineering frameworks: how to write effective prompts to get the best results from AI tools",
+  "The Pygmalion effect: how expectations shape performance and social interactions in everyday life",
+  "Absurdism and Albert Camus: how to find personal meaning in a meaningless universe",
+  "The Battle of Thermopylae: the strategic gripping story of 300 Spartans and the Persian War turning point",
+  "How the placebo effect works: the neuroscience of how belief physically heals the human body"
  ]
 }

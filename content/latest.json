@@ -1,410 +1,417 @@
 {
   "schema": 1,
-  "date": "2026-10-16",
-  "generatedAt": "2026-10-16T03:35:12+00:00",
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T04:20:09+00:00",
   "words": [
     {
-      "word": "Facilitate",
-      "pos": "verb",
-      "pronunciation": "fuh-SIL-ih-tayt",
-      "meaning": "To make an action or process easier.",
-      "insteadOf": "help / make easier",
-      "example": "A shared doc facilitates group work."
-    },
-    {
-      "word": "Plausible",
+      "word": "Ubiquitous",
       "pos": "adjective",
-      "pronunciation": "PLAW-zuh-bul",
-      "meaning": "Seeming reasonable or probable.",
-      "insteadOf": "believable / possible",
-      "example": "That's a plausible explanation, but test it."
+      "pronunciation": "yoo-BIK-wi-tus",
+      "meaning": "Found everywhere at the same time.",
+      "insteadOf": "everywhere / common",
+      "example": "Reels have become ubiquitous; even my dad sends them now."
     },
     {
-      "word": "Nuanced",
+      "word": "Benevolent",
       "pos": "adjective",
-      "pronunciation": "NOO-ahnst",
-      "meaning": "Characterised by subtle shades of meaning or expression.",
-      "insteadOf": "detailed / complicated",
-      "example": "The debate deserved a more nuanced take than a 30-second reel."
+      "pronunciation": "buh-NEV-uh-lunt",
+      "meaning": "Well-meaning and kindly.",
+      "insteadOf": "kind",
+      "example": "A benevolent senior shared all her old notes."
     },
     {
-      "word": "Candid",
+      "word": "Inevitable",
       "pos": "adjective",
-      "pronunciation": "KAN-did",
-      "meaning": "Truthful and straightforward; frank.",
-      "insteadOf": "honest",
-      "example": "Thanks for being candid about the deadline."
+      "pronunciation": "in-EV-ih-tuh-bul",
+      "meaning": "Certain to happen; unavoidable.",
+      "insteadOf": "bound to happen",
+      "example": "Bugs are inevitable; ship anyway and fix fast."
     },
     {
-      "word": "Arbitrary",
-      "pos": "adjective",
-      "pronunciation": "AR-bih-trer-ee",
-      "meaning": "Based on random choice rather than reason.",
-      "insteadOf": "random",
-      "example": "The cut-off seemed arbitrary to everyone."
-    },
-    {
-      "word": "Laconic",
-      "pos": "adjective",
-      "pronunciation": "luh-KON-ik",
-      "meaning": "Using very few words.",
-      "insteadOf": "short / brief",
-      "example": "His laconic 'ok' could mean anything."
-    },
-    {
-      "word": "Placate",
-      "pos": "verb",
-      "pronunciation": "PLAY-kayt",
-      "meaning": "To make someone less angry or hostile.",
-      "insteadOf": "calm down",
-      "example": "He bought samosas to placate the team after the delay."
-    },
-    {
-      "word": "Impetus",
+      "word": "Anomaly",
       "pos": "noun",
-      "pronunciation": "IM-puh-tus",
-      "meaning": "A force that makes something happen or happen faster.",
-      "insteadOf": "push / motivation",
-      "example": "The hackathon gave us the impetus to finish."
+      "pronunciation": "uh-NOM-uh-lee",
+      "meaning": "Something that deviates from what is standard or expected.",
+      "insteadOf": "odd thing / exception",
+      "example": "One anomaly in the data turned out to be a typo."
     },
     {
-      "word": "Rectify",
-      "pos": "verb",
-      "pronunciation": "REK-tih-fy",
-      "meaning": "To put something right; correct.",
-      "insteadOf": "fix",
-      "example": "We'll rectify the error in the next version."
+      "word": "Obsolete",
+      "pos": "adjective",
+      "pronunciation": "ob-suh-LEET",
+      "meaning": "No longer produced or used; out of date.",
+      "insteadOf": "outdated",
+      "example": "Floppy disks are obsolete, but the save icon lives on."
+    },
+    {
+      "word": "Pertinent",
+      "pos": "adjective",
+      "pronunciation": "PUR-tih-nunt",
+      "meaning": "Relevant to the matter at hand.",
+      "insteadOf": "relevant",
+      "example": "Only include pertinent results in the abstract."
+    },
+    {
+      "word": "Hubris",
+      "pos": "noun",
+      "pronunciation": "HYOO-bris",
+      "meaning": "Excessive pride or self-confidence.",
+      "insteadOf": "arrogance / overconfidence",
+      "example": "Skipping the backup was pure hubris."
+    },
+    {
+      "word": "Rapport",
+      "pos": "noun",
+      "pronunciation": "ra-POR",
+      "meaning": "A close, harmonious relationship of mutual understanding.",
+      "insteadOf": "connection / bond",
+      "example": "Good rapport with your mentor makes feedback easier."
+    },
+    {
+      "word": "Ambivalent",
+      "pos": "adjective",
+      "pronunciation": "am-BIV-uh-lunt",
+      "meaning": "Having mixed or contradictory feelings about something.",
+      "insteadOf": "unsure / confused",
+      "example": "I'm ambivalent about moving cities for the job."
     }
   ],
   "loop": [
     {
-      "type": "slang",
-      "term": "Bop",
-      "meaning": "A song that is extremely catchy and good, or casually used to describe someone who is sexually active with many partners.",
-      "example": "Bro, put that new track on, it's an absolute bop.",
-      "context": "Used in music discussions or gossip among friends. Calling a person a bop can be derogatory depending on the tone.",
+      "type": "acronym",
+      "term": "SIP",
+      "meaning": "Systematic Investment Plan, a method of investing a fixed sum regularly in mutual funds.",
+      "example": "Start your SIP early if you want compound interest to do its magic.",
+      "context": "Dropped constantly by finance bros on Instagram reels and podcasts. Completely standard.",
       "tone": "casual",
-      "nsfw": true,
-      "id": "bop"
+      "nsfw": false,
+      "id": "sip"
     },
     {
       "type": "slang",
-      "term": "Rizz",
-      "meaning": "Charm or skill at flirting; short for charisma.",
-      "example": "He talked to her for two minutes and got her number. Unreal rizz.",
-      "tone": "playful",
-      "context": "Praising (or roasting) someone's flirting game. 'W rizz' = good, 'no rizz' = none.",
-      "id": "rizz",
-      "nsfw": false
+      "term": "Gyatt",
+      "meaning": "Exclamation (from 'goddamn') when reacting to someone's attractive body, usually their backside.",
+      "example": "Used as a crude reaction comment under gym or dance videos.",
+      "tone": "crude",
+      "context": "Sexual reaction slang. Know it so you get the meme, but it's disrespectful to say about real people.",
+      "nsfw": true,
+      "id": "gyatt"
     },
     {
       "type": "psych",
-      "term": "Trauma bond",
-      "meaning": "A strong emotional attachment to someone who causes you harm, created by cycles of abuse and affection.",
-      "example": "She keeps going back to him even after the fights. It's a trauma bond.",
+      "term": "Love-bombing",
+      "meaning": "Overwhelming someone with affection and gifts early on to gain control.",
+      "example": "Week one: flowers daily, 'you're my soulmate'. Week six: controlling who she meets.",
       "tone": "serious",
-      "context": "Explains why people stay in toxic relationships.",
-      "id": "trauma-bond",
+      "context": "Red flag in dating stories; often precedes manipulation.",
+      "id": "love-bombing",
       "nsfw": false
     },
     {
       "type": "acronym",
-      "term": "SIP / ETF",
-      "meaning": "Systematic Investment Plan (investing a fixed amount monthly) / Exchange-Traded Fund (a fund traded like a stock).",
-      "example": "Start a ₹1000 SIP in a Nifty 50 ETF or index fund.",
+      "term": "PTSD",
+      "meaning": "Post-Traumatic Stress Disorder: a mental health condition after a traumatic event, with flashbacks, anxiety and avoidance.",
+      "example": "He has PTSD after the accident and avoids driving.",
       "tone": "serious",
-      "context": "Every finance influencer says these. Know them.",
-      "id": "sip-etf",
+      "context": "Often used jokingly ('that exam gave me PTSD'), but the real condition is serious.",
+      "id": "ptsd",
       "nsfw": false
     },
     {
       "type": "paradox",
-      "term": "Pareto principle (80/20)",
-      "meaning": "Roughly 80% of results come from 20% of causes.",
-      "example": "20% of chapters give 80% of exam marks. Study those first.",
+      "term": "Diderot effect",
+      "meaning": "Buying one new thing triggers a spiral of buying more to match it.",
+      "example": "Bought a new desk, now I 'need' a lamp, chair and monitor.",
       "tone": "casual",
-      "context": "Productivity and business talk.",
-      "id": "pareto-principle-80-20",
+      "context": "Consumerism and lifestyle creep.",
+      "id": "diderot-effect",
       "nsfw": false
     },
     {
       "type": "meme",
-      "term": "Tell me ___ without telling me ___",
-      "meaning": "Format: reveal something indirectly through a detail.",
-      "example": "Tell me you're an engineer without telling me: 'Maggi at 3 AM before the viva.'",
+      "term": "Brother ewwww",
+      "meaning": "Reaction expressing disgust at something cringe or gross.",
+      "example": "Pineapple on biryani? Brother ewwww.",
       "tone": "playful",
-      "context": "Reel/caption format.",
-      "id": "tell-me-without-telling-me",
+      "context": "Comment-section reaction.",
+      "id": "brother-ewwww",
       "nsfw": false
     },
     {
       "type": "slang",
-      "term": "Glazing",
-      "meaning": "Over-praising someone excessively, like a fanboy.",
-      "example": "Bro, stop glazing Elon in every conversation.",
+      "term": "NPC",
+      "meaning": "Someone who acts robotically, follows the crowd and has no original thoughts, like a background video-game character.",
+      "example": "He just repeats whatever's trending. Total NPC behaviour.",
       "tone": "mocking",
-      "context": "Calling out someone who hypes a person way too much.",
-      "id": "glazing",
+      "context": "Insulting someone as unoriginal or mindless.",
+      "id": "npc",
       "nsfw": false
     },
     {
       "type": "psych",
-      "term": "Open relationship",
-      "meaning": "A committed couple who agree that one or both can have sexual partners outside the relationship.",
-      "example": "They opened the relationship after five years together.",
-      "tone": "serious",
-      "context": "Usually sexual non-exclusivity; polyamory usually also allows romantic bonds.",
-      "nsfw": true,
-      "id": "open-relationship"
+      "term": "Ghosting",
+      "meaning": "Ending contact suddenly with no explanation.",
+      "example": "Three great dates, then she ghosted me.",
+      "tone": "casual",
+      "context": "Dating and even job hiring ('the recruiter ghosted me').",
+      "id": "ghosting",
+      "nsfw": false
     }
   ],
   "news": {
     "india": [
       {
-        "text": "The Supreme Court ruled that fees for professional courses can be hiked midstream only in exceptional circumstances.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/fees-for-professional-courses-can-be-hiked-midstream-only-in-exceptional-cases-sc/articleshow/134979878.cms"
+        "text": "The Ministry of External Affairs urged the United States to ensure the safety of Indian communities following a foiled temple attack in Illinois.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/mea-calls-on-us-to-ensure-safety-security-of-indians-after-foiled-illinois-temple-attack/article71594327.ece"
       },
       {
-        "text": "The central government raised the windfall tax on petrol exports and cut the duty on diesel exports, effective October 16.",
+        "text": "Serum Institute's Cervavac vaccine received WHO prequalification, allowing UN agencies to procure the shot for children and young adults.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/india-raises-windfall-tax-on-petrol-cuts-duty-on-diesel/article71590967.ece"
+        "url": "https://www.thehindu.com/sci-tech/health/serum-institutes-hpv-vaccine-cervavac-receives-who-prequalification/article71554508.ece"
       },
       {
-        "text": "The Supreme Court held that the AT-1 bonds of Yes Bank worth Rs 8,400 crore cannot be written off.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/cant-write-off-at-1-bonds-of-yes-bank-worth-rs-8-4k-crore-sc/articleshow/134979841.cms"
-      },
-      {
-        "text": "The Supreme Court upheld a high court decision barring Tamil Nadu from providing reservation to converts based on pre-conversion status.",
+        "text": "Ladakh was officially expanded with the creation of Sankoo as its eighth district alongside five new tehsils carved out of Kargil.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/breaking-down-the-share-of-social-groups-among-religions-101792091840588.html"
+        "url": "https://www.hindustantimes.com/india-news/ladakh-new-districts-sankoo-narendra-modi-amit-shah-kargil-101792203503849.html"
       },
       {
-        "text": "The government raised the deepwater gas price ceiling to $9.89 per MMBtu, while keeping the APM gas cap for legacy fields at $7.",
+        "text": "Twenty-four Indian seafarers remain safe following reported tanker attacks in Hormuz and Romania, according to the Ministry of Ports and Shipping.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/24-indian-seafarers-safe-after-tankers-attacked-in-strait-of-hormuz-romania-12197556#publisher=newsstand"
+      },
+      {
+        "text": "The Press Council of India issued new guidelines for journalists covering protests, emphasizing professional neutrality, safety, and ethical reporting standards.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/pci-sets-out-dos-and-don-ts-for-journalists-covering-protests-101792176794574.html"
+      },
+      {
+        "text": "The Supreme Court agreed to examine a plea addressing systemic accessibility blind spots that leave disabled travelers stranded across Indian airports.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/government-raises-deepwater-gas-price-ceiling-to-989mmbtu-apm-gas-cap-at-7/article71543103.ece"
+        "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece"
       },
       {
-        "text": "Union Home Minister Amit Shah stated that the central government has opened bank accounts for over 7,000 surrendered Maoists.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/opened-bank-accounts-for-7-000-surrendered-maoists-shah-101792091481088.html"
+        "text": "The Enforcement Directorate summoned senior leader Pinarayi Vijayan in connection with an ongoing money laundering investigation.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/probe-agency-ed-summons-pinarayi-vijayan-in-money-laundering-case-12197077#publisher=newsstand"
       },
       {
-        "text": "The Supreme Court agreed to examine a plea seeking a regulatory framework for protests near judicial complexes.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/sc-agrees-to-examine-plea-on-curbs-for-stir-near-court-complexes-101792091300587.html"
-      },
-      {
-        "text": "Union Home Minister Amit Shah declared that violent Naxalism is over and the primary task now is to heal wounds.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/violent-naxalism-isover-task-now-is-toheal-wounds-amit-shah/articleshow/134979253.cms"
+        "text": "The Reserve Bank of India announced plans to permit interoperability among account aggregators to provide users a consolidated view of financial assets.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/rbi-to-allow-inter-operability-among-account-aggregators-integrate-bank-deposits-with-cas/article71555668.ece"
       }
     ],
     "world": [
       {
-        "text": "An armed suspect killed three children and a teacher at an Oregon primary school before being shot dead by a local community member.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "At least 33 pupils and a teacher died in Pakistan when a school roof collapsed and buried three classrooms under heavy debris.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cked326llddgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Former Venezuelan president Nicolás Maduro appeared in a New York court to plead not guilty to newly added torture-related charges.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Brazil's Congress approved a constitutional amendment to shorten the maximum work week to 40 hours and ban six-day workweeks.",
+        "text": "Mexican courts sentenced three men to 158 years in prison for the murders of Australian and American surfers in Baja California.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/15/brazil-cuts-work-week-to-40-hours-lula-bolsonaro-election-runoff"
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
       },
       {
-        "text": "Russia and Ukraine exchanged strikes targeting energy infrastructure, with Russian forces hitting a bridge and two vessels in the Black Sea.",
+        "text": "US President Donald Trump waived several sanctions on Russian oil and gas, stating the move serves American national interests.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/russia-says-it-hit-kyiv-bridge-two-vessels-in-black-sea/article71544840.ece"
+        "url": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+      },
+      {
+        "text": "Former Venezuelan President Nicolás Maduro appeared in a New York court to deny newly rewritten indictment charges alleging a campaign of torture.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
+      },
+      {
+        "text": "An Iranian oil supertanker caught fire in the Strait of Hormuz after striking a naval mine, according to the Islamic Revolutionary Guard Corps.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+      },
+      {
+        "text": "Brazil recorded its lowest level of Amazon deforestation since records began in 1988, marking a significant environmental milestone ahead of elections.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "KwR3nxojS0g",
-      "title": "Dollar Cost Averaging vs. Lump Sum Investing",
-      "channel": "Ben Felix",
-      "category": "money",
-      "url": "https://www.youtube.com/watch?v=KwR3nxojS0g",
-      "thumbnail": "https://i.ytimg.com/vi/KwR3nxojS0g/hqdefault.jpg",
+      "id": "afbP6sB_Atc",
+      "title": "Watch this to keep more customers",
+      "channel": "Alex Hormozi",
+      "category": "business",
+      "url": "https://www.youtube.com/watch?v=afbP6sB_Atc",
+      "thumbnail": "https://i.ytimg.com/vi/afbP6sB_Atc/hqdefault.jpg",
       "published": "",
-      "learn": "Why dollar-cost averaging beats lump-sum investing during volatile market conditions",
-      "minutes": 5
+      "learn": "How subscription businesses retain customers and prevent costly churn.",
+      "minutes": 40
     },
     "more": [
       {
-        "id": "0SS0B9lY30s",
-        "title": "Patent in India procedure , time line and cost of patent filing - is it worth the investment ?",
-        "channel": "Patent in India",
+        "id": "VwyrMQEZRys",
+        "title": "Public Interest Litigation (PIL) | Explained | With cases",
+        "channel": "Lawpedia",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=0SS0B9lY30s",
-        "thumbnail": "https://i.ytimg.com/vi/0SS0B9lY30s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VwyrMQEZRys",
+        "thumbnail": "https://i.ytimg.com/vi/VwyrMQEZRys/hqdefault.jpg",
         "published": "",
-        "learn": "How to navigate India's patent timeline, costs, and filing procedures for domestic innovation",
-        "minutes": 14
+        "learn": "How citizens can use PILs to drive legal change and accountability.",
+        "minutes": 16
       },
       {
-        "id": "JXr49yp0tNc",
-        "title": "Vertical Integration (With Real World Examples)  | From A Business Professor",
-        "channel": "Business School 101",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=JXr49yp0tNc",
-        "thumbnail": "https://i.ytimg.com/vi/JXr49yp0tNc/hqdefault.jpg",
+        "id": "fb7YCVR5fIU",
+        "title": "How To Read Financial Statements In 9 Minutes!! Easier Than You Think!",
+        "channel": "Brian Feroldi",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=fb7YCVR5fIU",
+        "thumbnail": "https://i.ytimg.com/vi/fb7YCVR5fIU/hqdefault.jpg",
         "published": "",
-        "learn": "How owning your entire supply chain transforms market power and profit margins",
-        "minutes": 10
+        "learn": "How to read financial statements to measure personal and business wealth.",
+        "minutes": 9
       },
       {
-        "id": "nKSk_TiR8YA",
-        "title": "Most devs don't understand how LLM tokens work",
-        "channel": "Matt Pocock",
+        "id": "gl1r1XV0SLw",
+        "title": "What is a Vector Database? Powering Semantic Search & AI Applications",
+        "channel": "IBM Technology",
         "category": "ai",
-        "url": "https://www.youtube.com/watch?v=nKSk_TiR8YA",
-        "thumbnail": "https://i.ytimg.com/vi/nKSk_TiR8YA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gl1r1XV0SLw",
+        "thumbnail": "https://i.ytimg.com/vi/gl1r1XV0SLw/hqdefault.jpg",
         "published": "",
-        "learn": "How text gets broken down into numeric tokens for large language models",
-        "minutes": 10
+        "learn": "How vector databases and embeddings power modern AI semantic search.",
+        "minutes": 9
       },
       {
-        "id": "cFdCzN7RYbw",
-        "title": "Science Of Persuasion",
-        "channel": "Team Cialdini",
+        "id": "vN1aRN5bQQ0",
+        "title": "How Habits Can Change Your Life (and Your Brain)",
+        "channel": "Be Smart",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=cFdCzN7RYbw",
-        "thumbnail": "https://i.ytimg.com/vi/cFdCzN7RYbw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vN1aRN5bQQ0",
+        "thumbnail": "https://i.ytimg.com/vi/vN1aRN5bQQ0/hqdefault.jpg",
         "published": "",
-        "learn": "How small unexpected favors trigger powerful psychological urges to reciprocate",
-        "minutes": 11
-      },
-      {
-        "id": "3bQsZxDQgzU",
-        "title": "PHILOSOPHY - Sartre",
-        "channel": "The School of Life",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=3bQsZxDQgzU",
-        "thumbnail": "https://i.ytimg.com/vi/3bQsZxDQgzU/hqdefault.jpg",
-        "published": "",
-        "learn": "How we deceive ourselves into following societal expectations instead of choosing freely",
+        "learn": "How the brain forms habit loops and how to change them.",
         "minutes": 6
       },
       {
-        "id": "i9p-a8YJO-o",
-        "title": "How the Suez Canal changed the world - Lucia Carminati",
-        "channel": "TED-Ed",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=i9p-a8YJO-o",
-        "thumbnail": "https://i.ytimg.com/vi/i9p-a8YJO-o/hqdefault.jpg",
+        "id": "J0aX8QMkFAI",
+        "title": "Nihilism vs. Existentialism vs. Absurdism — Explained and Compared",
+        "channel": "The Living Philosophy",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=J0aX8QMkFAI",
+        "thumbnail": "https://i.ytimg.com/vi/J0aX8QMkFAI/hqdefault.jpg",
         "published": "",
-        "learn": "How the Suez Canal reshaped global shipping routes and imperial geopolitics",
-        "minutes": 5
+        "learn": "How to find personal meaning when life has no inherent purpose.",
+        "minutes": 14
       },
       {
-        "id": "fciGNBN0nKM",
-        "title": "How optimizing circadian rhythms can increase healthy years | Satchin Panda | TEDxBoston",
-        "channel": "TEDx Talks",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=fciGNBN0nKM",
-        "thumbnail": "https://i.ytimg.com/vi/fciGNBN0nKM/hqdefault.jpg",
+        "id": "rUmD0jFTnCA",
+        "title": "How the Transcontinental Railroad Transformed America | The Engineering that Built the World (S1)",
+        "channel": "HISTORY",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=rUmD0jFTnCA",
+        "thumbnail": "https://i.ytimg.com/vi/rUmD0jFTnCA/hqdefault.jpg",
         "published": "",
-        "learn": "How light exposure directly controls your biological clock and sleep cycles",
-        "minutes": 13
+        "learn": "How engineering the Transcontinental Railroad transformed American commerce and geography.",
+        "minutes": 11
+      },
+      {
+        "id": "2ycHwcV9MvM",
+        "title": "The Truth About the Gut to Brain Connection",
+        "channel": "SciShow",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=2ycHwcV9MvM",
+        "thumbnail": "https://i.ytimg.com/vi/2ycHwcV9MvM/hqdefault.jpg",
+        "published": "",
+        "learn": "How gut bacteria communicate with your brain to influence mood.",
+        "minutes": 10
       }
     ]
   },
   "podcasts": [
     {
-      "id": "founders-435-mark-zuckerberg-s-empire",
-      "title": "#435 Mark Zuckerberg's Empire",
+      "id": "founders-437-the-tycoons-carnegie-rockefeller-gould-morgan",
+      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
       "show": "Founders",
       "category": "business",
-      "audioUrl": "https://traffic.megaphone.fm/DSLLC8986910456.mp3",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC2102531802.mp3",
       "link": "",
-      "durationSec": 2471,
+      "durationSec": 3251,
       "startSec": null,
-      "why": "Uncover the wild, high-stakes story of how Mark Zuckerberg built history's biggest digital empire."
+      "why": "Discover how four visionary tycoons completely invented the American supereconomy from scratch."
     },
     {
-      "id": "you-re-dead-to-me-medieval-korea-from-the-goryeo-to-joseon-periods",
-      "title": "Medieval Korea: from the Goryeo to Joseon periods",
-      "show": "You're Dead to Me",
-      "category": "history",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0p5qdt1.mp3",
-      "link": "http://www.bbc.co.uk/programmes/m0030lsn",
-      "durationSec": 3645,
+      "id": "radiolab-the-smell-of-hell",
+      "title": "The Smell of Hell",
+      "show": "Radiolab",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d77514be-6029-4291-bead-0dcecca30a7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d77514be-6029-4291-bead-0dcecca30a7c&feed=EmVW7VGp",
+      "link": "https://www.radiolab.org",
+      "durationSec": 2589,
       "startSec": null,
-      "why": "Explore the epic history and hidden drama of medieval Korea with expert banter and laughs."
+      "why": "Uncover the surprising truth behind the one universal scent humans always associate with death."
     }
   ],
   "onThisDay": [
     {
-      "year": 1905,
+      "year": 1979,
       "kind": "event",
-      "text": "The British Raj partitioned the Bengal Presidency, sparking widespread nationalist resistance and protests across the country.",
-      "url": "https://en.wikipedia.org/wiki/British_Raj",
+      "text": "1979: Mother Teresa was awarded the Nobel Peace Prize for her dedicated humanitarian work supporting the poorest and most vulnerable people in India and globally.",
+      "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
       "india": true
     },
     {
-      "year": 1799,
-      "kind": "died",
-      "text": "Veerapandiya Kattabomman was executed by the British for refusing to submit to their colonial rule, becoming a prominent freedom fighter.",
-      "url": "https://en.wikipedia.org/wiki/Veerapandiya_Kattabomman",
+      "year": 1817,
+      "kind": "born",
+      "text": "1817: Syed Ahmad Khan, the pioneering Indian philosopher and educator who founded Aligarh Muslim University, was born.",
+      "url": "https://en.wikipedia.org/wiki/Syed_Ahmad_Khan",
       "india": true
     },
     {
-      "year": 1964,
+      "year": 1991,
       "kind": "event",
-      "text": "China successfully conducted its first nuclear test, becoming the world's fifth nuclear-armed power and altering Asian geopolitics.",
-      "url": "https://en.wikipedia.org/wiki/Project_596",
+      "text": "1991: Rudrapur bombings by Sikh separatists killed 41 people during a Hindu celebration in Uttarakhand, marking a dark chapter of sectarian violence.",
+      "url": "https://en.wikipedia.org/wiki/1991_Rudrapur_bombings",
+      "india": true
+    },
+    {
+      "year": 1777,
+      "kind": "event",
+      "text": "1777: British general John Burgoyne surrendered during the American Revolutionary War, a turning point that convinced France to enter the conflict in alliance with the United States.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
       "india": false
     },
     {
-      "year": 1923,
+      "year": 1604,
       "kind": "event",
-      "text": "Roy and Walt Disney founded the Disney Brothers Cartoon Studio, which grew into one of the world's largest entertainment corporations.",
-      "url": "https://en.wikipedia.org/wiki/Roy_O._Disney",
+      "text": "1604: German astronomer Johannes Kepler began observing Kepler's Supernova, an exceptionally bright celestial event that advanced early modern astronomy.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Bollywood actor and US citizen Imran Khan has reportedly been asked by Mumbai Police to leave India by October 28 after joining an anti-CEC protest.",
-      "why": "Viral news sparking massive debate over immigration laws and political protests.",
-      "url": "https://www.reddit.com/r/india/comments/1x6dkt0/mumbai_police_ask_actor_imran_khan_to_leave_india/",
-      "source": "r/india"
+      "text": "Dhruv Rathee traveled to London to stage a protest against the Modi government at Parliament Square amid legal troubles.",
+      "why": "Massive political debate online between his supporters and critics.",
+      "url": "https://www.livehindustan.com/national/dhruv-rathee-reached-london-amid-abhijeet-dipke-detention-claims-international-protest-201792200182818.html",
+      "source": "Hindustan"
     },
     {
-      "text": "US police have reportedly arrested a teenager who allegedly plotted a mass shooting at a Hindu temple in Illinois.",
-      "why": "Terrifying thwarted attack making global headlines and trending across social media.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x6gf7c/us_teen_arrested_for_plotting_mass_shooting_at/",
+      "text": "Anjali Arora abruptly left a stage performance after the 'Kacha Badam' song was played, sparking a major debate over artist respect.",
+      "why": "Viral clip sparking fierce online arguments among netizens.",
+      "url": "https://www.indiatv.in/entertainment/tv/anjali-arora-furious-moment-kacha-badam-started-playing-left-stage-within-12-minutes-asking-dont-you-know-how-to-respect-artist-2026-10-16-1249223",
+      "source": "India TV Hindi"
+    },
+    {
+      "text": "Reliance has stated that while Starlink is welcome, it must strictly follow Indian laws amidst an ongoing satcom row with Elon Musk.",
+      "why": "High-stakes corporate clash capturing the tech world's attention.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7awwa/welcome_starlink_but_it_must_follow_law_reliance/",
       "source": "r/IndiaSpeaks"
     },
     {
-      "text": "The central government has reportedly levied a windfall tax of 2.5 rupees per litre on petrol exports, effective immediately.",
-      "why": "Major economic policy change directly impacting fuel pricing and trending heavily.",
-      "url": "https://www.jagran.com/news/national-25-per-litre-windfall-tax-on-petrol-exports-40406481.html",
-      "source": "Jagran"
-    },
-    {
-      "text": "A Delhi Ramlila committee plans to burn a 30-foot cockroach effigy alongside Ravana during upcoming Dussehra celebrations.",
-      "why": "Bizarre and meme-worthy festive plans taking over feeds.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x6pblc/a_ramlila_committee_in_delhis_pitampura_plans_to/",
+      "text": "A massive fire engulfed the historic Maa Bhagwati temple in Badiyakot, severely damaging its centuries-old wooden structure.",
+      "why": "Deeply shocking visuals leading to widespread grief and outrage.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7bgj1/uttarakhand_a_massive_fire_engulfed_the_historic/",
       "source": "r/IndiaSpeaks"
     },
     {
-      "text": "Oppo's upcoming wide-folding Reno X phone has had its key display features and specifications leaked online ahead of its official launch.",
-      "why": "Major tech leak exciting smartphone enthusiasts across platforms.",
-      "url": "https://www.gadgets360.com/mobiles/news/oppo-wide-folding-phone-display-tipped-specifications-features-12190026",
-      "source": "Gadgets 360"
+      "text": "Samsung has teased the upcoming launch of the Galaxy F70 5G in India under Rs 20,000 with an AMOLED display.",
+      "why": "Budget smartphone enthusiasts are hyping up the specs.",
+      "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php",
+      "source": "GSMArena.com"
     }
   ]
 }

@@ -1,0 +1,417 @@
+{
+  "schema": 1,
+  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T04:20:09+00:00",
+  "words": [
+    {
+      "word": "Ubiquitous",
+      "pos": "adjective",
+      "pronunciation": "yoo-BIK-wi-tus",
+      "meaning": "Found everywhere at the same time.",
+      "insteadOf": "everywhere / common",
+      "example": "Reels have become ubiquitous; even my dad sends them now."
+    },
+    {
+      "word": "Benevolent",
+      "pos": "adjective",
+      "pronunciation": "buh-NEV-uh-lunt",
+      "meaning": "Well-meaning and kindly.",
+      "insteadOf": "kind",
+      "example": "A benevolent senior shared all her old notes."
+    },
+    {
+      "word": "Inevitable",
+      "pos": "adjective",
+      "pronunciation": "in-EV-ih-tuh-bul",
+      "meaning": "Certain to happen; unavoidable.",
+      "insteadOf": "bound to happen",
+      "example": "Bugs are inevitable; ship anyway and fix fast."
+    },
+    {
+      "word": "Anomaly",
+      "pos": "noun",
+      "pronunciation": "uh-NOM-uh-lee",
+      "meaning": "Something that deviates from what is standard or expected.",
+      "insteadOf": "odd thing / exception",
+      "example": "One anomaly in the data turned out to be a typo."
+    },
+    {
+      "word": "Obsolete",
+      "pos": "adjective",
+      "pronunciation": "ob-suh-LEET",
+      "meaning": "No longer produced or used; out of date.",
+      "insteadOf": "outdated",
+      "example": "Floppy disks are obsolete, but the save icon lives on."
+    },
+    {
+      "word": "Pertinent",
+      "pos": "adjective",
+      "pronunciation": "PUR-tih-nunt",
+      "meaning": "Relevant to the matter at hand.",
+      "insteadOf": "relevant",
+      "example": "Only include pertinent results in the abstract."
+    },
+    {
+      "word": "Hubris",
+      "pos": "noun",
+      "pronunciation": "HYOO-bris",
+      "meaning": "Excessive pride or self-confidence.",
+      "insteadOf": "arrogance / overconfidence",
+      "example": "Skipping the backup was pure hubris."
+    },
+    {
+      "word": "Rapport",
+      "pos": "noun",
+      "pronunciation": "ra-POR",
+      "meaning": "A close, harmonious relationship of mutual understanding.",
+      "insteadOf": "connection / bond",
+      "example": "Good rapport with your mentor makes feedback easier."
+    },
+    {
+      "word": "Ambivalent",
+      "pos": "adjective",
+      "pronunciation": "am-BIV-uh-lunt",
+      "meaning": "Having mixed or contradictory feelings about something.",
+      "insteadOf": "unsure / confused",
+      "example": "I'm ambivalent about moving cities for the job."
+    }
+  ],
+  "loop": [
+    {
+      "type": "acronym",
+      "term": "SIP",
+      "meaning": "Systematic Investment Plan, a method of investing a fixed sum regularly in mutual funds.",
+      "example": "Start your SIP early if you want compound interest to do its magic.",
+      "context": "Dropped constantly by finance bros on Instagram reels and podcasts. Completely standard.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "sip"
+    },
+    {
+      "type": "slang",
+      "term": "Gyatt",
+      "meaning": "Exclamation (from 'goddamn') when reacting to someone's attractive body, usually their backside.",
+      "example": "Used as a crude reaction comment under gym or dance videos.",
+      "tone": "crude",
+      "context": "Sexual reaction slang. Know it so you get the meme, but it's disrespectful to say about real people.",
+      "nsfw": true,
+      "id": "gyatt"
+    },
+    {
+      "type": "psych",
+      "term": "Love-bombing",
+      "meaning": "Overwhelming someone with affection and gifts early on to gain control.",
+      "example": "Week one: flowers daily, 'you're my soulmate'. Week six: controlling who she meets.",
+      "tone": "serious",
+      "context": "Red flag in dating stories; often precedes manipulation.",
+      "id": "love-bombing",
+      "nsfw": false
+    },
+    {
+      "type": "acronym",
+      "term": "PTSD",
+      "meaning": "Post-Traumatic Stress Disorder: a mental health condition after a traumatic event, with flashbacks, anxiety and avoidance.",
+      "example": "He has PTSD after the accident and avoids driving.",
+      "tone": "serious",
+      "context": "Often used jokingly ('that exam gave me PTSD'), but the real condition is serious.",
+      "id": "ptsd",
+      "nsfw": false
+    },
+    {
+      "type": "paradox",
+      "term": "Diderot effect",
+      "meaning": "Buying one new thing triggers a spiral of buying more to match it.",
+      "example": "Bought a new desk, now I 'need' a lamp, chair and monitor.",
+      "tone": "casual",
+      "context": "Consumerism and lifestyle creep.",
+      "id": "diderot-effect",
+      "nsfw": false
+    },
+    {
+      "type": "meme",
+      "term": "Brother ewwww",
+      "meaning": "Reaction expressing disgust at something cringe or gross.",
+      "example": "Pineapple on biryani? Brother ewwww.",
+      "tone": "playful",
+      "context": "Comment-section reaction.",
+      "id": "brother-ewwww",
+      "nsfw": false
+    },
+    {
+      "type": "slang",
+      "term": "NPC",
+      "meaning": "Someone who acts robotically, follows the crowd and has no original thoughts, like a background video-game character.",
+      "example": "He just repeats whatever's trending. Total NPC behaviour.",
+      "tone": "mocking",
+      "context": "Insulting someone as unoriginal or mindless.",
+      "id": "npc",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Ghosting",
+      "meaning": "Ending contact suddenly with no explanation.",
+      "example": "Three great dates, then she ghosted me.",
+      "tone": "casual",
+      "context": "Dating and even job hiring ('the recruiter ghosted me').",
+      "id": "ghosting",
+      "nsfw": false
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "The Ministry of External Affairs urged the United States to ensure the safety of Indian communities following a foiled temple attack in Illinois.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/mea-calls-on-us-to-ensure-safety-security-of-indians-after-foiled-illinois-temple-attack/article71594327.ece"
+      },
+      {
+        "text": "Serum Institute's Cervavac vaccine received WHO prequalification, allowing UN agencies to procure the shot for children and young adults.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/sci-tech/health/serum-institutes-hpv-vaccine-cervavac-receives-who-prequalification/article71554508.ece"
+      },
+      {
+        "text": "Ladakh was officially expanded with the creation of Sankoo as its eighth district alongside five new tehsils carved out of Kargil.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/ladakh-new-districts-sankoo-narendra-modi-amit-shah-kargil-101792203503849.html"
+      },
+      {
+        "text": "Twenty-four Indian seafarers remain safe following reported tanker attacks in Hormuz and Romania, according to the Ministry of Ports and Shipping.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/24-indian-seafarers-safe-after-tankers-attacked-in-strait-of-hormuz-romania-12197556#publisher=newsstand"
+      },
+      {
+        "text": "The Press Council of India issued new guidelines for journalists covering protests, emphasizing professional neutrality, safety, and ethical reporting standards.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/pci-sets-out-dos-and-don-ts-for-journalists-covering-protests-101792176794574.html"
+      },
+      {
+        "text": "The Supreme Court agreed to examine a plea addressing systemic accessibility blind spots that leave disabled travelers stranded across Indian airports.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/news/national/supreme-court-to-examine-plea-that-systemic-blind-spots-in-aviation-boom-left-disabled-travellers-stranded/article71555374.ece"
+      },
+      {
+        "text": "The Enforcement Directorate summoned senior leader Pinarayi Vijayan in connection with an ongoing money laundering investigation.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/probe-agency-ed-summons-pinarayi-vijayan-in-money-laundering-case-12197077#publisher=newsstand"
+      },
+      {
+        "text": "The Reserve Bank of India announced plans to permit interoperability among account aggregators to provide users a consolidated view of financial assets.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/rbi-to-allow-inter-operability-among-account-aggregators-integrate-bank-deposits-with-cas/article71555668.ece"
+      }
+    ],
+    "world": [
+      {
+        "text": "Mexican courts sentenced three men to 158 years in prison for the murders of Australian and American surfers in Baja California.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
+      },
+      {
+        "text": "US President Donald Trump waived several sanctions on Russian oil and gas, stating the move serves American national interests.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/donald-trump-waives-sanctions-tariffs-on-purchase-of-russian-oil-and-gas/article71595243.ece"
+      },
+      {
+        "text": "Former Venezuelan President Nicolás Maduro appeared in a New York court to deny newly rewritten indictment charges alleging a campaign of torture.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/15/nicolas-maduro-torture-allegations-cilia-flores"
+      },
+      {
+        "text": "An Iranian oil supertanker caught fire in the Strait of Hormuz after striking a naval mine, according to the Islamic Revolutionary Guard Corps.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/liveblog/2026/10/17/draft-2?traffic_source=rss"
+      },
+      {
+        "text": "Brazil recorded its lowest level of Amazon deforestation since records began in 1988, marking a significant environmental milestone ahead of elections.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "afbP6sB_Atc",
+      "title": "Watch this to keep more customers",
+      "channel": "Alex Hormozi",
+      "category": "business",
+      "url": "https://www.youtube.com/watch?v=afbP6sB_Atc",
+      "thumbnail": "https://i.ytimg.com/vi/afbP6sB_Atc/hqdefault.jpg",
+      "published": "",
+      "learn": "How subscription businesses retain customers and prevent costly churn.",
+      "minutes": 40
+    },
+    "more": [
+      {
+        "id": "VwyrMQEZRys",
+        "title": "Public Interest Litigation (PIL) | Explained | With cases",
+        "channel": "Lawpedia",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=VwyrMQEZRys",
+        "thumbnail": "https://i.ytimg.com/vi/VwyrMQEZRys/hqdefault.jpg",
+        "published": "",
+        "learn": "How citizens can use PILs to drive legal change and accountability.",
+        "minutes": 16
+      },
+      {
+        "id": "fb7YCVR5fIU",
+        "title": "How To Read Financial Statements In 9 Minutes!! Easier Than You Think!",
+        "channel": "Brian Feroldi",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=fb7YCVR5fIU",
+        "thumbnail": "https://i.ytimg.com/vi/fb7YCVR5fIU/hqdefault.jpg",
+        "published": "",
+        "learn": "How to read financial statements to measure personal and business wealth.",
+        "minutes": 9
+      },
+      {
+        "id": "gl1r1XV0SLw",
+        "title": "What is a Vector Database? Powering Semantic Search & AI Applications",
+        "channel": "IBM Technology",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=gl1r1XV0SLw",
+        "thumbnail": "https://i.ytimg.com/vi/gl1r1XV0SLw/hqdefault.jpg",
+        "published": "",
+        "learn": "How vector databases and embeddings power modern AI semantic search.",
+        "minutes": 9
+      },
+      {
+        "id": "vN1aRN5bQQ0",
+        "title": "How Habits Can Change Your Life (and Your Brain)",
+        "channel": "Be Smart",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=vN1aRN5bQQ0",
+        "thumbnail": "https://i.ytimg.com/vi/vN1aRN5bQQ0/hqdefault.jpg",
+        "published": "",
+        "learn": "How the brain forms habit loops and how to change them.",
+        "minutes": 6
+      },
+      {
+        "id": "J0aX8QMkFAI",
+        "title": "Nihilism vs. Existentialism vs. Absurdism — Explained and Compared",
+        "channel": "The Living Philosophy",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=J0aX8QMkFAI",
+        "thumbnail": "https://i.ytimg.com/vi/J0aX8QMkFAI/hqdefault.jpg",
+        "published": "",
+        "learn": "How to find personal meaning when life has no inherent purpose.",
+        "minutes": 14
+      },
+      {
+        "id": "rUmD0jFTnCA",
+        "title": "How the Transcontinental Railroad Transformed America | The Engineering that Built the World (S1)",
+        "channel": "HISTORY",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=rUmD0jFTnCA",
+        "thumbnail": "https://i.ytimg.com/vi/rUmD0jFTnCA/hqdefault.jpg",
+        "published": "",
+        "learn": "How engineering the Transcontinental Railroad transformed American commerce and geography.",
+        "minutes": 11
+      },
+      {
+        "id": "2ycHwcV9MvM",
+        "title": "The Truth About the Gut to Brain Connection",
+        "channel": "SciShow",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=2ycHwcV9MvM",
+        "thumbnail": "https://i.ytimg.com/vi/2ycHwcV9MvM/hqdefault.jpg",
+        "published": "",
+        "learn": "How gut bacteria communicate with your brain to influence mood.",
+        "minutes": 10
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "founders-437-the-tycoons-carnegie-rockefeller-gould-morgan",
+      "title": "#437 The Tycoons: Carnegie, Rockefeller, Gould & Morgan",
+      "show": "Founders",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC2102531802.mp3",
+      "link": "",
+      "durationSec": 3251,
+      "startSec": null,
+      "why": "Discover how four visionary tycoons completely invented the American supereconomy from scratch."
+    },
+    {
+      "id": "radiolab-the-smell-of-hell",
+      "title": "The Smell of Hell",
+      "show": "Radiolab",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/d77514be-6029-4291-bead-0dcecca30a7c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=d77514be-6029-4291-bead-0dcecca30a7c&feed=EmVW7VGp",
+      "link": "https://www.radiolab.org",
+      "durationSec": 2589,
+      "startSec": null,
+      "why": "Uncover the surprising truth behind the one universal scent humans always associate with death."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1979,
+      "kind": "event",
+      "text": "1979: Mother Teresa was awarded the Nobel Peace Prize for her dedicated humanitarian work supporting the poorest and most vulnerable people in India and globally.",
+      "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "india": true
+    },
+    {
+      "year": 1817,
+      "kind": "born",
+      "text": "1817: Syed Ahmad Khan, the pioneering Indian philosopher and educator who founded Aligarh Muslim University, was born.",
+      "url": "https://en.wikipedia.org/wiki/Syed_Ahmad_Khan",
+      "india": true
+    },
+    {
+      "year": 1991,
+      "kind": "event",
+      "text": "1991: Rudrapur bombings by Sikh separatists killed 41 people during a Hindu celebration in Uttarakhand, marking a dark chapter of sectarian violence.",
+      "url": "https://en.wikipedia.org/wiki/1991_Rudrapur_bombings",
+      "india": true
+    },
+    {
+      "year": 1777,
+      "kind": "event",
+      "text": "1777: British general John Burgoyne surrendered during the American Revolutionary War, a turning point that convinced France to enter the conflict in alliance with the United States.",
+      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "india": false
+    },
+    {
+      "year": 1604,
+      "kind": "event",
+      "text": "1604: German astronomer Johannes Kepler began observing Kepler's Supernova, an exceptionally bright celestial event that advanced early modern astronomy.",
+      "url": "https://en.wikipedia.org/wiki/Johannes_Kepler",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Dhruv Rathee traveled to London to stage a protest against the Modi government at Parliament Square amid legal troubles.",
+      "why": "Massive political debate online between his supporters and critics.",
+      "url": "https://www.livehindustan.com/national/dhruv-rathee-reached-london-amid-abhijeet-dipke-detention-claims-international-protest-201792200182818.html",
+      "source": "Hindustan"
+    },
+    {
+      "text": "Anjali Arora abruptly left a stage performance after the 'Kacha Badam' song was played, sparking a major debate over artist respect.",
+      "why": "Viral clip sparking fierce online arguments among netizens.",
+      "url": "https://www.indiatv.in/entertainment/tv/anjali-arora-furious-moment-kacha-badam-started-playing-left-stage-within-12-minutes-asking-dont-you-know-how-to-respect-artist-2026-10-16-1249223",
+      "source": "India TV Hindi"
+    },
+    {
+      "text": "Reliance has stated that while Starlink is welcome, it must strictly follow Indian laws amidst an ongoing satcom row with Elon Musk.",
+      "why": "High-stakes corporate clash capturing the tech world's attention.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7awwa/welcome_starlink_but_it_must_follow_law_reliance/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "A massive fire engulfed the historic Maa Bhagwati temple in Badiyakot, severely damaging its centuries-old wooden structure.",
+      "why": "Deeply shocking visuals leading to widespread grief and outrage.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x7bgj1/uttarakhand_a_massive_fire_engulfed_the_historic/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "Samsung has teased the upcoming launch of the Galaxy F70 5G in India under Rs 20,000 with an AMOLED display.",
+      "why": "Budget smartphone enthusiasts are hyping up the specs.",
+      "url": "https://www.gsmarena.com/samsung_reveals_key_galaxy_f70_5g_specs_and_its_launch_date-news-75066.php",
+      "source": "GSMArena.com"
+    }
+  ]
+}

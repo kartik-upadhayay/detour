@@ -15,6 +15,10 @@ on:
         description: "Do nothing if today's content already exists"
         type: boolean
         default: false
+      refresh_cards:
+        description: "Regenerate today's words and loop cards too"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -40,6 +44,7 @@ jobs:
         run: |
           for attempt in 1 2 3; do
             if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.skip_if_done }}" = "true" ]; then FLAGS="--skip-if-done"; else FLAGS=""; fi
+            if [ "${{ inputs.refresh_cards }}" = "true" ]; then FLAGS="$FLAGS --refresh-cards"; fi
             python pipeline/build_day.py $FLAGS && exit 0
             echo "Attempt $attempt failed, retrying in 60s"; sleep 60
           done

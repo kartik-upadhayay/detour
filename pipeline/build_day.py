@@ -43,6 +43,22 @@ UA = "Mozilla/5.0 (DetourDaily; personal use)"
 WORDS_PER_DAY = 9
 LOOP_PER_DAY = 8
 LOOP_TYPES = ["slang", "psych", "acronym", "paradox", "meme"]
+WORD_THEMES = [
+    "describing people and personalities", "arguments, debate and persuasion", "work, ambition and productivity",
+    "emotions and moods", "money, value and deals", "friendship, dating and social life", "thinking, ideas and logic",
+    "criticism and disagreement", "change, progress and decline", "speaking and writing well", "honesty, deception and trust",
+    "intensity, size and amount", "time, speed and pace", "success, failure and luck", "humour, wit and teasing",
+    "power, leadership and influence", "health, energy and the body", "beauty, style and taste",
+]
+LOOP_ANGLES = [
+    "the newest Gen Z and Gen Alpha internet slang of 2025-2026", "dating apps and modern relationship terms",
+    "gaming, streamers and Twitch/Discord culture", "finance-bro, crypto and hustle-culture lingo",
+    "therapy-speak and mental-health terms people use casually", "Indian internet slang, Hinglish meme words and desi Twitter",
+    "office and corporate jargon young professionals mock", "gym, fitness and looksmaxxing culture",
+    "fandoms, anime, K-pop and pop-culture references", "cognitive biases, psychology effects and laws of human behaviour",
+    "tech, startup and AI buzzwords", "philosophy thought experiments and famous paradoxes",
+    "viral meme formats and reaction phrases", "cricket and sports banter", "fashion, aesthetics and 'core' trends",
+]
 INDIA_BULLETS = (8, 10)
 WORLD_BULLETS = (5, 6)
 
@@ -222,14 +238,25 @@ def build_words(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
     seen = set(hist["words"])
     words: list[dict] = []
     if key:
-        got = gemini(prompt("words", count=str(WORDS_PER_DAY),
-                            avoid=", ".join(hist["words"][-400:]) or "(none)"), key)
-        for w in got if isinstance(got, list) else []:
-            if valid_word(w) and slug(w["word"]) not in seen and all(slug(w["word"]) != slug(x["word"]) for x in words):
-                words.append(w)
-        print(f"  gemini words: {len(words)} new")
-        if not words:
-            print(f"  ! gemini words sample: {json.dumps(got, ensure_ascii=False)[:400]}", file=sys.stderr)
+        # Gemini Lite keeps suggesting the same "safe" words, so ask for many candidates around a
+        # different theme each day, keep only unseen ones, and ask once more if too few are new.
+        themes = rng.sample(WORD_THEMES, 2)
+        for attempt, theme in enumerate(themes):
+            letters = ", ".join(rng.sample("BCDEFGHILMNOPRSTV", 3))
+            got = gemini(prompt("words", count="30", focus=theme, letters=letters,
+                                avoid=", ".join(hist["words"][-500:] + [slug(w["word"]) for w in words]) or "(none)"), key)
+            fresh = 0
+            for w in got if isinstance(got, list) else []:
+                if len(words) >= WORDS_PER_DAY:
+                    break
+                if valid_word(w) and slug(w["word"]) not in seen and all(slug(w["word"]) != slug(x["word"]) for x in words):
+                    words.append(w)
+                    fresh += 1
+            print(f"  gemini words ({theme}): {fresh} new")
+            if fresh == 0:
+                print(f"  ! gemini words sample: {json.dumps(got, ensure_ascii=False)[:300]}", file=sys.stderr)
+            if len(words) >= 5:
+                break
     if len(words) < WORDS_PER_DAY:
         # Top up from the starter list: unseen first, then the ones shown longest ago. Never come up short.
         seed = json.loads((PIPE / "seed" / "words.json").read_text(encoding="utf-8"))
@@ -261,14 +288,26 @@ def build_loop(key: str | None, hist: dict, rng: random.Random) -> list[dict]:
     seen = set(hist["loop"])
     cards: list[dict] = []
     if key:
-        got = gemini(prompt("loop", count=str(LOOP_PER_DAY),
-                            avoid=", ".join(hist["loop"][-600:]) or "(none)"), key)
-        for c in got if isinstance(got, list) else []:
-            if valid_card(c) and slug(c["term"]) not in seen and all(slug(c["term"]) != slug(x["term"]) for x in cards):
-                cards.append(c)
-        print(f"  gemini loop cards: {len(cards)} new")
-        if not cards:
-            print(f"  ! gemini loop sample: {json.dumps(got, ensure_ascii=False)[:400]}", file=sys.stderr)
+        # Same trick as words: a fresh angle each day and a big candidate pool, then filter out repeats.
+        angles = rng.sample(LOOP_ANGLES, 2)
+        for angle in angles:
+            got = gemini(prompt("loop", count="24", focus=angle,
+                                avoid=", ".join(hist["loop"][-700:] + [c["term"] for c in cards]) or "(none)"), key)
+            fresh: list[dict] = []
+            for c in got if isinstance(got, list) else []:
+                if valid_card(c) and slug(c["term"]) not in seen and all(slug(c["term"]) != slug(x["term"]) for x in cards + fresh):
+                    fresh.append(c)
+            # Spread across types: round-robin until the deck is full.
+            by_type = {t: [c for c in fresh if c["type"] == t] for t in LOOP_TYPES}
+            while len(cards) < LOOP_PER_DAY and any(by_type.values()):
+                for t in LOOP_TYPES:
+                    if by_type[t] and len(cards) < LOOP_PER_DAY:
+                        cards.append(by_type[t].pop(0))
+            print(f"  gemini loop cards ({angle}): {len(fresh)} new candidates, deck now {len(cards)}")
+            if not fresh:
+                print(f"  ! gemini loop sample: {json.dumps(got, ensure_ascii=False)[:300]}", file=sys.stderr)
+            if len(cards) >= 6:
+                break
     if len(cards) < LOOP_PER_DAY:
         # Top up from the starter cards, round-robin across types for variety; unseen first, then oldest.
         seed = json.loads((PIPE / "seed" / "loop.json").read_text(encoding="utf-8"))
@@ -511,6 +550,7 @@ def main() -> int:
     ap.add_argument("--dry-run", action="store_true")
     ap.add_argument("--skip-if-done", action="store_true", help="exit if today's content already exists")
     ap.add_argument("--videos-only", action="store_true", help="refresh only today's videos, keep everything else")
+    ap.add_argument("--refresh-cards", action="store_true", help="on a same-day rerun, regenerate words and loop cards too")
     args = ap.parse_args()
 
     now = dt.datetime.now(dt.timezone.utc)
@@ -532,6 +572,7 @@ def main() -> int:
         prev = json.loads((CONTENT / "latest.json").read_text(encoding="utf-8"))
         if prev.get("date") != day.isoformat():
             prev = None
+    keep_cards = bool(prev) and not args.refresh_cards
     pool = json.loads(VIDEO_POOL.read_text(encoding="utf-8")) if VIDEO_POOL.exists() else {}
     if args.videos_only:
         if not prev:
@@ -544,8 +585,8 @@ def main() -> int:
             "schema": 1,
             "date": day.isoformat(),
             "generatedAt": now.isoformat(timespec="seconds"),
-            "words": prev["words"] if prev else build_words(key, hist, rng),
-            "loop": prev["loop"] if prev else build_loop(key, hist, rng),
+            "words": prev["words"] if keep_cards else build_words(key, hist, rng),
+            "loop": prev["loop"] if keep_cards else build_loop(key, hist, rng),
             "news": build_news(key, sources, now),
             "videos": learn.build_videos(key, gemini, prompt, hist, day.toordinal(), sources["categories"], pool),
             "podcasts": learn.build_podcasts(key, gemini, prompt, sources["podcasts"], hist, day.toordinal()),
@@ -572,7 +613,7 @@ def main() -> int:
     (CONTENT / "latest.json").write_text(text, encoding="utf-8")
     (CONTENT / f"{day.isoformat()}.json").write_text(text, encoding="utf-8")
 
-    if not prev:
+    if not keep_cards and not args.videos_only:
         hist["words"] += [slug(w["word"]) for w in content["words"]]
         hist["loop"] += [c["id"] for c in content["loop"]]
     hist["videos"] += [v["id"] for v in [content["videos"]["hero"], *content["videos"]["more"]] if v]

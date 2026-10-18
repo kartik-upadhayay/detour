@@ -1,422 +1,410 @@
 {
   "schema": 1,
-  "date": "2026-10-17",
-  "generatedAt": "2026-10-17T06:04:13+00:00",
+  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T04:55:10+00:00",
   "words": [
     {
-      "word": "Cavalier",
+      "word": "Fortuitous",
       "pos": "adjective",
-      "pronunciation": "/ˌkævəˈlɪər/",
-      "meaning": "Showing a lack of proper concern; nonchalantly dismissive.",
-      "insteadOf": "careless",
-      "example": "His cavalier attitude toward exam prep worried our entire project group."
+      "pronunciation": "for-TOO-ih-tus",
+      "meaning": "Happening by a lucky chance rather than design.",
+      "insteadOf": "lucky",
+      "example": "Getting that internship call right before my exams was completely fortuitous."
     },
     {
-      "word": "Sartorial",
+      "word": "Fiasco",
+      "pos": "noun",
+      "pronunciation": "fee-AS-ko",
+      "meaning": "A complete, humiliating failure.",
+      "insteadOf": "total disaster",
+      "example": "Our college fest coding hackathon turned into a total fiasco when the server crashed."
+    },
+    {
+      "word": "Flounder",
+      "pos": "verb",
+      "pronunciation": "FLOWN-der",
+      "meaning": "To struggle or stagger helplessly in trouble.",
+      "insteadOf": "struggle badly",
+      "example": "I started to flounder during the technical round when they asked about graph theory."
+    },
+    {
+      "word": "Furtive",
       "pos": "adjective",
-      "pronunciation": "/ˌsɑːrˈtɔːriəl/",
-      "meaning": "Relating to tailoring, clothes, or style of dress.",
-      "insteadOf": "fashion",
-      "example": "He upgraded his sartorial choices before heading to the corporate interview."
+      "pronunciation": "FER-tiv",
+      "meaning": "Attempting to avoid notice, typically because guilt or a belief that discovery would lead to trouble.",
+      "insteadOf": "sneaky",
+      "example": "He took a furtive glance at his phone during the DBMS viva."
     },
     {
-      "word": "Stagnate",
-      "pos": "verb",
-      "pronunciation": "/ˈstæɡneɪt/",
-      "meaning": "Cease to develop, flow, or advance.",
-      "insteadOf": "stop growing",
-      "example": "My coding skills started to stagnate after I finished the basic Python module."
+      "word": "Formidable",
+      "pos": "adjective",
+      "pronunciation": "for-MID-uh-bul",
+      "meaning": "Inspiring respect through being impressively powerful or capable.",
+      "insteadOf": "really tough",
+      "example": "Competing against seniors in the debate finals was a formidable challenge."
     },
     {
-      "word": "Garner",
+      "word": "Fumble",
       "pos": "verb",
-      "pronunciation": "/ˈɡɑːrnər/",
-      "meaning": "Gather or collect something, usually approval or information.",
-      "insteadOf": "collect",
-      "example": "Her open-source contribution managed to garner attention from senior developers."
-    },
-    {
-      "word": "Subvert",
-      "pos": "verb",
-      "pronunciation": "/sʌbˈvɜːrt/",
-      "meaning": "Secretly undermine the power and authority of an established system.",
+      "pronunciation": "FUM-bul",
+      "meaning": "To handle clumsily or fail to grasp an opportunity.",
       "insteadOf": "mess up",
-      "example": "A clever algorithm can subvert the usual limits on query processing speed."
+      "example": "Don't fumble the final pitch just because the investor asked a tough question."
     },
     {
-      "word": "Skitter",
+      "word": "Frieze",
+      "pos": "noun",
+      "pronunciation": "FREEZ",
+      "meaning": "A broad horizontal band of sculpted or painted decoration, used metaphorically for a striking pattern.",
+      "insteadOf": "row or series",
+      "example": "Our hostel wall has a frieze of old concert posters and missed deadlines."
+    },
+    {
+      "word": "Fete",
       "pos": "verb",
-      "pronunciation": "/ˈskɪtər/",
-      "meaning": "Move lightly and quickly, making a small sliding sound.",
-      "insteadOf": "move fast",
-      "example": "Notifications kept skittering across his phone screen while he drank chai."
+      "pronunciation": "FAYT",
+      "meaning": "To celebrate or entertain warmly.",
+      "insteadOf": "praise a lot",
+      "example": "The tech media began to fete the college startup after their seed funding."
     },
     {
-      "word": "Galvanize",
+      "word": "Vanquish",
       "pos": "verb",
-      "pronunciation": "/ˈɡælvənaɪz/",
-      "meaning": "Shock or excite someone into taking sudden action.",
-      "insteadOf": "motivate",
-      "example": "The sudden deadline will hopefully galvanize the team to finish the prototype."
-    },
-    {
-      "word": "Gilt",
-      "pos": "adjective",
-      "pronunciation": "/ɡɪlt/",
-      "meaning": "Covered thinly with gold leaf or gold paint; superficially attractive.",
-      "insteadOf": "fancy",
-      "example": "That startup’s gilt promises masked a very shaky business model."
-    },
-    {
-      "word": "Stymie",
-      "pos": "verb",
-      "pronunciation": "/ˈstaɪmi/",
-      "meaning": "Prevent or hinder the progress of something.",
-      "insteadOf": "block",
-      "example": "Frequent power cuts tend to stymie our late-night coding sessions."
+      "pronunciation": "VANG-kwish",
+      "meaning": "To defeat thoroughly.",
+      "insteadOf": "beat completely",
+      "example": "We managed to vanquish the defending champions in the inter-college cricket quarterfinal."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Bomba",
-      "meaning": "An exclamation used when something unexpected, shocking, or wildly impressive happens.",
-      "example": "Bro dropped out to trade crypto and bought a Porsche, absolute bomba.",
-      "context": "Used widely among Indian youth in group chats when sharing wild gossip or flexes. Not rude at all.",
+      "term": "Bhaichara",
+      "meaning": "Brotherhood or a strong bond of friendship and solidarity among guys, often used ironically or sincerely in reels.",
+      "example": "True bhaichara is helping your homie delete his search history before he lets you borrow his phone.",
+      "context": "Used in reels and conversations about guy code and loyalty. Casual and friendly.",
       "tone": "playful",
       "nsfw": false,
-      "id": "bomba"
+      "id": "bhaichara"
     },
     {
       "type": "psych",
-      "term": "Honeymoon phase",
-      "meaning": "The initial period of a relationship marked by high affection, euphoria, and a lack of conflict.",
-      "example": "They are still in the honeymoon phase, they text heart-eyes emojis every two minutes.",
-      "context": "Brought up on podcasts and relationship advice reels when analyzing why a couple suddenly starts fighting after six months.",
-      "tone": "casual",
+      "term": "Emotional regulation",
+      "meaning": "The ability to monitor and manage your emotional state and reactions in response to stress or triggers without losing control.",
+      "example": "I had zero emotional regulation when the Wi-Fi dropped right before the match point.",
+      "context": "Dropped heavily in therapy-speak podcasts when discussing maturity and handling arguments.",
+      "tone": "serious",
       "nsfw": false,
-      "id": "honeymoon-phase"
+      "id": "emotional-regulation"
     },
     {
       "type": "acronym",
-      "term": "TLDR",
-      "meaning": "Too Long Didn't Read, a short summary provided at the beginning or end of a massive wall of text.",
-      "example": "TLDR: The company rejected the merger and stock prices crashed.",
-      "context": "Used in text groups or comment sections when someone posts an essay instead of a normal message.",
-      "tone": "casual",
+      "term": "CBT",
+      "meaning": "Cognitive Behavioral Therapy, a structured talk therapy that helps identify and change unhelpful thought patterns.",
+      "example": "My therapist suggested CBT to help me stop catastrophizing every small mistake.",
+      "context": "Standard mental health shorthand used casually when discussing personal growth or therapy.",
+      "tone": "serious",
       "nsfw": false,
-      "id": "tldr"
+      "id": "cbt"
     },
     {
       "type": "paradox",
-      "term": "Gell-Mann amnesia effect",
-      "meaning": "The phenomenon where people believe media reporting on topics they don't know is accurate, despite knowing media gets their own specialized field completely wrong.",
-      "example": "You laughed at that fake tech news article, yet you still trust their political takes because of the Gell-Mann amnesia effect.",
-      "context": "Brought up in intellectual or media-critique podcasts when discussing journalism.",
+      "term": "Hedonic treadmill",
+      "meaning": "The observed tendency of humans to quickly return to a relatively stable level of happiness despite major positive or negative life events.",
+      "example": "I thought buying a new bike would make me happy forever, but the hedonic treadmill got me in a week.",
+      "context": "Used in finance and self-improvement podcasts to explain why chasing luxury items never satisfies.",
       "tone": "serious",
       "nsfw": false,
-      "id": "gell-mann-amnesia-effect"
+      "id": "hedonic-treadmill"
     },
     {
       "type": "meme",
-      "term": "Very cutesy",
-      "meaning": "A reaction phrase popularized alongside 'demure' to describe delicate or aesthetically pleasing things in an exaggerated way.",
-      "example": "Look at this stray cat sleeping on my notes, very cutesy, very mindful.",
-      "context": "Used ironically or sincerely on Instagram reels when showing off small pleasant moments.",
+      "term": "Distracted boyfriend",
+      "meaning": "A stock photo meme format where a guy walking with his girlfriend is openly turning his head to gawk at another passing woman.",
+      "example": "Me ignoring my backlog of unread emails to start a brand new side project is literally the distracted boyfriend meme.",
+      "context": "Used widely online to represent abandoning a responsible choice for a shiny new distraction.",
       "tone": "playful",
       "nsfw": false,
-      "id": "very-cutesy"
+      "id": "distracted-boyfriend"
     },
     {
       "type": "slang",
-      "term": "Tapori",
-      "meaning": "A street-smart, swaggering young man who hangs out on corners and breaks minor social rules.",
-      "example": "Stop walking like such a tapori and fix your collar before the interview.",
-      "context": "Classic Indian slang used playfully to describe someone acting a bit too street or rebellious.",
-      "tone": "casual",
+      "term": "Chappri",
+      "meaning": "A derogatory slang term used to describe someone who dresses gaudily, makes cringey reels, or acts loud in public.",
+      "example": "Bro turned up to the café with bleached hair and a loud exhaust, total chappri energy.",
+      "context": "Used mockingly among Indian youth to judge people's aesthetics or public behavior. Can be offensive.",
+      "tone": "mocking",
       "nsfw": false,
-      "id": "tapori"
+      "id": "chappri"
     },
     {
       "type": "psych",
-      "term": "Emotional unavailability",
-      "meaning": "An inability or unwillingness to connect on a deep emotional level or commit to a partner.",
-      "example": "I keep dating guys who look great on paper but suffer from extreme emotional unavailability.",
-      "context": "A staple buzzword in modern dating discourse and therapy-speak reels. Can sound critical.",
-      "tone": "serious",
+      "term": "Nervous system regulation",
+      "meaning": "Calming your body's fight-or-flight response through breathing, grounding, or rest to feel safe after stress.",
+      "example": "I need to do some breathwork for nervous system regulation after reading that work email.",
+      "context": "Extremely trendy in wellness spaces and podcasts. Often used jokingly for minor inconveniences.",
+      "tone": "playful",
       "nsfw": false,
-      "id": "emotional-unavailability"
+      "id": "nervous-system-regulation"
     },
     {
       "type": "acronym",
-      "term": "ROI",
-      "meaning": "Return On Investment, a metric used to evaluate the efficiency or profitability of an expenditure.",
-      "example": "Buying a gym membership is a great ROI for your mental health.",
-      "context": "Used by finance bros and business podcasts, but also jokingly applied to dating and daily life.",
-      "tone": "casual",
+      "term": "EMDR",
+      "meaning": "Eye Movement Desensitization and Reprocessing, a specialized therapy used to heal from trauma using side-to-side eye movements.",
+      "example": "She's doing EMDR sessions to process her car accident anxiety.",
+      "context": "Frequently mentioned in trauma-recovery podcasts and mental health discussions.",
+      "tone": "serious",
       "nsfw": false,
-      "id": "roi"
+      "id": "emdr"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Delhi Police registered multiple FIRs and maintained heavy security across central Delhi following protests over the Election Commission.",
+        "text": "At least 19 people died in a stampede caused by overcrowding and mismanagement at Kolkata's Chorbagan Durga Puja pandal.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/anti-cec-sir-protest-live-updates-oct-17-2026-cjp-tiranga-march-abhijeet-dipke-detained-delhi-police-neha-bora/article71595221.ece"
+        "url": "https://www.thehindu.com/news/cities/kolkata/kolkata-bengal-pandal-collapse-stampede-injured-death-updates-on-october-17-2026/article71597549.ece"
       },
       {
-        "text": "Railway station master recruitment minimum age has been raised from 18 to 20 years by authorities.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/education/railway-board-raises-minimum-age-for-direct-recruitment-to-station-master-post-from-18-to-20-years-12197914#publisher=newsstand"
+        "text": "The central government capped trade margins for 137 cancer drugs at 30%, which is expected to reduce prices by up to 70%.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/government-caps-trade-margin-for-137-cancer-drugs-at-30-prices-likely-to-fall-by-up-to-70-101792263713460.html"
       },
       {
-        "text": "Starlink announced it has built Indian infrastructure with government approvals and is ready to offer high-speed internet.",
+        "text": "U.S. Secretary of State Marco Rubio defended the decision to waive key Russian oil sanctions for India, calling it an important strategic ally.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/india-diversified-imports-but-hard-to-pivot-in-one-day-marco-rubio-explains-why-us-waived-some-russia-energy-tariffs-trump-russian-oil-buyer-delhi-101792287930939.html"
+      },
+      {
+        "text": "India formally rejected recent comments made by a U.S. lawmaker concerning the ongoing revision of the country's electoral rolls.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/unwarranted-and-uninformed-india-rejects-us-lawmakers-comments-on-revision-of-electoral-rolls/article71593894.ece"
+      },
+      {
+        "text": "Air India established a multi-disciplinary panel and launched a staff initiative to identify and reward cost-saving opportunities.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/starlink-says-built-indias-infrastructure-with-requisite-government-approvals-ready-to-offer-hi-speed-internet/article71595458.ece"
+        "url": "https://www.thehindu.com/business/Industry/air-india-sets-up-multi-disciplinary-panel-to-identify-cost-saving-opportunities/article71591329.ece"
       },
       {
-        "text": "Home Secretary Govind Mohan stated that foreign-inspired terrorism is no longer visible in the changing internal security landscape.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/foreign-inspired-terrorism-no-longer-visible-home-secy-govind-mohan-on-changing-internal-security-landscape/articleshow/135007843.cms"
-      },
-      {
-        "text": "A minibus plunging into a drain along the Delhi-Mumbai Expressway in Kota resulted in eight deaths and multiple injuries.",
+        "text": "The Supreme Court stayed trial proceedings and issued a notice regarding a plea to transfer the Twisha Sharma death case to Delhi.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/rajasthan/8-killed-15-injured-as-minibus-falls-into-15-foot-drain-along-delhi-mumbai-expressway-in-kota/article71595511.ece"
+        "url": "https://www.thehindu.com/news/national/supreme-court-issues-notice-on-plea-to-transfer-twisha-sharma-death-case-to-delhi/article71593545.ece"
       },
       {
-        "text": "IAS and IPS officers in Maharashtra will donate one day of salary to aid farmers in drought-affected talukas.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/maharashtra-drought-ias-ips-officers-to-donate-one-days-salary-to-aid-farmers-12197836#publisher=newsstand"
+        "text": "The Allahabad High Court ruled that transgender women are not covered under the legal definition of 'woman' in Section 69 of the BNS.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/trans-woman-not-within-purview-of-sec-69-of-bns-allahabad-hc-101792262878579.html"
       },
       {
-        "text": "Stock market indices Sensex and Nifty rebounded over one percent led by IT shares amid easing crude prices.",
+        "text": "The Indian rupee gained 20 paise to open at 94.75 against the U.S. dollar in early foreign exchange trade.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/markets/sensex-nifty-rebounds-over-1-after-two-days-of-losses-it-shares-lead-rally-amid-easing-crude-prices/article71563865.ece"
-      },
-      {
-        "text": "India rejected claims made by a UN rapporteur regarding youth protests, urging officials to verify facts first.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/verify-before-she-vilifies-india-un-rapporteurs-claims-on-youth-protests/articleshow/135007051.cms"
-      },
-      {
-        "text": "BJP's Dinesh Arya was elected unopposed to the Rajya Sabha from Uttarakhand.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/uttarakhand/bjps-dinesh-arya-elected-unopposed-to-rajya-sabha-from-uttarakhand/article71565339.ece"
+        "url": "https://www.thehindu.com/business/markets/rupee-rises-20-paise-to-9479-against-the-dollar-in-early-trade/article71591138.ece"
       }
     ],
     "world": [
       {
-        "text": "President Trump has placed on hold parts of a new law that aims to punish Moscow for its war against Ukraine, citing U.S. national interests.",
+        "text": "Violent clashes and arson erupted across France as over half a million people joined nationwide protests over the cost of living, resulting in more than 1,000 arrests.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6d937wedj7jo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "US President Donald Trump waived several congressional sanctions restricting Russian oil purchases, citing national security and global stability.",
         "source": "BBC",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Russian attacks across Ukraine have killed at least eight people and cut power to one million citizens amid an ongoing campaign targeting the country's power grid.",
+        "text": "Mexican authorities sentenced three men to 158 years in prison each for the murders of two Australian brothers and their American friend during a surfing trip in Baja California.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/australia-news/2026/oct/17/mexican-judge-sentences-three-men-to-158-years-in-prison-for-murders-of-australian-and-us-surfers-ntwnfb"
+      },
+      {
+        "text": "Deforestation in the Brazilian Amazon fell to its lowest level since records began in 1988, marking a major environmental milestone ahead of the presidential run-off.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/environment/2026/oct/16/brazil-amazon-deforestation-lowest-on-record-election"
+      },
+      {
+        "text": "Two oil tankers caught fire in the Strait of Hormuz after reportedly striking mines while using an unauthorised shipping route, according to the Iranian Revolutionary Guard Corps.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/russian-attacks-in-ukraine-kill-at-least-8-cut-power-to-1-million?traffic_source=rss"
-      },
-      {
-        "text": "A Mexican judge has sentenced three men to 158 years in prison each for the 2024 murders of two Australian brothers and their American friend in Baja California.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/17/three-mexicans-jailed-for-158-years-each-for-killing-australian-us-surfers?traffic_source=rss"
-      },
-      {
-        "text": "Saudi authorities reported that three people were killed in Houthi-claimed attacks on Riyadh airport, marking a significant escalation in regional conflict.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/saudi-authorities-say-three-killed-in-houthi-claimed-attacks-on-riyadh-airport/article71565580.ece"
-      },
-      {
-        "text": "Japan has protested against Russia's extradition requests targeting International Criminal Court President Tomoko Akane and eight other tribunal officials.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/japan-protests-russias-extradition-requests-for-icc-president-tomoko-akane-and-eight-other-court-staff/article71565657.ece"
+        "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz?traffic_source=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "BTjxUS_PylA",
-      "title": "8 Most Important System Design Concepts You Should Know",
-      "channel": "ByteByteGo",
-      "category": "business",
-      "url": "https://www.youtube.com/watch?v=BTjxUS_PylA",
-      "thumbnail": "https://i.ytimg.com/vi/BTjxUS_PylA/hqdefault.jpg",
+      "id": "IHZwWFHWa-w",
+      "title": "Gradient descent, how neural networks learn | Deep Learning Chapter 2",
+      "channel": "3Blue1Brown",
+      "category": "ai",
+      "url": "https://www.youtube.com/watch?v=IHZwWFHWa-w",
+      "thumbnail": "https://i.ytimg.com/vi/IHZwWFHWa-w/hqdefault.jpg",
       "published": "",
-      "learn": "Essential system design patterns that power modern scalable tech platforms",
-      "minutes": 6
+      "learn": "How mathematical optimization helps neural networks iteratively correct their mistakes and learn.",
+      "minutes": 20
     },
     "more": [
       {
-        "id": "1nstixjMS7A",
-        "title": "The Asian Monsoon - The World's Largest Weather System",
-        "channel": "Geodiode",
+        "id": "c8VxTNwfmzM",
+        "title": "Southwest Monsoon in India | Formation, Mechanism explained | for UPSC, IAS, CDS, NDA, SSC CGL",
+        "channel": "Amit Sengupta",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=1nstixjMS7A",
-        "thumbnail": "https://i.ytimg.com/vi/1nstixjMS7A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=c8VxTNwfmzM",
+        "thumbnail": "https://i.ytimg.com/vi/c8VxTNwfmzM/hqdefault.jpg",
         "published": "",
-        "learn": "How planetary pressure systems and geography drive the world's largest weather system",
-        "minutes": 16
-      },
-      {
-        "id": "mec-QpjQMXY",
-        "title": "The rule of 72 for compound interest | Interest and debt | Finance & Capital Markets | Khan Academy",
-        "channel": "Khan Academy",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=mec-QpjQMXY",
-        "thumbnail": "https://i.ytimg.com/vi/mec-QpjQMXY/hqdefault.jpg",
-        "published": "",
-        "learn": "How money doubles over time using the simple rule of 72",
-        "minutes": 9
-      },
-      {
-        "id": "Ilg3gGewQ5U",
-        "title": "Backpropagation, intuitively | Deep Learning Chapter 3",
-        "channel": "3Blue1Brown",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=Ilg3gGewQ5U",
-        "thumbnail": "https://i.ytimg.com/vi/Ilg3gGewQ5U/hqdefault.jpg",
-        "published": "",
-        "learn": "How calculus and chain rule allow neural networks to fix their mistakes",
-        "minutes": 12
-      },
-      {
-        "id": "d4aD-epti4c",
-        "title": "Why It's So Hard to Admit You're Wrong | Cognitive Dissonance",
-        "channel": "SciShow Psych",
-        "category": "mind",
-        "url": "https://www.youtube.com/watch?v=d4aD-epti4c",
-        "thumbnail": "https://i.ytimg.com/vi/d4aD-epti4c/hqdefault.jpg",
-        "published": "",
-        "learn": "Why our brains twist facts to reduce the agony of conflicting beliefs",
-        "minutes": 5
-      },
-      {
-        "id": "csIW4W_DYX4",
-        "title": "PHILOSOPHY - Aristotle",
-        "channel": "The School of Life",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=csIW4W_DYX4",
-        "thumbnail": "https://i.ytimg.com/vi/csIW4W_DYX4/hqdefault.jpg",
-        "published": "",
-        "learn": "How finding the golden mean between extremes leads to a flourishing life",
+        "learn": "How seasonal pressure shifts create the powerful winds and rainfall across India.",
         "minutes": 7
       },
       {
-        "id": "moDvjW9Z6_I",
-        "title": "Building the Transcontinental Railroad",
-        "channel": "CBS Sunday Morning",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=moDvjW9Z6_I",
-        "thumbnail": "https://i.ytimg.com/vi/moDvjW9Z6_I/hqdefault.jpg",
+        "id": "kF2ZYeE6XfE",
+        "title": "What Is The Rule Of 72",
+        "channel": "Marko - WhiteBoard Finance",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=kF2ZYeE6XfE",
+        "thumbnail": "https://i.ytimg.com/vi/kF2ZYeE6XfE/hqdefault.jpg",
         "published": "",
-        "learn": "How a massive engineering feat united a fractured continent across mountains and plains",
-        "minutes": 6
+        "learn": "How to calculate exactly when your investments will double using simple math.",
+        "minutes": 10
       },
       {
-        "id": "-VIoPGSGHoQ",
-        "title": "How Your Gut Bacteria Control Your Decisions (It's Not What You Think)",
-        "channel": "Dr. Tracey Marks",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=-VIoPGSGHoQ",
-        "thumbnail": "https://i.ytimg.com/vi/-VIoPGSGHoQ/hqdefault.jpg",
+        "id": "8dTpNajxaH0",
+        "title": "Scraping Data from a Real Website | Web Scraping in Python",
+        "channel": "Alex The Analyst",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=8dTpNajxaH0",
+        "thumbnail": "https://i.ytimg.com/vi/8dTpNajxaH0/hqdefault.jpg",
         "published": "",
-        "learn": "How microscopic gut bacteria secretly shape your daily mood and mental health",
+        "learn": "How modern software extracts structured web data to build massive digital asset empires.",
+        "minutes": 25
+      },
+      {
+        "id": "GxAu7BTZQRY",
+        "title": "Cognitive Dissonance: Your Response to Conflicting Beliefs",
+        "channel": "Sprouts",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=GxAu7BTZQRY",
+        "thumbnail": "https://i.ytimg.com/vi/GxAu7BTZQRY/hqdefault.jpg",
+        "published": "",
+        "learn": "Why your brain twists reality to reduce the discomfort of conflicting beliefs.",
+        "minutes": 5
+      },
+      {
+        "id": "PrvtOWEXDIQ",
+        "title": "Aristotle & Virtue Theory: Crash Course Philosophy #38",
+        "channel": "CrashCourse",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=PrvtOWEXDIQ",
+        "thumbnail": "https://i.ytimg.com/vi/PrvtOWEXDIQ/hqdefault.jpg",
+        "published": "",
+        "learn": "Why true happiness comes from practicing the golden mean between emotional extremes.",
         "minutes": 9
+      },
+      {
+        "id": "mIz7vD7-zt8",
+        "title": "How America Built 1,000 Miles of Railroad Through Mountains Before Bulldozers",
+        "channel": "Global Old History and Quisoop",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=mIz7vD7-zt8",
+        "thumbnail": "https://i.ytimg.com/vi/mIz7vD7-zt8/hqdefault.jpg",
+        "published": "",
+        "learn": "How sheer human grit and primitive engineering conquered treacherous mountain passes.",
+        "minutes": 29
+      },
+      {
+        "id": "1sISguPDlhY",
+        "title": "How the food you eat affects your gut - Shilpa Ravella",
+        "channel": "TED-Ed",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=1sISguPDlhY",
+        "thumbnail": "https://i.ytimg.com/vi/1sISguPDlhY/hqdefault.jpg",
+        "published": "",
+        "learn": "How gut bacteria silently communicate with your brain to shape your daily mood.",
+        "minutes": 5
       }
     ]
   },
   "podcasts": [
     {
-      "id": "darknet-diaries-178-ubiquiti",
-      "title": "178: Ubiquiti",
-      "show": "Darknet Diaries",
-      "category": "ai",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e5c784a5-d775-435a-bbb4-cdb885fbf87a/darknet-diaries-ep178-ubiquiti.mp3",
-      "link": "https://darknetdiaries.com/episode/178/",
-      "durationSec": 2172,
-      "startSec": null,
-      "why": "A rogue employee discovers terrifying security flaws and goes rogue against his own tech company."
+      "id": "wtf-is-with-nikhil-kamath-the-battery-everyone-uses-is-the-one-they-d-never-buil",
+      "title": "The Battery Everyone Uses Is The One They'd Never Build | EnerVenue x HiNa | WTF are Batteries?",
+      "show": "WTF is with Nikhil Kamath",
+      "category": "business",
+      "audioUrl": "https://play.hubhopper.com/762eced7f73c05baa17e803c4d5e33b3.mp3?s=rss-feed&v=7d0401b70514",
+      "link": "https://listen.hubhopper.com/episode/the-battery-everyone-uses-is-the-one-theyd-never-build-enervenue-x-hina-wtf-are-batteries/33026545",
+      "durationSec": 4209,
+      "startSec": 405,
+      "why": "Discover how brilliant engineering solves the massive global challenge of storing clean energy."
     },
     {
-      "id": "stuff-you-should-know-asteroooooid-de-fense",
-      "title": "Asteroooooid De-FENSE!",
-      "show": "Stuff You Should Know",
+      "id": "no-such-thing-as-a-fish-no-such-thing-as-ultrasonic-shark-welding",
+      "title": "No Such Thing As Ultrasonic Shark Welding",
+      "show": "No Such Thing As A Fish",
       "category": "science",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "link": "https://omny.fm/shows/stuff-you-should-know-1/asteroooooid-de-fense",
-      "durationSec": 2494,
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964845.mp3?modified=1792083396&sid=2399216&source=rss",
+      "link": "https://audioboom.com/posts/8964845",
+      "durationSec": 3087,
       "startSec": null,
-      "why": "Discover how scientists plan to stop millions of speeding asteroids from destroying planet Earth."
+      "why": "Enjoy bizarre historical facts and hilarious banter that make complex trivia effortlessly fun."
     }
   ],
   "onThisDay": [
     {
-      "year": 1979,
-      "kind": "event",
-      "text": "Mother Teresa was awarded the Nobel Peace Prize for her lifelong humanitarian work helping the poorest and most vulnerable people.",
-      "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
-      "india": true
-    },
-    {
-      "year": 1817,
+      "year": 1974,
       "kind": "born",
-      "text": "Syed Ahmad Khan was born, becoming a pioneering Muslim reformer and educator who founded the institution that later grew into Aligarh Muslim University.",
-      "url": "https://en.wikipedia.org/wiki/Syed_Ahmad_Khan",
+      "text": "Amish Tripathi, the acclaimed Indian author known for popularizing mythological fiction with the Shiva Trilogy, was born.",
+      "url": "https://en.wikipedia.org/wiki/Amish_Tripathi",
       "india": true
     },
     {
-      "year": 1970,
-      "kind": "born",
-      "text": "Anil Kumble was born, growing up to become one of India's greatest cricket legends and a legendary spin bowler who took 619 Test wickets.",
-      "url": "https://en.wikipedia.org/wiki/Anil_Kumble",
+      "year": 1976,
+      "kind": "died",
+      "text": "Viswanatha Satyanarayana, a legendary Telugu poet and Jnanpith Award recipient often called 'Kratu Samrat', died.",
+      "url": "https://en.wikipedia.org/wiki/Viswanatha_Satyanarayana",
       "india": true
     },
     {
-      "year": 1777,
+      "year": 1967,
       "kind": "event",
-      "text": "British general John Burgoyne surrendered during the American Revolutionary War, a turning point that convinced France to enter the conflict in alliance with the Americans.",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "text": "The Soviet space probe Venera 4 became the first spacecraft to perform direct in situ analysis of another planet's atmosphere.",
+      "url": "https://en.wikipedia.org/wiki/Venera_4",
       "india": false
     },
     {
-      "year": 1931,
+      "year": 1968,
       "kind": "event",
-      "text": "Notorious American gangster Al Capone was convicted of income-tax evasion, finally bringing down the powerful crime boss.",
-      "url": "https://en.wikipedia.org/wiki/Al_Capone",
+      "text": "American athlete Bob Beamon set a legendary long jump world record at the Mexico City Olympics that remained unbroken for 23 years.",
+      "url": "https://en.wikipedia.org/wiki/1968_Summer_Olympics",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Rajinikanth's Jailer 2 crossed the Rs 200 crore mark worldwide following record-breaking first-day collections.",
-      "why": "Massive box office numbers making Thalaivar a trending topic everywhere.",
-      "url": "https://www.thehindu.com/news/national/kerala/exhibitors-in-keralam-jubilant-as-rajinikanths-jailer-2-earns-record-first-day-collections/article71591317.ece",
-      "source": "The Hindu"
+      "text": "Seventeen people were tragically killed and many injured following a stampede at a Kolkata Durga Puja pandal.",
+      "why": "Massive tragedy overshadowing festival celebrations, sparking nationwide shock and mourning.",
+      "url": "https://www.reddit.com/r/india/comments/1x8fgc0/17_killed_many_injured_after_stampede_at_kolkata/",
+      "source": "r/india"
     },
     {
-      "text": "IMF warned that the growing AI bubble could potentially burst and drag down the global economy.",
-      "why": "Fears of a major tech crash sparking heated online debates.",
-      "url": "https://www.reddit.com/r/technology/comments/1x7sv1u/ai_bubble_could_burst_and_take_global_economy/",
-      "source": "r/technology"
+      "text": "Racist stickers targeting Indians have reportedly been found placed on food products in Australian supermarkets.",
+      "why": "Triggering widespread outrage online over rising anti-Indian racism abroad.",
+      "url": "https://www.reddit.com/r/india/comments/1x81syl/is_this_your_culture_racist_stickers_targeting/",
+      "source": "r/india"
     },
     {
-      "text": "Neha Dhupia admitted she regrets turning down major roles in Shah Rukh Khan's Chak De! India.",
-      "why": "Everyone is cringing at the massive career miss.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/neha-dhupia-says-she-missed-big-opportunities-by-turning-down-chak-de-india-and-operation-safed-sagar-recalls-you-realise-what-you-may-have-missed/articleshow/135006654.cms",
-      "source": "The Times of India"
+      "text": "An Indian-origin man named Ankur Patel in the US allegedly killed his wife for dating a colleague.",
+      "why": "Dark crime story going viral across social media feeds.",
+      "url": "https://www.reddit.com/r/india/comments/1x8dony/indianorigin_man_ankur_patel_in_us_kills_wife_for/",
+      "source": "r/india"
     },
     {
-      "text": "India and West Indies are facing off in a tense, high-scoring 5th T20I decider in rainy Bengaluru.",
-      "why": "High-stakes cricket drama dominating sports feeds right now.",
-      "url": "https://www.cricinfo.com/series/west-indies-in-india-2026-27-1529215/india-vs-west-indies-5th-t20i-1529234/match-preview",
-      "source": "Cricinfo"
+      "text": "Gold and silver prices saw a massive drop this week, with silver plunging significantly in major markets.",
+      "why": "Everyone checking if it's the right time to buy precious metals.",
+      "url": "https://www.aajtak.in/business/utility/photo/gold-silver-price-big-fall-in-delhi-check-new-rates-tutd-2673328-2026-10-17",
+      "source": "AajTak"
     },
     {
-      "text": "T Natarajan has officially returned to Sunrisers Hyderabad while Zeeshan Ansari moved to Delhi Capitals.",
-      "why": "Major IPL roster shifts keeping cricket fans talking.",
-      "url": "https://www.cricbuzz.com/cricket-news/140522/t-natarajan-back-with-srh-zeeshan-ansari-traded-to-dc-cricbuzzcom",
-      "source": "Cricbuzz"
+      "text": "Shreyas Iyer claimed a career-best ranking, topping the latest ICC batting charts following the West Indies series.",
+      "why": "Huge talking point for cricket fans celebrating Team India's dominance.",
+      "url": "https://ntvtelugu.com/news/india-vs-west-indies-t20-series-most-sixes-top-5-batters-1026957.html",
+      "source": "NTV Telugu"
     }
   ]
 }

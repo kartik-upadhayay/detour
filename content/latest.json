@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "date": "2026-10-19",
-  "generatedAt": "2026-10-19T05:04:08+00:00",
+  "generatedAt": "2026-10-19T05:36:52+00:00",
   "words": [
     {
       "word": "Staggering",
@@ -161,267 +161,274 @@
   "news": {
     "india": [
       {
-        "text": "Indian government announced that 137 cancer drugs, including vital immunotherapy treatments, will become significantly cheaper starting November 9.",
+        "text": "Actor Tiger Shroff survived an assassination attempt after gunmen opened fire at his car in Mumbai, prompting high-level security reviews and police detentions.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/bike-used-for-firing-at-tiger-shroff-recovered-by-police-two-detained-101792384252507.html"
+      },
+      {
+        "text": "A total of 137 cancer drugs, including critical immunotherapy medications, will become cheaper in India starting November 9 under new price regulations.",
         "source": "Mint",
         "url": "https://www.livemint.com/news/india/cancer-drugs-to-get-cheaper-in-india-from-november-9-full-list-of-137-medicines-and-how-much-you-could-actually-save-11792385350720.html"
       },
       {
-        "text": "India Meteorological Department launched an advanced WebGIS-based decision support system to enhance disaster preparedness and deliver vital cyclone alerts.",
+        "text": "The India Meteorological Department launched an advanced WebGIS-based Decision Support System to significantly improve cyclone disaster preparedness and marine weather alerts.",
         "source": "Times of India",
         "url": "https://timesofindia.indiatimes.com/india/imd-launches-webgis-based-decision-support-system-to-improve-cyclone-disaster-preparedness/articleshow/135039125.cms"
       },
       {
-        "text": "Southern Railway warned passengers that playing audio on speakers or making loud phone calls on trains could lead to fines or jail time.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/rail-passengers-could-face-fine-jail-time-for-loud-calls-playing-audio-on-speakers-101792383113983.html"
-      },
-      {
-        "text": "Ministry of Electronics and Information Technology advised Meta to review its recommendation systems to prevent public disorder and ensure timely cooperation with law enforcement.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/centre-advises-meta-to-review-recommendation-systems-to-prevent-public-disorder-12204481#publisher=newsstand"
-      },
-      {
-        "text": "Indian Bank reported a 14.7 percent rise in net profit to ₹3,462 crore for the second quarter, driven by higher operating profits.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece"
-      },
-      {
-        "text": "Defence Minister Rajnath Singh arrived in Tajikistan to represent India at the Shanghai Cooperation Organisation meeting focusing on regional trade and security cooperation.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/rajnath-singh-to-represent-india-at-sco-meeting-in-tajikistan-whats-on-the-agenda-india-pakistan-11792377223853.html"
-      },
-      {
-        "text": "Prohibitory orders were clamped and security heightened in Manipur's Thoubal district following clashes that left one person dead and several injured.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/manipur/one-dead-several-injured-in-clashes-in-manipurs-thoubal-district-prohibitory-orders-clamped/article71602051.ece"
-      },
-      {
-        "text": "External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio are scheduled to hold talks in Mumbai to advance bilateral trade and strategic ties.",
+        "text": "External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio are scheduled to hold bilateral talks in Mumbai to discuss trade deals and strategic partnerships.",
         "source": "Mint",
         "url": "https://www.livemint.com/news/india/s-jaishankar-marco-rubio-to-hold-talks-in-mumbai-tomorrow-amid-india-us-trade-deal-push-what-is-on-the-agenda-11792379832648.html"
       },
       {
-        "text": "Indian refiners increased fuel exports to Western markets by 43 percent, with major shipments originating from Gujarat despite ongoing international sanctions frameworks.",
+        "text": "The Ministry of Electronics and Information Technology advised Meta to review its recommendation systems to prevent public disorder and ensure timely cooperation with law enforcement.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/centre-advises-meta-to-review-recommendation-systems-to-prevent-public-disorder-12204481#publisher=newsstand"
+      },
+      {
+        "text": "Indian Bank reported a 14.7% rise in net profit to ₹3,462 crore for the second quarter, driven by strong growth in gross advances and a decline in NPAs.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/indian-refiners-fuel-exports-to-west-surge-43-amid-russian-crude-imports/article71599323.ece"
+        "url": "https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece"
+      },
+      {
+        "text": "Defence Minister Rajnath Singh will represent India at the Shanghai Cooperation Organisation meeting in Tajikistan to discuss multilateral cooperation in trade and investment.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/rajnath-singh-to-represent-india-at-sco-meeting-in-tajikistan-whats-on-the-agenda-india-pakistan-11792377223853.html"
+      },
+      {
+        "text": "Southern Railway warned passengers that playing audio on speakers or talking loudly on mobile phones inside trains could lead to fines or jail time.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/rail-passengers-could-face-fine-jail-time-for-loud-calls-playing-audio-on-speakers-101792383113983.html"
       }
     ],
     "world": [
       {
-        "text": "French President Emmanuel Macron has called for calm and order following widespread riots, looting, and arson attacks across the country.",
+        "text": "French President Emmanuel Macron has called for calm and order following widespread riots and looting across the country driven by public service and cost-of-living grievances.",
         "source": "BBC",
         "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Four soldiers were killed and dozens of others injured in a violent grass fire at a Canadian military base.",
+        "text": "A violent fire at a Canadian military base has killed four soldiers and critically injured dozens of others after sweeping through established firebreaks.",
         "source": "BBC",
         "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Ukraine launched over one thousand drones at Russia, setting multiple oil facilities ablaze in one of the largest air strikes of the war.",
+        "text": "Ukraine launched over 1,000 drones at Russia in a massive overnight air strike that set multiple oil facilities ablaze.",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
       },
       {
-        "text": "Pope Leo made his first major public appearance since undergoing lung cancer surgery, greeting crowds in St Peter's Square.",
+        "text": "AI giant Anthropic has committed five percent of its shares to a new public benefit fund intended for NGO donations and direct distributions.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss"
+      },
+      {
+        "text": "Pope Leo made his first major public appearance since undergoing lung cancer surgery, greeting Catholic faithful in St Peter's Square.",
         "source": "Al Jazeera",
         "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss"
-      },
-      {
-        "text": "Beijing's population is projected to become super-aged by 2035, presenting significant demographic challenges for Chinese policymakers.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/beijings-population-expected-to-become-super-aged-by-2035/article71602008.ece"
-      },
-      {
-        "text": "A bomb threat forced an Israel-to-Austria flight to make an emergency landing in Bulgaria, escorted by fighter jets.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c680zdmn100lo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "9Y17YaZRRvY",
-      "title": "Cognitive Dissonance Theory: A Crash Course",
-      "channel": "Opinion Science",
+      "id": "F4txhN13y6A",
+      "title": "Psychology: The Stanford Prison Experiment - BBC Documentary",
+      "channel": "Patricia Im",
       "category": "mind",
-      "url": "https://www.youtube.com/watch?v=9Y17YaZRRvY",
-      "thumbnail": "https://i.ytimg.com/vi/9Y17YaZRRvY/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=F4txhN13y6A",
+      "thumbnail": "https://i.ytimg.com/vi/F4txhN13y6A/hqdefault.jpg",
       "published": "",
-      "learn": "How conflicting beliefs create psychological discomfort and alter our daily behavior.",
-      "minutes": 6
+      "learn": "How situational pressures and assigned social roles can override individual morality.",
+      "minutes": 29
     },
     "more": [
       {
-        "id": "DuX133AeeyY",
-        "title": "Indian Monsoon Explained - Through Animation | Key Insights for UPSC Aspirants | UPSC 2025",
-        "channel": "PW OnlyIAS English",
+        "id": "_WypT8RPUxg",
+        "title": "The Mystery of the Kailasa Temple of India | Ancient Architects",
+        "channel": "Ancient Architects",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=DuX133AeeyY",
-        "thumbnail": "https://i.ytimg.com/vi/DuX133AeeyY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_WypT8RPUxg",
+        "thumbnail": "https://i.ytimg.com/vi/_WypT8RPUxg/hqdefault.jpg",
         "published": "",
-        "learn": "How seasonal pressure shifts and geography drive the life-giving Indian monsoon.",
+        "learn": "How ancient engineers carved a massive monolithic temple top-down from solid rock.",
+        "minutes": 9
+      },
+      {
+        "id": "HQzoZfc3GwQ",
+        "title": "How To Manage Your Money (50/30/20 Rule)",
+        "channel": "Marko - WhiteBoard Finance",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=HQzoZfc3GwQ",
+        "thumbnail": "https://i.ytimg.com/vi/HQzoZfc3GwQ/hqdefault.jpg",
+        "published": "",
+        "learn": "How to allocate your paycheck effectively using the 50-30-20 budgeting rule.",
         "minutes": 7
       },
       {
-        "id": "CbRHxms6ylU",
-        "title": "How to Double Your Money Using The Rule of 72",
-        "channel": "Practical Wisdom - Interesting Ideas",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=CbRHxms6ylU",
-        "thumbnail": "https://i.ytimg.com/vi/CbRHxms6ylU/hqdefault.jpg",
+        "id": "rTVkUHrprk8",
+        "title": "The Rise And Fall Of Blockbuster",
+        "channel": "Business Insider",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=rTVkUHrprk8",
+        "thumbnail": "https://i.ytimg.com/vi/rTVkUHrprk8/hqdefault.jpg",
         "published": "",
-        "learn": "How money doubles quickly using simple math and compounding interest.",
+        "learn": "Why Blockbuster failed to adapt while Netflix revolutionized entertainment through streaming.",
         "minutes": 8
       },
       {
-        "id": "20QUNgFIrK0",
-        "title": "Software as a Service (SaaS) Explained in 5 mins",
-        "channel": "IBM Technology",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=20QUNgFIrK0",
-        "thumbnail": "https://i.ytimg.com/vi/20QUNgFIrK0/hqdefault.jpg",
+        "id": "UQZooauU-FQ",
+        "title": "Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer",
+        "channel": "Bloomberg Originals",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=UQZooauU-FQ",
+        "thumbnail": "https://i.ytimg.com/vi/UQZooauU-FQ/hqdefault.jpg",
         "published": "",
-        "learn": "How digital platforms scale rapidly by connecting users without owning physical assets.",
+        "learn": "The real engineering challenges behind humanoid robots versus media hype.",
+        "minutes": 24
+      },
+      {
+        "id": "TfVmW6sNux8",
+        "title": "Plato's allegory of the ring - Alex Gendler",
+        "channel": "TED-Ed",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=TfVmW6sNux8",
+        "thumbnail": "https://i.ytimg.com/vi/TfVmW6sNux8/hqdefault.jpg",
+        "published": "",
+        "learn": "Whether humans remain moral when granted total anonymity and invisibility.",
         "minutes": 5
       },
       {
-        "id": "aircAruvnKk",
-        "title": "But what is a neural network? | Deep learning chapter 1",
-        "channel": "3Blue1Brown",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=aircAruvnKk",
-        "thumbnail": "https://i.ytimg.com/vi/aircAruvnKk/hqdefault.jpg",
-        "published": "",
-        "learn": "How neural networks recognize patterns by adjusting weights through calculus.",
-        "minutes": 18
-      },
-      {
-        "id": "GteRElF533Q",
-        "title": "Aristotle's guide to the good life | Nicomachean Ethics",
-        "channel": "Jared Henderson",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=GteRElF533Q",
-        "thumbnail": "https://i.ytimg.com/vi/GteRElF533Q/hqdefault.jpg",
-        "published": "",
-        "learn": "How practicing virtuous habits between extremes leads to a truly flourishing life.",
-        "minutes": 29
-      },
-      {
-        "id": "TnSdRgdHYqU",
-        "title": "The Transcontinental Railroad: The Track that Built America",
-        "channel": "Megaprojects",
+        "id": "rcgdDiD5reM",
+        "title": "How the Printing Press Changed the World",
+        "channel": "Holmos",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=TnSdRgdHYqU",
-        "thumbnail": "https://i.ytimg.com/vi/TnSdRgdHYqU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rcgdDiD5reM",
+        "thumbnail": "https://i.ytimg.com/vi/rcgdDiD5reM/hqdefault.jpg",
         "published": "",
-        "learn": "How a massive transcontinental rail project united a divided nation and economy.",
-        "minutes": 20
+        "learn": "How Gutenberg printing press revolutionized communication and democratized knowledge globally.",
+        "minutes": 5
       },
       {
-        "id": "VzPD009qTN4",
-        "title": "How Bacteria Rule Over Your Body – The Microbiome",
-        "channel": "Kurzgesagt – In a Nutshell",
+        "id": "3ziMBDPMuP8",
+        "title": "How a Chemist Makes the Softest Bread You'll Ever Eat",
+        "channel": "Reactions",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=VzPD009qTN4",
-        "thumbnail": "https://i.ytimg.com/vi/VzPD009qTN4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3ziMBDPMuP8",
+        "thumbnail": "https://i.ytimg.com/vi/3ziMBDPMuP8/hqdefault.jpg",
         "published": "",
-        "learn": "How trillions of gut bacteria secretly influence your physical health and mood.",
-        "minutes": 7
+        "learn": "How yeast fermentation, gluten structures, and chemical reactions create perfect bread.",
+        "minutes": 15
+      },
+      {
+        "id": "VJ9VC9OqdAA",
+        "title": "INDIA’S GOT LATENT S2 EP5 ft. Orry, Archana Puran Singh, Sharon Verma, Nishant Suri",
+        "channel": "Samay Raina",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=VJ9VC9OqdAA",
+        "thumbnail": "https://i.ytimg.com/vi/VJ9VC9OqdAA/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 53
       }
     ]
   },
   "podcasts": [
     {
-      "id": "paisa-vaisa-can-stock-trading-make-you-money-nithin-kamath-paisa-vaisa-archive-p",
-      "title": "Can Stock Trading Make You Money? | Nithin Kamath | Paisa Vaisa (Archive) Part 2",
+      "id": "paisa-vaisa-inside-the-stockbroking-business-nithin-kamath-paisa-vaisa-archive-p",
+      "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive) Part 1",
       "show": "Paisa Vaisa",
       "category": "money",
-      "audioUrl": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "link": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/can-stock-trading-make-you-money-nithin-kamath-paisa-vaisa-archive-part-2",
-      "durationSec": 1393,
+      "audioUrl": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "link": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/inside-the-stockbroking-business-nithin-kamath-paisa-vaisa",
+      "durationSec": 1820,
       "startSec": null,
-      "why": "Zeroed out confusion: discover what actually separates a trader from a serious investor."
+      "why": "Discover how Zerodha's founder built a stockbroking empire and mastered the market."
     },
     {
-      "id": "ologies-silicification-geology-opals-with-patrice-rey",
-      "title": "Silicification Geology (OPALS) with Patrice Rey",
-      "show": "Ologies",
+      "id": "no-such-thing-as-a-fish-little-fish-crufsts",
+      "title": "Little Fish: Crufsts",
+      "show": "No Such Thing As A Fish",
       "category": "science",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/b633e5fb-3d65-4eaf-8ad9-2c88fbec6889/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=b633e5fb-3d65-4eaf-8ad9-2c88fbec6889&feed=FO6kxYGj",
-      "link": "https://www.siriusxm.com",
-      "durationSec": 4323,
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8965627.mp3?modified=1792144842&sid=2399216&source=rss",
+      "link": "https://audioboom.com/posts/8965627",
+      "durationSec": 1967,
       "startSec": null,
-      "why": "Uncover the wild, glittering underground geology behind rainbow fossils and mysterious opals."
+      "why": "Hilarious facts and weird history make complex topics effortlessly simple and fun."
     }
   ],
   "onThisDay": [
     {
       "year": 1910,
       "kind": "born",
-      "text": "Subrahmanyan Chandrasekhar, the Nobel Prize-winning astrophysicist who revolutionized our understanding of stellar evolution, was born.",
+      "text": "Subrahmanyan Chandrasekhar, the renowned Indian-American astrophysicist and Nobel Prize laureate, was born, revolutionizing our understanding of stellar evolution.",
       "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
-      "india": true
-    },
-    {
-      "year": 1920,
-      "kind": "born",
-      "text": "Pandurang Shastri Athavale, the influential social reformer and spiritual leader who founded the Swadhyay movement, was born.",
-      "url": "https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale",
       "india": true
     },
     {
       "year": 2003,
       "kind": "event",
-      "text": "Mother Teresa was beatified by Pope John Paul II, marking a major step toward her eventual canonization as a saint.",
+      "text": "Mother Teresa was beatified by Pope John Paul II, marking a major step toward her canonization for a lifetime of humanitarian service.",
       "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "india": true
+    },
+    {
+      "year": 1920,
+      "kind": "born",
+      "text": "Pandurang Shastri Athavale, the influential Indian philosopher and spiritual leader who founded the Swadhyaya movement, was born.",
+      "url": "https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale",
       "india": true
     },
     {
       "year": 1781,
       "kind": "event",
-      "text": "British forces officially surrendered to Franco-American forces at the Siege of Yorktown, effectively ending the American Revolutionary War.",
+      "text": "British forces under Lord Cornwallis surrendered at the Siege of Yorktown, effectively securing American independence.",
       "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
       "india": false
     },
     {
       "year": 1987,
       "kind": "event",
-      "text": "The Dow Jones Industrial Average suffered a 22.6 percent drop on Black Monday, marking the largest one-day percentage decline in stock market history.",
+      "text": "The Dow Jones Industrial Average suffered a record 22.6 percent single-day drop on Black Monday, sending shockwaves through global financial markets.",
       "url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Tiger Shroff escaped unhurt after three armed men opened fire at him in Mumbai's Juhu area, leaving his driver injured.",
-      "why": "Massive shockwave across social media and film fan circles.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x97c3g/bollywood_actor_tiger_shroff_shot_at_in_mumbais/",
-      "source": "r/IndiaSpeaks"
+      "text": "West Indies Champions won the WCL title after Lendl Simmons hit an explosive knock, defeating England Champions in the final.",
+      "why": "Nostalgia and cricket fever make legendary comebacks instantly viral.",
+      "url": "https://www.jansatta.com/khel/dwayne-bravo-took-3-wickets-england-champions-gave-160-target-to-west-indies-champions-moeen-ali-scored-60-runs-wcl-2026-final-eng-ch-vs-wi-ch/4750829/",
+      "source": "Jansatta"
     },
     {
-      "text": "Jailer 2 crossed the Rs 400-crore mark globally in four days, emerging as the highest-grossing Tamil film of 2026.",
-      "why": "Box office domination turning Rajinikanth into a daily meme.",
-      "url": "https://www.ndtv.com/entertainment/jailer-2-box-office-collection-day-4-rajinikanth-film-is-at-rs-425-crore-all-set-to-cross-rs-500-crore-mark-worldwide-12204495",
-      "source": "NDTV"
+      "text": "Ranbir Kapoor and Yash's upcoming film 'Ramayana' crossed USD 500K in advance bookings in North America.",
+      "why": "Massive overseas pre-sales numbers are driving massive fan hype online.",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-advance-booking-ranbir-kapoor-and-yash-starrer-crosses-usd-500k-in-north-america-nears-usd-800k-at-worldwide-box-office/articleshow/135037637.cms",
+      "source": "The Times of India"
     },
     {
-      "text": "A stampede during a Kolkata Durga Puja tragically resulted in 19 deaths, sparking intense political blame games.",
-      "why": "Deep outrage over festival safety and administrative failure.",
+      "text": "Three men reportedly opened fire at Tiger Shroff in Mumbai's Juhu area, leaving his driver injured.",
+      "why": "Shocking celebrity violence stories spread rapidly across social feeds.",
+      "url": "https://www.reddit.com/r/india/comments/1x95ciz/three_men_open_fire_at_tiger_shroff_in_mumbais/",
+      "source": "r/india"
+    },
+    {
+      "text": "At least 19 people died in a stampede at a crowded Durga Puja celebration in Kolkata.",
+      "why": "A horrific festive tragedy sparking intense political blame games.",
       "url": "https://www.reddit.com/r/india/comments/1x94du0/19_die_at_a_kolkata_durga_puja_stampede_months/",
       "source": "r/india"
     },
     {
-      "text": "A delivery agent's viral video showed massive piles of festive outfits being returned right after Dandiya ended.",
-      "why": "Relatable meme material about fast fashion impulse buying.",
+      "text": "A viral video shared by a delivery agent showed a massive pile of festive outfits returned after Dandiya ended.",
+      "why": "Relatable festive fashion trends turning into instant internet memes.",
       "url": "https://www.reddit.com/r/india/comments/1x91xdc/dandiya_khatam_parcel_return_delivery_agents/",
       "source": "r/india"
     },
     {
-      "text": "Rahul Gandhi claimed during a Goa event that the expiry date for Narendra Modi and Amit Shah is coming soon.",
-      "why": "Fierce political debate and viral clip sharing online.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1x97udn/in_delhi_we_will_deal_with_narendra_modi_and_amit/",
-      "source": "r/IndiaSpeaks"
+      "text": "A mass drone attack targeted St. Petersburg, hitting an Ozon warehouse and leaving thousands of Russians without power.",
+      "why": "Escalating drone warfare footage dominates global news channels.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1x8xmxi/mass_drone_attack_on_st_petersburg_ozon_warehouse/",
+      "source": "r/worldnews"
     }
   ]
 }

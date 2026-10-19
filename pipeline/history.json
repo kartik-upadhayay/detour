@@ -159,7 +159,16 @@
   "fumble",
   "frieze",
   "fete",
-  "vanquish"
+  "vanquish",
+  "staggering",
+  "scathing",
+  "gargantuan",
+  "dilapidated",
+  "paucity",
+  "proliferous",
+  "pillory",
+  "piquant",
+  "pithy"
  ],
  "loop": [
   "glazing",
@@ -294,7 +303,15 @@
   "distracted-boyfriend",
   "chappri",
   "nervous-system-regulation",
-  "emdr"
+  "emdr",
+  "brat-summer",
+  "radical-acceptance",
+  "jomo",
+  "yap",
+  "hyperfixation",
+  "jumping-the-shark",
+  "splitting",
+  "schizo"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -469,7 +486,15 @@
   "GxAu7BTZQRY",
   "PrvtOWEXDIQ",
   "mIz7vD7-zt8",
-  "1sISguPDlhY"
+  "1sISguPDlhY",
+  "9Y17YaZRRvY",
+  "DuX133AeeyY",
+  "CbRHxms6ylU",
+  "20QUNgFIrK0",
+  "aircAruvnKk",
+  "GteRElF533Q",
+  "TnSdRgdHYqU",
+  "VzPD009qTN4"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -517,7 +542,9 @@
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/e5c784a5-d775-435a-bbb4-cdb885fbf87a/darknet-diaries-ep178-ubiquiti.mp3",
   "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/2fa6d973-0ab9-4879-984c-b4db013027cd/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
   "https://play.hubhopper.com/762eced7f73c05baa17e803c4d5e33b3.mp3?s=rss-feed&v=7d0401b70514",
-  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964845.mp3?modified=1792083396&sid=2399216&source=rss"
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8964845.mp3?modified=1792083396&sid=2399216&source=rss",
+  "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/b633e5fb-3d65-4eaf-8ad9-2c88fbec6889/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=b633e5fb-3d65-4eaf-8ad9-2c88fbec6889&feed=FO6kxYGj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -632,6 +659,14 @@
   "Absurdism and Albert Camus: how to find personal meaning in a meaningless universe",
   "The Battle of Thermopylae: the strategic gripping story of 300 Spartans and the Persian War turning point",
   "How the placebo effect works: the neuroscience of how belief physically heals the human body",
+  "How the Indian Monsoon works: meteorology, geography, and its impact on the Indian economy",
+  "Understanding compound interest and the rule of 72 for student investing",
+  "How platform aggregators like Airbnb and Uber scale without owning assets",
+  "How AI neural networks learn through backpropagation and gradient descent",
+  "The psychology of cognitive dissonance and how conflicting beliefs drive behavior",
+  "Aristotle's Virtue Ethics and the Golden Mean for living a balanced life",
+  "The fascinating history and strategic construction of the Transcontinental Railroad",
+  "How the human gut microbiome and gut-brain axis influence mood and health",
   "How the Indian Monsoon works: meteorology, geography, and its impact on the Indian economy",
   "Understanding compound interest and the rule of 72 for student investing",
   "How platform aggregators like Airbnb and Uber scale without owning assets",

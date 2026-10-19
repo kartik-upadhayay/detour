@@ -545,6 +545,13 @@ def build_podcasts(sources: dict, hist: dict, day: dt.date) -> list[dict]:
 
 # ---------------------------------------------------------------- main
 
+def with_fun(videos: dict, fun: dict | None) -> dict:
+    """The fun pick goes last in Watch and is never the day's main video."""
+    if fun:
+        videos["more"] = videos["more"] + [fun]
+    return videos
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--dry-run", action="store_true")
@@ -588,7 +595,8 @@ def main() -> int:
             "words": prev["words"] if keep_cards else build_words(key, hist, rng),
             "loop": prev["loop"] if keep_cards else build_loop(key, hist, rng),
             "news": build_news(key, sources, now),
-            "videos": learn.build_videos(key, gemini, prompt, hist, day.toordinal(), sources["categories"], pool),
+            "videos": with_fun(learn.build_videos(key, gemini, prompt, hist, day.toordinal(), sources["categories"], pool),
+                               learn.build_fun(sources.get("fun", []), hist, day.toordinal())),
             "podcasts": learn.build_podcasts(key, gemini, prompt, sources["podcasts"], hist, day.toordinal()),
             "onThisDay": build_on_this_day(key, day),
             "trending": trending.build_trending(key, gemini, prompt),

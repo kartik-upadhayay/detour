@@ -35,6 +35,48 @@ CATEGORY_BRIEF = {
     "science": "fascinating science explained simply: space, the body, physics, nature",
 }
 
+STOP = {"how", "what", "why", "the", "and", "for", "with", "your", "from", "into", "that", "this", "work", "works",
+        "understanding", "explained", "about", "their", "they", "when", "does", "using", "make", "makes",
+        "psychology", "first", "people", "life", "history", "story", "science", "simple", "guide", "basics", "power"}
+
+
+def _keywords(text: str) -> set[str]:
+    return {w for w in re.findall(r"[a-z]{4,}|\d{2,}", text.lower()) if w not in STOP}
+
+
+def similar_topic(a: str, b: str) -> bool:
+    """True when two topics are about the same thing (shared key words), e.g. two 'rule of 72' phrasings."""
+    ka, kb = _keywords(a), _keywords(b)
+    if not ka or not kb:
+        return a.strip().lower() == b.strip().lower()
+    shared = len(ka & kb)
+    return shared >= 2 or shared / min(len(ka), len(kb)) >= 0.5
+
+
+# One random angle per category per day pushes Gemini off its favourite topics.
+CATEGORY_ANGLES = {
+    "india": ["an ancient or medieval empire", "a freedom-struggle story", "how an Indian institution works",
+              "Indian geography or a region's story", "a famous Indian scientist or inventor", "an architectural wonder",
+              "a turning-point battle or treaty", "Indian economy or a policy explained", "culture, food or language origins"],
+    "money": ["a common money mistake", "how a financial product works", "a famous market crash or bubble",
+              "behavioural finance", "taxes and salary basics", "how banks and lending work", "investing strategies",
+              "economics of everyday things", "first salary and budgeting"],
+    "business": ["a famous company's rise or fall", "a pricing or marketing trick", "how a startup raised money",
+                 "supply chains and logistics", "a business model teardown", "negotiation and sales", "brand strategy"],
+    "ai": ["how a specific AI tool works", "AI for productivity", "robots and hardware", "cybersecurity and hacking",
+           "how the internet works", "AI ethics and risks", "computer science fundamentals", "the history of computing"],
+    "mind": ["attraction and dating", "confidence and body language", "conversation skills", "habits and discipline",
+             "a famous psychology experiment", "persuasion and influence", "emotions and stress", "friendship and loneliness",
+             "memory and learning"],
+    "philosophy": ["a famous thinker's life and idea", "an ethical dilemma", "Eastern philosophy", "meaning and happiness",
+                   "free will and the self", "political philosophy", "logic and arguments"],
+    "history": ["a mystery of history", "an empire's fall", "a spy or heist story", "an explorer's journey",
+                "a war's turning point", "a revolution", "an invention that changed the world", "a famous leader's downfall"],
+    "science": ["space and the universe", "the human body", "animals and evolution", "physics made simple",
+                "a disaster explained by science", "chemistry in daily life", "earth, weather and climate", "medicine breakthroughs"],
+}
+
+
 NEWSY = re.compile(r"\b(live|livestream|breaking|news|update|reacts?|reaction|trailer|teaser|promo|podcast ep|#shorts|shorts)\b", re.I)
 DEVANAGARI = re.compile(r"[ऀ-ॿ]")
 INDIA_ANGLE = re.compile(r"\b(hindi|india|indian|nifty|sensex|rupees?|lakhs?|crores?)\b", re.I)
@@ -119,7 +161,7 @@ def _fallback_topics(day_ordinal: int, done: set[str]) -> list[dict]:
     rng = random.Random(day_ordinal)
     out = []
     for cat, topics in seed.items():
-        fresh = [t for t in topics if t.lower() not in done] or topics
+        fresh = [t for t in topics if not any(similar_topic(t, d) for d in done)] or topics
         t = rng.choice(fresh)
         out.append({"category": cat, "topic": t, "query": t + " explained"})
     return out
@@ -135,16 +177,29 @@ def build_videos(key: str | None, gemini: Callable, prompt: Callable, hist: dict
     seen = set(hist.get("videos", []))
     done = {t.lower() for t in hist.get("topics", [])}
 
-    topics = None
+    # Gemini tends to return the very same topics every day, so ask for several candidates per
+    # category with a rotating angle, and reject anything that resembles a past topic in code.
+    past = hist.get("topics", [])
+    rng = random.Random(day_ordinal)
+    topics: list[dict] = []
     if key:
-        got = gemini(prompt("topics",
-                            briefs="\n".join(f"- {c}: {CATEGORY_BRIEF[c]}" for c in categories),
-                            avoid="; ".join(hist.get("topics", [])[-300:]) or "(none)"), key)
-        if isinstance(got, list):
-            topics = [t for t in got if isinstance(t, dict) and t.get("category") in CATEGORY_BRIEF
-                      and isinstance(t.get("topic"), str) and isinstance(t.get("query"), str)]
-    if not topics or len(topics) < len(categories) // 2:
-        topics = _fallback_topics(day_ordinal, done)
+        angles = "\n".join(f"- {c}: {CATEGORY_BRIEF[c]}. Today's angle: {rng.choice(CATEGORY_ANGLES[c])}"
+                           for c in categories)
+        got = gemini(prompt("topics", briefs=angles, avoid="; ".join(past[-300:]) or "(none)"), key)
+        if not isinstance(got, list):
+            got = []
+        for cat in categories:
+            options = [t for t in got if isinstance(t, dict) and t.get("category") == cat
+                       and isinstance(t.get("topic"), str) and isinstance(t.get("query"), str)]
+            fresh = next((t for t in options if not any(similar_topic(t["topic"], p_) for p_ in past)), None)
+            if fresh:
+                topics.append(fresh)
+            elif options:
+                print(f"  ! {cat}: all {len(options)} Gemini topics were repeats", file=sys.stderr)
+    have = {t["category"] for t in topics}
+    for t in _fallback_topics(day_ordinal, done):
+        if t["category"] not in have and t["category"] in categories:
+            topics.append(t)
     by_cat = {t["category"]: t for t in topics}
 
     cands: dict[str, list[dict]] = {}
@@ -317,3 +372,35 @@ def build_podcasts(key: str | None, gemini: Callable, prompt: Callable, shows: l
             "startSec": start_after_intro(c["desc"]), "why": why,
         })
     return out
+
+
+# ---------------------------------------------------------------- just for fun
+
+def build_fun(shows: list[dict], hist: dict, day_ordinal: int) -> dict | None:
+    """One genuinely loved comedy episode/set a day, rotating through popular shows.
+
+    Only the show's official channel (re-uploads are often cut or low quality) and only
+    videos with a big audience: a million-plus views is the best public sign an episode
+    is good all the way through, not just two clips.
+    """
+    seen = set(hist.get("videos", []))
+    for i in range(len(shows)):
+        show = shows[(day_ordinal + i) % len(shows)]
+        try:
+            results = yt_search(show["query"])
+        except Exception as e:  # noqa: BLE001
+            print(f"  ! fun search failed for {show['name']}: {e}", file=sys.stderr)
+            continue
+        ok = [r for r in results
+              if show["channel"].lower() in r["channel"].lower() and r["id"] not in seen
+              and 420 <= r["seconds"] <= 6000 and r["views"] >= 1_000_000]
+        if ok:
+            r = max(ok, key=lambda r: r["views"])
+            print(f"  fun: {show['name']} ({r['views']:,} views)")
+            return {
+                "id": r["id"], "title": r["title"], "channel": r["channel"], "category": "fun",
+                "url": f"https://www.youtube.com/watch?v={r['id']}",
+                "thumbnail": f"https://i.ytimg.com/vi/{r['id']}/hqdefault.jpg",
+                "published": "", "learn": "", "minutes": r["seconds"] // 60,
+            }
+    return None

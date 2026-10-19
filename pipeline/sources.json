@@ -352,5 +352,52 @@
       "url": "https://www.omnycontent.com/d/playlist/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/e2ba1850-2b92-4a77-b08f-af4e0097d46c/podcast.rss",
       "category": "money"
     }
+  ],
+  "fun": [
+    {
+      "name": "India's Got Latent",
+      "query": "India's Got Latent episode",
+      "channel": "Samay Raina"
+    },
+    {
+      "name": "Andha Pyaar",
+      "query": "Andha Pyaar Vivek Samtani episode",
+      "channel": "Vivek Samtani"
+    },
+    {
+      "name": "Loose Emotions",
+      "query": "Loose Emotions Vidit Sharma episode",
+      "channel": "Vidit Sharma"
+    },
+    {
+      "name": "Anubhav Singh Bassi",
+      "query": "Anubhav Singh Bassi stand up comedy",
+      "channel": "Bassi"
+    },
+    {
+      "name": "Abhishek Upmanyu",
+      "query": "Abhishek Upmanyu stand up comedy",
+      "channel": "Abhishek Upmanyu"
+    },
+    {
+      "name": "Zakir Khan",
+      "query": "Zakir Khan stand up comedy full",
+      "channel": "Zakir Khan"
+    },
+    {
+      "name": "Harsh Gujral",
+      "query": "Harsh Gujral stand up comedy",
+      "channel": "Harsh Gujral"
+    },
+    {
+      "name": "Kenny Sebastian",
+      "query": "Kenny Sebastian stand up comedy",
+      "channel": "Kenny Sebastian"
+    },
+    {
+      "name": "Aakash Gupta",
+      "query": "Aakash Gupta stand up comedy",
+      "channel": "Aakash Gupta"
+    }
   ]
 }

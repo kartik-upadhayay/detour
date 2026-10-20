@@ -1,434 +1,433 @@
 {
   "schema": 1,
-  "date": "2026-10-19",
-  "generatedAt": "2026-10-19T05:36:52+00:00",
+  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T03:38:02+00:00",
   "words": [
     {
-      "word": "Staggering",
-      "pos": "adjective",
-      "pronunciation": "STA-ger-ing",
-      "meaning": "So great, shocking, or large as to astonish.",
-      "insteadOf": "really big",
-      "example": "The sheer volume of DSA problems on LeetCode is staggering."
-    },
-    {
-      "word": "Scathing",
-      "pos": "adjective",
-      "pronunciation": "Skay-thing",
-      "meaning": "Severely critical or intense.",
-      "insteadOf": "really harsh",
-      "example": "The professor left a scathing review of our group project repository."
-    },
-    {
-      "word": "Gargantuan",
-      "pos": "adjective",
-      "pronunciation": "gar-GAN-choo-un",
-      "meaning": "Enormous; gigantic in size or volume.",
-      "insteadOf": "massive",
-      "example": "We ordered a gargantuan portion of biryani for the hostel late-nighter."
-    },
-    {
-      "word": "Dilapidated",
-      "pos": "adjective",
-      "pronunciation": "di-LAP-uh-day-ted",
-      "meaning": "In a state of disrepair or ruin as a result of age or neglect.",
-      "insteadOf": "broken down",
-      "example": "We found a dilapidated building on the campus edge for our secret club."
-    },
-    {
-      "word": "Paucity",
+      "word": "Tirade",
       "pos": "noun",
-      "pronunciation": "PAW-si-tee",
-      "meaning": "The presence of something in only small or insufficient quantities.",
-      "insteadOf": "lack of",
-      "example": "There is a noticeable paucity of good data science electives this semester."
+      "pronunciation": "tahy-reyd",
+      "meaning": "A long, angry speech of criticism.",
+      "insteadOf": "rant",
+      "example": "He went on a bitter tirade when the server crashed."
     },
     {
-      "word": "Proliferous",
-      "pos": "adjective",
-      "pronunciation": "pro-LIF-er-us",
-      "meaning": "Producing a large number of something rapidly.",
-      "insteadOf": "producing a lot",
-      "example": "My GitHub profile shows a prolificacy of small weekend hackathon projects."
-    },
-    {
-      "word": "Pillory",
+      "word": "Excoriate",
       "pos": "verb",
-      "pronunciation": "PIL-uh-ree",
-      "meaning": "To attack or ridicule publicly.",
-      "insteadOf": "publicly roast",
-      "example": "Twitter loves to pillory tech founders who make tone-deaf statements."
+      "pronunciation": "ik-skawr-ee-eyt",
+      "meaning": "To criticize severely.",
+      "insteadOf": "bash",
+      "example": "The professor will excoriate us if we miss the deadline."
     },
     {
-      "word": "Piquant",
-      "pos": "adjective",
-      "pronunciation": "PEE-kuhnt",
-      "meaning": "Having a pleasantly sharp taste or an interestingly stimulating character.",
-      "insteadOf": "spicy or interesting",
-      "example": "The roadside chai had a piquant blend of ginger and crushed cardamom."
+      "word": "Tether",
+      "pos": "verb",
+      "pronunciation": "teth-er",
+      "meaning": "To restrict freedom or movement.",
+      "insteadOf": "tie down",
+      "example": "We shouldn't tether our backend architecture to a single cloud provider."
     },
     {
-      "word": "Pithy",
+      "word": "Enervate",
+      "pos": "verb",
+      "pronunciation": "en-er-veyt",
+      "meaning": "To drain of energy or vitality.",
+      "insteadOf": "wear out",
+      "example": "This endless debugging session will completely enervate the team."
+    },
+    {
+      "word": "Heresy",
+      "pos": "noun",
+      "pronunciation": "her-uh-see",
+      "meaning": "An opinion contrary to accepted doctrine.",
+      "insteadOf": "going against the rules",
+      "example": "Suggesting we drop React for vanilla JS is pure heresy here."
+    },
+    {
+      "word": "Tetchy",
       "pos": "adjective",
-      "pronunciation": "PITH-ee",
-      "meaning": "Brief, forceful, and meaningful in expression.",
-      "insteadOf": "short and sweet",
-      "example": "His pithy code comment explained the complex algorithm in one line."
+      "pronunciation": "tech-ee",
+      "meaning": "Bad-tempered and easily annoyed.",
+      "insteadOf": "moody",
+      "example": "He gets terribly tetchy when his morning chai is delayed."
+    },
+    {
+      "word": "Emulate",
+      "pos": "verb",
+      "pronunciation": "em-yuh-leyt",
+      "meaning": "To match or surpass by imitation.",
+      "insteadOf": "copy",
+      "example": "Our startup aims to emulate the success of top Indian fintechs."
+    },
+    {
+      "word": "Trope",
+      "pos": "noun",
+      "pronunciation": "trohp",
+      "meaning": "A commonly recurring motif or device.",
+      "insteadOf": "cliche",
+      "example": "That Bollywood movie relies on every tired romantic trope."
+    },
+    {
+      "word": "Histrionic",
+      "pos": "adjective",
+      "pronunciation": "his-tree-on-ik",
+      "meaning": "Melodramatic in character.",
+      "insteadOf": "dramatic",
+      "example": "Ignore his histrionic reaction to the minor code review comments."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Brat summer",
-      "meaning": "A cultural aesthetic defined by messy, hedonistic party energy, neon-green visuals, and embracing inner flaws.",
-      "example": "Bro is wearing sunglasses indoors, he thinks it's still brat summer.",
-      "context": "Used in pop culture and social media to describe chaotic or unapologetic behavior. Not rude, just deeply online.",
-      "tone": "playful",
+      "term": "Bama",
+      "meaning": "An insult used by Gen Z to describe someone acting uncool, awkward, or lacking basic social awareness and style.",
+      "example": "Bro really wore cargo shorts to the club, total bama behavior.",
+      "context": "Dropped when roasting a friend for a bad outfit or awkward move. Slightly rude if meant genuinely.",
+      "tone": "mocking",
       "nsfw": false,
-      "id": "brat-summer"
+      "id": "bama"
     },
     {
       "type": "psych",
-      "term": "Radical acceptance",
-      "meaning": "A dialectical behavior therapy skill where you completely accept reality as it is without fighting it or trying to fix it immediately.",
-      "example": "I failed the exam, but I'm just practicing radical acceptance at this point.",
-      "context": "Dropped heavily in therapy podcasts and self-help spaces when talking about dealing with unchangeable bad situations.",
+      "term": "Limerence",
+      "meaning": "A state of intense romantic infatuation and obsession with another person, often involving intrusive thoughts and a desire for reciprocation.",
+      "example": "She isn't actually in love with him, she's just in a state of pure limerence.",
+      "context": "Brought up in dating podcasts and deep conversations about modern relationships.",
       "tone": "serious",
       "nsfw": false,
-      "id": "radical-acceptance"
+      "id": "limerence"
     },
     {
       "type": "acronym",
-      "term": "JOMO",
-      "meaning": "Joy Of Missing Out; the pleasure of staying home and ignoring social obligations.",
-      "example": "Staying in on a Friday night to play video games is pure JOMO.",
-      "context": "The antidote to FOMO, used when happily embracing isolation.",
+      "term": "OOTD",
+      "meaning": "Outfit of the Day, used to showcase what someone is wearing.",
+      "example": "Checking out reels to find some inspiration for my OOTD tonight.",
+      "context": "Standard fashion and lifestyle content terminology across all social platforms.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "ootd"
+    },
+    {
+      "type": "paradox",
+      "term": "Abilene paradox",
+      "meaning": "A paradox where a group of people collectively decide on a course of action that is counter to the preferences of many of the individuals in the group.",
+      "example": "Nobody actually wanted to go to that terrible restaurant, we just fell into the Abilene paradox.",
+      "context": "Used when analyzing why a group made a terrible plan that nobody genuinely liked.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "abilene-paradox"
+    },
+    {
+      "type": "meme",
+      "term": "Sigma male",
+      "meaning": "A popular internet archetype of a lone wolf male who operates outside the traditional social hierarchy.",
+      "example": "He sat alone in the corner staring at his laptop like a true sigma male.",
+      "context": "Used ironically in reels and group chats to poke fun at overly serious guys.",
       "tone": "playful",
       "nsfw": false,
-      "id": "jomo"
+      "id": "sigma-male"
     },
     {
       "type": "slang",
-      "term": "Yap",
-      "meaning": "To talk excessively about unimportant or mundane things.",
-      "example": "Stop yapping on the podcast and get to the point.",
-      "context": "Dropped casually among friends or in reels to tease someone who talks too much. Harmless and very current.",
+      "term": "Vibe shift",
+      "meaning": "A sudden, collective change in cultural tastes, trends, or what is considered cool.",
+      "example": "There is a massive vibe shift happening on reels right now, nobody wants to do dance trends anymore.",
+      "context": "Used in general conversation when analyzing social media trends or nightlife changes.",
       "tone": "casual",
       "nsfw": false,
-      "id": "yap"
+      "id": "vibe-shift"
     },
     {
       "type": "psych",
-      "term": "Hyperfixation",
-      "meaning": "An intense, all-consuming focus on a specific topic, hobby, or object that completely crowds out other thoughts.",
-      "example": "Don't ask him about mechanical keyboards unless you want a three-hour hyperfixation lecture.",
-      "context": "Used casually among friends to explain why someone knows way too much about a random niche subject.",
+      "term": "Hoarding disorder",
+      "meaning": "A mental health condition characterized by a persistent difficulty discarding possessions due to a perceived need to save them.",
+      "example": "My room is getting so messy my friends are joking I have early-stage hoarding disorder.",
+      "context": "Used loosely as a joke about keeping useless items, or seriously in psychological discussions.",
       "tone": "casual",
       "nsfw": false,
-      "id": "hyperfixation"
+      "id": "hoarding-disorder"
     },
     {
-      "type": "slang",
-      "term": "Jumping the shark",
-      "meaning": "When a person, show, or trend hits a ridiculous peak and definitively starts going downhill.",
-      "example": "That influencer started eating raw meat on camera, they've officially jumped the shark.",
-      "context": "Used in conversations about media or public figures getting too desperate for attention.",
-      "tone": "mocking",
+      "type": "acronym",
+      "term": "GRWM",
+      "meaning": "Get Ready With Me, a video format where creators talk to the camera while doing their makeup or picking clothes.",
+      "example": "I watched three GRWM videos while eating breakfast this morning.",
+      "context": "Ubiquitous on Instagram Reels and YouTube Shorts.",
+      "tone": "casual",
       "nsfw": false,
-      "id": "jumping-the-shark"
-    },
-    {
-      "type": "psych",
-      "term": "Splitting",
-      "meaning": "A defense mechanism where someone views people or situations as entirely all-good or all-bad with no gray area.",
-      "example": "She loved her new boss yesterday and now she hates him, classic splitting.",
-      "context": "Heard in pop-psychology content breaking down toxic relationship dynamics or personality traits.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "splitting"
-    },
-    {
-      "type": "slang",
-      "term": "Schizo",
-      "meaning": "Slang used online to describe wildly erratic conspiracy theories or frantic, paranoid behavior.",
-      "example": "My crypto portfolio is down so bad I'm starting to write schizo threads.",
-      "context": "Extremely common in internet meme culture, though using it to describe actual mental health conditions is insensitive.",
-      "tone": "crude",
-      "nsfw": true,
-      "id": "schizo"
+      "id": "grwm"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Actor Tiger Shroff survived an assassination attempt after gunmen opened fire at his car in Mumbai, prompting high-level security reviews and police detentions.",
+        "text": "Indian-origin students and alumni across 27 countries issued an appeal defending the nation's constitutional institutions and warning against anarchy.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/bike-used-for-firing-at-tiger-shroff-recovered-by-police-two-detained-101792384252507.html"
+        "url": "https://www.hindustantimes.com/india-news/400-indian-origin-students-alumni-abroad-sign-spare-india-from-anarchy-appeal-101792463960633.html"
       },
       {
-        "text": "A total of 137 cancer drugs, including critical immunotherapy medications, will become cheaper in India starting November 9 under new price regulations.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/cancer-drugs-to-get-cheaper-in-india-from-november-9-full-list-of-137-medicines-and-how-much-you-could-actually-save-11792385350720.html"
-      },
-      {
-        "text": "The India Meteorological Department launched an advanced WebGIS-based Decision Support System to significantly improve cyclone disaster preparedness and marine weather alerts.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/imd-launches-webgis-based-decision-support-system-to-improve-cyclone-disaster-preparedness/articleshow/135039125.cms"
-      },
-      {
-        "text": "External Affairs Minister S. Jaishankar and US Secretary of State Marco Rubio are scheduled to hold bilateral talks in Mumbai to discuss trade deals and strategic partnerships.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/s-jaishankar-marco-rubio-to-hold-talks-in-mumbai-tomorrow-amid-india-us-trade-deal-push-what-is-on-the-agenda-11792379832648.html"
-      },
-      {
-        "text": "The Ministry of Electronics and Information Technology advised Meta to review its recommendation systems to prevent public disorder and ensure timely cooperation with law enforcement.",
+        "text": "UPSC released the Combined Defence Services 2 Result 2026, qualifying 8,956 candidates for the upcoming interview round.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/centre-advises-meta-to-review-recommendation-systems-to-prevent-public-disorder-12204481#publisher=newsstand"
+        "url": "https://www.ndtv.com/education/upsc-combined-defence-services-2-result-2026-out-8-956-candidates-qualified-check-details-12208898#publisher=newsstand"
       },
       {
-        "text": "Indian Bank reported a 14.7% rise in net profit to ₹3,462 crore for the second quarter, driven by strong growth in gross advances and a decline in NPAs.",
+        "text": "Jio Platforms' anchor book secured a record 2.5 lakh crore rupees in bids ahead of its initial public offering.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/indian-bank-net-profit-rises-147-to-3462-crore-in-q2/article71596730.ece"
+        "url": "https://www.thehindu.com/business/jio-platforms-anchor-book-draws-record-25-lakh-crore-in-bids-ahead-of-ipo/article71603087.ece"
       },
       {
-        "text": "Defence Minister Rajnath Singh will represent India at the Shanghai Cooperation Organisation meeting in Tajikistan to discuss multilateral cooperation in trade and investment.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/rajnath-singh-to-represent-india-at-sco-meeting-in-tajikistan-whats-on-the-agenda-india-pakistan-11792377223853.html"
+        "text": "US official Marco Rubio arrived in India for a three-day tour to discuss trade, energy, technology, and security, while honoring 26/11 victims.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/marco-rubio-to-begin-3-day-india-tour-today-will-honour-26-11-victims-12208382#publisher=newsstand"
       },
       {
-        "text": "Southern Railway warned passengers that playing audio on speakers or talking loudly on mobile phones inside trains could lead to fines or jail time.",
+        "text": "Union Bank of India reported a 30 percent rise in second-quarter net profit, reaching 5,537 crore rupees.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/union-bank-of-india-q2-net-profit-rises-30-to-5537-crore/article71602868.ece"
+      },
+      {
+        "text": "Ladakh Lieutenant General Governor VK Saxena launched a fleet of 73 ambulances to provide dedicated healthcare access to remote villages.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/ladakh-flags-off-73-ambulances-to-serve-remote-villages-12208792#publisher=newsstand"
+      },
+      {
+        "text": "Indian agrivoltaic capacity is projected to exceed 5 gigawatts in the next three to four years, according to renewable energy officials.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/indias-agrivoltaic-capacity-is-expected-to-be-more-than-5-gigawatts-in-next-3-4-years-5-gigawatts/article71602893.ece"
+      },
+      {
+        "text": "The Indian Army's first dedicated communications satellite is scheduled for launch by ISRO around mid-2028.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/rail-passengers-could-face-fine-jail-time-for-loud-calls-playing-audio-on-speakers-101792383113983.html"
+        "url": "https://www.hindustantimes.com/india-news/armys-communications-satellite-likely-by-mid-2028-top-officials-101792436307271.html"
+      },
+      {
+        "text": "Indian stock markets tumbled significantly, with the BSE Sensex dropping 876 points, heavily dragged down by private banking stocks.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/markets/sensex-tumbles-876-points-nifty-drops-below-22900-dragged-by-private-banks/article71602580.ece"
       }
     ],
     "world": [
       {
-        "text": "French President Emmanuel Macron has called for calm and order following widespread riots and looting across the country driven by public service and cost-of-living grievances.",
+        "text": "Curfews are imposed in parts of central Paris and other French cities following widespread rioting and police admissions of losing control.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "A violent fire at a Canadian military base has killed four soldiers and critically injured dozens of others after sweeping through established firebreaks.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss"
+        "text": "A Kenyan court finds self-proclaimed cult leader Paul Mackenzie and about 30 others guilty of the murder of 190 children and one adult.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
       },
       {
-        "text": "Ukraine launched over 1,000 drones at Russia in a massive overnight air strike that set multiple oil facilities ablaze.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/ukrainian-drone-attack-on-russias-st-petersburg-kills-1-hits-energy-sites?traffic_source=rss"
+        "text": "A drone strike near a market in southern Sudan kills 80 people, marking one of the deadliest single attacks in the ongoing conflict.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/drone-attack-market-al-dibab-west-kordofan-sudan"
       },
       {
-        "text": "AI giant Anthropic has committed five percent of its shares to a new public benefit fund intended for NGO donations and direct distributions.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/19/anthropic-says-it-will-commit-5-of-shares-to-public-benefit-fund?traffic_source=rss"
+        "text": "China reports stronger-than-forecast third-quarter economic growth of 4.5%, boosted by a surge in industrial output and electronics demand driven by AI.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/china-economy-grows-faster-than-forecast-after-ai-boom-boosted-exports"
       },
       {
-        "text": "Pope Leo made his first major public appearance since undergoing lung cancer surgery, greeting Catholic faithful in St Peter's Square.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/19/pope-greeted-by-crowds-in-first-major-appearance-since-lung-cancer-surgery?traffic_source=rss"
+        "text": "Japan successfully launches its flagship H3 rocket carrying the Martian Moons Exploration probe on a historic mission to study Mars' moons.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/japan-successfully-launches-probe-in-historic-mars-moon-mission/article71603095.ece"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "F4txhN13y6A",
-      "title": "Psychology: The Stanford Prison Experiment - BBC Documentary",
-      "channel": "Patricia Im",
-      "category": "mind",
-      "url": "https://www.youtube.com/watch?v=F4txhN13y6A",
-      "thumbnail": "https://i.ytimg.com/vi/F4txhN13y6A/hqdefault.jpg",
+      "id": "VFPBf1AZOQg",
+      "title": "PHILOSOPHY - The Good Life: Aristotle [HD]",
+      "channel": "Wireless Philosophy",
+      "category": "philosophy",
+      "url": "https://www.youtube.com/watch?v=VFPBf1AZOQg",
+      "thumbnail": "https://i.ytimg.com/vi/VFPBf1AZOQg/hqdefault.jpg",
       "published": "",
-      "learn": "How situational pressures and assigned social roles can override individual morality.",
-      "minutes": 29
+      "learn": "Why true human happiness is an active life of virtue.",
+      "minutes": 5
     },
     "more": [
       {
-        "id": "_WypT8RPUxg",
-        "title": "The Mystery of the Kailasa Temple of India | Ancient Architects",
-        "channel": "Ancient Architects",
+        "id": "vXDoofWyHP8",
+        "title": "Why Farmers Risk Their Lives To Harvest Desert Salt For $4 A Ton",
+        "channel": "Business Insider",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=_WypT8RPUxg",
-        "thumbnail": "https://i.ytimg.com/vi/_WypT8RPUxg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vXDoofWyHP8",
+        "thumbnail": "https://i.ytimg.com/vi/vXDoofWyHP8/hqdefault.jpg",
         "published": "",
-        "learn": "How ancient engineers carved a massive monolithic temple top-down from solid rock.",
-        "minutes": 9
+        "learn": "How a harsh salt desert sustains life through grueling human labor.",
+        "minutes": 14
       },
       {
-        "id": "HQzoZfc3GwQ",
-        "title": "How To Manage Your Money (50/30/20 Rule)",
-        "channel": "Marko - WhiteBoard Finance",
+        "id": "49TYOX6Pf6I",
+        "title": "Repos Explained (and Why The Fed Uses Them)",
+        "channel": "The Plain Bagel",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=HQzoZfc3GwQ",
-        "thumbnail": "https://i.ytimg.com/vi/HQzoZfc3GwQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=49TYOX6Pf6I",
+        "thumbnail": "https://i.ytimg.com/vi/49TYOX6Pf6I/hqdefault.jpg",
         "published": "",
-        "learn": "How to allocate your paycheck effectively using the 50-30-20 budgeting rule.",
+        "learn": "Why the Federal Reserve uses repos to control interbank lending rates.",
+        "minutes": 10
+      },
+      {
+        "id": "gokC5fXEM00",
+        "title": "How Red Bull Built Its Empire",
+        "channel": "Wendover Productions",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=gokC5fXEM00",
+        "thumbnail": "https://i.ytimg.com/vi/gokC5fXEM00/hqdefault.jpg",
+        "published": "",
+        "learn": "How Red Bull transformed a beverage into a global media empire.",
+        "minutes": 16
+      },
+      {
+        "id": "z4AbijUCoKU",
+        "title": "Give Me 15 Minutes. I'll Teach You  80% of Obsidian",
+        "channel": "Linking Your Thinking with Nick Milo",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=z4AbijUCoKU",
+        "thumbnail": "https://i.ytimg.com/vi/z4AbijUCoKU/hqdefault.jpg",
+        "published": "",
+        "learn": "How to build a powerful second brain using Obsidian notes.",
+        "minutes": 14
+      },
+      {
+        "id": "n3Xv_g3g-mA",
+        "title": "Loneliness",
+        "channel": "Kurzgesagt – In a Nutshell",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=n3Xv_g3g-mA",
+        "thumbnail": "https://i.ytimg.com/vi/n3Xv_g3g-mA/hqdefault.jpg",
+        "published": "",
+        "learn": "Why modern society breeds loneliness and how evolutionary biology drives it.",
+        "minutes": 13
+      },
+      {
+        "id": "iTOKRWgjOlg",
+        "title": "The Lost Colony of Roanoke",
+        "channel": "LEMMiNO",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=iTOKRWgjOlg",
+        "thumbnail": "https://i.ytimg.com/vi/iTOKRWgjOlg/hqdefault.jpg",
+        "published": "",
+        "learn": "The chilling truth behind the sudden disappearance of the Roanoke colony.",
+        "minutes": 27
+      },
+      {
+        "id": "oY8ds4BiG1A",
+        "title": "How Trees Bring Water",
+        "channel": "Andrew Millison",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=oY8ds4BiG1A",
+        "thumbnail": "https://i.ytimg.com/vi/oY8ds4BiG1A/hqdefault.jpg",
+        "published": "",
+        "learn": "How ancient forests generate invisible rivers in the sky.",
         "minutes": 7
       },
       {
-        "id": "rTVkUHrprk8",
-        "title": "The Rise And Fall Of Blockbuster",
-        "channel": "Business Insider",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=rTVkUHrprk8",
-        "thumbnail": "https://i.ytimg.com/vi/rTVkUHrprk8/hqdefault.jpg",
-        "published": "",
-        "learn": "Why Blockbuster failed to adapt while Netflix revolutionized entertainment through streaming.",
-        "minutes": 8
-      },
-      {
-        "id": "UQZooauU-FQ",
-        "title": "Humanoid Robots and the Gap Between Hype and Reality | Bloomberg Primer",
-        "channel": "Bloomberg Originals",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=UQZooauU-FQ",
-        "thumbnail": "https://i.ytimg.com/vi/UQZooauU-FQ/hqdefault.jpg",
-        "published": "",
-        "learn": "The real engineering challenges behind humanoid robots versus media hype.",
-        "minutes": 24
-      },
-      {
-        "id": "TfVmW6sNux8",
-        "title": "Plato's allegory of the ring - Alex Gendler",
-        "channel": "TED-Ed",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=TfVmW6sNux8",
-        "thumbnail": "https://i.ytimg.com/vi/TfVmW6sNux8/hqdefault.jpg",
-        "published": "",
-        "learn": "Whether humans remain moral when granted total anonymity and invisibility.",
-        "minutes": 5
-      },
-      {
-        "id": "rcgdDiD5reM",
-        "title": "How the Printing Press Changed the World",
-        "channel": "Holmos",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=rcgdDiD5reM",
-        "thumbnail": "https://i.ytimg.com/vi/rcgdDiD5reM/hqdefault.jpg",
-        "published": "",
-        "learn": "How Gutenberg printing press revolutionized communication and democratized knowledge globally.",
-        "minutes": 5
-      },
-      {
-        "id": "3ziMBDPMuP8",
-        "title": "How a Chemist Makes the Softest Bread You'll Ever Eat",
-        "channel": "Reactions",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=3ziMBDPMuP8",
-        "thumbnail": "https://i.ytimg.com/vi/3ziMBDPMuP8/hqdefault.jpg",
-        "published": "",
-        "learn": "How yeast fermentation, gluten structures, and chemical reactions create perfect bread.",
-        "minutes": 15
-      },
-      {
-        "id": "VJ9VC9OqdAA",
-        "title": "INDIA’S GOT LATENT S2 EP5 ft. Orry, Archana Puran Singh, Sharon Verma, Nishant Suri",
-        "channel": "Samay Raina",
+        "id": "eAOuBmX4vto",
+        "title": "ANDHA PYAAR | Bachpan ji is back ft. @ComicKaustubhAgarwal @RajatSood @prateekbhardwaj45 Vivek",
+        "channel": "Vivek Samtani",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=VJ9VC9OqdAA",
-        "thumbnail": "https://i.ytimg.com/vi/VJ9VC9OqdAA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eAOuBmX4vto",
+        "thumbnail": "https://i.ytimg.com/vi/eAOuBmX4vto/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 53
+        "minutes": 95
       }
     ]
   },
   "podcasts": [
     {
-      "id": "paisa-vaisa-inside-the-stockbroking-business-nithin-kamath-paisa-vaisa-archive-p",
-      "title": "Inside the Stockbroking Business | Nithin Kamath | Paisa Vaisa (Archive) Part 1",
-      "show": "Paisa Vaisa",
-      "category": "money",
-      "audioUrl": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "link": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/inside-the-stockbroking-business-nithin-kamath-paisa-vaisa",
-      "durationSec": 1820,
+      "id": "how-i-built-this-sweet-loren-s-loren-castle-how-a-recipe-makeover-built-a-nation",
+      "title": "Sweet Loren’s: Loren Castle. How A Recipe Makeover Built a National Cookie Brand",
+      "show": "How I Built This",
+      "category": "business",
+      "audioUrl": "https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+      "link": "",
+      "durationSec": 3879,
       "startSec": null,
-      "why": "Discover how Zerodha's founder built a stockbroking empire and mastered the market."
+      "why": "Surviving cancer, she built a massive cookie brand from the ground up."
     },
     {
-      "id": "no-such-thing-as-a-fish-little-fish-crufsts",
-      "title": "Little Fish: Crufsts",
-      "show": "No Such Thing As A Fish",
+      "id": "stuff-you-should-know-short-stuff-currency-symbols",
+      "title": "Short Stuff: Currency Symbols",
+      "show": "Stuff You Should Know",
       "category": "science",
-      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8965627.mp3?modified=1792144842&sid=2399216&source=rss",
-      "link": "https://audioboom.com/posts/8965627",
-      "durationSec": 1967,
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/short-stuff-currency-symbols",
+      "durationSec": 785,
       "startSec": null,
-      "why": "Hilarious facts and weird history make complex topics effortlessly simple and fun."
+      "why": "Ever wonder where those strange currency symbols actually came from?"
     }
   ],
   "onThisDay": [
     {
-      "year": 1910,
-      "kind": "born",
-      "text": "Subrahmanyan Chandrasekhar, the renowned Indian-American astrophysicist and Nobel Prize laureate, was born, revolutionizing our understanding of stellar evolution.",
-      "url": "https://en.wikipedia.org/wiki/Subrahmanyan_Chandrasekhar",
-      "india": true
-    },
-    {
-      "year": 2003,
+      "year": 1962,
       "kind": "event",
-      "text": "Mother Teresa was beatified by Pope John Paul II, marking a major step toward her canonization for a lifetime of humanitarian service.",
-      "url": "https://en.wikipedia.org/wiki/Mother_Teresa",
+      "text": "China launched simultaneous offensives in Ladakh and across the McMahon Line, igniting the Sino-Indian War.",
+      "url": "https://en.wikipedia.org/wiki/China",
       "india": true
     },
     {
-      "year": 1920,
+      "year": 1978,
       "kind": "born",
-      "text": "Pandurang Shastri Athavale, the influential Indian philosopher and spiritual leader who founded the Swadhyaya movement, was born.",
-      "url": "https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale",
+      "text": "Virender Sehwag, the explosive Indian cricketer who revolutionized opening batting in Test cricket, was born.",
+      "url": "https://en.wikipedia.org/wiki/Virender_Sehwag",
       "india": true
     },
     {
-      "year": 1781,
+      "year": 1991,
       "kind": "event",
-      "text": "British forces under Lord Cornwallis surrendered at the Siege of Yorktown, effectively securing American independence.",
-      "url": "https://en.wikipedia.org/wiki/American_Revolutionary_War",
+      "text": "A massive earthquake struck the Uttarkashi region, killing over 1,000 people and devastating local infrastructure.",
+      "url": "https://en.wikipedia.org/wiki/Moment_magnitude_scale",
+      "india": true
+    },
+    {
+      "year": 2011,
+      "kind": "event",
+      "text": "Deposed Libyan leader Muammar Gaddafi was captured and killed by rebel forces during the Battle of Sirte.",
+      "url": "https://en.wikipedia.org/wiki/Libyan_civil_war_(2011)",
       "india": false
     },
     {
-      "year": 1987,
+      "year": 1969,
       "kind": "event",
-      "text": "The Dow Jones Industrial Average suffered a record 22.6 percent single-day drop on Black Monday, sending shockwaves through global financial markets.",
-      "url": "https://en.wikipedia.org/wiki/Dow_Jones_Industrial_Average",
+      "text": "Experimental results from the Stanford Linear Accelerator Center provided the first evidence that protons are composed of quarks.",
+      "url": "https://en.wikipedia.org/wiki/SLAC_National_Accelerator_Laboratory",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "West Indies Champions won the WCL title after Lendl Simmons hit an explosive knock, defeating England Champions in the final.",
-      "why": "Nostalgia and cricket fever make legendary comebacks instantly viral.",
-      "url": "https://www.jansatta.com/khel/dwayne-bravo-took-3-wickets-england-champions-gave-160-target-to-west-indies-champions-moeen-ali-scored-60-runs-wcl-2026-final-eng-ch-vs-wi-ch/4750829/",
-      "source": "Jansatta"
+      "text": "Mamata Banerjee expressed fury and demanded the immediate release of Ashutosh and Saurav after their custody was extended.",
+      "why": "Political outrage and clashes over arrests.",
+      "url": "https://www.abplive.com/news/india/cjp-thank-you-to-mamata-banerjee-for-support-ashutosh-ranka-saurav-das-judicial-custody-extended-3204278",
+      "source": "ABP News"
     },
     {
-      "text": "Ranbir Kapoor and Yash's upcoming film 'Ramayana' crossed USD 500K in advance bookings in North America.",
-      "why": "Massive overseas pre-sales numbers are driving massive fan hype online.",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/box-office/ramayana-advance-booking-ranbir-kapoor-and-yash-starrer-crosses-usd-500k-in-north-america-nears-usd-800k-at-worldwide-box-office/articleshow/135037637.cms",
-      "source": "The Times of India"
+      "text": "BJP accounts shared footage of Rahul Gandhi travelling abroad, claiming he went on holiday amid protests.",
+      "why": "Trolling and political ammunition on social media.",
+      "url": "https://www.asianetnews.com/india-news/rahul-gandhi-is-abroad-footage-from-inside-an-aircraft-has-emerged-articleshow-e6ag3d6",
+      "source": "Asianet News Malayalam"
     },
     {
-      "text": "Three men reportedly opened fire at Tiger Shroff in Mumbai's Juhu area, leaving his driver injured.",
-      "why": "Shocking celebrity violence stories spread rapidly across social feeds.",
-      "url": "https://www.reddit.com/r/india/comments/1x95ciz/three_men_open_fire_at_tiger_shroff_in_mumbais/",
+      "text": "China imposed export controls on tunnel-boring machines sought by India, citing national security concerns.",
+      "why": "Geopolitical tension affecting infrastructure projects.",
+      "url": "https://www.reddit.com/r/india/comments/1x9xm91/china_imposes_export_controls_on_tunnelboring/",
       "source": "r/india"
     },
     {
-      "text": "At least 19 people died in a stampede at a crowded Durga Puja celebration in Kolkata.",
-      "why": "A horrific festive tragedy sparking intense political blame games.",
-      "url": "https://www.reddit.com/r/india/comments/1x94du0/19_die_at_a_kolkata_durga_puja_stampede_months/",
-      "source": "r/india"
+      "text": "Mysuru Dasara drone show set a Guinness World Record with a spectacular display featuring 3,473 drones.",
+      "why": "Viral festive spectacle and national pride.",
+      "url": "https://www.thehindu.com/news/national/karnataka/grand-illumination-drone-show-trigger-traffic-chaos-in-mysuru/article71599634.ece",
+      "source": "The Hindu"
     },
     {
-      "text": "A viral video shared by a delivery agent showed a massive pile of festive outfits returned after Dandiya ended.",
-      "why": "Relatable festive fashion trends turning into instant internet memes.",
-      "url": "https://www.reddit.com/r/india/comments/1x91xdc/dandiya_khatam_parcel_return_delivery_agents/",
+      "text": "India was ranked 100th out of 122 countries in the latest Global Hunger Index.",
+      "why": "Heavy debate and criticism online.",
+      "url": "https://www.reddit.com/r/india/comments/1x9q29z/india_ranks_100th_out_of_122_countries_in_the/",
       "source": "r/india"
-    },
-    {
-      "text": "A mass drone attack targeted St. Petersburg, hitting an Ozon warehouse and leaving thousands of Russians without power.",
-      "why": "Escalating drone warfare footage dominates global news channels.",
-      "url": "https://www.reddit.com/r/worldnews/comments/1x8xmxi/mass_drone_attack_on_st_petersburg_ozon_warehouse/",
-      "source": "r/worldnews"
     }
   ]
 }

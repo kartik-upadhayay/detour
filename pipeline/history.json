@@ -168,7 +168,16 @@
   "proliferous",
   "pillory",
   "piquant",
-  "pithy"
+  "pithy",
+  "tirade",
+  "excoriate",
+  "tether",
+  "enervate",
+  "heresy",
+  "tetchy",
+  "emulate",
+  "trope",
+  "histrionic"
  ],
  "loop": [
   "glazing",
@@ -311,7 +320,15 @@
   "hyperfixation",
   "jumping-the-shark",
   "splitting",
-  "schizo"
+  "schizo",
+  "bama",
+  "limerence",
+  "ootd",
+  "abilene-paradox",
+  "sigma-male",
+  "vibe-shift",
+  "hoarding-disorder",
+  "grwm"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -503,7 +520,16 @@
   "TfVmW6sNux8",
   "rcgdDiD5reM",
   "3ziMBDPMuP8",
-  "VJ9VC9OqdAA"
+  "VJ9VC9OqdAA",
+  "VFPBf1AZOQg",
+  "vXDoofWyHP8",
+  "49TYOX6Pf6I",
+  "gokC5fXEM00",
+  "z4AbijUCoKU",
+  "n3Xv_g3g-mA",
+  "iTOKRWgjOlg",
+  "oY8ds4BiG1A",
+  "eAOuBmX4vto"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -555,7 +581,9 @@
   "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f74b5fa-4f8a-4d02-9d43-b4de00ea019c/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
   "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/b633e5fb-3d65-4eaf-8ad9-2c88fbec6889/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=b633e5fb-3d65-4eaf-8ad9-2c88fbec6889&feed=FO6kxYGj",
   "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2f3f19f8-db1b-4a5c-ada4-b4db0066c562/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8965627.mp3?modified=1792144842&sid=2399216&source=rss"
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8965627.mp3?modified=1792144842&sid=2399216&source=rss",
+  "https://rss.art19.com/episodes/2e22478b-1b41-4ff1-a43b-0143a48f308b.mp3?rss_browser=BAhJIgtDaHJvbWUGOgZFVA%3D%3D--d05363d83ce333c74f32188013892b2863ad051c",
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/65aec1de-d4db-465a-851d-b4e20124b771/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -701,6 +729,14 @@
   "The Stanford Prison Experiment: how situational roles override individual morality",
   "The Ring of Gyges ethical dilemma: would you do evil if you knew you were completely invisible?",
   "How the invention of the printing press by Gutenberg democratized knowledge and sparked the Reformation",
-  "The chemistry of baking bread: how yeast, gluten networks, and the Maillard reaction create a loaf"
+  "The chemistry of baking bread: how yeast, gluten networks, and the Maillard reaction create a loaf",
+  "How the Great Rann of Kutch salt desert formed and sustains life in a harsh landscape",
+  "How the interbank lending market and repo rates control the flow of money in an economy",
+  "How Red Bull transformed itself from a beverage seller into a massive media and sports empire",
+  "How to build a personal knowledge management system using AI notes and summarization tools",
+  "The sociology of modern loneliness and why making friends as an adult feels so difficult",
+  "Aristotle's philosophy of eudaimonia: why true happiness is an activity, not a feeling",
+  "The mystery of the Roanoke Colony: the bizarre disappearance of 115 English settlers in 1587",
+  "How atmospheric rivers form in the sky and drop massive amounts of rain across continents"
  ]
 }

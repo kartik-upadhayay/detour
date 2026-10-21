@@ -1,0 +1,428 @@
+{
+  "schema": 1,
+  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T03:52:21+00:00",
+  "words": [
+    {
+      "word": "Refined",
+      "pos": "adjective",
+      "pronunciation": "ri-fahynd",
+      "meaning": "Showing elegance, good taste, and advanced development.",
+      "insteadOf": "fancy",
+      "example": "His coding style is remarkably refined, devoid of messy hacks."
+    },
+    {
+      "word": "Resplendent",
+      "pos": "adjective",
+      "pronunciation": "ri-splen-duhnt",
+      "meaning": "Attractive and impressive through being richly colorful or sumptuous.",
+      "insteadOf": "looking very good",
+      "example": "She walked into the fest opening resplendent in a royal blue saree."
+    },
+    {
+      "word": "Exquisite",
+      "pos": "adjective",
+      "pronunciation": "ik-skwiz-it",
+      "meaning": "Extremely beautiful and delicate.",
+      "insteadOf": "really nice",
+      "example": "The UI design of this startup's app features exquisite typography."
+    },
+    {
+      "word": "Honed",
+      "pos": "adjective",
+      "pronunciation": "hohnd",
+      "meaning": "Sharpened and perfected over time.",
+      "insteadOf": "practiced a lot",
+      "example": "His musical taste is finely honed after years of exploring underground indie tracks."
+    },
+    {
+      "word": "Ethereal",
+      "pos": "adjective",
+      "pronunciation": "ih-theer-ee-uhl",
+      "meaning": "Extremely delicate and light in a way that seems not to be of this world.",
+      "insteadOf": "dreamy",
+      "example": "The ambient guitar intro gave the track an ethereal, floating quality."
+    },
+    {
+      "word": "Rakish",
+      "pos": "adjective",
+      "pronunciation": "ray-kish",
+      "meaning": "Having or displaying a dashing, jaunty, or slightly disreputable quality.",
+      "insteadOf": "stylish in a cool way",
+      "example": "He wore his blazer with a rakish tilt that stood out at the mixer."
+    },
+    {
+      "word": "Flamboyant",
+      "pos": "adjective",
+      "pronunciation": "flam-boi-uhnt",
+      "meaning": "Tending to attract attention because of their exuberance, confidence, and stylishness.",
+      "insteadOf": "showy",
+      "example": "His flamboyant sneakers made him instantly recognizable across the crowded campus."
+    },
+    {
+      "word": "Robust",
+      "pos": "adjective",
+      "pronunciation": "roh-buhst",
+      "meaning": "Strong and healthy; vigorous.",
+      "insteadOf": "strong",
+      "example": "We need a more robust backend architecture to handle high traffic."
+    },
+    {
+      "word": "Exemplary",
+      "pos": "adjective",
+      "pronunciation": "ig-zem-pluh-ree",
+      "meaning": "Serving as a desirable model; representing the best of its kind.",
+      "insteadOf": "really good",
+      "example": "Her presentation layout was exemplary, winning praise from the internship panel."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Wagie",
+      "meaning": "A derogatory internet term for a person trapped in a monotonous 9-to-5 job trading their time for a meager salary, often dreaming of crypto freedom.",
+      "example": "Stop crying about the Monday morning commute, wagie, go file those spreadsheets.",
+      "context": "Used heavily in finance and crypto meme spaces to mock traditional corporate employment.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "wagie"
+    },
+    {
+      "type": "psych",
+      "term": "Scarcity mindset",
+      "meaning": "A psychological belief that resources like money, success, or love are strictly limited, leading to constant anxiety and competitive behavior.",
+      "example": "He refuses to collaborate with other creators because of his deep scarcity mindset.",
+      "context": "Frequently analyzed in wealth-building podcasts and self-help circles as a barrier to success.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "scarcity-mindset"
+    },
+    {
+      "type": "acronym",
+      "term": "YOLO",
+      "meaning": "You Only Live Once, used as a justification for taking reckless financial risks or impulsive actions.",
+      "example": "Put my entire savings into that new altcoin, YOLO.",
+      "context": "Used ironically or sincerely right before making a terrible financial or lifestyle choice.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "yolo"
+    },
+    {
+      "type": "paradox",
+      "term": "Paradox of thrift",
+      "meaning": "An economic theory stating that if everyone individually increases their savings during a downturn, total economic consumption drops, worsening the recession.",
+      "example": "Everyone is hoarding cash right now out of fear, which is proving the paradox of thrift in real time.",
+      "context": "Brought up by economics buffs and podcasters breaking down macro trends.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "paradox-of-thrift"
+    },
+    {
+      "type": "meme",
+      "term": "Rug pull",
+      "meaning": "A malicious scam where crypto developers hype up a new coin, get people to invest, and then suddenly delete the liquidity pool and run away with the money.",
+      "example": "Never invest in obscure Telegram coin groups or you'll get instant rug pulled.",
+      "context": "Standard slang in online trading communities to describe sudden financial betrayal.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "rug-pull"
+    },
+    {
+      "type": "slang",
+      "term": "Paper hands",
+      "meaning": "A derogatory label for an investor who panics and sells their stocks or crypto at the first sign of a price drop.",
+      "example": "He sold his Solana right when it dipped five percent, total paper hands behavior.",
+      "context": "Used in trading chats and podcasts to shame people lacking conviction during market volatility.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "paper-hands"
+    },
+    {
+      "type": "psych",
+      "term": "Affluence anxiety",
+      "meaning": "A form of psychological stress and guilt experienced by individuals who have recently accumulated wealth or come from high-income backgrounds.",
+      "example": "He's making six figures from his startup now, but he's dealing with serious affluence anxiety about losing it all.",
+      "context": "Brought up in modern wellness podcasts discussing the hidden mental tolls of the hustle era.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "affluence-anxiety"
+    },
+    {
+      "type": "acronym",
+      "term": "ATH",
+      "meaning": "All-Time High, the highest recorded price an asset has ever reached in its trading history.",
+      "example": "Bitcoin just crossed its previous ATH and everyone is losing their minds.",
+      "context": "Standard financial and crypto terminology used during bull markets.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "ath"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Donald Trump stated that India and the United States are close to finalizing a trade deal.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/india-us-trade-deal-to-be-much-different-donald-trump/article71606121.ece"
+      },
+      {
+        "text": "Marco Rubio visited India to discuss defense, energy ties, and regional stability with Indian officials.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/india-united-states-to-boost-defence-energy-ties-marco-rubio-says-trade-deal-close/articleshow/135076521.cms"
+      },
+      {
+        "text": "The United States and India share an extraordinary alignment on core issues concerning the Indo-Pacific region.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/india-us-share-extraordinary-alignment-on-core-issues-marco-rubio-12213073#publisher=newsstand"
+      },
+      {
+        "text": "The Delhi High Court upheld the denial of access to IAF records regarding prime ministerial foreign trips, citing national security.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/delhi-high-court-cites-national-security-junks-cic-order-to-iaf-on-pms-foreign-trips/articleshow/135076886.cms"
+      },
+      {
+        "text": "Heavy rainfall in Tamil Nadu prompted authorities to declare school holidays in Chennai and four neighboring districts.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/tamil-nadu/tamil-nadu-rain-schools-in-chennai-four-other-districts-declare-holiday/article71606049.ece"
+      },
+      {
+        "text": "The Supreme Court transferred the trial of a disproportionate assets case against a retired Allahabad High Court judge to Delhi.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/sc-transfers-trial-of-graft-case-against-retd-judge-to-delhi-101792524284035.html"
+      },
+      {
+        "text": "The Jammu and Kashmir government announced the annual winter shifting of its capital from Srinagar to Jammu starting November 2.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/jammu-and-kashmir/jk-government-announces-annual-shifting-of-capital-from-srinagar-to-jammu/article71604076.ece"
+      },
+      {
+        "text": "Solar rooftop installations in West Bengal increased significantly through a central government subsidy scheme.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/solar-rooftop-installations-in-west-bengal-rise-by-nearly-7-times-via-central-scheme-101792550870549.html"
+      }
+    ],
+    "world": [
+      {
+        "text": "A drone strike on an Abyei market near the Sudan-South Sudan border killed 150 people.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/21/drone-strike-on-abyei-market-near-sudan-south-sudan-border-kills-150?traffic_source=rss"
+      },
+      {
+        "text": "Alberta voters overwhelmingly rejected a proposal to leave Canada in a referendum, delivering a victory for national unity.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/20/canada-alberta-rejects-independence-succession-referendum"
+      },
+      {
+        "text": "NATO is sending planes and radars to the Black Sea following recent drone attacks.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/nato-boosts-black-sea-presence-with-planes-drones-and-radars/article71606091.ece"
+      },
+      {
+        "text": "A Kenyan court found starvation cult leader Paul Mackenzie guilty of murdering 190 children and one adult.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/19/kenya-starvation-cult-leader-guilty-murder-190-children"
+      },
+      {
+        "text": "Nigeria confirmed an Ebola case in its capital after a woman arrived from Uganda.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/21/nigeria-first-ebola-case-africa-outbreak-latest"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "putm_kpZW4Y",
+      "title": "Deadliest Battle in History: Stalingrad | Animated History",
+      "channel": "The Armchair Historian",
+      "category": "history",
+      "url": "https://www.youtube.com/watch?v=putm_kpZW4Y",
+      "thumbnail": "https://i.ytimg.com/vi/putm_kpZW4Y/hqdefault.jpg",
+      "published": "",
+      "learn": "How brutal urban combat and freezing winters doomed the German army at Stalingrad.",
+      "minutes": 27
+    },
+    "more": [
+      {
+        "id": "MpPJ4Rr-5SQ",
+        "title": "The *Many* Languages of INDIA!",
+        "channel": "Langfocus",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=MpPJ4Rr-5SQ",
+        "thumbnail": "https://i.ytimg.com/vi/MpPJ4Rr-5SQ/hqdefault.jpg",
+        "published": "",
+        "learn": "How linguistic families shape India's complex history and modern cultural diversity.",
+        "minutes": 16
+      },
+      {
+        "id": "mU69g6Ao47A",
+        "title": "Home Mortgages 101 (For First Time Home Buyers)",
+        "channel": "Marko - WhiteBoard Finance",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=mU69g6Ao47A",
+        "thumbnail": "https://i.ytimg.com/vi/mU69g6Ao47A/hqdefault.jpg",
+        "published": "",
+        "learn": "How interest and principal breakdowns actually determine the true cost of a home loan.",
+        "minutes": 19
+      },
+      {
+        "id": "lsR-cVRK3Y8",
+        "title": "Inside the Secret World of Zara",
+        "channel": "Bloomberg Originals",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=lsR-cVRK3Y8",
+        "thumbnail": "https://i.ytimg.com/vi/lsR-cVRK3Y8/hqdefault.jpg",
+        "published": "",
+        "learn": "How agile supply chains allow fast fashion brands to operate without traditional advertising.",
+        "minutes": 10
+      },
+      {
+        "id": "GSIDS_lvRv4",
+        "title": "Public Key Cryptography - Computerphile",
+        "channel": "Computerphile",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=GSIDS_lvRv4",
+        "thumbnail": "https://i.ytimg.com/vi/GSIDS_lvRv4/hqdefault.jpg",
+        "published": "",
+        "learn": "How public keys and mathematical asymmetry allow secure communication across the open internet.",
+        "minutes": 6
+      },
+      {
+        "id": "wdUR69J2u6c",
+        "title": "How Trauma and PTSD Change the Brain",
+        "channel": "Therapy in a Nutshell",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=wdUR69J2u6c",
+        "thumbnail": "https://i.ytimg.com/vi/wdUR69J2u6c/hqdefault.jpg",
+        "published": "",
+        "learn": "How acute stress activates the brain's survival centers and alters physical neurological pathways.",
+        "minutes": 10
+      },
+      {
+        "id": "dYAoiLhOuao",
+        "title": "PHILOSOPHY - Metaphysics: Ship of Theseus [HD]",
+        "channel": "Wireless Philosophy",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=dYAoiLhOuao",
+        "thumbnail": "https://i.ytimg.com/vi/dYAoiLhOuao/hqdefault.jpg",
+        "published": "",
+        "learn": "How replacing every part of an object challenges our fundamental definition of personal identity.",
+        "minutes": 8
+      },
+      {
+        "id": "kCbMKSZZO9w",
+        "title": "The Coriolis effect",
+        "channel": "ScienceClic English",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=kCbMKSZZO9w",
+        "thumbnail": "https://i.ytimg.com/vi/kCbMKSZZO9w/hqdefault.jpg",
+        "published": "",
+        "learn": "How planetary rotation creates invisible forces that drive massive global winds and ocean currents.",
+        "minutes": 9
+      },
+      {
+        "id": "R05fCSWjXe0",
+        "title": "Men With Long Hair | Stand Up Comedy | Vidit Sharma",
+        "channel": "Vidit Sharma",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=R05fCSWjXe0",
+        "thumbnail": "https://i.ytimg.com/vi/R05fCSWjXe0/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 13
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "how-i-built-this-alamo-drafthouse-cinema-tim-and-karrie-league-2023",
+      "title": "Alamo Drafthouse Cinema: Tim and Karrie League (2023)",
+      "show": "How I Built This",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/VMP4354753461.mp3",
+      "link": "",
+      "durationSec": 4610,
+      "startSec": null,
+      "why": "Turned a tiny theater gamble into a massive national cinema empire against all odds."
+    },
+    {
+      "id": "no-such-thing-as-a-fish-this-podcast-may-contain-traces-of-the-peanut-podcast",
+      "title": "This Podcast may contain traces of the Peanut Podcast",
+      "show": "No Such Thing As A Fish",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963189.mp3?modified=1791793334&sid=2399216&source=rss",
+      "link": "https://audioboom.com/posts/8963189",
+      "durationSec": 1824,
+      "startSec": null,
+      "why": "Quick, hilarious facts about random things like kidneys and peanuts made totally fascinating."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1943,
+      "kind": "event",
+      "text": "The Provisional Government of Free India was formally established in Japanese-occupied Singapore, marking a major milestone in the Indian independence movement led by Subhas Chandra Bose.",
+      "url": "https://en.wikipedia.org/wiki/Azad_Hind",
+      "india": true
+    },
+    {
+      "year": 1835,
+      "kind": "died",
+      "text": "Muthuswami Dikshitar, one of the legendary Trinity of Carnatic music, passed away, leaving behind a profound legacy of classical poetical and musical compositions.",
+      "url": "https://en.wikipedia.org/wiki/Muthuswami_Dikshitar",
+      "india": true
+    },
+    {
+      "year": 2012,
+      "kind": "died",
+      "text": "Yash Chopra, legendary Indian director and producer who shaped modern Bollywood romance and cinema, passed away.",
+      "url": "https://en.wikipedia.org/wiki/Yash_Chopra",
+      "india": true
+    },
+    {
+      "year": 1854,
+      "kind": "event",
+      "text": "Florence Nightingale and her team of nurses were sent to the Crimean War, revolutionizing modern nursing and battlefield healthcare standards.",
+      "url": "https://en.wikipedia.org/wiki/Florence_Nightingale",
+      "india": false
+    },
+    {
+      "year": 1994,
+      "kind": "event",
+      "text": "North Korea and the United States signed the Agreed Framework to freeze and replace North Korea's nuclear power plant program.",
+      "url": "https://en.wikipedia.org/wiki/Agreed_Framework",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Jio Platforms opened its massive public subscription for India's largest-ever public issue, drawing intense market attention.",
+      "why": "Everyone is tracking India's biggest IPO.",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/jio-ipo-indias-largest-public-issue-opens-for-subscription-price-band-gmp-listing-date-to-brokerage-views-top-10-things-to-know/articleshow/135079874.cms",
+      "source": "The Times of India"
+    },
+    {
+      "text": "RSS Chief Mohan Bhagwat claimed that attempts at regime change are happening in India, similar to events in Bangladesh and France.",
+      "why": "Sparks intense political debates online.",
+      "url": "https://www.reddit.com/r/india/comments/1xaq89x/rss_chief_mohan_bhagwat_like_bangladesh_france/",
+      "source": "r/india"
+    },
+    {
+      "text": "Brent crude oil prices topped $110 as growing Middle East tensions threaten global shipments and supplies.",
+      "why": "Fears of fuel price hikes.",
+      "url": "https://www.reuters.com/business/energy/oil-rises-middle-east-supply-worries-2026-10-21/",
+      "source": "Reuters"
+    },
+    {
+      "text": "Linus Torvalds posted his first AI-assisted patch to the Linux kernel, achieving a massive performance leap.",
+      "why": "Tech circles are losing their minds over AI adoption.",
+      "url": "https://www.reddit.com/r/technology/comments/1xapaw7/linus_torvalds_posts_his_first_aiassisted_patch/",
+      "source": "r/technology"
+    },
+    {
+      "text": "US tech giants restarted three shut-down nuclear reactors backed by Microsoft and Google to feed power-hungry AI data centers.",
+      "why": "Sci-fi energy solutions becoming reality.",
+      "url": "https://www.reddit.com/r/technology/comments/1xavtj4/us_restarts_three_shutdown_nuclear_reactors_to/",
+      "source": "r/technology"
+    }
+  ]
+}

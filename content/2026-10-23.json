@@ -1,0 +1,432 @@
+{
+  "schema": 1,
+  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T03:42:09+00:00",
+  "words": [
+    {
+      "word": "Mercurial",
+      "pos": "adjective",
+      "pronunciation": "mer-kyoor-ee-uhl",
+      "meaning": "Subject to sudden or unpredictable changes of mood or mind.",
+      "insteadOf": "moody",
+      "example": "His mercurial temperament makes debugging our group project an absolute nightmare."
+    },
+    {
+      "word": "Myopic",
+      "pos": "adjective",
+      "pronunciation": "my-op-ik",
+      "meaning": "Lacking imagination, foresight, or intellectual insight.",
+      "insteadOf": "short-sighted",
+      "example": "Skipping system architecture classes now is a remarkably myopic strategy for your career."
+    },
+    {
+      "word": "Malingering",
+      "pos": "verb",
+      "pronunciation": "muh-ling-ger-ing",
+      "meaning": "Feigning illness in order to escape duty or work.",
+      "insteadOf": "faking sick",
+      "example": "Everyone knew he was just malingering to avoid the morning algorithms lecture."
+    },
+    {
+      "word": "Magnanimous",
+      "pos": "adjective",
+      "pronunciation": "mag-nan-uh-muhs",
+      "meaning": "Very generous or forgiving, especially toward a rival or someone less powerful.",
+      "insteadOf": "generous",
+      "example": "She was remarkably magnanimous after winning the debate championship against her former roommate."
+    },
+    {
+      "word": "Mendacious",
+      "pos": "adjective",
+      "pronunciation": "men-day-shuhs",
+      "meaning": "Not telling the truth; lying.",
+      "insteadOf": "dishonest",
+      "example": "His mendacious resume got caught immediately during the HR screening round."
+    },
+    {
+      "word": "Munificent",
+      "pos": "adjective",
+      "pronunciation": "myoo-nif-uh-suhnt",
+      "meaning": "Larger or more generous than is usual or necessary.",
+      "insteadOf": "very generous",
+      "example": "Our startup mentor made a munificent donation to the college coding club."
+    },
+    {
+      "word": "Misanthropic",
+      "pos": "adjective",
+      "pronunciation": "mis-uhn-throp-ik",
+      "meaning": "Disliking humankind and avoiding human society.",
+      "insteadOf": "antisocial",
+      "example": "He gets this misanthropic look whenever people invite him to college fest parties."
+    },
+    {
+      "word": "Haughty",
+      "pos": "adjective",
+      "pronunciation": "haw-tee",
+      "meaning": "Arrogantly superior and disdainful.",
+      "insteadOf": "arrogant",
+      "example": "That senior developer gave a haughty smirk when I asked a basic API question."
+    },
+    {
+      "word": "Hidebound",
+      "pos": "adjective",
+      "pronunciation": "hyd-bownd",
+      "meaning": "Unwilling or unable to change because of tradition or convention.",
+      "insteadOf": "stubbornly traditional",
+      "example": "Our college placement cell remains hidebound by outdated resume formats."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Corporate slave",
+      "meaning": "An employee who feels completely trapped by their 9-to-5 job and sacrifices their entire personal life for a paycheck.",
+      "example": "Can't make it to the Saturday trip, guys, I'm a certified corporate slave until further notice.",
+      "context": "Used by young professionals venting about overtime and burnout. Not rude, just self-deprecating humor.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "corporate-slave"
+    },
+    {
+      "type": "psych",
+      "term": "Burnout",
+      "meaning": "A state of emotional, physical, and mental exhaustion caused by excessive and prolonged workplace stress.",
+      "example": "I can't even look at an Excel sheet anymore, I'm deep in corporate burnout.",
+      "context": "Extremely common in modern office chats when people feel overwhelmed. Totally normal to use.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "burnout"
+    },
+    {
+      "type": "acronym",
+      "term": "KPI",
+      "meaning": "Key Performance Indicator, a quantifiable metric used to evaluate the success of an employee or company.",
+      "example": "If I don't hit my monthly KPI, my manager is going to roast me in the review.",
+      "context": "Standard office terminology that gets joked about endlessly in corporate memes.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "kpi"
+    },
+    {
+      "type": "paradox",
+      "term": "Parkinson s law",
+      "meaning": "The adage that work expands so as to fill the time available for its completion.",
+      "example": "I gave myself a whole week for this tiny presentation, and thanks to Parkinson's law, it actually took the whole week.",
+      "context": "Cited during discussions on procrastination, productivity hacks, and office efficiency.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "parkinson-s-law"
+    },
+    {
+      "type": "meme",
+      "term": "This could have been an email",
+      "meaning": "A universal corporate complaint format expressing resentment toward pointless in-person meetings.",
+      "example": "Sat through a two-hour strategy sync today that definitely could have been an email.",
+      "context": "Printed on mugs, shared as reaction images, and used constantly in work group chats.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "this-could-have-been-an-email"
+    },
+    {
+      "type": "slang",
+      "term": "Quiet quitting",
+      "meaning": "Doing the bare minimum required by your job description and refusing to do any extra work or overtime.",
+      "example": "Don't ask me to fix the weekend server bug, I've been quiet quitting since last quarter.",
+      "context": "Dropped when discussing work ethics and career apathy among Gen Z. Casual and relatable.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "quiet-quitting"
+    },
+    {
+      "type": "psych",
+      "term": "Imposter phenomenon",
+      "meaning": "The persistent inability to believe your success is deserved, feeling like a fraud who will be exposed at work.",
+      "example": "Giving this presentation to the directors is triggering my imposter phenomenon hard.",
+      "context": "Used in career or podcast discussions about professional anxiety and self-doubt.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "imposter-phenomenon"
+    },
+    {
+      "type": "acronym",
+      "term": "EOD",
+      "meaning": "End of Day, a firm deadline used in corporate emails to demand deliverables before evening sign-off.",
+      "example": "I need those revised budget numbers on my desk by EOD or we are screwed.",
+      "context": "Ubiquitous in work communication, often used mockingly in text messages between friends.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "eod"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Bihar Legislative Council elections for eight seats commenced with over 1.5 lakh voters participating across 933 polling stations.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-begin-for-eight-seats-with-150-candidates/article71614458.ece"
+      },
+      {
+        "text": "The Food Department requested the delinking of ration cards from the Ayushman Bharat scheme, noting they are not a formal eligibility criterion.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/food-department-seeks-delinking-of-ration-cards-from-ayushman-bharat-101792724564397.html"
+      },
+      {
+        "text": "New Delhi strongly criticized Pakistan at the United Nations over minority rights, stating Islamabad has no standing to lecture India.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/no-standing-to-lecture-india-new-delhi-hits-out-at-pakistan-over-minority-rights-at-un/articleshow/135132147.cms"
+      },
+      {
+        "text": "Voting for the Uttar Pradesh Legislative Council Teacher and Graduate constituencies led to the closure of schools up to Class 12.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/up-schools-up-to-class-12-closed-today-23-october-on-election-commissions-order-heres-why-11792723846591.html"
+      },
+      {
+        "text": "The Ministry of Home Affairs reported to the Supreme Court that over 21,900 digital arrest complaints involving more than ₹647 crore were registered.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/21900-digital-arrest-complaints-registered-till-sept-mha-to-sc-101792697131006.html"
+      },
+      {
+        "text": "The government issued new guidelines mandating that messaging apps like WhatsApp and Telegram will not work without active SIM cards starting January 1.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms"
+      },
+      {
+        "text": "Andhra Pradesh counter-intelligence officers successfully busted a major cross-border digital honey-trap racket that leaked crucial defense data to Pakistan.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece"
+      },
+      {
+        "text": "The Union government informed the Supreme Court that hospital consumables often carry profit mark-ups ranging from 100% to over 1,000%.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/centre-flags-data-gap-regulatory-hurdles-in-curbing-hospital-mark-ups/articleshow/135127123.cms"
+      }
+    ],
+    "world": [
+      {
+        "text": "A 7.0-magnitude earthquake in Tibet has left at least 16 people dead and 65 injured, with emergency search and rescue operations ongoing.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece"
+      },
+      {
+        "text": "US tech stocks fell sharply as the Nasdaq dropped 2.6 percent amid growing investor anxiety over high artificial intelligence spending.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss"
+      },
+      {
+        "text": "Sudan's RSF fighters have been accused by the UN human rights chief of deliberately targeting hospitals in attacks that may constitute war crimes.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "North Korea announced plans to restart propaganda loudspeakers along the border with South Korea amid rising bilateral tensions.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+      },
+      {
+        "text": "Taiwan shut down major services and cancelled hundreds of flights as Typhoon Champi approached the island.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled/article71614370.ece"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "Aesag8J7EeM",
+      "title": "How British Destroyed Maratha Empire? | Anglo Maratha Wars | Dhruv Rathee",
+      "channel": "Dhruv Rathee",
+      "category": "india",
+      "url": "https://www.youtube.com/watch?v=Aesag8J7EeM",
+      "thumbnail": "https://i.ytimg.com/vi/Aesag8J7EeM/hqdefault.jpg",
+      "published": "",
+      "learn": "How British colonial strategy systematically dismantled the Maratha Empire.",
+      "minutes": 21
+    },
+    "more": [
+      {
+        "id": "xk_BsNZ2H8Q",
+        "title": "The World's First Financial Bubble? Tulip Mania! | European History | Extra History Complete",
+        "channel": "Extra History",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=xk_BsNZ2H8Q",
+        "thumbnail": "https://i.ytimg.com/vi/xk_BsNZ2H8Q/hqdefault.jpg",
+        "published": "",
+        "learn": "How a single flower bulb sparked the world's first economic bubble.",
+        "minutes": 42
+      },
+      {
+        "id": "2gpRaJMjHbc",
+        "title": "Why the Ikea Business Model Wins",
+        "channel": "Wendover Productions",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=2gpRaJMjHbc",
+        "thumbnail": "https://i.ytimg.com/vi/2gpRaJMjHbc/hqdefault.jpg",
+        "published": "2026-08-25"
+      },
+      {
+        "id": "qgpsIBLvrGY",
+        "title": "Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond",
+        "channel": "Studying With Alex",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=qgpsIBLvrGY",
+        "thumbnail": "https://i.ytimg.com/vi/qgpsIBLvrGY/hqdefault.jpg",
+        "published": "",
+        "learn": "How hashing, salting, and modern algorithms protect or expose your passwords.",
+        "minutes": 10
+      },
+      {
+        "id": "fDD5wvFMH6U",
+        "title": "The Amygdala in 5 Minutes | Big Think",
+        "channel": "Big Think",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=fDD5wvFMH6U",
+        "thumbnail": "https://i.ytimg.com/vi/fDD5wvFMH6U/hqdefault.jpg",
+        "published": "",
+        "learn": "Why fear and panic override rational thinking during high-stress moments.",
+        "minutes": 5
+      },
+      {
+        "id": "vNDYUlxNIAA",
+        "title": "This tool will help improve your critical thinking - Erick Wilberding",
+        "channel": "TED-Ed",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=vNDYUlxNIAA",
+        "thumbnail": "https://i.ytimg.com/vi/vNDYUlxNIAA/hqdefault.jpg",
+        "published": "",
+        "learn": "How to identify flawed reasoning and build airtight logical arguments.",
+        "minutes": 5
+      },
+      {
+        "id": "EIkeRBP5nDg",
+        "title": "Ten Minute History - The Fall of Rome (Short Documentary)",
+        "channel": "History Matters",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=EIkeRBP5nDg",
+        "thumbnail": "https://i.ytimg.com/vi/EIkeRBP5nDg/hqdefault.jpg",
+        "published": "",
+        "learn": "How internal decay, economic failure, and invasions dismantled Rome.",
+        "minutes": 10
+      },
+      {
+        "id": "IMzFgyrUXnE",
+        "title": "What Does The Liver Do? | Liver Functions | The Dr Binocs Show | Peekaboo Kidz",
+        "channel": "Peekaboo Kidz",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=IMzFgyrUXnE",
+        "thumbnail": "https://i.ytimg.com/vi/IMzFgyrUXnE/hqdefault.jpg",
+        "published": "",
+        "learn": "How cellular biology allows the human liver to regenerate missing tissue.",
+        "minutes": 5
+      },
+      {
+        "id": "c7QYEedjb_o",
+        "title": "ABHISHEK UPMANYU |Friends, Crime, & The Cosmos | Stand-Up Comedy by Abhishek Upmanyu",
+        "channel": "Abhishek Upmanyu",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=c7QYEedjb_o",
+        "thumbnail": "https://i.ytimg.com/vi/c7QYEedjb_o/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 15
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "darknet-diaries-181-ricky",
+      "title": "181: Ricky",
+      "show": "Darknet Diaries",
+      "category": "ai",
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/88c4d72a-2377-4fef-9dac-3cd23529b881/darknet-diaries-ep181-ricky.mp3",
+      "link": "https://darknetdiaries.com/episode/181/",
+      "durationSec": 4815,
+      "startSec": null,
+      "why": "Discover how a teenager hijacked cell towers and outsmarted telecom giants."
+    },
+    {
+      "id": "no-such-thing-as-a-fish-no-such-thing-as-lithuanian-soap-ornaments",
+      "title": "No Such Thing As Lithuanian Soap Ornaments",
+      "show": "No Such Thing As A Fish",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss",
+      "link": "https://audioboom.com/posts/8967963",
+      "durationSec": 3407,
+      "startSec": null,
+      "why": "Uncover bizarre historical trivia and odd facts with hilarious expert banter."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1957,
+      "kind": "event",
+      "text": "1957: One of the most influential Indian films in history, Mother India, was screened for President Rajendra Prasad and Prime Minister Jawaharlal Nehru just before its release.",
+      "url": "https://en.wikipedia.org/wiki/Mother_India",
+      "india": true
+    },
+    {
+      "year": 1974,
+      "kind": "born",
+      "text": "1974: Aravind Adiga, the acclaimed Indian journalist and author who won the Man Booker Prize, was born.",
+      "url": "https://en.wikipedia.org/wiki/Aravind_Adiga",
+      "india": true
+    },
+    {
+      "year": 2023,
+      "kind": "died",
+      "text": "2023: Bishan Singh Bedi, the legendary Indian cricketer and former captain, died, leaving behind a remarkable legacy in spin bowling.",
+      "url": "https://en.wikipedia.org/wiki/Bishan_Singh_Bedi",
+      "india": true
+    },
+    {
+      "year": 1956,
+      "kind": "event",
+      "text": "1956: The Hungarian Revolution began as a peaceful student demonstration in Budapest, sparking a major uprising against Soviet-backed policies.",
+      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "india": false
+    },
+    {
+      "year": 1934,
+      "kind": "event",
+      "text": "1934: Jeannette Piccard piloted a hot-air balloon to become the first woman to fly into the stratosphere.",
+      "url": "https://en.wikipedia.org/wiki/Jeannette_Piccard",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Sensex and Nifty plunged in early trade as power and metal stocks dragged Indian stock markets lower.",
+      "why": "Traders are panicking over sudden market losses.",
+      "url": "https://www.thehindu.com/business/markets/stock-markets-sensex-and-nifty-on-october-22-2026/article71610117.ece",
+      "source": "The Hindu"
+    },
+    {
+      "text": "An Indian YouTuber faced heavy backlash online for seeking free temple shelter in Thailand claiming he had no money.",
+      "why": "People are roasting his cringe travel behavior.",
+      "url": "https://www.reddit.com/r/india/comments/1xccd0s/indian_youtuber_faces_backlash_for_seeking_free/",
+      "source": "r/india"
+    },
+    {
+      "text": "Amit Shah boldly predicted thirty more years of BJP rule and claimed Rahul Gandhi will never come to power.",
+      "why": "Fueling intense political debates across social media.",
+      "url": "https://www.reddit.com/r/india/comments/1xcmio8/amit_shah_predicts_30_more_years_of_bjp_rule_says/",
+      "source": "r/india"
+    },
+    {
+      "text": "Google illegally cut down 250,000 trees in Finland to build a datacentre, sparking massive public outrage.",
+      "why": "Pure corporate arrogance causing global fury.",
+      "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
+      "source": "r/technology"
+    },
+    {
+      "text": "Nvidia CEO Jensen Huang called paying $8 billion in taxes a privilege because he is just afraid of being poor.",
+      "why": "A bizarre billionaire flex that went viral.",
+      "url": "https://www.reddit.com/r/technology/comments/1xc8jms/as_billionaires_fight_a_tax_hike_jensen_huang/",
+      "source": "r/technology"
+    },
+    {
+      "text": "The world's six richest billionaires lost $130 billion in a single day as AI spending fears crashed tech stocks.",
+      "why": "Massive financial hit making everyone talk about tech bubbles.",
+      "url": "https://www.reddit.com/r/technology/comments/1xcsz3z/worlds_6_richest_lose_130_billion_on_thursday_as/",
+      "source": "r/technology"
+    }
+  ]
+}

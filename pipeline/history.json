@@ -195,7 +195,16 @@
   "gargoyle",
   "nebulous",
   "circumscribe",
-  "commodious"
+  "commodious",
+  "mercurial",
+  "myopic",
+  "malingering",
+  "magnanimous",
+  "mendacious",
+  "munificent",
+  "misanthropic",
+  "haughty",
+  "hidebound"
  ],
  "loop": [
   "glazing",
@@ -362,7 +371,15 @@
   "chad",
   "touch-grass",
   "halo-effect",
-  "mvp"
+  "mvp",
+  "corporate-slave",
+  "burnout",
+  "kpi",
+  "parkinson-s-law",
+  "this-could-have-been-an-email",
+  "quiet-quitting",
+  "imposter-phenomenon",
+  "eod"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -581,7 +598,16 @@
   "EEd0hl1kHmo",
   "g0rhN8U14dk",
   "6EPR4Ux-U6k",
-  "wQA68Oqr1qE"
+  "wQA68Oqr1qE",
+  "Aesag8J7EeM",
+  "xk_BsNZ2H8Q",
+  "2gpRaJMjHbc",
+  "qgpsIBLvrGY",
+  "fDD5wvFMH6U",
+  "vNDYUlxNIAA",
+  "EIkeRBP5nDg",
+  "IMzFgyrUXnE",
+  "c7QYEedjb_o"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -639,7 +665,9 @@
   "https://traffic.megaphone.fm/VMP4354753461.mp3",
   "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8963189.mp3?modified=1791793334&sid=2399216&source=rss",
   "https://traffic.megaphone.fm/VMP6250914256.mp3",
-  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/1ea571c6-8aa9-4c20-8bd3-222065e7cf86/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=1ea571c6-8aa9-4c20-8bd3-222065e7cf86&feed=4T39_jAj"
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/1ea571c6-8aa9-4c20-8bd3-222065e7cf86/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=1ea571c6-8aa9-4c20-8bd3-222065e7cf86&feed=4T39_jAj",
+  "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/88c4d72a-2377-4fef-9dac-3cd23529b881/darknet-diaries-ep181-ricky.mp3",
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -809,6 +837,14 @@
   "How the vagus nerve acts as a biological switch to calm down the nervous system",
   "How Taoist philosophy uses wu-wei to achieve effortless action in life",
   "The mystery of the Mary Celeste: the ghost ship found abandoned with no explanation",
-  "How tardigrades survive extreme space radiation and total dehydration"
+  "How tardigrades survive extreme space radiation and total dehydration",
+  "The Maratha Confederacy and the system of Chauth and Sardeshmukhi taxation strategy",
+  "The 1637 Tulip Mania: How a single flower bulb caused the world's first recorded speculative market bubble",
+  "How Airbnb raised its first $600k by selling custom cereal boxes during a funding winter",
+  "Password hashing and rainbow tables: How websites store passwords securely and how hackers crack them",
+  "The amygdala hijack: Why fear and anger override logical thinking during stressful moments",
+  "Propositional logic and validity: How to spot logical fallacies in everyday arguments and debates",
+  "The Fall of the Roman Empire: How internal corruption, inflation, and invasions dismantled a superpower",
+  "How the human liver regenerates: The cellular biology behind regrowing missing tissue"
  ]
 }

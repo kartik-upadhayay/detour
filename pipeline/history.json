@@ -204,7 +204,16 @@
   "munificent",
   "misanthropic",
   "haughty",
-  "hidebound"
+  "hidebound",
+  "hedonistic",
+  "hypercritical",
+  "heckler",
+  "hermetic",
+  "headstrong",
+  "hack",
+  "hardboiled",
+  "ossified",
+  "officious"
  ],
  "loop": [
   "glazing",
@@ -379,7 +388,15 @@
   "this-could-have-been-an-email",
   "quiet-quitting",
   "imposter-phenomenon",
-  "eod"
+  "eod",
+  "bimboification",
+  "body-dysmorphia",
+  "doms",
+  "hickam-s-dictum",
+  "gigachad",
+  "gym-bro",
+  "locus-of-control",
+  "rpe"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -607,7 +624,16 @@
   "vNDYUlxNIAA",
   "EIkeRBP5nDg",
   "IMzFgyrUXnE",
-  "c7QYEedjb_o"
+  "c7QYEedjb_o",
+  "pldMZLL_HZk",
+  "9KZqNuEs9ZE",
+  "jhTDlUxWlgs",
+  "gV0_raKR2UQ",
+  "ObA4ne4TVsE",
+  "okJ3KQ4S-ts",
+  "9XBxMk_plhA",
+  "q3d3rzFTrLg",
+  "vflWLItnwfA"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -667,7 +693,9 @@
   "https://traffic.megaphone.fm/VMP6250914256.mp3",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/1ea571c6-8aa9-4c20-8bd3-222065e7cf86/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=1ea571c6-8aa9-4c20-8bd3-222065e7cf86&feed=4T39_jAj",
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/88c4d72a-2377-4fef-9dac-3cd23529b881/darknet-diaries-ep181-ricky.mp3",
-  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss"
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss",
+  "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/55f11499-9702-4a86-a534-fb5724d5707c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=55f11499-9702-4a86-a534-fb5724d5707c&feed=EmVW7VGp",
+  "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -845,6 +873,14 @@
   "The amygdala hijack: Why fear and anger override logical thinking during stressful moments",
   "Propositional logic and validity: How to spot logical fallacies in everyday arguments and debates",
   "The Fall of the Roman Empire: How internal corruption, inflation, and invasions dismantled a superpower",
-  "How the human liver regenerates: The cellular biology behind regrowing missing tissue"
+  "How the human liver regenerates: The cellular biology behind regrowing missing tissue",
+  "The Chola Empire naval supremacy and how they colonized Southeast Asia",
+  "Shrinkflation: how brands quietly reduce product size instead of raising prices",
+  "Decoy pricing: how companies use a fake expensive option to make you buy the middle tier",
+  "Algorithmic bias: how AI models learn human prejudices from training data",
+  "Atomic habits in practice: how tiny environment design beats sheer willpower",
+  "Viktor Frankl and Logotherapy: how finding a 'why' helps humans survive anything",
+  "The downfall of Julius Caesar: hubris, political betrayal, and the Ides of March",
+  "The Chernobyl nuclear meltdown: how design flaws and a safety test triggered a catastrophe"
  ]
 }

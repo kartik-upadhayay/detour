@@ -1,432 +1,428 @@
 {
   "schema": 1,
-  "date": "2026-10-23",
-  "generatedAt": "2026-10-23T03:42:09+00:00",
+  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T04:47:48+00:00",
   "words": [
     {
-      "word": "Mercurial",
+      "word": "Hedonistic",
       "pos": "adjective",
-      "pronunciation": "mer-kyoor-ee-uhl",
-      "meaning": "Subject to sudden or unpredictable changes of mood or mind.",
-      "insteadOf": "moody",
-      "example": "His mercurial temperament makes debugging our group project an absolute nightmare."
+      "pronunciation": "hee-duh-nis-tik",
+      "meaning": "Devoted to pleasure and self-gratification.",
+      "insteadOf": "party-loving",
+      "example": "His hedonistic weekend plans vanished when the professor dropped a surprise assignment."
     },
     {
-      "word": "Myopic",
+      "word": "Hypercritical",
       "pos": "adjective",
-      "pronunciation": "my-op-ik",
-      "meaning": "Lacking imagination, foresight, or intellectual insight.",
-      "insteadOf": "short-sighted",
-      "example": "Skipping system architecture classes now is a remarkably myopic strategy for your career."
+      "pronunciation": "hy-per-krit-i-kuhl",
+      "meaning": "Excessively and unreasonably critical of others.",
+      "insteadOf": "too picky",
+      "example": "The design mentor was hypercritical about every single pixel in my app UI."
     },
     {
-      "word": "Malingering",
-      "pos": "verb",
-      "pronunciation": "muh-ling-ger-ing",
-      "meaning": "Feigning illness in order to escape duty or work.",
-      "insteadOf": "faking sick",
-      "example": "Everyone knew he was just malingering to avoid the morning algorithms lecture."
+      "word": "Heckler",
+      "pos": "noun",
+      "pronunciation": "hek-ler",
+      "meaning": "A person who interrupts a speaker with derisive comments.",
+      "insteadOf": "annoying guy in the crowd",
+      "example": "A notorious heckler tried to derail our debate team's winning presentation."
     },
     {
-      "word": "Magnanimous",
+      "word": "Hermetic",
       "pos": "adjective",
-      "pronunciation": "mag-nan-uh-muhs",
-      "meaning": "Very generous or forgiving, especially toward a rival or someone less powerful.",
-      "insteadOf": "generous",
-      "example": "She was remarkably magnanimous after winning the debate championship against her former roommate."
+      "pronunciation": "her-met-ik",
+      "meaning": "Insulated or protected from outside influences.",
+      "insteadOf": "closed off",
+      "example": "Our research group lived in a hermetic bubble during the final project submission week."
     },
     {
-      "word": "Mendacious",
+      "word": "Headstrong",
       "pos": "adjective",
-      "pronunciation": "men-day-shuhs",
-      "meaning": "Not telling the truth; lying.",
-      "insteadOf": "dishonest",
-      "example": "His mendacious resume got caught immediately during the HR screening round."
+      "pronunciation": "hed-strawng",
+      "meaning": "Self-willed and obstinate; refusing to listen to advice.",
+      "insteadOf": "stubborn",
+      "example": "Being headstrong cost him a good internship referral from our alumni network."
     },
     {
-      "word": "Munificent",
-      "pos": "adjective",
-      "pronunciation": "myoo-nif-uh-suhnt",
-      "meaning": "Larger or more generous than is usual or necessary.",
-      "insteadOf": "very generous",
-      "example": "Our startup mentor made a munificent donation to the college coding club."
+      "word": "Hack",
+      "pos": "noun",
+      "pronunciation": "hak",
+      "meaning": "An incompetent person or an unoriginal writer.",
+      "insteadOf": "wannabe",
+      "example": "That tech blogger is just a hack recycling outdated programming tutorials for clout."
     },
     {
-      "word": "Misanthropic",
+      "word": "Hardboiled",
       "pos": "adjective",
-      "pronunciation": "mis-uhn-throp-ik",
-      "meaning": "Disliking humankind and avoiding human society.",
-      "insteadOf": "antisocial",
-      "example": "He gets this misanthropic look whenever people invite him to college fest parties."
+      "pronunciation": "hahrd-boyld",
+      "meaning": "Tough, pragmatic, and emotionally unemotional.",
+      "insteadOf": "cold and practical",
+      "example": "You need a hardboiled approach when negotiating placement stipends with startups."
     },
     {
-      "word": "Haughty",
+      "word": "Ossified",
       "pos": "adjective",
-      "pronunciation": "haw-tee",
-      "meaning": "Arrogantly superior and disdainful.",
-      "insteadOf": "arrogant",
-      "example": "That senior developer gave a haughty smirk when I asked a basic API question."
+      "pronunciation": "os-uh-fyd",
+      "meaning": "Turned into bone; rigidly fixed and unable to adapt.",
+      "insteadOf": "inflexible",
+      "example": "The college administration's ossified rules block any modern student initiatives."
     },
     {
-      "word": "Hidebound",
+      "word": "Officious",
       "pos": "adjective",
-      "pronunciation": "hyd-bownd",
-      "meaning": "Unwilling or unable to change because of tradition or convention.",
-      "insteadOf": "stubbornly traditional",
-      "example": "Our college placement cell remains hidebound by outdated resume formats."
+      "pronunciation": "uh-fish-uhs",
+      "meaning": "Assertive of authority in an annoying, domineering way.",
+      "insteadOf": "bossy",
+      "example": "The officious library guard demanded ID checks every single time we entered."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Corporate slave",
-      "meaning": "An employee who feels completely trapped by their 9-to-5 job and sacrifices their entire personal life for a paycheck.",
-      "example": "Can't make it to the Saturday trip, guys, I'm a certified corporate slave until further notice.",
-      "context": "Used by young professionals venting about overtime and burnout. Not rude, just self-deprecating humor.",
-      "tone": "mocking",
+      "term": "Bimboification",
+      "meaning": "The intentional transformation of oneself into a hyper-feminine, glamorous aesthetic archetype, often contrasted with previous high-intellectual pursuits.",
+      "example": "She quit her corporate tech job to start a pink gym channel, total bimboification arc.",
+      "context": "Used in fitness and lifestyle creator commentary on reels. Not inherently rude unless weaponized against someone's intelligence.",
+      "tone": "playful",
       "nsfw": false,
-      "id": "corporate-slave"
+      "id": "bimboification"
     },
     {
       "type": "psych",
-      "term": "Burnout",
-      "meaning": "A state of emotional, physical, and mental exhaustion caused by excessive and prolonged workplace stress.",
-      "example": "I can't even look at an Excel sheet anymore, I'm deep in corporate burnout.",
-      "context": "Extremely common in modern office chats when people feel overwhelmed. Totally normal to use.",
+      "term": "Body dysmorphia",
+      "meaning": "A mental health condition where a person spends a lot of time worrying about flaws in their appearance that are often minor or not visible to others.",
+      "example": "Fitness influencers often talk about how heavy lifting feeds their body dysmorphia.",
+      "context": "Brought up seriously in self-improvement podcasts discussing the mental toll of strict physiques and mirror checking.",
       "tone": "serious",
       "nsfw": false,
-      "id": "burnout"
+      "id": "body-dysmorphia"
     },
     {
       "type": "acronym",
-      "term": "KPI",
-      "meaning": "Key Performance Indicator, a quantifiable metric used to evaluate the success of an employee or company.",
-      "example": "If I don't hit my monthly KPI, my manager is going to roast me in the review.",
-      "context": "Standard office terminology that gets joked about endlessly in corporate memes.",
-      "tone": "mocking",
+      "term": "DOMS",
+      "meaning": "Delayed Onset Muscle Soreness, the pain and stiffness felt in muscles several hours to days after unaccustomed or strenuous exercise.",
+      "example": "I can barely walk down the stairs today because of severe DOMS from leg day.",
+      "context": "Standard gym terminology used by anyone who exercises regularly.",
+      "tone": "casual",
       "nsfw": false,
-      "id": "kpi"
+      "id": "doms"
     },
     {
       "type": "paradox",
-      "term": "Parkinson s law",
-      "meaning": "The adage that work expands so as to fill the time available for its completion.",
-      "example": "I gave myself a whole week for this tiny presentation, and thanks to Parkinson's law, it actually took the whole week.",
-      "context": "Cited during discussions on procrastination, productivity hacks, and office efficiency.",
-      "tone": "casual",
+      "term": "Hickam s dictum",
+      "meaning": "The medical adage stating that a patient can have as many diseases as they damn well please, countering the assumption that a single diagnosis explains all symptoms.",
+      "example": "You might have both chronic fatigue and a separate vitamin deficiency, remember Hickam's dictum.",
+      "context": "Reference made by science podcasters and medical biohackers arguing against over-simplifying complex health issues.",
+      "tone": "serious",
       "nsfw": false,
-      "id": "parkinson-s-law"
+      "id": "hickam-s-dictum"
     },
     {
       "type": "meme",
-      "term": "This could have been an email",
-      "meaning": "A universal corporate complaint format expressing resentment toward pointless in-person meetings.",
-      "example": "Sat through a two-hour strategy sync today that definitely could have been an email.",
-      "context": "Printed on mugs, shared as reaction images, and used constantly in work group chats.",
-      "tone": "mocking",
+      "term": "GigaChad",
+      "meaning": "A greyscale photographic meme of a hyper-masculine model used to represent the ultimate self-improvement ideal or an unapologetically confident person.",
+      "example": "He didn't reply to the hate comment and just kept working out, total GigaChad move.",
+      "context": "Used in fitness reels and meme edits to praise someone for unbothered, peak masculine behavior.",
+      "tone": "playful",
       "nsfw": false,
-      "id": "this-could-have-been-an-email"
+      "id": "gigachad"
     },
     {
       "type": "slang",
-      "term": "Quiet quitting",
-      "meaning": "Doing the bare minimum required by your job description and refusing to do any extra work or overtime.",
-      "example": "Don't ask me to fix the weekend server bug, I've been quiet quitting since last quarter.",
-      "context": "Dropped when discussing work ethics and career apathy among Gen Z. Casual and relatable.",
+      "term": "Gym bro",
+      "meaning": "A young man whose entire personality, social circle, and daily schedule revolve around lifting weights, consuming protein supplements, and tracking macros.",
+      "example": "Don't ask him about movies, he's a certified gym bro who only watches Olympia highlights.",
+      "context": "Ubiquitous in fitness spaces. Can be used affectionately by friends or mockingly by outsiders.",
       "tone": "casual",
       "nsfw": false,
-      "id": "quiet-quitting"
+      "id": "gym-bro"
     },
     {
       "type": "psych",
-      "term": "Imposter phenomenon",
-      "meaning": "The persistent inability to believe your success is deserved, feeling like a fraud who will be exposed at work.",
-      "example": "Giving this presentation to the directors is triggering my imposter phenomenon hard.",
-      "context": "Used in career or podcast discussions about professional anxiety and self-doubt.",
+      "term": "Locus of control",
+      "meaning": "The degree to which people believe that they have control over the outcome of events in their lives, as opposed to external forces beyond their control.",
+      "example": "Self-help podcasts always tell you to shift to an internal locus of control if you want to stop complaining.",
+      "context": "Used in productivity and mental wellness content to frame personal responsibility and discipline.",
       "tone": "serious",
       "nsfw": false,
-      "id": "imposter-phenomenon"
+      "id": "locus-of-control"
     },
     {
       "type": "acronym",
-      "term": "EOD",
-      "meaning": "End of Day, a firm deadline used in corporate emails to demand deliverables before evening sign-off.",
-      "example": "I need those revised budget numbers on my desk by EOD or we are screwed.",
-      "context": "Ubiquitous in work communication, often used mockingly in text messages between friends.",
+      "term": "RPE",
+      "meaning": "Rate of Perceived Exertion, a scale from 1 to 10 used to measure how intense an exercise feels based on effort and how many reps you had left in the tank.",
+      "example": "My last set of squats was an RPE 9, I honestly couldn't have done another rep.",
+      "context": "Used by serious lifters and trainers discussing workout intensity.",
       "tone": "casual",
       "nsfw": false,
-      "id": "eod"
+      "id": "rpe"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Bihar Legislative Council elections for eight seats commenced with over 1.5 lakh voters participating across 933 polling stations.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/bihar/bihar-mlc-polls-begin-for-eight-seats-with-150-candidates/article71614458.ece"
-      },
-      {
-        "text": "The Food Department requested the delinking of ration cards from the Ayushman Bharat scheme, noting they are not a formal eligibility criterion.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/food-department-seeks-delinking-of-ration-cards-from-ayushman-bharat-101792724564397.html"
-      },
-      {
-        "text": "New Delhi strongly criticized Pakistan at the United Nations over minority rights, stating Islamabad has no standing to lecture India.",
+        "text": "Prime Minister Narendra Modi and other leaders praised ITBP personnel on Raising Day, highlighting border management and security along the India-China frontier.",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/no-standing-to-lecture-india-new-delhi-hits-out-at-pakistan-over-minority-rights-at-un/articleshow/135132147.cms"
+        "url": "https://timesofindia.indiatimes.com/india/itbp-raising-day-pm-modi-praises-himveers-as-india-china-border-management-remains-in-focus/articleshow/135161153.cms"
       },
       {
-        "text": "Voting for the Uttar Pradesh Legislative Council Teacher and Graduate constituencies led to the closure of schools up to Class 12.",
+        "text": "The Ministry of External Affairs stated that Chinese divergences from established patrolling patterns continue to cause disturbances along the Line of Actual Control.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/chinas-patrolling-deviations-disturb-border-mea-on-itbp-dgs-lac-face-offs-remark/articleshow/135155021.cms"
+      },
+      {
+        "text": "Indian physicist Ashoke Sen was awarded the prestigious Oskar Klein Medal for his pioneering contributions to string field theory and black-hole entropy.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/education/indian-physicist-ashoke-sen-wins-oskar-klein-medal-a-top-honour-in-physics-12228319#publisher=newsstand"
+      },
+      {
+        "text": "India's private sector activity reached a four-month high in October, driven by stronger performance in manufacturing compared to services.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/private-sector-activity-hits-four-month-high-101792783679613.html"
+      },
+      {
+        "text": "Telangana Chief Minister Revanth Reddy warned that the El Niño-induced water and power crisis is likely to persist until July, announcing a four-month employment scheme.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/telangana/el-nino-induced-water-and-power-crisis-likely-to-persist-until-july-revanth/article71617402.ece"
+      },
+      {
+        "text": "The government announced plans to modify the Periodic Labour Force Survey to effectively capture data on the gig economy and unpaid household workers.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Economy/government-to-modify-labour-survey-to-capture-gig-economy-unpaid-household-workers/article71617185.ece"
+      },
+      {
+        "text": "IndiGo and Akasa Air extended their flight suspensions to several Saudi Arabian cities due to ongoing regional supply and security concerns.",
         "source": "Mint",
-        "url": "https://www.livemint.com/news/india/up-schools-up-to-class-12-closed-today-23-october-on-election-commissions-order-heres-why-11792723846591.html"
+        "url": "https://www.livemint.com/news/world/indigo-and-akasa-air-extend-saudi-flight-suspensions-check-new-dates-has-air-india-followed-suit-11792811699026.html"
       },
       {
-        "text": "The Ministry of Home Affairs reported to the Supreme Court that over 21,900 digital arrest complaints involving more than ₹647 crore were registered.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/21900-digital-arrest-complaints-registered-till-sept-mha-to-sc-101792697131006.html"
-      },
-      {
-        "text": "The government issued new guidelines mandating that messaging apps like WhatsApp and Telegram will not work without active SIM cards starting January 1.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/from-jan-1-whatsapp-telegram-wont-work-without-sim-cards-govt-issues-guidelines/articleshow/135127543.cms"
-      },
-      {
-        "text": "Andhra Pradesh counter-intelligence officers successfully busted a major cross-border digital honey-trap racket that leaked crucial defense data to Pakistan.",
+        "text": "At least seven people were killed in an explosion at a residential building used for storing and manufacturing firecrackers in Bihar's Siwan district.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/andhra-pradesh/how-india-thwarted-pakistans-bid-to-steal-crucial-defence-data/article71612709.ece"
-      },
-      {
-        "text": "The Union government informed the Supreme Court that hospital consumables often carry profit mark-ups ranging from 100% to over 1,000%.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/centre-flags-data-gap-regulatory-hurdles-in-curbing-hospital-mark-ups/articleshow/135127123.cms"
+        "url": "https://www.thehindu.com/news/national/bihar/several-feared-dead-in-a-firecracker-factory-blast-in-bihars-siwan-district/article71616766.ece"
       }
     ],
     "world": [
       {
-        "text": "A 7.0-magnitude earthquake in Tibet has left at least 16 people dead and 65 injured, with emergency search and rescue operations ongoing.",
+        "text": "France is deploying over 70,000 police officers ahead of nationwide demonstrations over living costs and learning conditions.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/70-magnitude-earthquake-hit-chinas-tibet-region-killing-many/article71613335.ece"
+        "url": "https://www.thehindu.com/news/international/france-to-deploy-70000-police-for-fresh-weekend-protests/article71618975.ece"
       },
       {
-        "text": "US tech stocks fell sharply as the Nasdaq dropped 2.6 percent amid growing investor anxiety over high artificial intelligence spending.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/economy/2026/10/23/us-tech-stocks-tumble-as-investors-fret-over-ai-spending?traffic_source=rss"
+        "text": "Kenya reported its second Ebola death as health officials race to contain the outbreak.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/kenya-announces-2nd-ebola-death-close-relative-of-first-patient/article71618958.ece"
       },
       {
-        "text": "Sudan's RSF fighters have been accused by the UN human rights chief of deliberately targeting hospitals in attacks that may constitute war crimes.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c54g1kxw4nvvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "North Korea announced plans to restart propaganda loudspeakers along the border with South Korea amid rising bilateral tensions.",
+        "text": "A magnitude-7 earthquake struck Tibet, killing at least 16 people and destroying hundreds of homes.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/22/north-korea-to-restart-propaganda-loudspeakers-south-korea"
+        "url": "https://www.theguardian.com/world/2026/oct/23/magnitude-7-earthquake-hits-china-tibet"
       },
       {
-        "text": "Taiwan shut down major services and cancelled hundreds of flights as Typhoon Champi approached the island.",
+        "text": "Typhoon Champi swept past Taiwan, leaving one person dead and injuring more than 500 others.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+      },
+      {
+        "text": "Nuclear power capacity could more than triple by 2060, driven by rising electricity demand from data centres and artificial intelligence.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/taiwan-shuts-down-ahead-of-weakening-typhoon-champi-hundreds-of-flights-cancelled/article71614370.ece"
+        "url": "https://www.thehindu.com/news/international/nuclear-power-could-more-than-triple-by-2060-un-agency-says/article71618915.ece"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "Aesag8J7EeM",
-      "title": "How British Destroyed Maratha Empire? | Anglo Maratha Wars | Dhruv Rathee",
-      "channel": "Dhruv Rathee",
-      "category": "india",
-      "url": "https://www.youtube.com/watch?v=Aesag8J7EeM",
-      "thumbnail": "https://i.ytimg.com/vi/Aesag8J7EeM/hqdefault.jpg",
+      "id": "pldMZLL_HZk",
+      "title": "Manufacturers use 'shrinkflation' to pass costs on to consumers",
+      "channel": "PBS NewsHour",
+      "category": "money",
+      "url": "https://www.youtube.com/watch?v=pldMZLL_HZk",
+      "thumbnail": "https://i.ytimg.com/vi/pldMZLL_HZk/hqdefault.jpg",
       "published": "",
-      "learn": "How British colonial strategy systematically dismantled the Maratha Empire.",
-      "minutes": 21
+      "learn": "Why companies shrink product sizes to covertly raise your daily expenses.",
+      "minutes": 5
     },
     "more": [
       {
-        "id": "xk_BsNZ2H8Q",
-        "title": "The World's First Financial Bubble? Tulip Mania! | European History | Extra History Complete",
-        "channel": "Extra History",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=xk_BsNZ2H8Q",
-        "thumbnail": "https://i.ytimg.com/vi/xk_BsNZ2H8Q/hqdefault.jpg",
+        "id": "9KZqNuEs9ZE",
+        "title": "When India Ruled Southeast Asia: The Chola Naval Empire Explained",
+        "channel": "Tales Of History",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=9KZqNuEs9ZE",
+        "thumbnail": "https://i.ytimg.com/vi/9KZqNuEs9ZE/hqdefault.jpg",
         "published": "",
-        "learn": "How a single flower bulb sparked the world's first economic bubble.",
-        "minutes": 42
+        "learn": "How ancient Indian fleets conquered and culturally shaped Southeast Asia.",
+        "minutes": 6
       },
       {
-        "id": "2gpRaJMjHbc",
-        "title": "Why the Ikea Business Model Wins",
-        "channel": "Wendover Productions",
+        "id": "jhTDlUxWlgs",
+        "title": "The \"Decoy Effect\": How Menus Trick You Into Spending More",
+        "channel": "Bob Invests",
         "category": "business",
-        "url": "https://www.youtube.com/watch?v=2gpRaJMjHbc",
-        "thumbnail": "https://i.ytimg.com/vi/2gpRaJMjHbc/hqdefault.jpg",
-        "published": "2026-08-25"
+        "url": "https://www.youtube.com/watch?v=jhTDlUxWlgs",
+        "thumbnail": "https://i.ytimg.com/vi/jhTDlUxWlgs/hqdefault.jpg",
+        "published": "",
+        "learn": "How a fake expensive option manipulates you into buying the middle tier.",
+        "minutes": 15
       },
       {
-        "id": "qgpsIBLvrGY",
-        "title": "Password Storage Tier List: encryption, hashing, salting, bcrypt, and beyond",
-        "channel": "Studying With Alex",
+        "id": "gV0_raKR2UQ",
+        "title": "Algorithmic Bias and Fairness: Crash Course AI #18",
+        "channel": "CrashCourse",
         "category": "ai",
-        "url": "https://www.youtube.com/watch?v=qgpsIBLvrGY",
-        "thumbnail": "https://i.ytimg.com/vi/qgpsIBLvrGY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gV0_raKR2UQ",
+        "thumbnail": "https://i.ytimg.com/vi/gV0_raKR2UQ/hqdefault.jpg",
         "published": "",
-        "learn": "How hashing, salting, and modern algorithms protect or expose your passwords.",
-        "minutes": 10
+        "learn": "How artificial intelligence absorbs and amplifies hidden human prejudices.",
+        "minutes": 11
       },
       {
-        "id": "fDD5wvFMH6U",
-        "title": "The Amygdala in 5 Minutes | Big Think",
-        "channel": "Big Think",
+        "id": "ObA4ne4TVsE",
+        "title": "How to Build Habits That Actually Last: A Neuroscience Approach",
+        "channel": "Dr. Tracey Marks",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=fDD5wvFMH6U",
-        "thumbnail": "https://i.ytimg.com/vi/fDD5wvFMH6U/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ObA4ne4TVsE",
+        "thumbnail": "https://i.ytimg.com/vi/ObA4ne4TVsE/hqdefault.jpg",
         "published": "",
-        "learn": "Why fear and panic override rational thinking during high-stress moments.",
-        "minutes": 5
-      },
-      {
-        "id": "vNDYUlxNIAA",
-        "title": "This tool will help improve your critical thinking - Erick Wilberding",
-        "channel": "TED-Ed",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=vNDYUlxNIAA",
-        "thumbnail": "https://i.ytimg.com/vi/vNDYUlxNIAA/hqdefault.jpg",
-        "published": "",
-        "learn": "How to identify flawed reasoning and build airtight logical arguments.",
-        "minutes": 5
-      },
-      {
-        "id": "EIkeRBP5nDg",
-        "title": "Ten Minute History - The Fall of Rome (Short Documentary)",
-        "channel": "History Matters",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=EIkeRBP5nDg",
-        "thumbnail": "https://i.ytimg.com/vi/EIkeRBP5nDg/hqdefault.jpg",
-        "published": "",
-        "learn": "How internal decay, economic failure, and invasions dismantled Rome.",
+        "learn": "Why redesigning your environment beats relying on sheer willpower alone.",
         "minutes": 10
       },
       {
-        "id": "IMzFgyrUXnE",
-        "title": "What Does The Liver Do? | Liver Functions | The Dr Binocs Show | Peekaboo Kidz",
-        "channel": "Peekaboo Kidz",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=IMzFgyrUXnE",
-        "thumbnail": "https://i.ytimg.com/vi/IMzFgyrUXnE/hqdefault.jpg",
+        "id": "okJ3KQ4S-ts",
+        "title": "Viktor Frankl: Logotherapy and Man's Search for Meaning",
+        "channel": "Academy of Ideas",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=okJ3KQ4S-ts",
+        "thumbnail": "https://i.ytimg.com/vi/okJ3KQ4S-ts/hqdefault.jpg",
         "published": "",
-        "learn": "How cellular biology allows the human liver to regenerate missing tissue.",
-        "minutes": 5
+        "learn": "Why finding personal meaning helps humans survive extreme suffering.",
+        "minutes": 6
       },
       {
-        "id": "c7QYEedjb_o",
-        "title": "ABHISHEK UPMANYU |Friends, Crime, & The Cosmos | Stand-Up Comedy by Abhishek Upmanyu",
-        "channel": "Abhishek Upmanyu",
+        "id": "9XBxMk_plhA",
+        "title": "The Assassination of Julius Caesar (The Ides of March, 44 B.C.E.)",
+        "channel": "Historia Civilis",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=9XBxMk_plhA",
+        "thumbnail": "https://i.ytimg.com/vi/9XBxMk_plhA/hqdefault.jpg",
+        "published": "",
+        "learn": "The intricate political conspiracy and betrayal behind the Ides of March.",
+        "minutes": 32
+      },
+      {
+        "id": "q3d3rzFTrLg",
+        "title": "Why Chernobyl Exploded - The Real Physics Behind The Reactor",
+        "channel": "Scott Manley",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=q3d3rzFTrLg",
+        "thumbnail": "https://i.ytimg.com/vi/q3d3rzFTrLg/hqdefault.jpg",
+        "published": "",
+        "learn": "The actual nuclear physics and fatal design flaws that destroyed Chernobyl.",
+        "minutes": 21
+      },
+      {
+        "id": "vflWLItnwfA",
+        "title": "CLASS | Zakir khan | Stand-Up Comedy | Sukha Puri 8",
+        "channel": "Zakir Khan",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=c7QYEedjb_o",
-        "thumbnail": "https://i.ytimg.com/vi/c7QYEedjb_o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vflWLItnwfA",
+        "thumbnail": "https://i.ytimg.com/vi/vflWLItnwfA/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 15
+        "minutes": 24
       }
     ]
   },
   "podcasts": [
     {
-      "id": "darknet-diaries-181-ricky",
-      "title": "181: Ricky",
-      "show": "Darknet Diaries",
-      "category": "ai",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/88c4d72a-2377-4fef-9dac-3cd23529b881/darknet-diaries-ep181-ricky.mp3",
-      "link": "https://darknetdiaries.com/episode/181/",
-      "durationSec": 4815,
+      "id": "radiolab-octomom",
+      "title": "Octomom",
+      "show": "Radiolab",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/55f11499-9702-4a86-a534-fb5724d5707c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=55f11499-9702-4a86-a534-fb5724d5707c&feed=EmVW7VGp",
+      "link": "https://www.radiolab.org",
+      "durationSec": 2057,
       "startSec": null,
-      "why": "Discover how a teenager hijacked cell towers and outsmarted telecom giants."
+      "why": "Discover an astonishing deep-sea octopus mother's heroic, mile-underwater survival journey."
     },
     {
-      "id": "no-such-thing-as-a-fish-no-such-thing-as-lithuanian-soap-ornaments",
-      "title": "No Such Thing As Lithuanian Soap Ornaments",
-      "show": "No Such Thing As A Fish",
-      "category": "science",
-      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss",
-      "link": "https://audioboom.com/posts/8967963",
-      "durationSec": 3407,
+      "id": "freakonomics-radio-692-what-will-a-i-do-to-and-for-human-creativity",
+      "title": "692. What Will A.I. Do to (and for) Human Creativity?",
+      "show": "Freakonomics Radio",
+      "category": "money",
+      "audioUrl": "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
+      "link": "https://freakonomics.com",
+      "durationSec": 3549,
       "startSec": null,
-      "why": "Uncover bizarre historical trivia and odd facts with hilarious expert banter."
+      "why": "Explore how AI is transforming human creativity across writing, music, and art."
     }
   ],
   "onThisDay": [
     {
-      "year": 1957,
-      "kind": "event",
-      "text": "1957: One of the most influential Indian films in history, Mother India, was screened for President Rajendra Prasad and Prime Minister Jawaharlal Nehru just before its release.",
-      "url": "https://en.wikipedia.org/wiki/Mother_India",
-      "india": true
-    },
-    {
-      "year": 1974,
+      "year": 1914,
       "kind": "born",
-      "text": "1974: Aravind Adiga, the acclaimed Indian journalist and author who won the Man Booker Prize, was born.",
-      "url": "https://en.wikipedia.org/wiki/Aravind_Adiga",
+      "text": "Lakshmi Sahgal, a key revolutionary of the Indian Independence movement and an officer of the Indian National Army, was born.",
+      "url": "https://en.wikipedia.org/wiki/Lakshmi_Sahgal",
       "india": true
     },
     {
-      "year": 2023,
+      "year": 1921,
+      "kind": "born",
+      "text": "R. K. Laxman, India's legendary illustrator known for his iconic creation 'The Common Man', was born.",
+      "url": "https://en.wikipedia.org/wiki/R._K._Laxman",
+      "india": true
+    },
+    {
+      "year": 1991,
       "kind": "died",
-      "text": "2023: Bishan Singh Bedi, the legendary Indian cricketer and former captain, died, leaving behind a remarkable legacy in spin bowling.",
-      "url": "https://en.wikipedia.org/wiki/Bishan_Singh_Bedi",
+      "text": "Ismat Chughtai, a trailblazing Indian author and screenwriter who revolutionized Urdu literature with her bold themes, died.",
+      "url": "https://en.wikipedia.org/wiki/Ismat_Chughtai",
       "india": true
     },
     {
-      "year": 1956,
+      "year": 1945,
       "kind": "event",
-      "text": "1956: The Hungarian Revolution began as a peaceful student demonstration in Budapest, sparking a major uprising against Soviet-backed policies.",
-      "url": "https://en.wikipedia.org/wiki/Hungarian_Revolution_of_1956",
+      "text": "The Charter of the United Nations entered into force, officially establishing the international organization to promote global peace and cooperation.",
+      "url": "https://en.wikipedia.org/wiki/Charter_of_the_United_Nations",
       "india": false
     },
     {
-      "year": 1934,
+      "year": 1929,
       "kind": "event",
-      "text": "1934: Jeannette Piccard piloted a hot-air balloon to become the first woman to fly into the stratosphere.",
-      "url": "https://en.wikipedia.org/wiki/Jeannette_Piccard",
+      "text": "The New York Stock Exchange crashed on Black Thursday, triggering the catastrophic global economic downturn known as the Great Depression.",
+      "url": "https://en.wikipedia.org/wiki/Wall_Street_crash_of_1929",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Sensex and Nifty plunged in early trade as power and metal stocks dragged Indian stock markets lower.",
-      "why": "Traders are panicking over sudden market losses.",
-      "url": "https://www.thehindu.com/business/markets/stock-markets-sensex-and-nifty-on-october-22-2026/article71610117.ece",
-      "source": "The Hindu"
+      "text": "India secured a tense win against New Zealand in the 1st T20I with stellar performances from Samson, Iyer, and Dhir.",
+      "why": "Cricket Twitter is buzzing with last-over thriller breakdowns.",
+      "url": "https://www.cricinfo.com/series/india-in-new-zealand-2026-27-1539421/new-zealand-vs-india-1st-t20i-1539432/live-match-blog",
+      "source": "Cricinfo"
     },
     {
-      "text": "An Indian YouTuber faced heavy backlash online for seeking free temple shelter in Thailand claiming he had no money.",
-      "why": "People are roasting his cringe travel behavior.",
-      "url": "https://www.reddit.com/r/india/comments/1xccd0s/indian_youtuber_faces_backlash_for_seeking_free/",
+      "text": "A BJP leader's nephew in Aligarh allegedly ran an Audi over a man twice following a road rage dispute over excessive honking.",
+      "why": "Outrage is surging online over luxury car impunity.",
+      "url": "https://www.reddit.com/r/india/comments/1xdv7e7/honked_too_much_bjp_leaders_nephew_runs_audi_over/",
       "source": "r/india"
     },
     {
-      "text": "Amit Shah boldly predicted thirty more years of BJP rule and claimed Rahul Gandhi will never come to power.",
-      "why": "Fueling intense political debates across social media.",
-      "url": "https://www.reddit.com/r/india/comments/1xcmio8/amit_shah_predicts_30_more_years_of_bjp_rule_says/",
+      "text": "Union Minister Piyush Goyal blamed developed nations for the climate crisis during discussions at the Berlin global dialogue.",
+      "why": "People are sharing his sharp confrontation with Western leaders.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xd8vso/you_caused_this_mess_indian_union_minister_piyush/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "Delhi Police detained several protesters during the 'Tiranga March' against the Special Intensive Revision of electoral rolls.",
+      "why": "The ongoing election commission row is sparking heavy political debates.",
+      "url": "https://www.reddit.com/r/india/comments/1xdbacd/several_protesters_were_detained_by_delhi_police/",
       "source": "r/india"
     },
     {
-      "text": "Google illegally cut down 250,000 trees in Finland to build a datacentre, sparking massive public outrage.",
-      "why": "Pure corporate arrogance causing global fury.",
-      "url": "https://www.reddit.com/r/technology/comments/1xcg8as/pure_arrogance_anger_in_finland_as_google/",
-      "source": "r/technology"
-    },
-    {
-      "text": "Nvidia CEO Jensen Huang called paying $8 billion in taxes a privilege because he is just afraid of being poor.",
-      "why": "A bizarre billionaire flex that went viral.",
-      "url": "https://www.reddit.com/r/technology/comments/1xc8jms/as_billionaires_fight_a_tax_hike_jensen_huang/",
-      "source": "r/technology"
-    },
-    {
-      "text": "The world's six richest billionaires lost $130 billion in a single day as AI spending fears crashed tech stocks.",
-      "why": "Massive financial hit making everyone talk about tech bubbles.",
-      "url": "https://www.reddit.com/r/technology/comments/1xcsz3z/worlds_6_richest_lose_130_billion_on_thursday_as/",
-      "source": "r/technology"
+      "text": "Four Indian Punjabis and three Pakistani Punjabis allegedly collaborated to dupe Canadian banks using AI-generated identities.",
+      "why": "The wild cross-border AI scam details are going viral.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xdhj0i/four_indian_punjabis_and_3_pakistani_punjabis/",
+      "source": "r/IndiaSpeaks"
     }
   ]
 }

@@ -1,0 +1,439 @@
+{
+  "schema": 1,
+  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T04:41:13+00:00",
+  "words": [
+    {
+      "word": "Expeditious",
+      "pos": "adjective",
+      "pronunciation": "ek-spuh-DISH-us",
+      "meaning": "Done with speed and efficiency.",
+      "insteadOf": "fast",
+      "example": "We need an expeditious fix for this server bug before the hackathon starts."
+    },
+    {
+      "word": "Precipitous",
+      "pos": "adjective",
+      "pronunciation": "pruh-SIP-uh-tus",
+      "meaning": "Dangerously sudden or fast.",
+      "insteadOf": "too fast",
+      "example": "His precipitous drop in coding output worried our project mentor."
+    },
+    {
+      "word": "Slothful",
+      "pos": "adjective",
+      "pronunciation": "SLOTH-ful",
+      "meaning": "Lazy and moving too slowly.",
+      "insteadOf": "slow",
+      "example": "My slothful Sunday morning chai routine got ruined by an urgent assignment email."
+    },
+    {
+      "word": "Expedite",
+      "pos": "verb",
+      "pronunciation": "EK-spuh-dyte",
+      "meaning": "To make an action happen sooner.",
+      "insteadOf": "speed up",
+      "example": "Can you expedite my internship certificate approval before the deadline?"
+    },
+    {
+      "word": "Prolong",
+      "pos": "verb",
+      "pronunciation": "pruh-LONG",
+      "meaning": "To make something last longer in time.",
+      "insteadOf": "make it longer",
+      "example": "Please don't prolong the lecture; we all want to watch the India match."
+    },
+    {
+      "word": "Rushed",
+      "pos": "adjective",
+      "pronunciation": "rusht",
+      "meaning": "Done without enough time, hurried.",
+      "insteadOf": "in a rush",
+      "example": "That rushed resume review cost me a call from the startup."
+    },
+    {
+      "word": "Rapid",
+      "pos": "adjective",
+      "pronunciation": "RAP-id",
+      "meaning": "Happening in a very short time.",
+      "insteadOf": "quick",
+      "example": "The rapid adoption of AI tools is changing how engineering students code."
+    },
+    {
+      "word": "Respite",
+      "pos": "noun",
+      "pronunciation": "RES-pit",
+      "meaning": "A short period of rest from something difficult.",
+      "insteadOf": "a break",
+      "example": "A quick chai break gave me a much-needed respite from debugging."
+    },
+    {
+      "word": "Retard",
+      "pos": "verb",
+      "pronunciation": "ri-TAHRD",
+      "meaning": "To slow down the progress or development.",
+      "insteadOf": "slow down",
+      "example": "Poor internet connectivity will retard my file upload for the college portal."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Bhaisahab",
+      "meaning": "A Hindi exclamation literally meaning 'brother', used colloquially to express extreme shock, disbelief, or intense appreciation for something wild.",
+      "example": "Bhaisahab, did you see the bill for that Mumbai rooftop party? Absolutely insane.",
+      "context": "Standard Indian internet slang for dramatic emphasis among friends. Completely casual.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "bhaisahab"
+    },
+    {
+      "type": "psych",
+      "term": "Bystander Apathy",
+      "meaning": "A social psychological phenomenon where individuals are less likely to offer help to a victim when other people are present, assuming someone else will step in.",
+      "example": "Nobody stopped to help pick up his spilled groceries because of total bystander apathy in the metro.",
+      "context": "Brought up in news breakdowns, psychology podcasts, or ethical discussions.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "bystander-apathy"
+    },
+    {
+      "type": "acronym",
+      "term": "FUBAR",
+      "meaning": "Fucked Up Beyond All Recognition or Repair; military slang used to describe a completely ruined situation.",
+      "example": "My study schedule for finals is completely FUBAR at this point.",
+      "context": "Used casually when a project, plan, or tech setup goes horribly wrong. Slightly crude due to profanity.",
+      "tone": "crude",
+      "nsfw": true,
+      "id": "fubar"
+    },
+    {
+      "type": "paradox",
+      "term": "Newcomb s Paradox",
+      "meaning": "A thought experiment in decision theory where a superintelligent being presents two boxes: Box A containing $1,000 and Box B containing either $1,000,000 or nothing, based on a prediction of your choice. If the predictor already guessed you would take both boxes, Box B is empty; if it guessed you would take only Box B, it contains the million.",
+      "example": "Trying to figure out if I should prep for the interview or just wing it feels like absolute Newcomb s Paradox.",
+      "context": "Used in deep late-night chats or tech podcasts when discussing free will versus determinism. Not rude, just nerdy.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "newcomb-s-paradox"
+    },
+    {
+      "type": "meme",
+      "term": "Is This A Pigeon",
+      "meaning": "A meme format featuring an anime character pointing at a butterfly and asking 'Is this a pigeon?', used to represent profound misunderstanding or misidentification of simple concepts.",
+      "example": "Me looking at basic HTML code and asking my developer friend 'Is this a pigeon?'",
+      "context": "A classic internet template used across meme pages for tech and life fails.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "is-this-a-pigeon"
+    },
+    {
+      "type": "slang",
+      "term": "Scene Kya Hai",
+      "meaning": "A Hindi phrase translating to 'What is the scene?', used to ask what the plan is or what gossip is currently happening.",
+      "example": "Yo, scene kya hai for tonight? Are we heading out or staying in?",
+      "context": "Universal college and young adult slang in India when organizing hangouts. Never rude.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "scene-kya-hai"
+    },
+    {
+      "type": "psych",
+      "term": "Fundamental Attribution Error",
+      "meaning": "The tendency for people to overemphasize personality-based explanations for behaviors observed in others while underemphasizing situational explanations.",
+      "example": "When he cut me off in traffic, I assumed he was a jerk, but when I cut someone off, I was just running late. Classic fundamental attribution error.",
+      "context": "Used in self-help reels and psychological commentary. Makes you sound smart.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "fundamental-attribution-error"
+    },
+    {
+      "type": "acronym",
+      "term": "SNAFU",
+      "meaning": "Situation Normal: All Fucked Up; military slang for a situation where chaos and disorder are the expected norm.",
+      "example": "The servers crashed right during product launch, but honestly, total SNAFU as usual.",
+      "context": "Used in office settings or tech podcasts when operations fail in a predictable way.",
+      "tone": "casual",
+      "nsfw": true,
+      "id": "snafu"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Prime Minister Narendra Modi and Defence Minister Rajnath Singh will attend the IAF 94th Anniversary air show in Varanasi.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/iaf-94th-anniversary-pm-modi-rajnath-singh-to-attend-wings-over-ganges-air-show-in-varanasi-today-11792900063661.html"
+      },
+      {
+        "text": "Andhra Pradesh is bracing for a severe cyclonic storm with the IMD issuing red alerts across multiple districts.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+      },
+      {
+        "text": "Operation Trident by security forces dealt a major blow to drug cartels operating across Assam, Manipur, and Mizoram.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-another-lethal-blow-as-operation-trident-strikes-drug-cartels-across-assam-manipur-mizoram-101792900242489.html"
+      },
+      {
+        "text": "India criticized Pakistan at the UN for its poor minority rights record, urging Islamabad to prioritize citizen welfare.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/prioritise-welfare-over-military-directives-india-raps-pak-on-minority-rights-at-un/articleshow/135180093.cms"
+      },
+      {
+        "text": "Manipur plans to form a committee representing all 36 communities to foster peace and unity in the state.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
+      },
+      {
+        "text": "AU Small Finance Bank and IDFC First Bank reported significant jumps in their net profits for the second quarter.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
+      },
+      {
+        "text": "The CBI filed an FIR against IL&FS Energy Development Company and its top executives in a 212 crore rupee bank loan fraud case.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/cbi-files-fir-against-ilfs-energy-top-execs-in-rs-212cr-canara-bank-loan-fraud-case/articleshow/135177586.cms"
+      },
+      {
+        "text": "External Affairs Minister S Jaishankar stated that restoring peace along the India-China border is essential for bilateral ties.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/world-news/issues-will-remain-between-big-neighbours-jaishankar-on-india-china-ties-12223570#publisher=newsstand"
+      },
+      {
+        "text": "The Road Ministry sought a forensic audit of its digital portals following a reported vehicle data leak.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
+      }
+    ],
+    "world": [
+      {
+        "text": "Almost 1,000 people were arrested following violent clashes during mass protests across France and other European cities over living costs.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Brazil is holding a crucial presidential runoff election on Sunday, with nearly 159 million voters deciding between leftwing incumbent Luiz Inacio Lula da Silva and his rival.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
+      },
+      {
+        "text": "Typhoon Champi struck Taiwan, killing one person and injuring over 500 others before tracking toward China.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
+      },
+      {
+        "text": "Bulgarian voters headed to the polls to elect a new president amid regional security concerns stemming from the war in Ukraine.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+      },
+      {
+        "text": "Indonesia has reduced its pipeline natural gas exports to Singapore from Natuna and Sumatra by approximately nine percent.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "8wY2hsIosFM",
+      "title": "Just-in-time and Kanban",
+      "channel": "POM ETH Zurich",
+      "category": "business",
+      "url": "https://www.youtube.com/watch?v=8wY2hsIosFM",
+      "thumbnail": "https://i.ytimg.com/vi/8wY2hsIosFM/hqdefault.jpg",
+      "published": "",
+      "learn": "How just-in-time manufacturing and kanban systems eliminate costly warehouse inventory waste",
+      "minutes": 8
+    },
+    "more": [
+      {
+        "id": "MVFJPjBrofk",
+        "title": "The Battle of Plassey | From Trade to Territory | Class 8 History",
+        "channel": "Magnet Brains",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=MVFJPjBrofk",
+        "thumbnail": "https://i.ytimg.com/vi/MVFJPjBrofk/hqdefault.jpg",
+        "published": "",
+        "learn": "How betrayal and treaties enabled the East India Company to colonize India",
+        "minutes": 17
+      },
+      {
+        "id": "gzTYbl2Kwuk",
+        "title": "Payment Processing Credit/Debit Cards (Authorization, Clearing and Settlement Basics)",
+        "channel": "@NurtureLearning",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=gzTYbl2Kwuk",
+        "thumbnail": "https://i.ytimg.com/vi/gzTYbl2Kwuk/hqdefault.jpg",
+        "published": "",
+        "learn": "How card payments move through authorization, clearing, and settlement behind the scenes",
+        "minutes": 8
+      },
+      {
+        "id": "FU_YFpfDqqA",
+        "title": "Why The First Computers Were Made Out Of Light Bulbs",
+        "channel": "Veritasium",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=FU_YFpfDqqA",
+        "thumbnail": "https://i.ytimg.com/vi/FU_YFpfDqqA/hqdefault.jpg",
+        "published": "",
+        "learn": "How early computers evolved from fragile vacuum tubes to modern silicon chips",
+        "minutes": 18
+      },
+      {
+        "id": "Z-zNHHpXoMM",
+        "title": "How to Study for Exams - Spaced Repetition | Evidence-based revision tips",
+        "channel": "Ali Abdaal",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=Z-zNHHpXoMM",
+        "thumbnail": "https://i.ytimg.com/vi/Z-zNHHpXoMM/hqdefault.jpg",
+        "published": "",
+        "learn": "How spaced repetition and active recall permanently lock facts into memory",
+        "minutes": 26
+      },
+      {
+        "id": "NKEhdsnKKHs",
+        "title": "How to Argue - Philosophical Reasoning: Crash Course Philosophy #2",
+        "channel": "CrashCourse",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=NKEhdsnKKHs",
+        "thumbnail": "https://i.ytimg.com/vi/NKEhdsnKKHs/hqdefault.jpg",
+        "published": "",
+        "learn": "How to distinguish deductive and inductive arguments to test if logic holds",
+        "minutes": 9
+      },
+      {
+        "id": "TEI0sVYKtg8",
+        "title": "Ibn Battuta - The Great Traveler - Extra History - Part 1",
+        "channel": "Extra History",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=TEI0sVYKtg8",
+        "thumbnail": "https://i.ytimg.com/vi/TEI0sVYKtg8/hqdefault.jpg",
+        "published": "",
+        "learn": "How Ibn Battuta completed a legendary thirty-year medieval journey across the world",
+        "minutes": 8
+      },
+      {
+        "id": "4xIQGbYur9Q",
+        "title": "The Life and Death of Stars: White Dwarfs, Supernovae, Neutron Stars, and Black Holes",
+        "channel": "Professor Dave Explains",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=4xIQGbYur9Q",
+        "thumbnail": "https://i.ytimg.com/vi/4xIQGbYur9Q/hqdefault.jpg",
+        "published": "",
+        "learn": "How nuclear fusion inside dying stars forges every element in the universe",
+        "minutes": 16
+      },
+      {
+        "id": "dytUxaBbrRA",
+        "title": "Harsh & Bassi Unleashed | Crowd Work | Standup Comedy",
+        "channel": "Harsh gujral",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=dytUxaBbrRA",
+        "thumbnail": "https://i.ytimg.com/vi/dytUxaBbrRA/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 11
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "you-re-dead-to-me-new-the-hitler-diaries-scandal-from-the-history-podcast",
+      "title": "New: The Hitler Diaries Scandal (from The History Podcast)",
+      "show": "You're Dead to Me",
+      "category": "history",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfnnhh.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pg8srx",
+      "durationSec": 614,
+      "startSec": null,
+      "why": "Uncover how a massive magazine published fake Hitler diaries and fooled the world."
+    },
+    {
+      "id": "no-such-thing-as-a-fish-no-such-thing-as-going-to-spoiler-prison",
+      "title": "No Such Thing As Going To Spoiler Prison",
+      "show": "No Such Thing As A Fish",
+      "category": "science",
+      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1791482358&sid=2399216&source=rss",
+      "link": "https://audioboom.com/posts/8962255",
+      "durationSec": 3428,
+      "startSec": null,
+      "why": "Comedians and experts share weird, hilarious facts that will blow your mind."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1980,
+      "kind": "died",
+      "text": "Sahir Ludhianvi, the legendary poet and songwriter whose revolutionary and romantic verses shaped the golden era of Hindi cinema, died.",
+      "url": "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
+      "india": true
+    },
+    {
+      "year": 2003,
+      "kind": "died",
+      "text": "Pandurang Shastri Athavale, the renowned philosopher and social reformer who founded the Swadhyaya movement, died.",
+      "url": "https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale",
+      "india": true
+    },
+    {
+      "year": 2012,
+      "kind": "died",
+      "text": "Jaspal Bhatti, the iconic satirist and filmmaker who used comedy to critique Indian societal and political flaws, died.",
+      "url": "https://en.wikipedia.org/wiki/Jaspal_Bhatti",
+      "india": true
+    },
+    {
+      "year": 1950,
+      "kind": "event",
+      "text": "The People's Volunteer Army engaged in battles against UN forces, marking China's major entry into the Korean War.",
+      "url": "https://en.wikipedia.org/wiki/People's_Volunteer_Army",
+      "india": false
+    },
+    {
+      "year": 1415,
+      "kind": "event",
+      "text": "The English army achieved a decisive and unexpected victory over the French cavalry at the Battle of Agincourt during the Hundred Years' War.",
+      "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Jio Platforms IPO has become the largest subscribed issue, drawing record bids worth Rs 7.4 lakh crore from investors.",
+      "why": "Massive financial milestone making waves across the markets.",
+      "url": "https://www.thehindu.com/incoming/jio-platforms-ipo-turns-largest-subscribed-issue-investors-bid-over-205-timeson-day-3/article71616849.ece",
+      "source": "The Hindu"
+    },
+    {
+      "text": "Pawan Singh issued an apology, triggering a scathing response from his wife Jyoti Singh over social media.",
+      "why": "Messy celebrity relationship drama everyone is talking about.",
+      "url": "https://www.aajtak.in/entertainment/bhojpuri/photo/akshara-singh-celebrate-vrindavan-utsav-preacher-indresh-upadhyay-b-praak-brahmakumaris-bk-shivani-pawan-singh-tmovb-2679274-2026-10-24",
+      "source": "AajTak"
+    },
+    {
+      "text": "Vijay Deverakonda and Rashmika Mandanna's film 'Ranabaali' is racing towards the Rs 50 crore mark at the box office.",
+      "why": "Big star power driving heavy weekend box office chatter.",
+      "url": "https://www.ndtv.com/entertainment/ranabaali-box-office-collection-day-6-vijay-deverakonda-rashmika-mandanna-film-to-cross-rs-50-crore-mark-in-india-12218142",
+      "source": "NDTV"
+    },
+    {
+      "text": "Elon Musk admitted that SpaceX purposely restricted Ukraine's Starlink access during the war with Russia.",
+      "why": "Major geopolitical controversy involving tech and wartime communications.",
+      "url": "https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/",
+      "source": "r/technology"
+    },
+    {
+      "text": "Apple's new iPhone Duo reportedly failed JerryRigEverything's durability test.",
+      "why": "Classic tech stress-test failure sparking viral memes and debate.",
+      "url": "https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/",
+      "source": "r/technology"
+    },
+    {
+      "text": "Kerala Governor Om Prakash Mathur's 'veg-only kitchen' order on his first day in office has sparked a massive political row.",
+      "why": "Culturally sensitive political move igniting heated online debates.",
+      "url": "https://www.reddit.com/r/india/comments/1xe07ot/kerala_governor_om_prakash_mathurs_vegonly/",
+      "source": "r/india"
+    }
+  ]
+}

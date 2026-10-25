@@ -213,7 +213,16 @@
   "hack",
   "hardboiled",
   "ossified",
-  "officious"
+  "officious",
+  "expeditious",
+  "precipitous",
+  "slothful",
+  "expedite",
+  "prolong",
+  "rushed",
+  "rapid",
+  "respite",
+  "retard"
  ],
  "loop": [
   "glazing",
@@ -396,7 +405,15 @@
   "gigachad",
   "gym-bro",
   "locus-of-control",
-  "rpe"
+  "rpe",
+  "bhaisahab",
+  "bystander-apathy",
+  "fubar",
+  "newcomb-s-paradox",
+  "is-this-a-pigeon",
+  "scene-kya-hai",
+  "fundamental-attribution-error",
+  "snafu"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -633,7 +650,16 @@
   "okJ3KQ4S-ts",
   "9XBxMk_plhA",
   "q3d3rzFTrLg",
-  "vflWLItnwfA"
+  "vflWLItnwfA",
+  "8wY2hsIosFM",
+  "MVFJPjBrofk",
+  "gzTYbl2Kwuk",
+  "FU_YFpfDqqA",
+  "Z-zNHHpXoMM",
+  "NKEhdsnKKHs",
+  "TEI0sVYKtg8",
+  "4xIQGbYur9Q",
+  "dytUxaBbrRA"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -695,7 +721,9 @@
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/88c4d72a-2377-4fef-9dac-3cd23529b881/darknet-diaries-ep181-ricky.mp3",
   "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8967963.mp3?modified=1792686099&sid=2399216&source=rss",
   "https://pscrb.fm/rss/p/mgln.ai/e/14/prfx.byspotify.com/e/dts.podtrac.com/pts/redirect.mp3/waaa.wnyc.org/758af4c0-a2c3-47ec-a2d8-05f41bfbde51/episodes/55f11499-9702-4a86-a534-fb5724d5707c/audio/128/default.mp3?aid=rss_feed&awCollectionId=758af4c0-a2c3-47ec-a2d8-05f41bfbde51&awEpisodeId=55f11499-9702-4a86-a534-fb5724d5707c&feed=EmVW7VGp",
-  "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4"
+  "https://mgln.ai/e/2/pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/2be48404-a43c-4fa8-a32c-760a3216272e/episodes/c9962da9-3a9b-429b-aa66-6b99e9432b4f/audio/128/default.mp3?aid=rss_feed&awCollectionId=2be48404-a43c-4fa8-a32c-760a3216272e&awEpisodeId=c9962da9-3a9b-429b-aa66-6b99e9432b4f&feed=Y8lFbOT4",
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfnnhh.mp3",
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1791482358&sid=2399216&source=rss"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -881,6 +909,14 @@
   "Atomic habits in practice: how tiny environment design beats sheer willpower",
   "Viktor Frankl and Logotherapy: how finding a 'why' helps humans survive anything",
   "The downfall of Julius Caesar: hubris, political betrayal, and the Ides of March",
-  "The Chernobyl nuclear meltdown: how design flaws and a safety test triggered a catastrophe"
+  "The Chernobyl nuclear meltdown: how design flaws and a safety test triggered a catastrophe",
+  "The Battle of Plassey: How East India Company's betrayal and the treaty that colonized India unfolded",
+  "How merchant acquiring and payment gateways process transactions behind the scenes",
+  "Just-in-Time (JIT) manufacturing: How Toyota eliminated warehouse inventory waste",
+  "From vacuum tubes to silicon chips: The gripping history of how computers evolved",
+  "Spaced repetition and active recall: The cognitive science of how to remember anything permanently",
+  "Deductive vs Inductive reasoning: How to tell if an argument actually proves its conclusion",
+  "Ibn Battuta's epic 30-year journey: The medieval traveler who out-traveled Marco Polo",
+  "How stellar nucleosynthesis works: How nuclear fusion inside stars creates every element in the universe"
  ]
 }

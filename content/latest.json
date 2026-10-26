@@ -1,439 +1,427 @@
 {
   "schema": 1,
-  "date": "2026-10-25",
-  "generatedAt": "2026-10-25T04:41:13+00:00",
+  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T03:44:50+00:00",
   "words": [
     {
-      "word": "Expeditious",
-      "pos": "adjective",
-      "pronunciation": "ek-spuh-DISH-us",
-      "meaning": "Done with speed and efficiency.",
-      "insteadOf": "fast",
-      "example": "We need an expeditious fix for this server bug before the hackathon starts."
-    },
-    {
-      "word": "Precipitous",
-      "pos": "adjective",
-      "pronunciation": "pruh-SIP-uh-tus",
-      "meaning": "Dangerously sudden or fast.",
-      "insteadOf": "too fast",
-      "example": "His precipitous drop in coding output worried our project mentor."
-    },
-    {
-      "word": "Slothful",
-      "pos": "adjective",
-      "pronunciation": "SLOTH-ful",
-      "meaning": "Lazy and moving too slowly.",
-      "insteadOf": "slow",
-      "example": "My slothful Sunday morning chai routine got ruined by an urgent assignment email."
-    },
-    {
-      "word": "Expedite",
+      "word": "Inveigle",
       "pos": "verb",
-      "pronunciation": "EK-spuh-dyte",
-      "meaning": "To make an action happen sooner.",
-      "insteadOf": "speed up",
-      "example": "Can you expedite my internship certificate approval before the deadline?"
+      "pronunciation": "in-VAY-guhl",
+      "meaning": "To persuade someone through deception or flattery.",
+      "insteadOf": "trick or talk into",
+      "example": "He tried to inveigle the TA into extending the coding project deadline."
     },
     {
-      "word": "Prolong",
-      "pos": "verb",
-      "pronunciation": "pruh-LONG",
-      "meaning": "To make something last longer in time.",
-      "insteadOf": "make it longer",
-      "example": "Please don't prolong the lecture; we all want to watch the India match."
-    },
-    {
-      "word": "Rushed",
+      "word": "Trenchant",
       "pos": "adjective",
-      "pronunciation": "rusht",
-      "meaning": "Done without enough time, hurried.",
-      "insteadOf": "in a rush",
-      "example": "That rushed resume review cost me a call from the startup."
+      "pronunciation": "TREN-chuhnt",
+      "meaning": "Vigorous or incisive in expression or style.",
+      "insteadOf": "sharp or direct",
+      "example": "Her trenchant critique during the hackathon review left the seniors impressed."
     },
     {
-      "word": "Rapid",
+      "word": "Truculent",
       "pos": "adjective",
-      "pronunciation": "RAP-id",
-      "meaning": "Happening in a very short time.",
-      "insteadOf": "quick",
-      "example": "The rapid adoption of AI tools is changing how engineering students code."
+      "pronunciation": "TRUK-yuh-luhnt",
+      "meaning": "Eager or quick to argue or fight.",
+      "insteadOf": "aggressive",
+      "example": "The debate turned truculent when the topic shifted to college elections."
     },
     {
-      "word": "Respite",
+      "word": "Inchoate",
+      "pos": "adjective",
+      "pronunciation": "in-KOH-it",
+      "meaning": "Just begun and so not fully formed or developed.",
+      "insteadOf": "half-baked",
+      "example": "My startup pitch was still inchoate when the investor asked for details."
+    },
+    {
+      "word": "Turpitude",
       "pos": "noun",
-      "pronunciation": "RES-pit",
-      "meaning": "A short period of rest from something difficult.",
-      "insteadOf": "a break",
-      "example": "A quick chai break gave me a much-needed respite from debugging."
+      "pronunciation": "TUR-pi-tood",
+      "meaning": "Wickedness or moral corruption.",
+      "insteadOf": "corruption",
+      "example": "The committee resigned after the scandal exposed deep institutional turpitude."
     },
     {
-      "word": "Retard",
-      "pos": "verb",
-      "pronunciation": "ri-TAHRD",
-      "meaning": "To slow down the progress or development.",
-      "insteadOf": "slow down",
-      "example": "Poor internet connectivity will retard my file upload for the college portal."
+      "word": "Imprecation",
+      "pos": "noun",
+      "pronunciation": "im-pri-KAY-shuhn",
+      "meaning": "A spoken curse.",
+      "insteadOf": "swear word",
+      "example": "He muttered an imprecation under his breath when his laptop crashed again."
+    },
+    {
+      "word": "Indefatigable",
+      "pos": "adjective",
+      "pronunciation": "in-di-FAT-i-guh-buhl",
+      "meaning": "Persisting tirelessly.",
+      "insteadOf": "never-tiring",
+      "example": "Her indefatigable work ethic during placement season finally paid off."
+    },
+    {
+      "word": "Tintinnabulation",
+      "pos": "noun",
+      "pronunciation": "tin-ti-nab-yuh-LAY-shuhn",
+      "meaning": "A ringing or tinkling sound.",
+      "insteadOf": "jingle",
+      "example": "The tintinnabulation of hostel room keys echoed down the empty corridor."
+    },
+    {
+      "word": "Insouciant",
+      "pos": "adjective",
+      "pronunciation": "in-SOO-see-uhnt",
+      "meaning": "Showing a casual lack of concern.",
+      "insteadOf": "carefree",
+      "example": "His insouciant attitude before the final exams baffled everyone in the dorm."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Bhaisahab",
-      "meaning": "A Hindi exclamation literally meaning 'brother', used colloquially to express extreme shock, disbelief, or intense appreciation for something wild.",
-      "example": "Bhaisahab, did you see the bill for that Mumbai rooftop party? Absolutely insane.",
-      "context": "Standard Indian internet slang for dramatic emphasis among friends. Completely casual.",
-      "tone": "casual",
+      "term": "Jit",
+      "meaning": "A term used by Gen Alpha and Gen Z to refer to a younger kid, a little bro, or sometimes a close friend regardless of age.",
+      "example": "Bro, look at this little jit trying to 1v1 me in Fortnite.",
+      "context": "Heard constantly on gaming streams and TikTok. Usually playful, though can be patronizing if used by an older teen to an adult.",
+      "tone": "playful",
       "nsfw": false,
-      "id": "bhaisahab"
-    },
-    {
-      "type": "psych",
-      "term": "Bystander Apathy",
-      "meaning": "A social psychological phenomenon where individuals are less likely to offer help to a victim when other people are present, assuming someone else will step in.",
-      "example": "Nobody stopped to help pick up his spilled groceries because of total bystander apathy in the metro.",
-      "context": "Brought up in news breakdowns, psychology podcasts, or ethical discussions.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "bystander-apathy"
-    },
-    {
-      "type": "acronym",
-      "term": "FUBAR",
-      "meaning": "Fucked Up Beyond All Recognition or Repair; military slang used to describe a completely ruined situation.",
-      "example": "My study schedule for finals is completely FUBAR at this point.",
-      "context": "Used casually when a project, plan, or tech setup goes horribly wrong. Slightly crude due to profanity.",
-      "tone": "crude",
-      "nsfw": true,
-      "id": "fubar"
-    },
-    {
-      "type": "paradox",
-      "term": "Newcomb s Paradox",
-      "meaning": "A thought experiment in decision theory where a superintelligent being presents two boxes: Box A containing $1,000 and Box B containing either $1,000,000 or nothing, based on a prediction of your choice. If the predictor already guessed you would take both boxes, Box B is empty; if it guessed you would take only Box B, it contains the million.",
-      "example": "Trying to figure out if I should prep for the interview or just wing it feels like absolute Newcomb s Paradox.",
-      "context": "Used in deep late-night chats or tech podcasts when discussing free will versus determinism. Not rude, just nerdy.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "newcomb-s-paradox"
+      "id": "jit"
     },
     {
       "type": "meme",
-      "term": "Is This A Pigeon",
-      "meaning": "A meme format featuring an anime character pointing at a butterfly and asking 'Is this a pigeon?', used to represent profound misunderstanding or misidentification of simple concepts.",
-      "example": "Me looking at basic HTML code and asking my developer friend 'Is this a pigeon?'",
-      "context": "A classic internet template used across meme pages for tech and life fails.",
-      "tone": "playful",
+      "term": "Brother Ew",
+      "meaning": "A viral audio and reaction meme originating from a clip of a girl looking at something repulsive and saying 'Brother, ew, what's that, brother?'.",
+      "example": "Seeing my friend put ketchup on biryani made me pull out a genuine 'brother, ew'.",
+      "context": "Used universally in reels and group chats to express extreme disgust at something cursed or weird.",
+      "tone": "mocking",
       "nsfw": false,
-      "id": "is-this-a-pigeon"
+      "id": "brother-ew"
     },
     {
       "type": "slang",
-      "term": "Scene Kya Hai",
-      "meaning": "A Hindi phrase translating to 'What is the scene?', used to ask what the plan is or what gossip is currently happening.",
-      "example": "Yo, scene kya hai for tonight? Are we heading out or staying in?",
-      "context": "Universal college and young adult slang in India when organizing hangouts. Never rude.",
+      "term": "Looksmax",
+      "meaning": "Maximizing one's physical attractiveness through gym workouts, skincare, jawline exercises, and styling.",
+      "example": "He's been on a rigorous looksmax journey for the last six months and the glow-up is crazy.",
+      "context": "Massive on fitness and TikTok culture. It's often used ironically among friends but taken seriously by fitness subcultures.",
       "tone": "casual",
       "nsfw": false,
-      "id": "scene-kya-hai"
+      "id": "looksmax"
+    },
+    {
+      "type": "slang",
+      "term": "Situationship",
+      "meaning": "A romantic/sexual relationship without labels or commitment.",
+      "example": "We've been talking for 6 months but it's just a situationship.",
+      "tone": "casual",
+      "context": "Describing a confusing 'more than friends, less than partners' thing.",
+      "id": "situationship",
+      "nsfw": false
     },
     {
       "type": "psych",
-      "term": "Fundamental Attribution Error",
-      "meaning": "The tendency for people to overemphasize personality-based explanations for behaviors observed in others while underemphasizing situational explanations.",
-      "example": "When he cut me off in traffic, I assumed he was a jerk, but when I cut someone off, I was just running late. Classic fundamental attribution error.",
-      "context": "Used in self-help reels and psychological commentary. Makes you sound smart.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "fundamental-attribution-error"
+      "term": "Polyamory",
+      "meaning": "Having multiple romantic relationships at the same time with the knowledge and consent of everyone involved.",
+      "example": "They're polyamorous: both have other partners and everyone knows.",
+      "tone": "serious",
+      "context": "Different from cheating: the key is consent and honesty. Often debated on podcasts.",
+      "id": "polyamory",
+      "nsfw": false
     },
     {
       "type": "acronym",
-      "term": "SNAFU",
-      "meaning": "Situation Normal: All Fucked Up; military slang for a situation where chaos and disorder are the expected norm.",
-      "example": "The servers crashed right during product launch, but honestly, total SNAFU as usual.",
-      "context": "Used in office settings or tech podcasts when operations fail in a predictable way.",
-      "tone": "casual",
-      "nsfw": true,
-      "id": "snafu"
+      "term": "PCOS",
+      "meaning": "Polycystic Ovary Syndrome: a hormonal condition causing irregular periods, acne, weight gain, excess hair growth and sometimes fertility issues.",
+      "example": "She was diagnosed with PCOS and manages it with diet and exercise.",
+      "tone": "serious",
+      "context": "Very common (roughly 1 in 5 Indian women). Never joke about someone's weight because of it.",
+      "id": "pcos",
+      "nsfw": false
+    },
+    {
+      "type": "paradox",
+      "term": "Schrödinger's ___",
+      "meaning": "From the cat that's 'both alive and dead' until observed; anything in two states until checked.",
+      "example": "Schrödinger's exam result: I've both passed and failed until I open the portal.",
+      "tone": "playful",
+      "context": "Joke format for uncertain outcomes.",
+      "id": "schr-dinger-s",
+      "nsfw": false
+    },
+    {
+      "type": "meme",
+      "term": "Mewing / Looksmaxxing",
+      "meaning": "Mewing: tongue-posture trick for a sharper jaw. Looksmaxxing: obsessively optimising your looks.",
+      "example": "Can't talk right now, I'm mewing (finger over lips).",
+      "tone": "mocking",
+      "context": "Teen looks culture; the 'shh I'm mewing' gesture is a meme.",
+      "id": "mewing-looksmaxxing",
+      "nsfw": false
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Prime Minister Narendra Modi and Defence Minister Rajnath Singh will attend the IAF 94th Anniversary air show in Varanasi.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/india/iaf-94th-anniversary-pm-modi-rajnath-singh-to-attend-wings-over-ganges-air-show-in-varanasi-today-11792900063661.html"
-      },
-      {
-        "text": "Andhra Pradesh is bracing for a severe cyclonic storm with the IMD issuing red alerts across multiple districts.",
+        "text": "Cyclone Arnab is expected to cross the Andhra Pradesh coast by October 28, prompting red alerts and extensive preparations across coastal states.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/andhra-pradesh/andhra-pradesh-braces-for-very-severe-cyclonic-storm-landfall-likely-between-bapatla-and-vizag-on-october-28/article71621095.ece"
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-andhra-pradesh-odisha-live-updates-imd-weather-forecast-rain-warnings-bay-of-bengal-october-26-2026/article71625447.ece"
       },
       {
-        "text": "Operation Trident by security forces dealt a major blow to drug cartels operating across Assam, Manipur, and Mizoram.",
+        "text": "The Bharatiya Janata Party has announced nationwide protests in response to recent political remarks made by Congress leaders regarding the Prime Minister.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/amit-shah-hails-another-lethal-blow-as-operation-trident-strikes-drug-cartels-across-assam-manipur-mizoram-101792900242489.html"
+        "url": "https://www.hindustantimes.com/india-news/anti-sir-protest-live-updates-delhi-bjp-congress-kharge-modi-cjp-dipke-das-ranka-neha-bora-gyanesh-kumar-rahul-gandhi-101792981940731.html"
       },
       {
-        "text": "India criticized Pakistan at the UN for its poor minority rights record, urging Islamabad to prioritize citizen welfare.",
+        "text": "Anti-drug enforcement raids in the Northeast have successfully uncovered illicit drug syndicates and deals valued at approximately Rs 270 crore.",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/prioritise-welfare-over-military-directives-india-raps-pak-on-minority-rights-at-un/articleshow/135180093.cms"
+        "url": "https://timesofindia.indiatimes.com/india/raids-on-ne-drug-cartels-reveal-illicit-deals-worth-rs-270cr/articleshow/135199368.cms"
       },
       {
-        "text": "Manipur plans to form a committee representing all 36 communities to foster peace and unity in the state.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/manipur/manipur-to-form-committee-representing-all-36-communities-for-unity-yumnam-khemchand/article71622464.ece"
+        "text": "The Election Commission has declined to share software details under the Right to Information Act, citing trade secrets and intellectual property rights.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/ec-refuses-to-give-details-of-sir-software-cites-trade-secrets-ipr/articleshow/135197575.cms"
       },
       {
-        "text": "AU Small Finance Bank and IDFC First Bank reported significant jumps in their net profits for the second quarter.",
+        "text": "IndiGo and Air India are planning to transition several international flight operations to the Navi Mumbai International Airport ahead of local terminal redevelopment.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/au-small-finance-bank-q2-profit-jumps-53-to-858-crore/article71621133.ece"
+        "url": "https://www.thehindu.com/business/Industry/indigo-to-shift-12-daily-international-departures-from-mumbais-csmia-to-navi-mumbai-airport-from-february/article71623062.ece"
       },
       {
-        "text": "The CBI filed an FIR against IL&FS Energy Development Company and its top executives in a 212 crore rupee bank loan fraud case.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/cbi-files-fir-against-ilfs-energy-top-execs-in-rs-212cr-canara-bank-loan-fraud-case/articleshow/135177586.cms"
+        "text": "The first batch of over 18,000 Agniveers is scheduled to complete its four-year tenure by December 31, shifting focus toward post-service career opportunities.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/first-batch-of-18k-agniveers-set-to-leave-forces-by-dec-31-focus-now-on-second-career-opportunities-101792953993653.html"
       },
       {
-        "text": "External Affairs Minister S Jaishankar stated that restoring peace along the India-China border is essential for bilateral ties.",
+        "text": "NCERT has introduced a formal artificial intelligence module for classes 9 to 12, developed in collaboration with faculty members from premier technology institutes.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/handson-learning-how-ncert-s-ai-module-uses-real-life-examples-classroom-activities-to-teach-classes-9-to-12-101792981066677.html"
+      },
+      {
+        "text": "The Bihar education department has partnered with multiple IT firms to provide specialised artificial intelligence training to government school teachers.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/world-news/issues-will-remain-between-big-neighbours-jaishankar-on-india-china-ties-12223570#publisher=newsstand"
-      },
-      {
-        "text": "The Road Ministry sought a forensic audit of its digital portals following a reported vehicle data leak.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/road-ministry-seeks-forensic-audit-of-its-portals-after-vehicle-data-leak/article71620455.ece"
+        "url": "https://www.ndtv.com/education/bihar-partners-with-11-it-firms-to-train-government-school-teachers-in-artificial-intelligence-12235360#publisher=newsstand"
       }
     ],
     "world": [
       {
-        "text": "Almost 1,000 people were arrested following violent clashes during mass protests across France and other European cities over living costs.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynd587ynzo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Brazil is holding a crucial presidential runoff election on Sunday, with nearly 159 million voters deciding between leftwing incumbent Luiz Inacio Lula da Silva and his rival.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/24/lula-da-silva-supporters-rally-eve-brazil-election-runoff-bolsonaro"
-      },
-      {
-        "text": "Typhoon Champi struck Taiwan, killing one person and injuring over 500 others before tracking toward China.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/24/typhoon-champi-kills-one-and-injures-more-than-500-in-taiwan-as-it-heads-to-china"
-      },
-      {
-        "text": "Bulgarian voters headed to the polls to elect a new president amid regional security concerns stemming from the war in Ukraine.",
+        "text": "Brazilian President Luiz Inacio Lula da Silva has won an unprecedented fourth term in a historic election runoff.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/25/bulgarians-vote-for-president-in-shadow-of-russias-war-in-ukraine?traffic_source=rss"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/10/26/lula-thanks-brazils-youth-for-historic-election-win?traffic_source=rss"
       },
       {
-        "text": "Indonesia has reduced its pipeline natural gas exports to Singapore from Natuna and Sumatra by approximately nine percent.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/indonesia-cuts-pipeline-gas-exports-to-singapore-by-about-9/article71621477.ece"
+        "text": "Serbia's veteran populist leader Aleksandar Vucic conceded defeat following a student-led protest movement and parliamentary vote.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "SpaceX restricted Ukraine's access to its Starlink satellite network after Elon Musk accused Kyiv of violating terms of service for military operations.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cvx28ljp8n4xo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Severe storms named Boelo and Austen swept across northern Europe, leaving a man dead in Scotland and cutting power to 150,000 homes.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/26/two-storms-slam-northern-europe-cut-power-to-150000-homes?traffic_source=rss"
+      },
+      {
+        "text": "Israel announced the closure of West Bank crossings and restricted Palestinian worker movement ahead of a pivotal national election.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "8wY2hsIosFM",
-      "title": "Just-in-time and Kanban",
-      "channel": "POM ETH Zurich",
-      "category": "business",
-      "url": "https://www.youtube.com/watch?v=8wY2hsIosFM",
-      "thumbnail": "https://i.ytimg.com/vi/8wY2hsIosFM/hqdefault.jpg",
+      "id": "PRg5RNU_JLk",
+      "title": "How do self-driving cars “see”? - Sajan Saini",
+      "channel": "TED-Ed",
+      "category": "ai",
+      "url": "https://www.youtube.com/watch?v=PRg5RNU_JLk",
+      "thumbnail": "https://i.ytimg.com/vi/PRg5RNU_JLk/hqdefault.jpg",
       "published": "",
-      "learn": "How just-in-time manufacturing and kanban systems eliminate costly warehouse inventory waste",
-      "minutes": 8
+      "learn": "How sensors and machine learning algorithms map environments for autonomous vehicles.",
+      "minutes": 5
     },
     "more": [
       {
-        "id": "MVFJPjBrofk",
-        "title": "The Battle of Plassey | From Trade to Territory | Class 8 History",
-        "channel": "Magnet Brains",
+        "id": "Z5nQ4xea9ts",
+        "title": "Samvidhaan | Making of the Indian Constitution | GS History by Aadesh",
+        "channel": "GS History by Aadesh Singh",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=MVFJPjBrofk",
-        "thumbnail": "https://i.ytimg.com/vi/MVFJPjBrofk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Z5nQ4xea9ts",
+        "thumbnail": "https://i.ytimg.com/vi/Z5nQ4xea9ts/hqdefault.jpg",
         "published": "",
-        "learn": "How betrayal and treaties enabled the East India Company to colonize India",
-        "minutes": 17
-      },
-      {
-        "id": "gzTYbl2Kwuk",
-        "title": "Payment Processing Credit/Debit Cards (Authorization, Clearing and Settlement Basics)",
-        "channel": "@NurtureLearning",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=gzTYbl2Kwuk",
-        "thumbnail": "https://i.ytimg.com/vi/gzTYbl2Kwuk/hqdefault.jpg",
-        "published": "",
-        "learn": "How card payments move through authorization, clearing, and settlement behind the scenes",
-        "minutes": 8
-      },
-      {
-        "id": "FU_YFpfDqqA",
-        "title": "Why The First Computers Were Made Out Of Light Bulbs",
-        "channel": "Veritasium",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=FU_YFpfDqqA",
-        "thumbnail": "https://i.ytimg.com/vi/FU_YFpfDqqA/hqdefault.jpg",
-        "published": "",
-        "learn": "How early computers evolved from fragile vacuum tubes to modern silicon chips",
-        "minutes": 18
-      },
-      {
-        "id": "Z-zNHHpXoMM",
-        "title": "How to Study for Exams - Spaced Repetition | Evidence-based revision tips",
-        "channel": "Ali Abdaal",
-        "category": "mind",
-        "url": "https://www.youtube.com/watch?v=Z-zNHHpXoMM",
-        "thumbnail": "https://i.ytimg.com/vi/Z-zNHHpXoMM/hqdefault.jpg",
-        "published": "",
-        "learn": "How spaced repetition and active recall permanently lock facts into memory",
-        "minutes": 26
-      },
-      {
-        "id": "NKEhdsnKKHs",
-        "title": "How to Argue - Philosophical Reasoning: Crash Course Philosophy #2",
-        "channel": "CrashCourse",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=NKEhdsnKKHs",
-        "thumbnail": "https://i.ytimg.com/vi/NKEhdsnKKHs/hqdefault.jpg",
-        "published": "",
-        "learn": "How to distinguish deductive and inductive arguments to test if logic holds",
-        "minutes": 9
-      },
-      {
-        "id": "TEI0sVYKtg8",
-        "title": "Ibn Battuta - The Great Traveler - Extra History - Part 1",
-        "channel": "Extra History",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=TEI0sVYKtg8",
-        "thumbnail": "https://i.ytimg.com/vi/TEI0sVYKtg8/hqdefault.jpg",
-        "published": "",
-        "learn": "How Ibn Battuta completed a legendary thirty-year medieval journey across the world",
-        "minutes": 8
-      },
-      {
-        "id": "4xIQGbYur9Q",
-        "title": "The Life and Death of Stars: White Dwarfs, Supernovae, Neutron Stars, and Black Holes",
-        "channel": "Professor Dave Explains",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=4xIQGbYur9Q",
-        "thumbnail": "https://i.ytimg.com/vi/4xIQGbYur9Q/hqdefault.jpg",
-        "published": "",
-        "learn": "How nuclear fusion inside dying stars forges every element in the universe",
+        "learn": "How the Constituent Assembly drafted India's foundational laws and governance framework.",
         "minutes": 16
       },
       {
-        "id": "dytUxaBbrRA",
-        "title": "Harsh & Bassi Unleashed | Crowd Work | Standup Comedy",
-        "channel": "Harsh gujral",
+        "id": "0M2sIpD9t4Q",
+        "title": "Day Trading - Why You'll Almost Certainly Fail",
+        "channel": "Coffeezilla",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=0M2sIpD9t4Q",
+        "thumbnail": "https://i.ytimg.com/vi/0M2sIpD9t4Q/hqdefault.jpg",
+        "published": "",
+        "learn": "Why day trading systems are statistically rigged to drain personal capital.",
+        "minutes": 10
+      },
+      {
+        "id": "PjVVY_d3hIQ",
+        "title": "The Genius Idea Behind Free UPI Payments",
+        "channel": "Insights by Apoorv",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=PjVVY_d3hIQ",
+        "thumbnail": "https://i.ytimg.com/vi/PjVVY_d3hIQ/hqdefault.jpg",
+        "published": "",
+        "learn": "The architecture and economic incentives enabling instant, zero-fee digital transfers.",
+        "minutes": 19
+      },
+      {
+        "id": "jUF9sY4HvxY",
+        "title": "A hostage negotiator on how to resolve conflict | Karleen Savage | TEDxValparaisoUniversity",
+        "channel": "TEDx Talks",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=jUF9sY4HvxY",
+        "thumbnail": "https://i.ytimg.com/vi/jUF9sY4HvxY/hqdefault.jpg",
+        "published": "",
+        "learn": "Tactics from crisis negotiation to de-escalate high-stakes emotional standoffs.",
+        "minutes": 10
+      },
+      {
+        "id": "0VyyWklwpBE",
+        "title": "The Art of Letting Go - The Philosophy of the Buddha",
+        "channel": "Pursuit of Wonder",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=0VyyWklwpBE",
+        "thumbnail": "https://i.ytimg.com/vi/0VyyWklwpBE/hqdefault.jpg",
+        "published": "",
+        "learn": "How releasing mental attachment to outcomes ends psychological suffering.",
+        "minutes": 16
+      },
+      {
+        "id": "szxPar0BcMo",
+        "title": "Wait For It...The Mongols!: Crash Course World History #17",
+        "channel": "CrashCourse",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=szxPar0BcMo",
+        "thumbnail": "https://i.ytimg.com/vi/szxPar0BcMo/hqdefault.jpg",
+        "published": "",
+        "learn": "How nomadic tribes united to build history's largest contiguous land empire.",
+        "minutes": 11
+      },
+      {
+        "id": "X9ZZ6tcxArI",
+        "title": "The Heart, Part 1 - Under Pressure: Crash Course Anatomy & Physiology #25",
+        "channel": "CrashCourse",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=X9ZZ6tcxArI",
+        "thumbnail": "https://i.ytimg.com/vi/X9ZZ6tcxArI/hqdefault.jpg",
+        "published": "",
+        "learn": "The pressure gradients and electrical impulses driving continuous blood circulation.",
+        "minutes": 10
+      },
+      {
+        "id": "TZgyeEE2hx4",
+        "title": "MIDDLE CLASS RESTAURANT PROBLEMS : STAND UP COMEDY -Kenny Sebastian",
+        "channel": "Kenny Sebastian",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=dytUxaBbrRA",
-        "thumbnail": "https://i.ytimg.com/vi/dytUxaBbrRA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TZgyeEE2hx4",
+        "thumbnail": "https://i.ytimg.com/vi/TZgyeEE2hx4/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 11
+        "minutes": 7
       }
     ]
   },
   "podcasts": [
     {
-      "id": "you-re-dead-to-me-new-the-hitler-diaries-scandal-from-the-history-podcast",
-      "title": "New: The Hitler Diaries Scandal (from The History Podcast)",
-      "show": "You're Dead to Me",
-      "category": "history",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pfnnhh.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0pg8srx",
-      "durationSec": 614,
+      "id": "stuff-you-should-know-selects-sacagawea-impressive-teen",
+      "title": "Selects: Sacagawea: Impressive Teen",
+      "show": "Stuff You Should Know",
+      "category": "science",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d1b2133-b0f6-4b85-b267-b4e4014c5b8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/selects-sacagawea-impressive-teen",
+      "durationSec": 2930,
       "startSec": null,
-      "why": "Uncover how a massive magazine published fake Hitler diaries and fooled the world."
+      "why": "Discover how a 16-year-old girl played a massive role in American history."
     },
     {
-      "id": "no-such-thing-as-a-fish-no-such-thing-as-going-to-spoiler-prison",
-      "title": "No Such Thing As Going To Spoiler Prison",
-      "show": "No Such Thing As A Fish",
-      "category": "science",
-      "audioUrl": "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8962255.mp3?modified=1791482358&sid=2399216&source=rss",
-      "link": "https://audioboom.com/posts/8962255",
-      "durationSec": 3428,
+      "id": "you-re-dead-to-me-the-iliad-and-odyssey-radio-edit",
+      "title": "The Iliad and Odyssey (Radio Edit)",
+      "show": "You're Dead to Me",
+      "category": "history",
+      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc7vlf.mp3",
+      "link": "http://www.bbc.co.uk/programmes/p0pc7rcm",
+      "durationSec": 1689,
       "startSec": null,
-      "why": "Comedians and experts share weird, hilarious facts that will blow your mind."
+      "why": "Unravel the epic tales of ancient Greece with hilarious historical experts."
     }
   ],
   "onThisDay": [
     {
-      "year": 1980,
-      "kind": "died",
-      "text": "Sahir Ludhianvi, the legendary poet and songwriter whose revolutionary and romantic verses shaped the golden era of Hindi cinema, died.",
-      "url": "https://en.wikipedia.org/wiki/Sahir_Ludhianvi",
-      "india": true
-    },
-    {
-      "year": 2003,
-      "kind": "died",
-      "text": "Pandurang Shastri Athavale, the renowned philosopher and social reformer who founded the Swadhyaya movement, died.",
-      "url": "https://en.wikipedia.org/wiki/Pandurang_Shastri_Athavale",
-      "india": true
-    },
-    {
-      "year": 2012,
-      "kind": "died",
-      "text": "Jaspal Bhatti, the iconic satirist and filmmaker who used comedy to critique Indian societal and political flaws, died.",
-      "url": "https://en.wikipedia.org/wiki/Jaspal_Bhatti",
-      "india": true
-    },
-    {
-      "year": 1950,
+      "year": 1947,
       "kind": "event",
-      "text": "The People's Volunteer Army engaged in battles against UN forces, marking China's major entry into the Korean War.",
-      "url": "https://en.wikipedia.org/wiki/People's_Volunteer_Army",
+      "text": "The Maharaja of Kashmir and Jammu signed the Instrument of Accession with India, sparking the first Indo-Pakistani War and laying the foundation for the ongoing Kashmir conflict.",
+      "url": "https://en.wikipedia.org/wiki/Partition_of_India",
+      "india": true
+    },
+    {
+      "year": 1890,
+      "kind": "born",
+      "text": "Ganesh Shankar Vidyarthi, a fearless Indian journalist and freedom fighter, was born to champion nationalist journalism and communal harmony.",
+      "url": "https://en.wikipedia.org/wiki/Ganesh_Shankar_Vidyarthi",
+      "india": true
+    },
+    {
+      "year": 1994,
+      "kind": "event",
+      "text": "Israel and Jordan signed a historic peace treaty that settled bilateral relations and prohibited either nation from allowing its territory to be used for third-party military strikes.",
+      "url": "https://en.wikipedia.org/wiki/Israel%E2%80%93Jordan_peace_treaty",
       "india": false
     },
     {
-      "year": 1415,
+      "year": 1977,
       "kind": "event",
-      "text": "The English army achieved a decisive and unexpected victory over the French cavalry at the Battle of Agincourt during the Hundred Years' War.",
-      "url": "https://en.wikipedia.org/wiki/Hundred_Years'_War",
+      "text": "Somali hospital cook Ali Maow Maalin began showing smallpox symptoms, marking him as the last person in history to contract the deadly disease naturally.",
+      "url": "https://en.wikipedia.org/wiki/Ali_Maow_Maalin",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Jio Platforms IPO has become the largest subscribed issue, drawing record bids worth Rs 7.4 lakh crore from investors.",
-      "why": "Massive financial milestone making waves across the markets.",
-      "url": "https://www.thehindu.com/incoming/jio-platforms-ipo-turns-largest-subscribed-issue-investors-bid-over-205-timeson-day-3/article71616849.ece",
-      "source": "The Hindu"
+      "text": "MLB brought baseball to India with a special promotional event held in Mumbai.",
+      "why": "Unusual crossover sport event grabbing instant attention.",
+      "url": "https://www.reuters.com/sports/cricket/world-series-rematch-indian-edition-yankees-beat-dodgers-mumbai-event-2026-10-25/",
+      "source": "Reuters"
     },
     {
-      "text": "Pawan Singh issued an apology, triggering a scathing response from his wife Jyoti Singh over social media.",
-      "why": "Messy celebrity relationship drama everyone is talking about.",
-      "url": "https://www.aajtak.in/entertainment/bhojpuri/photo/akshara-singh-celebrate-vrindavan-utsav-preacher-indresh-upadhyay-b-praak-brahmakumaris-bk-shivani-pawan-singh-tmovb-2679274-2026-10-24",
-      "source": "AajTak"
+      "text": "Unitree's newly unveiled humanoid robot stumbled awkwardly during a live demonstration.",
+      "why": "Hilarious robot fail driving viral shares.",
+      "url": "https://www.globaltimes.cn/page/202610/1372914.shtml",
+      "source": "Global Times"
     },
     {
-      "text": "Vijay Deverakonda and Rashmika Mandanna's film 'Ranabaali' is racing towards the Rs 50 crore mark at the box office.",
-      "why": "Big star power driving heavy weekend box office chatter.",
-      "url": "https://www.ndtv.com/entertainment/ranabaali-box-office-collection-day-6-vijay-deverakonda-rashmika-mandanna-film-to-cross-rs-50-crore-mark-in-india-12218142",
-      "source": "NDTV"
+      "text": "Thunder player Jalen Williams suffered a gruesome leg injury, leaving his teammate in tears.",
+      "why": "Shocking sports injury creating massive emotional wave.",
+      "url": "https://www.espn.in/nba/story/_/id/50283862/thunder-g-jalen-williams-taken-significant-injury",
+      "source": "ESPN India"
     },
     {
-      "text": "Elon Musk admitted that SpaceX purposely restricted Ukraine's Starlink access during the war with Russia.",
-      "why": "Major geopolitical controversy involving tech and wartime communications.",
-      "url": "https://www.reddit.com/r/technology/comments/1xeoqd6/elon_musk_admits_spacex_purposely_restricted/",
-      "source": "r/technology"
-    },
-    {
-      "text": "Apple's new iPhone Duo reportedly failed JerryRigEverything's durability test.",
-      "why": "Classic tech stress-test failure sparking viral memes and debate.",
-      "url": "https://www.reddit.com/r/technology/comments/1xe95m4/apples_iphone_duo_fails_jerryrigeverythings/",
-      "source": "r/technology"
-    },
-    {
-      "text": "Kerala Governor Om Prakash Mathur's 'veg-only kitchen' order on his first day in office has sparked a massive political row.",
-      "why": "Culturally sensitive political move igniting heated online debates.",
-      "url": "https://www.reddit.com/r/india/comments/1xe07ot/kerala_governor_om_prakash_mathurs_vegonly/",
+      "text": "A 55-year-old man was killed in Kochi after a judge's minor son rammed a luxury car into a scooter.",
+      "why": "Massive outrage over alleged VIP impunity.",
+      "url": "https://www.reddit.com/r/india/comments/1xf35wf/55yearold_man_killed_as_judges_minor_son_rams/",
       "source": "r/india"
+    },
+    {
+      "text": "Raj Thackeray reportedly deleted a Modi-Adani documentary following a request from the Mumbai Police chief.",
+      "why": "Heavy political censorship debate sparking fierce online discussion.",
+      "url": "https://www.reddit.com/r/india/comments/1xeysar/raj_thackeray_deletes_pm_modiadani_documentary/",
+      "source": "r/india"
+    },
+    {
+      "text": "Cybersecurity bounty hunters revealed that Samsung and LG smart TVs use AI to log audio and record screenshots for ads.",
+      "why": "Terrifying privacy invasion meme material.",
+      "url": "https://www.reddit.com/r/technology/comments/1xf03qh/cybersecurity_bounty_hunter_says_samsung_tvs_use/",
+      "source": "r/technology"
     }
   ]
 }

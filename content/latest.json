@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "date": "2026-10-28",
-  "generatedAt": "2026-10-28T03:38:26+00:00",
+  "generatedAt": "2026-10-28T05:46:36+00:00",
   "words": [
     {
       "word": "Sumptuous",
@@ -161,270 +161,323 @@
   "news": {
     "india": [
       {
-        "text": "Cyclone Arnab has made landfall along the Andhra Pradesh coast, bringing heavy rain and winds up to 140 kmph.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/watch-high-tides-uprooted-trees-as-cyclone-arnab-makes-landfall-along-andhra-coast/articleshow/135249584.cms"
+        "text": "Cyclone Arnab crossed the Andhra Pradesh coast, causing heavy rains, uprooted trees, and waterlogging, though no loss of life was initially reported.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
       },
       {
-        "text": "The Supreme Court ruled that the UAPA does not bar bail for all foreigners, clarifying that illegal entry is the key factor.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/uapa-does-not-bar-bail-for-all-foreigners-illegal-entry-is-key-rules-sc-101793155752385.html"
+        "text": "Jio Platforms shares surged 21% on their Mumbai debut, valuing the company at $108.3 billion following a record $3.2 billion IPO.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/jio-lists-at-21-premium-on-debut-after-record-3-2-billion-india-ipo-11793162179725.html"
       },
       {
-        "text": "Reserve Bank of India Governor urged state finance secretaries to adopt prudent borrowing strategies during a recent conference.",
+        "text": "The BSE Sensex dropped over 600 points and the Nifty fell 146 points, dragged down by losses in IT stocks and rising crude oil prices.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/markets/sensex-drops-over-600-points-dragged-by-it-stocks-rising-crude-oil-prices/article71634407.ece"
+      },
+      {
+        "text": "The Madras High Court ruled that non-Hindus wearing religious markers cannot enter Agamic temple premises without formally affirming their reverence for the deity.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/non-hindus-wearing-religious-markers-cant-enter-agamic-temples-without-affirming-reverence-madras-high-court-12246385#publisher=newsstand"
+      },
+      {
+        "text": "Delhi introduced an online liquor booking system via a new app for 208 shops, though home delivery remains unavailable and orders require a 48-hour collection window.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/delhi-news/delhi-gets-online-liquor-booking-at-208-shops-but-no-home-delivery-12246495#publisher=newsstand"
+      },
+      {
+        "text": "The Indian government is reportedly examining US-style frontier artificial intelligence safeguards as officials prepare new legislation to address systemic risks.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/artificial-intelligence/india-weighs-us-style-frontier-ai-safeguards-as-government-prepares-new-law-12246199#publisher=newsstand"
+      },
+      {
+        "text": "The Reserve Bank of India governor urged state governments to adopt prudent borrowing strategies during the conference of State Finance Secretaries.",
         "source": "The Hindu Business",
         "url": "https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece"
       },
       {
-        "text": "Defence Minister Rajnath Singh is set to push for deeper defence ties at the ASEAN defence ministers' meeting in the Philippines.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/rajnath-singh-to-push-for-deeper-defence-ties-at-asean-defence-ministers-meet-in-philippines-101793154758101.html"
-      },
-      {
-        "text": "Prime Minister Narendra Modi emphasized that science is successful only when its innovations directly benefit society and land.",
+        "text": "Delhi's air quality slipped into the poor category with a 24-hour average Air Quality Index reading of 232.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/science-is-successful-only-when-it-benefits-society-pm-modi/article71632091.ece"
+        "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece"
       },
       {
-        "text": "Law enforcement arrested two individuals in Raxaul for allegedly helping Pakistani operatives activate Indian WhatsApp accounts.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/two-held-in-raxaul-for-allegedly-helping-pakistani-operatives-activate-indian-whatsapp-accounts-101793121654697.html"
-      },
-      {
-        "text": "Larsen & Toubro reported a 33 percent rise in Q2 profit to ₹5,202 crore alongside a growing consolidated order book.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/lt-q2-pat-rises-33-to-5202-crore-revenue-up-16/article71632469.ece"
-      },
-      {
-        "text": "A new report highlighted that India is among the top countries with high heatwave exposure risks for infants and older adults.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/sci-tech/energy-and-environment/india-among-top-countries-with-highest-heatwave-exposure-for-infants-older-adults-report/article71634194.ece"
-      },
-      {
-        "text": "The Centre has directed airlines to ensure qualified crew and realistic schedules to manage operations efficiently amid fog conditions.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/centre-tells-airlines-to-ensure-qualified-crew-realistic-schedules-amid-fog-12246031#publisher=newsstand"
+        "text": "The central government dispatched a high-level investigative team to Madhya Pradesh following the death of a cheetah caused by firearm pellet injuries.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/centre-deputes-a-high-level-team-to-investigate-death-of-cheetah-caused-by-firearm-pellet-injuries-in-madhya-pradesh/articleshow/135252151.cms"
       }
     ],
     "world": [
       {
-        "text": "Prime Minister Benjamin Netanyahu's Likud party emerged as the largest force in Israel's parliamentary elections as exit polls showed a closely contested race.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/28/five-key-takeaways-from-israels-parliamentary-elections?traffic_source=rss"
-      },
-      {
-        "text": "Global stock markets rose as investors continued betting on artificial intelligence, following positive gains on Wall Street.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
-      },
-      {
-        "text": "A Sudanese army drone attack on a market killed more than 100 people, according to a local rights group.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/sudan-south-darfur-nyala-market-drone-attack-death-toll-injuries/article71634158.ece"
-      },
-      {
-        "text": "King Charles confirmed he will discuss the legacy of slavery with Commonwealth leaders at an upcoming summit.",
+        "text": "King Charles has confirmed he will discuss the legacy of slavery with Commonwealth leaders at an upcoming summit following renewed calls for reparation talks.",
         "source": "The Guardian",
         "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
       },
       {
-        "text": "Flávio Bolsonaro reportedly fled Brazil and headed to the United States after losing his senatorial seat and failing to hand over his passport.",
+        "text": "Israeli election exit polls show Prime Minister Benjamin Netanyahu's hard-right bloc running neck and neck with the opposition led by former military chief Gadi Eisenkot.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece"
+      },
+      {
+        "text": "Global stock markets rose as investors continued to bet heavily on artificial intelligence, following strong gains on Wall Street and in Asian markets.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
+      },
+      {
+        "text": "The United States military announced that an airstrike on a suspected drug-trafficking vessel in the eastern Pacific killed five people.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/27/flavio-bolsonaro-brazil-argentina-fled"
+        "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific"
+      },
+      {
+        "text": "Chinese stock markets have lost trillions of dollars in recent months as the intense race for artificial intelligence supremacy with the United States takes its toll.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "KETTtiprINU",
-      "title": "Compatibilism: Crash Course Philosophy #25",
+      "id": "17WiQ_tNld4",
+      "title": "Arguments Against Personal Identity: Crash Course Philosophy #20",
       "channel": "CrashCourse",
       "category": "philosophy",
-      "url": "https://www.youtube.com/watch?v=KETTtiprINU",
-      "thumbnail": "https://i.ytimg.com/vi/KETTtiprINU/hqdefault.jpg",
+      "url": "https://www.youtube.com/watch?v=17WiQ_tNld4",
+      "thumbnail": "https://i.ytimg.com/vi/17WiQ_tNld4/hqdefault.jpg",
       "published": "",
-      "learn": "How free will can logically exist within a strictly deterministic universe.",
-      "minutes": 8
+      "learn": "Why David Hume argued that the enduring self is merely a bundle of fleeting perceptions.",
+      "minutes": 9
     },
     "more": [
       {
-        "id": "2-5du2oVM5g",
-        "title": "FAMOUS Indian Food Dishes From 28 Indian States | Indian Cuisine | Street Food | Tripoto",
-        "channel": "Tripoto",
+        "id": "COxJUmf1udI",
+        "title": "Meet The Sari Weavers Keeping A 16th Century Craft Alive | Still Standing | Business Insider",
+        "channel": "Business Insider",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=2-5du2oVM5g",
-        "thumbnail": "https://i.ytimg.com/vi/2-5du2oVM5g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=COxJUmf1udI",
+        "thumbnail": "https://i.ytimg.com/vi/COxJUmf1udI/hqdefault.jpg",
         "published": "",
-        "learn": "How diverse regional flavors and street foods shaped authentic Indian culinary traditions.",
-        "minutes": 5
-      },
-      {
-        "id": "yoT76zITRx8",
-        "title": "Why do 90% of economists oppose rent control?",
-        "channel": "Money & Macro",
-        "category": "money",
-        "url": "https://www.youtube.com/watch?v=yoT76zITRx8",
-        "thumbnail": "https://i.ytimg.com/vi/yoT76zITRx8/hqdefault.jpg",
-        "published": "2026-08-04"
-      },
-      {
-        "id": "bkYx9R2k5pk",
-        "title": "Who Actually Pays For Credit Card Rewards?",
-        "channel": "CNBC",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=bkYx9R2k5pk",
-        "thumbnail": "https://i.ytimg.com/vi/bkYx9R2k5pk/hqdefault.jpg",
-        "published": "",
-        "learn": "Who actually funds lucrative credit card rewards through hidden merchant fees.",
-        "minutes": 17
-      },
-      {
-        "id": "OwS9aTE2Go4",
-        "title": "Transistors - The Invention That Changed The World",
-        "channel": "Real Engineering",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=OwS9aTE2Go4",
-        "thumbnail": "https://i.ytimg.com/vi/OwS9aTE2Go4/hqdefault.jpg",
-        "published": "",
-        "learn": "How a tiny semiconductor switch sparked the entire modern computing revolution.",
+        "learn": "How traditional artisans preserve centuries-old handloom weaving techniques amidst modern industrial shifts.",
         "minutes": 8
       },
       {
-        "id": "fbyIYXEu-nQ",
-        "title": "Conformity - Mind Field (Ep 2)",
-        "channel": "Vsauce",
+        "id": "PZd5tcGdQqc",
+        "title": "Why Japan industrialized before China",
+        "channel": "Money & Macro",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=PZd5tcGdQqc",
+        "thumbnail": "https://i.ytimg.com/vi/PZd5tcGdQqc/hqdefault.jpg",
+        "published": "2026-07-24"
+      },
+      {
+        "id": "ON-vFJbq1Vc",
+        "title": "Decoding ZARA's Billion Dollar Business STRATEGY : Fashion Business Case Study",
+        "channel": "Think School",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=ON-vFJbq1Vc",
+        "thumbnail": "https://i.ytimg.com/vi/ON-vFJbq1Vc/hqdefault.jpg",
+        "published": "",
+        "learn": "How Zara mastered ultra-fast supply chains to dominate the global fashion industry.",
+        "minutes": 14
+      },
+      {
+        "id": "KG2M4ttzBnY",
+        "title": "Punch Card Programming - Computerphile",
+        "channel": "Computerphile",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=KG2M4ttzBnY",
+        "thumbnail": "https://i.ytimg.com/vi/KG2M4ttzBnY/hqdefault.jpg",
+        "published": "",
+        "learn": "How physical punch cards enabled early mechanical data processing long before electronic computers.",
+        "minutes": 14
+      },
+      {
+        "id": "L-2Vv4fTsyQ",
+        "title": "The Mere Exposure Effect: The Science Behind Ads",
+        "channel": "Sprouts",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=fbyIYXEu-nQ",
-        "thumbnail": "https://i.ytimg.com/vi/fbyIYXEu-nQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=L-2Vv4fTsyQ",
+        "thumbnail": "https://i.ytimg.com/vi/L-2Vv4fTsyQ/hqdefault.jpg",
         "published": "",
-        "learn": "How intense social pressure forces people to deny their own senses.",
-        "minutes": 23
+        "learn": "Why familiarity breeds affection and how marketers exploit the mere exposure effect.",
+        "minutes": 5
       },
       {
-        "id": "CSYXCBqGcZo",
-        "title": "Secrets of the Voynich Manuscript",
-        "channel": "hochelaga",
+        "id": "nnhkcqeGtSI",
+        "title": "The Tunguska Event | A Short Documentary | Fascinating Horror",
+        "channel": "Fascinating Horror",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=CSYXCBqGcZo",
-        "thumbnail": "https://i.ytimg.com/vi/CSYXCBqGcZo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nnhkcqeGtSI",
+        "thumbnail": "https://i.ytimg.com/vi/nnhkcqeGtSI/hqdefault.jpg",
         "published": "",
-        "learn": "Why the bizarre centuries-old Voynich Manuscript remains completely undecoded today.",
-        "minutes": 33
+        "learn": "What caused the massive 1908 Siberian explosion that flattened millions of trees.",
+        "minutes": 8
       },
       {
-        "id": "YkS1U5lfSRw",
-        "title": "What is Impossible in Evolution?",
-        "channel": "Be Smart",
+        "id": "jJdLiKYKWzY",
+        "title": "Why Is (Almost) All Bioluminescence in the Ocean?",
+        "channel": "Real Science",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=YkS1U5lfSRw",
-        "thumbnail": "https://i.ytimg.com/vi/YkS1U5lfSRw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jJdLiKYKWzY",
+        "thumbnail": "https://i.ytimg.com/vi/jJdLiKYKWzY/hqdefault.jpg",
         "published": "",
-        "learn": "Why completely unrelated species independently evolve the exact same biological traits.",
-        "minutes": 20
+        "learn": "Why deep ocean creatures evolve to create their own chemical light.",
+        "minutes": 15
       },
       {
-        "id": "rkKZIMPecRA",
-        "title": "INDIA’S GOT LATENT S2 EP7 ft. Nawazuddin Siddiqui, Bhuvan Bam, Mukesh Chhabra, Kaustubh Agarwal",
+        "id": "eHTXQW58WhA",
+        "title": "INDIA’S GOT LATENT S2 EP1 ft. Alia Bhatt, Sharvari, Ashish Solanki",
         "channel": "Samay Raina",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=rkKZIMPecRA",
-        "thumbnail": "https://i.ytimg.com/vi/rkKZIMPecRA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eHTXQW58WhA",
+        "thumbnail": "https://i.ytimg.com/vi/eHTXQW58WhA/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 53
+        "minutes": 59
       }
     ]
   },
   "podcasts": [
     {
-      "id": "founders-438-james-garfield-s-extraordinary-rise",
-      "title": "#438 James Garfield's Extraordinary Rise",
-      "show": "Founders",
-      "category": "business",
-      "audioUrl": "https://traffic.megaphone.fm/DSLLC9614527488.mp3",
-      "link": "",
-      "durationSec": 2288,
+      "id": "paisa-vaisa-from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
+      "title": "From Salary to ₹10 Crore: What Has to Change? | Paisa Vaisa",
+      "show": "Paisa Vaisa",
+      "category": "money",
+      "audioUrl": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+      "link": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
+      "durationSec": 4002,
       "startSec": null,
-      "why": "Discover the wild, improbable true story of James Garfield's extraordinary rise to the presidency."
+      "why": "Discover the exact mindset and financial shifts needed to turn a salary into ten crores."
     },
     {
-      "id": "startalk-bose-einstein-condensate-collisions-the-physics-of-fire-tytyk",
-      "title": "Bose-Einstein Condensate, Collisions, The Physics of Fire –TYTYK",
-      "show": "StarTalk",
+      "id": "stuff-you-should-know-don-t-fear-the-grim-reaper",
+      "title": "(Don't Fear) The (Grim) Reaper",
+      "show": "Stuff You Should Know",
       "category": "science",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb&feed=4T39_jAj",
-      "link": "siriusxm.com",
-      "durationSec": 2521,
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/dont-fear-the-grim-reaper",
+      "durationSec": 2919,
       "startSec": null,
-      "why": "Explore the mind-bending physics of extreme cold, fire, and collisions with fun expert banter."
+      "why": "Explore the wild, surprising history of how different cultures imagined the Grim Reaper."
     }
   ],
   "onThisDay": [
     {
       "year": 1867,
       "kind": "born",
-      "text": "Sister Nivedita, a prominent disciple of Swami Vivekananda and an influential educator who championed Indian nationalism, was born.",
+      "text": "Sister Nivedita, an influential Irish-Indian social worker, author, and close disciple of Swami Vivekananda, was born, shaping early Indian nationalist education.",
       "url": "https://en.wikipedia.org/wiki/Sister_Nivedita",
       "india": true
     },
     {
       "year": 1627,
       "kind": "died",
-      "text": "Jahangir, the fourth Mughal Emperor known for his patronage of the arts and consolidation of the empire, died.",
+      "text": "Jahangir, the fourth Mughal Emperor of India known for his patronage of arts and justice, died, leaving a rich cultural legacy.",
       "url": "https://en.wikipedia.org/wiki/Jahangir",
+      "india": true
+    },
+    {
+      "year": 1955,
+      "kind": "born",
+      "text": "Indra Nooyi, the trailblazing Indian-American businesswoman and former CEO of PepsiCo who became a global corporate icon, was born.",
+      "url": "https://en.wikipedia.org/wiki/Indra_Nooyi",
       "india": true
     },
     {
       "year": 1886,
       "kind": "event",
-      "text": "The Statue of Liberty was officially dedicated in New York Harbor as a monumental gift celebrating freedom and democracy.",
+      "text": "The Statue of Liberty was dedicated in New York Harbor, becoming a globally recognized symbol of freedom and democracy.",
       "url": "https://en.wikipedia.org/wiki/New_York_Harbor",
       "india": false
     },
     {
-      "year": 312,
+      "year": 1928,
       "kind": "event",
-      "text": "Constantine the Great defeated Maxentius at the Battle of the Milvian Bridge, a turning point that led to his conversion and the rise of Christianity.",
-      "url": "https://en.wikipedia.org/wiki/Civil_wars_of_the_Tetrarchy",
+      "text": "Wage Rudolf Supratman introduced 'Indonesia Raya', which later became the national anthem of Indonesia during its struggle for independence.",
+      "url": "https://en.wikipedia.org/wiki/Wage_Rudolf_Supratman",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Shah Rukh Khan confirmed that his upcoming action movie 'King' is not postponed, releasing a new intense poster.",
-      "why": "Massive fan hype and constant delay rumors surrounding SRK's next.",
-      "url": "https://www.thehindu.com/entertainment/movies/king-shah-rukh-khan-exudes-intensity-in-new-poster-from-actioner/article71629923.ece",
-      "source": "The Hindu"
-    },
-    {
-      "text": "Jio Platforms is eyeing a strong stock-market debut with its grey market premium holding steady at 22 percent.",
-      "why": "Everyone is watching to see if it lives up to the massive IPO hype.",
-      "url": "https://www.telegraphindia.com/business/jio-ipo-grey-market-premium-signals-strong-debut-hopes-ahead-of-october-28-listing-prnt/cid/2186609",
-      "source": "Telegraph India"
-    },
-    {
-      "text": "Apple released iOS 27.2 with expanded Siri AI languages and fixes for over 160 security vulnerabilities.",
-      "why": "Tech enthusiasts rushing to update their phones immediately.",
-      "url": "https://www.apple.com/in/newsroom/2026/10/siri-ai-is-available-in-more-languages-starting-today/",
-      "source": "Apple"
-    },
-    {
-      "text": "A Taj Hotel guest in Agra was blacklisted after slapping a waiter, sparking viral outrage online.",
-      "why": "Pure internet anger over entitlement and mistreatment of service workers.",
-      "url": "https://www.reddit.com/r/india/comments/1xgj0ge/guest_at_taj_hotel_in_agra_blacklisted_for/",
+      "text": "Union Minister Piyush Goyal told Dutch business leaders that Indians want to work hard and never remind anyone about the weekend.",
+      "why": "Sparked massive online debates about toxic work culture.",
+      "url": "https://www.reddit.com/r/india/comments/1xhbz1m/indians_want_to_work_hard_nobody_in_india_will/",
       "source": "r/india"
     },
     {
-      "text": "Union Minister Nitin Gadkari dismissed criticism of E20 petrol as a paid campaign.",
-      "why": "Fuel policy debates and government pushback always trigger massive online arguments.",
-      "url": "https://www.chinimandi.com/union-minister-nitin-gadkari-terms-criticism-of-e20-petrol-a-paid-campaign-in-hindi/",
-      "source": "ChiniMandi"
+      "text": "Grand Theft Auto 6 download size has reportedly been revealed to be a massive 210 GB.",
+      "why": "Gamer shock over storage space requirements.",
+      "url": "https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/",
+      "source": "r/technology"
     },
     {
-      "text": "Major forecasters like the IMF, ADB, and World Bank have raised India's growth forecasts above 7 percent.",
-      "why": "Economic optimism dominating national discussions and news feeds.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xgpe2i/nearly_all_major_forecasters_including_the_imf/",
-      "source": "r/IndiaSpeaks"
+      "text": "An AI startup successfully hacked Anthropic in just 12 hours, gaining access to employee details and internal messages.",
+      "why": "Major cybersecurity panic regarding AI vulnerabilities.",
+      "url": "https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/",
+      "source": "r/technology"
+    },
+    {
+      "text": "A 19-month-old cheetah died of gunshot injuries with pellets extracted from its body in Madhya Pradesh's Kuno National Park.",
+      "why": "Outrage over wildlife security failures.",
+      "url": "https://www.reddit.com/r/india/comments/1xh18j5/19monthold_cheetah_dies_of_gunshot_injuries_in/",
+      "source": "r/india"
+    },
+    {
+      "text": "Reliance Industries shares slipped 2 percent amidst buzz around Jio Platforms IPO listing and upcoming board meetings.",
+      "why": "Big market moves affecting retail investors.",
+      "url": "https://m.economictimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-27-oct-2026/liveblog/135223135.cms",
+      "source": "The Economic Times"
     }
-  ]
+  ],
+  "read": {
+    "quote": {
+      "text": "And now that you don't have to be perfect, you can be good.",
+      "author": "John Steinbeck",
+      "book": "East of Eden"
+    },
+    "passage": {
+      "text": "Let all the strains of joy mingle in my last song—the joy that makes the earth flow over in the riotous excess of the grass, the joy that sets the twin brothers, life and death, dancing over the wide world, the joy that sweeps in with the tempest, shaking and waking all life with laughter, the joy that sits still with its tears on the open red lotus of pain, and the joy that throws everything it has upon the dust, and knows not a word.",
+      "book": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "context": "",
+      "source": "gutenberg",
+      "day": 1,
+      "days": 3
+    },
+    "weekBook": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+      "day": 1,
+      "ideas": [
+        {
+          "title": "Focus on systems instead of rigid goals",
+          "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+        },
+        {
+          "title": "Make your desired habits completely obvious",
+          "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+        },
+        {
+          "title": "Design your environment for better choices",
+          "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+        },
+        {
+          "title": "Harness the power of tiny improvements",
+          "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+        },
+        {
+          "title": "Pair new habits with actions you enjoy",
+          "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+        },
+        {
+          "title": "Reduce friction for positive daily behaviors",
+          "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+        },
+        {
+          "title": "Identity drives long term personal change",
+          "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+        }
+      ]
+    }
+  }
 }

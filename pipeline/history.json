@@ -737,7 +737,16 @@
   "fbyIYXEu-nQ",
   "CSYXCBqGcZo",
   "YkS1U5lfSRw",
-  "rkKZIMPecRA"
+  "rkKZIMPecRA",
+  "17WiQ_tNld4",
+  "COxJUmf1udI",
+  "PZd5tcGdQqc",
+  "ON-vFJbq1Vc",
+  "KG2M4ttzBnY",
+  "L-2Vv4fTsyQ",
+  "nnhkcqeGtSI",
+  "jJdLiKYKWzY",
+  "eHTXQW58WhA"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -807,7 +816,9 @@
   "https://traffic.megaphone.fm/VMP6448511514.mp3",
   "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8968358.mp3?modified=1792759089&sid=2399216&source=rss",
   "https://traffic.megaphone.fm/DSLLC9614527488.mp3",
-  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb&feed=4T39_jAj"
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb&feed=4T39_jAj",
+  "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1025,6 +1036,70 @@
   "The Asch conformity experiment: how social pressure makes people deny obvious truths",
   "Determinism vs compatibilism: how free will survives in a universe of cause and effect",
   "The Voynich Manuscript: the centuries-old encrypted book nobody can read",
-  "Convergent evolution: why completely unrelated animals evolved the exact same body parts"
- ]
+  "Convergent evolution: why completely unrelated animals evolved the exact same body parts",
+  "The traditional textile origins and weaving techniques of Handloom Sarees across India",
+  "Lifestyle inflation: why getting a salary raise somehow leaves you broke",
+  "How Zara's fast fashion supply chain works",
+  "How punch cards and mechanical calculators automated data processing before modern computers",
+  "The mere exposure effect: why we learn to like things just by seeing them often",
+  "The concept of identity and the self: David Hume and the bundle theory of the mind",
+  "The Tunguska event: the massive 1908 mysterious explosion in the Siberian wilderness",
+  "Bioluminescence: why and how animals in the deep ocean create their own light"
+ ],
+ "quotes": [
+  "And now that you don't have to be perfect, you can be good."
+ ],
+ "books": {
+  "current": {
+   "gutenberg": 7164,
+   "title": "Gitanjali",
+   "author": "Rabindranath Tagore",
+   "days": 3,
+   "days_planned": 3,
+   "days_used": 1,
+   "used": [
+    "Let all the strains of joy mingle in my last song—the joy th"
+   ]
+  },
+  "done": []
+ },
+ "weekbooks_done": [
+  "Atomic Habits"
+ ],
+ "weekbook": {
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "start": "2026-10-28",
+  "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+  "ideas": [
+   {
+    "title": "Focus on systems instead of rigid goals",
+    "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+   },
+   {
+    "title": "Make your desired habits completely obvious",
+    "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+   },
+   {
+    "title": "Design your environment for better choices",
+    "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+   },
+   {
+    "title": "Harness the power of tiny improvements",
+    "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+   },
+   {
+    "title": "Pair new habits with actions you enjoy",
+    "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+   },
+   {
+    "title": "Reduce friction for positive daily behaviors",
+    "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+   },
+   {
+    "title": "Identity drives long term personal change",
+    "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+   }
+  ]
+ }
 }

@@ -399,5 +399,175 @@
       "query": "Aakash Gupta stand up comedy",
       "channel": "Aakash Gupta"
     }
+  ],
+  "classics": [
+    {
+      "gutenberg": 2680,
+      "title": "Meditations",
+      "author": "Marcus Aurelius",
+      "days": 4
+    },
+    {
+      "gutenberg": 56075,
+      "title": "Seneca's Morals of a Happy Life",
+      "author": "Seneca",
+      "days": 3
+    },
+    {
+      "gutenberg": 10661,
+      "title": "Discourses and Enchiridion",
+      "author": "Epictetus",
+      "days": 3
+    },
+    {
+      "gutenberg": 7164,
+      "title": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "days": 3
+    },
+    {
+      "gutenberg": 7166,
+      "title": "The Home and the World",
+      "author": "Rabindranath Tagore",
+      "days": 2
+    },
+    {
+      "gutenberg": 58585,
+      "title": "The Prophet",
+      "author": "Kahlil Gibran",
+      "days": 4
+    },
+    {
+      "gutenberg": 2500,
+      "title": "Siddhartha",
+      "author": "Hermann Hesse",
+      "days": 3
+    },
+    {
+      "gutenberg": 1661,
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Arthur Conan Doyle",
+      "days": 2
+    },
+    {
+      "gutenberg": 2600,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "days": 3
+    },
+    {
+      "gutenberg": 2554,
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "days": 3
+    },
+    {
+      "gutenberg": 1342,
+      "title": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "days": 2
+    },
+    {
+      "gutenberg": 1232,
+      "title": "The Prince",
+      "author": "Niccolo Machiavelli",
+      "days": 3
+    },
+    {
+      "gutenberg": 132,
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "days": 3
+    },
+    {
+      "gutenberg": 4363,
+      "title": "Beyond Good and Evil",
+      "author": "Friedrich Nietzsche",
+      "days": 2
+    },
+    {
+      "gutenberg": 1998,
+      "title": "Thus Spake Zarathustra",
+      "author": "Friedrich Nietzsche",
+      "days": 2
+    },
+    {
+      "gutenberg": 205,
+      "title": "Walden",
+      "author": "Henry David Thoreau",
+      "days": 3
+    },
+    {
+      "gutenberg": 2944,
+      "title": "Essays: First Series (Self-Reliance)",
+      "author": "Ralph Waldo Emerson",
+      "days": 3
+    },
+    {
+      "gutenberg": 1497,
+      "title": "The Republic",
+      "author": "Plato",
+      "days": 2
+    },
+    {
+      "gutenberg": 3600,
+      "title": "Essays",
+      "author": "Michel de Montaigne",
+      "days": 2
+    },
+    {
+      "gutenberg": 5200,
+      "title": "Metamorphosis",
+      "author": "Franz Kafka",
+      "days": 1
+    },
+    {
+      "gutenberg": 64317,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "days": 2
+    },
+    {
+      "gutenberg": 174,
+      "title": "The Picture of Dorian Gray",
+      "author": "Oscar Wilde",
+      "days": 3
+    },
+    {
+      "gutenberg": 1400,
+      "title": "Great Expectations",
+      "author": "Charles Dickens",
+      "days": 2
+    },
+    {
+      "gutenberg": 5827,
+      "title": "The Problems of Philosophy",
+      "author": "Bertrand Russell",
+      "days": 2
+    },
+    {
+      "gutenberg": 98,
+      "title": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "days": 2
+    },
+    {
+      "gutenberg": 1260,
+      "title": "Jane Eyre",
+      "author": "Charlotte Bronte",
+      "days": 2
+    },
+    {
+      "gutenberg": 11,
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "days": 1
+    },
+    {
+      "gutenberg": 2701,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "days": 2
+    }
   ]
 }

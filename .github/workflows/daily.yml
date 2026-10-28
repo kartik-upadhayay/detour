@@ -41,6 +41,7 @@ jobs:
       - name: Build today's content
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GOOGLE_BOOKS_KEY: ${{ secrets.GOOGLE_BOOKS_KEY }}
         run: |
           for attempt in 1 2 3; do
             if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.skip_if_done }}" = "true" ]; then FLAGS="--skip-if-done"; else FLAGS=""; fi

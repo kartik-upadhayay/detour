@@ -31,6 +31,7 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import learn  # noqa: E402
 import trending  # noqa: E402
+import books  # noqa: E402
 
 ROOT = Path(__file__).resolve().parent.parent
 PIPE = ROOT / "pipeline"
@@ -600,6 +601,10 @@ def main() -> int:
             "podcasts": learn.build_podcasts(key, gemini, prompt, sources["podcasts"], hist, day.toordinal()),
             "onThisDay": build_on_this_day(key, day),
             "trending": trending.build_trending(key, gemini, prompt),
+            # Same-day reruns keep the day's reading (it advances the book rotation in history).
+            "read": prev["read"] if keep_cards and prev.get("read") else
+            books.build_read(key, gemini, prompt, hist, sources.get("classics", []), day,
+                             os.environ.get("GOOGLE_BOOKS_KEY") or None),
         }
 
     problems = validate(content)

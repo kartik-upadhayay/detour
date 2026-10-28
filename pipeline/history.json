@@ -240,7 +240,16 @@
   "derision",
   "trojan",
   "opulent",
-  "insidious"
+  "insidious",
+  "sumptuous",
+  "luminous",
+  "verve",
+  "stately",
+  "luscious",
+  "visage",
+  "sleek",
+  "lurid",
+  "vain"
  ],
  "loop": [
   "glazing",
@@ -447,7 +456,15 @@
   "main-character-syndrome",
   "iykyk",
   "butterfly-effect",
-  "it-s-giving"
+  "it-s-giving",
+  "spotlight-effect",
+  "grandfather-paradox",
+  "confirmation-bias",
+  "parable-of-the-broken-window",
+  "baader-meinhof-phenomenon",
+  "bip",
+  "erotomania",
+  "fro"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -711,7 +728,16 @@
   "SWlUKJIMge4",
   "8aq_gRfmjgY",
   "4HBuHX4-VU8",
-  "KBZfnt80s54"
+  "KBZfnt80s54",
+  "KETTtiprINU",
+  "2-5du2oVM5g",
+  "yoT76zITRx8",
+  "bkYx9R2k5pk",
+  "OwS9aTE2Go4",
+  "fbyIYXEu-nQ",
+  "CSYXCBqGcZo",
+  "YkS1U5lfSRw",
+  "rkKZIMPecRA"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -779,7 +805,9 @@
   "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/1d1b2133-b0f6-4b85-b267-b4e4014c5b8d/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
   "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pc7vlf.mp3",
   "https://traffic.megaphone.fm/VMP6448511514.mp3",
-  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8968358.mp3?modified=1792759089&sid=2399216&source=rss"
+  "https://pscrb.fm/rss/p/dts.podtrac.com/redirect.mp3/audioboom.com/posts/8968358.mp3?modified=1792759089&sid=2399216&source=rss",
+  "https://traffic.megaphone.fm/DSLLC9614527488.mp3",
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb&feed=4T39_jAj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -989,6 +1017,14 @@
   "Attachment styles in relationships",
   "Plato's allegory of the cave",
   "Napoleon's rise and fall",
-  "Why the sky is blue"
+  "Why the sky is blue",
+  "The fascinating evolution and regional origins of Indian street chaat culture",
+  "Impulse buying triggers: how checkout design and easy credit trap consumers",
+  "How credit card companies make money",
+  "The transistor revolution: how Bell Labs invented the tiny switch that powered the modern world",
+  "The Asch conformity experiment: how social pressure makes people deny obvious truths",
+  "Determinism vs compatibilism: how free will survives in a universe of cause and effect",
+  "The Voynich Manuscript: the centuries-old encrypted book nobody can read",
+  "Convergent evolution: why completely unrelated animals evolved the exact same body parts"
  ]
 }

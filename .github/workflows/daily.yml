@@ -38,6 +38,15 @@ jobs:
         with:
           python-version: "3.12"
 
+      # One query per run (1,000 free a day) so a bad or expired key shows up in the log.
+      - name: Check Google Books key
+        env:
+          GOOGLE_BOOKS_KEY: ${{ secrets.GOOGLE_BOOKS_KEY }}
+        run: |
+          [ -z "$GOOGLE_BOOKS_KEY" ] && { echo "google books key: not set (Open Library only)"; exit 0; }
+          code=$(curl -s -o /dev/null -w '%{http_code}' "https://www.googleapis.com/books/v1/volumes?q=intitle:meditations&maxResults=1&key=$GOOGLE_BOOKS_KEY")
+          echo "google books key: HTTP $code"
+
       - name: Build today's content
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}

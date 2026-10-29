@@ -1,0 +1,488 @@
+{
+  "schema": 1,
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T03:42:43+00:00",
+  "words": [
+    {
+      "word": "Garish",
+      "pos": "adjective",
+      "pronunciation": "ɡair-ish",
+      "meaning": "Excessively bright, showy, or in bad taste.",
+      "insteadOf": "too flashy",
+      "example": "His new graphic tee with neon graphics is a bit too garish for a formal presentation."
+    },
+    {
+      "word": "Ostentatious",
+      "pos": "adjective",
+      "pronunciation": "os-ten-tay-shus",
+      "meaning": "Designed to impress or attract notice in a vulgar or pretentious way.",
+      "insteadOf": "showy",
+      "example": "Bringing an expensive luxury car to our college fest felt unnecessarily ostentatious."
+    },
+    {
+      "word": "Modish",
+      "pos": "adjective",
+      "pronunciation": "moh-dish",
+      "meaning": "Conforming to what is currently popular and fashionable.",
+      "insteadOf": "trendy",
+      "example": "She always keeps her hostel room looking quite modish with minimalist fairy lights."
+    },
+    {
+      "word": "Mellifluous",
+      "pos": "adjective",
+      "pronunciation": "muh-lif-yoo-us",
+      "meaning": "Sweet or musical; pleasant to hear.",
+      "insteadOf": "nice-sounding",
+      "example": "The professor's mellifluous voice somehow kept us awake during the 8 AM lecture."
+    },
+    {
+      "word": "Genteel",
+      "pos": "adjective",
+      "pronunciation": "jen-teel",
+      "meaning": "Polite, refined, or respectable, sometimes overly so.",
+      "insteadOf": "classy",
+      "example": "My grandmother prefers a genteel evening sipping tea rather than loud parties."
+    },
+    {
+      "word": "Ornate",
+      "pos": "adjective",
+      "pronunciation": "or-nayt",
+      "meaning": "Made in an intricate shape or decorated with complex patterns.",
+      "insteadOf": "heavily decorated",
+      "example": "The temple architecture featured ornate carvings that left us all staring in awe."
+    },
+    {
+      "word": "Grandiose",
+      "pos": "adjective",
+      "pronunciation": "gran-dee-ohs",
+      "meaning": "Impressive and imposing in appearance or style, especially excessively so.",
+      "insteadOf": "overly grand",
+      "example": "He pitched grandiose startup ideas while we were still struggling to compile our code."
+    },
+    {
+      "word": "Grandiloquent",
+      "pos": "adjective",
+      "pronunciation": "gran-dil-uh-kwunt",
+      "meaning": "Pompous or extravagant in language, style, or manner.",
+      "insteadOf": "using fancy words",
+      "example": "Stop using grandiloquent language and just explain the bug simply."
+    },
+    {
+      "word": "Overwrought",
+      "pos": "adjective",
+      "pronunciation": "oh-ver-rawt",
+      "meaning": "Too elaborate or complicated in design or construction.",
+      "insteadOf": "overdone",
+      "example": "His UI design felt a bit overwrought, packed with too many unnecessary animations."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Clutch",
+      "meaning": "Successfully pulling off a difficult play or saving a hopeless situation in a game, often when playing alone against multiple opponents.",
+      "example": "Bro was in a 1v4 and actually clutched the round, absolute legend.",
+      "context": "Used in gaming and general sports or life situations when someone saves the day at the last second. Casual tone.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "clutch"
+    },
+    {
+      "type": "psych",
+      "term": "Flow state",
+      "meaning": "A mental state of complete immersion, focus, and energized involvement in an activity, common during intense gaming sessions.",
+      "example": "I hit absolute flow state during that boss fight and didn't even hear you call me.",
+      "context": "Used to describe being deeply in the zone, whether in gaming, coding, or studying. Serious or casual.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "flow-state"
+    },
+    {
+      "type": "acronym",
+      "term": "FPS",
+      "meaning": "Frames Per Second in gaming performance, or First-Person Shooter as a genre.",
+      "example": "My FPS dropped to twenty during the smoke grenade and I got instantly beamed.",
+      "context": "Standard gaming hardware and genre talk. Essential vocabulary for PC and console players.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "fps"
+    },
+    {
+      "type": "paradox",
+      "term": "Molyneux problem",
+      "meaning": "A philosophical thought experiment asking whether a person born blind who suddenly gains sight could instantly recognize objects they previously only knew by touch.",
+      "example": "Reading about the Molyneux problem on Wikipedia at 3 AM is a classic internet rabbit hole.",
+      "context": "Brought up in deep-dive philosophy podcasts or when discussing sensory perception and learning.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "molyneux-problem"
+    },
+    {
+      "type": "meme",
+      "term": "Skill issue",
+      "meaning": "A dismissive catchphrase used to joke that someone's failure in a game or task is due to their own lack of talent rather than bad luck.",
+      "example": "I lagged and fell off the map. Chat: 'Skill issue, bro just needs better Wi-Fi.'",
+      "context": "Standard Twitch chat spam when a streamer dies or messes up a simple mechanic.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "skill-issue"
+    },
+    {
+      "type": "slang",
+      "term": "Griefing",
+      "meaning": "Deliberately annoying, harassing, or ruining the gaming experience for other players within a multiplayer virtual world.",
+      "example": "Stop griefing my base in Minecraft and go build your own stuff.",
+      "context": "Used when someone is being a troll in multiplayer games. Not rude, just descriptive of in-game sabotage.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "griefing"
+    },
+    {
+      "type": "psych",
+      "term": "Loss aversion",
+      "meaning": "The cognitive bias where the pain of losing something hurts twice as much as the joy of gaining its equivalent.",
+      "example": "That's pure loss aversion, man; you're just gambling more to try and win back what you already lost.",
+      "context": "Used in trading, poker, and gacha game spending discussions. Analytical tone.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "loss-aversion"
+    },
+    {
+      "type": "acronym",
+      "term": "RNG",
+      "meaning": "Random Number Generation, referring to the luck factor determining random drops, critical hits, or loot rolls in games.",
+      "example": "I farmed the boss ten times and got nothing, the RNG hates me today.",
+      "context": "Used whenever loot drops or game outcomes depend purely on random luck.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "rng"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Cyberabad Police are planning to introduce a one-way loop system to ease traffic congestion in the IT corridor.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
+      },
+      {
+        "text": "Indian students have won the Viksit Bharat Buildathon for developing innovations including a bomb-diffusing robot and smart glasses.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/students-win-viksit-bharat-buildathon-for-bomb-diffusing-robot-smart-glasses-101793244869866.html"
+      },
+      {
+        "text": "The central government has approved a three-percentage-point dearness allowance hike for 4.8 million employees.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html"
+      },
+      {
+        "text": "Cyclone Arnab has caused five deaths in Andhra Pradesh and triggered heavy rainfall across southern Odisha.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
+      },
+      {
+        "text": "The Supreme Court has removed the October 30 deadline for additions to the Delhi electoral roll.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/sc-removes-oct-30-deadline-for-additions-to-delhi-electoral-roll/articleshow/135286063.cms"
+      },
+      {
+        "text": "ISRO is scheduled to launch the NVS-03 satellite to strengthen the NavIC navigation system.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/isro-to-launch-nvs-03-on-oct-30-but-navic-has-a-long-way-to-go/articleshow/135286011.cms"
+      },
+      {
+        "text": "The Assam Rifles Chief has visited the India-Myanmar border to review ongoing fencing work in Manipur.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/assam-rifles-chief-vikas-lakhera-visits-india-myanmar-border-reviews-fencing-in-manipur-12251325#publisher=newsstand"
+      },
+      {
+        "text": "IN-SPACe has selected six artificial intelligence space projects to receive grants of up to one crore rupees each.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/in-space-picks-6-ai-space-projects-for-grants-of-up-to-rs-1-cr-each/articleshow/135284975.cms"
+      },
+      {
+        "text": "Silver imports at India's bullion exchange have surged following the implementation of new licensing regulations.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/silver-imports-surge-at-india-s-bullion-exchange-after-new-licensing-rules-11793170482288.html"
+      },
+      {
+        "text": "The central government informed the Supreme Court that implementing protective provisions for transgender rights poses practical challenges.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/trans-rights-safeguards-pose-practical-issues-govt-tells-supreme-court-101793215475879.html"
+      }
+    ],
+    "world": [
+      {
+        "text": "A high-speed train collision in Spain's Toledo province kills at least 68 people, prompting protests and an investigation into the cause.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Prime Minister Benjamin Netanyahu's right-wing bloc leads in Israel's parliamentary election but falls short of securing a governing majority.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "The United States Federal Reserve holds interest rates steady between 3.75 and 4.00 percent, citing the need for additional inflation data.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
+      },
+      {
+        "text": "Air strikes on a market in Darfur, Sudan, kill more than 100 people, according to a local rights group.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
+      },
+      {
+        "text": "Health officials warn that Africa's unprecedented Ebola outbreak could spread internationally if funding for preparedness is not increased.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "jxTcsOw215I",
+      "title": "Operation Anthropoid: The Most Important Assassination of WW2 (No AI Documentary)",
+      "channel": "Battle Guide",
+      "category": "history",
+      "url": "https://www.youtube.com/watch?v=jxTcsOw215I",
+      "thumbnail": "https://i.ytimg.com/vi/jxTcsOw215I/hqdefault.jpg",
+      "published": "",
+      "learn": "How Czech resistance agents executed the daring assassination of high-ranking Nazi leader Reinhard Heydrich.",
+      "minutes": 23
+    },
+    "more": [
+      {
+        "id": "cEqATHUJQHc",
+        "title": "What are the Vedas?",
+        "channel": "Let's Talk Religion",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=cEqATHUJQHc",
+        "thumbnail": "https://i.ytimg.com/vi/cEqATHUJQHc/hqdefault.jpg",
+        "published": "",
+        "learn": "How oral traditions and memory techniques preserved ancient sacred texts before writing existed.",
+        "minutes": 18
+      },
+      {
+        "id": "GPOv72Awo68",
+        "title": "How it Happened - The 2008 Financial Crisis: Crash Course Economics #12",
+        "channel": "CrashCourse",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=GPOv72Awo68",
+        "thumbnail": "https://i.ytimg.com/vi/GPOv72Awo68/hqdefault.jpg",
+        "published": "",
+        "learn": "How toxic mortgage securities and leverage triggered the devastating 2008 global financial collapse.",
+        "minutes": 11
+      },
+      {
+        "id": "AMKgcBzK7cg",
+        "title": "Unit Economics for Startups | eCommerce, Software & Hardware",
+        "channel": "Eric Andrews",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=AMKgcBzK7cg",
+        "thumbnail": "https://i.ytimg.com/vi/AMKgcBzK7cg/hqdefault.jpg",
+        "published": "",
+        "learn": "How to calculate unit economics to prove if a startup business model scales profitably.",
+        "minutes": 18
+      },
+      {
+        "id": "GMoOCKkcd_w",
+        "title": "How to Detect Deepfakes: The Science of Recognizing AI Generated Content",
+        "channel": "NOVA PBS Official",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=GMoOCKkcd_w",
+        "thumbnail": "https://i.ytimg.com/vi/GMoOCKkcd_w/hqdefault.jpg",
+        "published": "",
+        "learn": "How forensic science detects synthetic media and deepfakes hiding in digital audio and video.",
+        "minutes": 9
+      },
+      {
+        "id": "rgJwMuLKRos",
+        "title": "How Your Brain Picks Your Crush!",
+        "channel": "In Search of Self",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=rgJwMuLKRos",
+        "thumbnail": "https://i.ytimg.com/vi/rgJwMuLKRos/hqdefault.jpg",
+        "published": "",
+        "learn": "How subconscious psychological triggers and neurological patterns dictate human romantic attraction and mate selection.",
+        "minutes": 5
+      },
+      {
+        "id": "aAWvp2hQlCA",
+        "title": "Advaita Vedanta - Non Duality Explained",
+        "channel": "Indian Monk",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=aAWvp2hQlCA",
+        "thumbnail": "https://i.ytimg.com/vi/aAWvp2hQlCA/hqdefault.jpg",
+        "published": "",
+        "learn": "How Advaita Vedanta resolves the illusion of separateness between the individual soul and ultimate reality.",
+        "minutes": 6
+      },
+      {
+        "id": "mIIJd66Ycr8",
+        "title": "How old is the Earth?: Crash Course Geology #17",
+        "channel": "CrashCourse",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=mIIJd66Ycr8",
+        "thumbnail": "https://i.ytimg.com/vi/mIIJd66Ycr8/hqdefault.jpg",
+        "published": "2026-09-03"
+      },
+      {
+        "id": "FmTXU3iEq2Y",
+        "title": "Bachpan ji on ANDHA PYAAR ft. @ChiragPanjwani @ComicKaustubhAgarwal and Vivek Samtani",
+        "channel": "Vivek Samtani",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=FmTXU3iEq2Y",
+        "thumbnail": "https://i.ytimg.com/vi/FmTXU3iEq2Y/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 74
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "startalk-in-theory-with-janna-levin",
+      "title": "In Theory with Janna Levin",
+      "show": "StarTalk",
+      "category": "science",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bfba9d97-7a50-4fba-a19b-c84f42985dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bfba9d97-7a50-4fba-a19b-c84f42985dd0&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 2447,
+      "startSec": null,
+      "why": "Explore if physical possibilities are inevitable with astrophysicist Janna Levin."
+    },
+    {
+      "id": "stuff-you-should-know-selects-john-lennon-and-the-fbi",
+      "title": "Selects: John Lennon and the FBI",
+      "show": "Stuff You Should Know",
+      "category": "science",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/selects-john-lennon-and-the-fbi",
+      "durationSec": 2583,
+      "startSec": null,
+      "why": "Discover why Richard Nixon kept a secret FBI file on John Lennon."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1999,
+      "kind": "event",
+      "text": "About 10,000 people died when a catastrophic tropical cyclone made landfall in Odisha, marking one of the deadliest natural disasters in Indian history.",
+      "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+      "india": true
+    },
+    {
+      "year": 1988,
+      "kind": "died",
+      "text": "Kamaladevi Chattopadhyay died, leaving behind a remarkable legacy as a freedom fighter and social reformer who revived Indian handicrafts.",
+      "url": "https://en.wikipedia.org/wiki/Kamaladevi_Chattopadhyay",
+      "india": true
+    },
+    {
+      "year": 1985,
+      "kind": "born",
+      "text": "Vijender Singh was born, growing up to become an Olympic medalist who revolutionized professional boxing in India.",
+      "url": "https://en.wikipedia.org/wiki/Vijender_Singh",
+      "india": true
+    },
+    {
+      "year": 1956,
+      "kind": "event",
+      "text": "The Suez Crisis began with the Israeli invasion of the Sinai Peninsula, drastically reshaping geopolitical alliances in the Middle East.",
+      "url": "https://en.wikipedia.org/wiki/Suez_Crisis",
+      "india": false
+    },
+    {
+      "year": 1998,
+      "kind": "event",
+      "text": "Former astronaut John Glenn returned to space at age 77 aboard the Space Shuttle Discovery, setting a record as the oldest person in space.",
+      "url": "https://en.wikipedia.org/wiki/John_Glenn",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Jio Platforms made a blockbuster stock market entry, becoming India's second-largest company and shaking up the top-5 rankings.",
+      "why": "Massive corporate shakeup involving Reliance and Tata.",
+      "url": "https://telugu.news18.com/news/business/jio-platforms-creates-history-with-blockbuster-listing-becomes-indias-second-largest-company-kb-ws-kn-3255741.html",
+      "source": "News18 Telugu"
+    },
+    {
+      "text": "MakeMyTrip allegedly stranded a family in Tokyo after cancelling their hotel a month prior while sending a confirmed voucher.",
+      "why": "Nightmare travel story sparking major customer outrage.",
+      "url": "https://www.reddit.com/r/india/comments/1xhl2cy/stranded_in_tokyo_at_10_pm_with_my_family/",
+      "source": "r/india"
+    },
+    {
+      "text": "Flávio Bolsonaro arrived in the US after Brazil cancelled his passports, having earlier declared himself the rightful president-elect.",
+      "why": "Absurd political drama making international headlines.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xhi7wc/flávio_bolsonaro_arrives_in_us_after_brazil/",
+      "source": "r/worldnews"
+    },
+    {
+      "text": "A 6-year-old child in India reportedly won a ₹50 lakh Toyota Fortuner after buying a ₹200 coupon.",
+      "why": "Too wild to believe, instantly viral family luck.",
+      "url": "https://www.aajtak.in/trending/story/6-year-old-boy-wins-50-lakh-toyota-fortuner-200-rupees-lucky-draw-rttw-dskc-2682905-2026-10-29",
+      "source": "AajTak"
+    },
+    {
+      "text": "The Calcutta High Court barred the circulation of a Modi-Adani documentary until January 2027.",
+      "why": "Big censorship and political controversy online.",
+      "url": "https://www.reddit.com/r/india/comments/1xhi9y6/modiadani_documentary_calcutta_high_court_bars/",
+      "source": "r/india"
+    }
+  ],
+  "read": {
+    "quote": {
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "book": "The Little Prince"
+    },
+    "passage": {
+      "text": "On the slope of the desolate river among tall grasses I asked her, “Maiden, where do you go shading your lamp with your mantle? My house is all dark and lonesome—lend me your light!” she raised her dark eyes for a moment and looked at my face through the dusk. “I have come to the river,” she said, “to float my lamp on the stream when the daylight wanes in the west.” I stood alone among tall grasses and watched the timid flame of her lamp uselessly drifting in the tide.",
+      "book": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "context": "",
+      "source": "gutenberg",
+      "day": 2,
+      "days": 3
+    },
+    "weekBook": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+      "day": 2,
+      "ideas": [
+        {
+          "title": "Focus on systems instead of rigid goals",
+          "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+        },
+        {
+          "title": "Make your desired habits completely obvious",
+          "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+        },
+        {
+          "title": "Design your environment for better choices",
+          "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+        },
+        {
+          "title": "Harness the power of tiny improvements",
+          "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+        },
+        {
+          "title": "Pair new habits with actions you enjoy",
+          "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+        },
+        {
+          "title": "Reduce friction for positive daily behaviors",
+          "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+        },
+        {
+          "title": "Identity drives long term personal change",
+          "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+        }
+      ]
+    }
+  }
+}

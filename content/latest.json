@@ -1,453 +1,458 @@
 {
   "schema": 1,
-  "date": "2026-10-28",
-  "generatedAt": "2026-10-28T05:46:36+00:00",
+  "date": "2026-10-29",
+  "generatedAt": "2026-10-29T03:42:43+00:00",
   "words": [
     {
-      "word": "Sumptuous",
+      "word": "Garish",
       "pos": "adjective",
-      "pronunciation": "SUMP-choo-us",
-      "meaning": "Splendid and expensive-looking.",
-      "insteadOf": "very luxurious",
-      "example": "We ordered a sumptuous spread of biryani for our post-exams celebration."
+      "pronunciation": "ɡair-ish",
+      "meaning": "Excessively bright, showy, or in bad taste.",
+      "insteadOf": "too flashy",
+      "example": "His new graphic tee with neon graphics is a bit too garish for a formal presentation."
     },
     {
-      "word": "Luminous",
+      "word": "Ostentatious",
       "pos": "adjective",
-      "pronunciation": "LOO-min-us",
-      "meaning": "Full of or shedding light; bright or shining.",
-      "insteadOf": "glowing",
-      "example": "The UI design featured luminous gradients that popped on OLED screens."
+      "pronunciation": "os-ten-tay-shus",
+      "meaning": "Designed to impress or attract notice in a vulgar or pretentious way.",
+      "insteadOf": "showy",
+      "example": "Bringing an expensive luxury car to our college fest felt unnecessarily ostentatious."
     },
     {
-      "word": "Verve",
-      "pos": "noun",
-      "pronunciation": "vurv",
-      "meaning": "Vigorous spirit and enthusiasm.",
-      "insteadOf": "energy",
-      "example": "She coded the hackathon project with incredible verve, pulling off the MVP."
-    },
-    {
-      "word": "Stately",
+      "word": "Modish",
       "pos": "adjective",
-      "pronunciation": "STATE-lee",
-      "meaning": "Having a dignified, grand, or impressive quality.",
-      "insteadOf": "grand",
-      "example": "The heritage block of our college has a stately, timeless appeal."
+      "pronunciation": "moh-dish",
+      "meaning": "Conforming to what is currently popular and fashionable.",
+      "insteadOf": "trendy",
+      "example": "She always keeps her hostel room looking quite modish with minimalist fairy lights."
     },
     {
-      "word": "Luscious",
+      "word": "Mellifluous",
       "pos": "adjective",
-      "pronunciation": "LUSH-us",
-      "meaning": "Having a pleasingly rich taste or smell.",
-      "insteadOf": "delicious",
-      "example": "That roadside stall serves the most luscious mango shake in town."
+      "pronunciation": "muh-lif-yoo-us",
+      "meaning": "Sweet or musical; pleasant to hear.",
+      "insteadOf": "nice-sounding",
+      "example": "The professor's mellifluous voice somehow kept us awake during the 8 AM lecture."
     },
     {
-      "word": "Visage",
-      "pos": "noun",
-      "pronunciation": "VIZ-ij",
-      "meaning": "A person's facial expression or appearance.",
-      "insteadOf": "face",
-      "example": "A calm visage during a viva hides a panicking mind."
-    },
-    {
-      "word": "Sleek",
+      "word": "Genteel",
       "pos": "adjective",
-      "pronunciation": "sleek",
-      "meaning": "Smooth and glossy; elegant and streamlined.",
-      "insteadOf": "smooth",
-      "example": "I prefer a sleek layout for my code editor over cluttered themes."
+      "pronunciation": "jen-teel",
+      "meaning": "Polite, refined, or respectable, sometimes overly so.",
+      "insteadOf": "classy",
+      "example": "My grandmother prefers a genteel evening sipping tea rather than loud parties."
     },
     {
-      "word": "Lurid",
+      "word": "Ornate",
       "pos": "adjective",
-      "pronunciation": "LOOR-id",
-      "meaning": "Presented in vividly shocking or sensational terms.",
-      "insteadOf": "shocking",
-      "example": "The internet is full of lurid thumbnails for mediocre tech vlogs."
+      "pronunciation": "or-nayt",
+      "meaning": "Made in an intricate shape or decorated with complex patterns.",
+      "insteadOf": "heavily decorated",
+      "example": "The temple architecture featured ornate carvings that left us all staring in awe."
     },
     {
-      "word": "Vain",
+      "word": "Grandiose",
       "pos": "adjective",
-      "pronunciation": "vayn",
-      "meaning": "Producing no result; useless, or excessively proud of oneself.",
-      "insteadOf": "pointless",
-      "example": "Debugging that legacy code was a vain attempt to fix bad architecture."
+      "pronunciation": "gran-dee-ohs",
+      "meaning": "Impressive and imposing in appearance or style, especially excessively so.",
+      "insteadOf": "overly grand",
+      "example": "He pitched grandiose startup ideas while we were still struggling to compile our code."
+    },
+    {
+      "word": "Grandiloquent",
+      "pos": "adjective",
+      "pronunciation": "gran-dil-uh-kwunt",
+      "meaning": "Pompous or extravagant in language, style, or manner.",
+      "insteadOf": "using fancy words",
+      "example": "Stop using grandiloquent language and just explain the bug simply."
+    },
+    {
+      "word": "Overwrought",
+      "pos": "adjective",
+      "pronunciation": "oh-ver-rawt",
+      "meaning": "Too elaborate or complicated in design or construction.",
+      "insteadOf": "overdone",
+      "example": "His UI design felt a bit overwrought, packed with too many unnecessary animations."
     }
   ],
   "loop": [
     {
-      "type": "psych",
-      "term": "Spotlight effect",
-      "meaning": "The psychological phenomenon where people tend to believe that others are noticing and evaluating their appearance and actions much more than they actually are.",
-      "example": "Relax, nobody is staring at that tiny stain on your shirt, you're just suffering from the spotlight effect.",
-      "context": "Used to comfort friends who are feeling anxious or self-conscious at a party.",
+      "type": "slang",
+      "term": "Clutch",
+      "meaning": "Successfully pulling off a difficult play or saving a hopeless situation in a game, often when playing alone against multiple opponents.",
+      "example": "Bro was in a 1v4 and actually clutched the round, absolute legend.",
+      "context": "Used in gaming and general sports or life situations when someone saves the day at the last second. Casual tone.",
       "tone": "playful",
       "nsfw": false,
-      "id": "spotlight-effect"
-    },
-    {
-      "type": "paradox",
-      "term": "Grandfather paradox",
-      "meaning": "A logical contradiction in time travel where if someone travels back in time and kills their own grandfather, they would prevent their own birth, meaning they could never travel back.",
-      "example": "Time travel movies always mess up logic because of the grandfather paradox.",
-      "context": "Discussed among friends while analyzing sci-fi films or mind-bending podcast theories.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "grandfather-paradox"
+      "id": "clutch"
     },
     {
       "type": "psych",
-      "term": "Confirmation bias",
-      "meaning": "The tendency to search for, interpret, favor, and recall information in a way that confirms or supports one's prior beliefs or values.",
-      "example": "He only reads tech blogs that say crypto is crashing to fuel his confirmation bias against Web3.",
-      "context": "Brought up during arguments or political discussions when someone refuses to look at counter-evidence.",
-      "tone": "mocking",
-      "nsfw": false,
-      "id": "confirmation-bias"
-    },
-    {
-      "type": "paradox",
-      "term": "Parable of the broken window",
-      "meaning": "An economic concept illustrating how destruction and subsequent repair do not actually create net economic growth or wealth.",
-      "example": "Throwing rocks at storefronts doesn't help the economy, that's just a classic broken window fallacy.",
-      "context": "Used in macroeconomic debates or commentary channels reviewing bad policy arguments.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "parable-of-the-broken-window"
-    },
-    {
-      "type": "psych",
-      "term": "Baader-meinhof phenomenon",
-      "meaning": "The illusion in which a word, a name, or other thing that has recently come to your attention suddenly appears everywhere with improbable frequency.",
-      "example": "I just learned about that obscure economic theory yesterday and now three podcasts mentioned it today, classic Baader-Meinhof phenomenon.",
-      "context": "Used when experiencing eerie coincidences in learning new facts.",
+      "term": "Flow state",
+      "meaning": "A mental state of complete immersion, focus, and energized involvement in an activity, common during intense gaming sessions.",
+      "example": "I hit absolute flow state during that boss fight and didn't even hear you call me.",
+      "context": "Used to describe being deeply in the zone, whether in gaming, coding, or studying. Serious or casual.",
       "tone": "casual",
       "nsfw": false,
-      "id": "baader-meinhof-phenomenon"
-    },
-    {
-      "type": "slang",
-      "term": "Bip",
-      "meaning": "To smash a car window and steal items from inside, particularly used in West Coast urban crime discussions.",
-      "example": "Leave nothing in the car or you'll get bipped in downtown SF.",
-      "context": "Used when discussing city crime rates, parking precautions, or street safety on social media.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "bip"
-    },
-    {
-      "type": "psych",
-      "term": "Erotomania",
-      "meaning": "A psychiatric condition where a person holds a fixed belief that another person, usually of higher status, is secretly in love with them.",
-      "example": "Obsessing over a celebrity reply and thinking they want to marry you crosses into erotomania.",
-      "context": "Brought up in deep-dive commentary videos analyzing toxic parasocial relationships and celebrity stalkers.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "erotomania"
+      "id": "flow-state"
     },
     {
       "type": "acronym",
-      "term": "FRO",
-      "meaning": "Financial Independence, Retire Early, or in casual internet finance circles, a variation focused on hyper-saving.",
-      "example": "Living with my parents at 25 is just part of the FRO grind.",
-      "context": "Used in personal finance discussions, wealth-building TikToks, and career-planning forums.",
+      "term": "FPS",
+      "meaning": "Frames Per Second in gaming performance, or First-Person Shooter as a genre.",
+      "example": "My FPS dropped to twenty during the smoke grenade and I got instantly beamed.",
+      "context": "Standard gaming hardware and genre talk. Essential vocabulary for PC and console players.",
       "tone": "casual",
       "nsfw": false,
-      "id": "fro"
+      "id": "fps"
+    },
+    {
+      "type": "paradox",
+      "term": "Molyneux problem",
+      "meaning": "A philosophical thought experiment asking whether a person born blind who suddenly gains sight could instantly recognize objects they previously only knew by touch.",
+      "example": "Reading about the Molyneux problem on Wikipedia at 3 AM is a classic internet rabbit hole.",
+      "context": "Brought up in deep-dive philosophy podcasts or when discussing sensory perception and learning.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "molyneux-problem"
+    },
+    {
+      "type": "meme",
+      "term": "Skill issue",
+      "meaning": "A dismissive catchphrase used to joke that someone's failure in a game or task is due to their own lack of talent rather than bad luck.",
+      "example": "I lagged and fell off the map. Chat: 'Skill issue, bro just needs better Wi-Fi.'",
+      "context": "Standard Twitch chat spam when a streamer dies or messes up a simple mechanic.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "skill-issue"
+    },
+    {
+      "type": "slang",
+      "term": "Griefing",
+      "meaning": "Deliberately annoying, harassing, or ruining the gaming experience for other players within a multiplayer virtual world.",
+      "example": "Stop griefing my base in Minecraft and go build your own stuff.",
+      "context": "Used when someone is being a troll in multiplayer games. Not rude, just descriptive of in-game sabotage.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "griefing"
+    },
+    {
+      "type": "psych",
+      "term": "Loss aversion",
+      "meaning": "The cognitive bias where the pain of losing something hurts twice as much as the joy of gaining its equivalent.",
+      "example": "That's pure loss aversion, man; you're just gambling more to try and win back what you already lost.",
+      "context": "Used in trading, poker, and gacha game spending discussions. Analytical tone.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "loss-aversion"
+    },
+    {
+      "type": "acronym",
+      "term": "RNG",
+      "meaning": "Random Number Generation, referring to the luck factor determining random drops, critical hits, or loot rolls in games.",
+      "example": "I farmed the boss ten times and got nothing, the RNG hates me today.",
+      "context": "Used whenever loot drops or game outcomes depend purely on random luck.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "rng"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Cyclone Arnab crossed the Andhra Pradesh coast, causing heavy rains, uprooted trees, and waterlogging, though no loss of life was initially reported.",
+        "text": "Cyberabad Police are planning to introduce a one-way loop system to ease traffic congestion in the IT corridor.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/cyclone-arnab-landfall-andhra-pradesh-odisha-rainfall-weather-imd-alert-live-updates-october-28-2026/article71634111.ece"
+        "url": "https://www.thehindu.com/news/national/telangana/cyberabad-police-plan-one-way-loop-to-ease-it-corridor-traffic/article71637785.ece"
       },
       {
-        "text": "Jio Platforms shares surged 21% on their Mumbai debut, valuing the company at $108.3 billion following a record $3.2 billion IPO.",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/jio-lists-at-21-premium-on-debut-after-record-3-2-billion-india-ipo-11793162179725.html"
+        "text": "Indian students have won the Viksit Bharat Buildathon for developing innovations including a bomb-diffusing robot and smart glasses.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/students-win-viksit-bharat-buildathon-for-bomb-diffusing-robot-smart-glasses-101793244869866.html"
       },
       {
-        "text": "The BSE Sensex dropped over 600 points and the Nifty fell 146 points, dragged down by losses in IT stocks and rising crude oil prices.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/markets/sensex-drops-over-600-points-dragged-by-it-stocks-rising-crude-oil-prices/article71634407.ece"
+        "text": "The central government has approved a three-percentage-point dearness allowance hike for 4.8 million employees.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/diwali-gift-centre-approves-3-per-cent-da-hike-for-central-government-employees-101793235149209.html"
       },
       {
-        "text": "The Madras High Court ruled that non-Hindus wearing religious markers cannot enter Agamic temple premises without formally affirming their reverence for the deity.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/non-hindus-wearing-religious-markers-cant-enter-agamic-temples-without-affirming-reverence-madras-high-court-12246385#publisher=newsstand"
-      },
-      {
-        "text": "Delhi introduced an online liquor booking system via a new app for 208 shops, though home delivery remains unavailable and orders require a 48-hour collection window.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/delhi-news/delhi-gets-online-liquor-booking-at-208-shops-but-no-home-delivery-12246495#publisher=newsstand"
-      },
-      {
-        "text": "The Indian government is reportedly examining US-style frontier artificial intelligence safeguards as officials prepare new legislation to address systemic risks.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/artificial-intelligence/india-weighs-us-style-frontier-ai-safeguards-as-government-prepares-new-law-12246199#publisher=newsstand"
-      },
-      {
-        "text": "The Reserve Bank of India governor urged state governments to adopt prudent borrowing strategies during the conference of State Finance Secretaries.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/rbi-governor-asks-states-to-adopt-prudent-borrowing-strategies/article71633065.ece"
-      },
-      {
-        "text": "Delhi's air quality slipped into the poor category with a 24-hour average Air Quality Index reading of 232.",
+        "text": "Cyclone Arnab has caused five deaths in Andhra Pradesh and triggered heavy rainfall across southern Odisha.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/cities/Delhi/air-quality-slips-to-poor-category-in-delhi-parts-of-north-india/article71634319.ece"
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-weakens-into-depression-imd-alert-odisha-andhra-pradesh-telangana-live-updates-october-29-2026/article71638778.ece"
       },
       {
-        "text": "The central government dispatched a high-level investigative team to Madhya Pradesh following the death of a cheetah caused by firearm pellet injuries.",
+        "text": "The Supreme Court has removed the October 30 deadline for additions to the Delhi electoral roll.",
         "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/centre-deputes-a-high-level-team-to-investigate-death-of-cheetah-caused-by-firearm-pellet-injuries-in-madhya-pradesh/articleshow/135252151.cms"
+        "url": "https://timesofindia.indiatimes.com/india/sc-removes-oct-30-deadline-for-additions-to-delhi-electoral-roll/articleshow/135286063.cms"
+      },
+      {
+        "text": "ISRO is scheduled to launch the NVS-03 satellite to strengthen the NavIC navigation system.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/isro-to-launch-nvs-03-on-oct-30-but-navic-has-a-long-way-to-go/articleshow/135286011.cms"
+      },
+      {
+        "text": "The Assam Rifles Chief has visited the India-Myanmar border to review ongoing fencing work in Manipur.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/assam-rifles-chief-vikas-lakhera-visits-india-myanmar-border-reviews-fencing-in-manipur-12251325#publisher=newsstand"
+      },
+      {
+        "text": "IN-SPACe has selected six artificial intelligence space projects to receive grants of up to one crore rupees each.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/in-space-picks-6-ai-space-projects-for-grants-of-up-to-rs-1-cr-each/articleshow/135284975.cms"
+      },
+      {
+        "text": "Silver imports at India's bullion exchange have surged following the implementation of new licensing regulations.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/silver-imports-surge-at-india-s-bullion-exchange-after-new-licensing-rules-11793170482288.html"
+      },
+      {
+        "text": "The central government informed the Supreme Court that implementing protective provisions for transgender rights poses practical challenges.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/trans-rights-safeguards-pose-practical-issues-govt-tells-supreme-court-101793215475879.html"
       }
     ],
     "world": [
       {
-        "text": "King Charles has confirmed he will discuss the legacy of slavery with Commonwealth leaders at an upcoming summit following renewed calls for reparation talks.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/28/king-charles-confirms-he-will-discuss-legacy-of-slavery-at-commonwealth-summit"
+        "text": "A high-speed train collision in Spain's Toledo province kills at least 68 people, prompting protests and an investigation into the cause.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Israeli election exit polls show Prime Minister Benjamin Netanyahu's hard-right bloc running neck and neck with the opposition led by former military chief Gadi Eisenkot.",
+        "text": "Prime Minister Benjamin Netanyahu's right-wing bloc leads in Israel's parliamentary election but falls short of securing a governing majority.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "The United States Federal Reserve holds interest rates steady between 3.75 and 4.00 percent, citing the need for additional inflation data.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/netanyahu-and-rival-each-claim-mandate-after-tight-israel-election/article71634295.ece"
+        "url": "https://www.thehindu.com/business/Economy/federal-reserve-likely-to-skip-rate-hike-despite-elevated-inflation/article71634402.ece"
       },
       {
-        "text": "Global stock markets rose as investors continued to bet heavily on artificial intelligence, following strong gains on Wall Street and in Asian markets.",
+        "text": "Air strikes on a market in Darfur, Sudan, kill more than 100 people, according to a local rights group.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/10/28/global-stock-markets-rise-as-investors-continue-to-bet-on-ai?traffic_source=rss"
+        "url": "https://www.aljazeera.com/news/2026/10/29/strikes-on-darfur-market-in-sudan-kill-more-than-100-rights-group-says?traffic_source=rss"
       },
       {
-        "text": "The United States military announced that an airstrike on a suspected drug-trafficking vessel in the eastern Pacific killed five people.",
+        "text": "Health officials warn that Africa's unprecedented Ebola outbreak could spread internationally if funding for preparedness is not increased.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/us-news/2026/oct/27/us-military-strike-vessel-eastern-pacific"
-      },
-      {
-        "text": "Chinese stock markets have lost trillions of dollars in recent months as the intense race for artificial intelligence supremacy with the United States takes its toll.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/27/chinese-markets-lose-trillions-ai-race-beijing"
+        "url": "https://www.theguardian.com/global-development/2026/oct/28/africa-ebola-outbreak-could-reach-uk-says-top-health-official"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "17WiQ_tNld4",
-      "title": "Arguments Against Personal Identity: Crash Course Philosophy #20",
-      "channel": "CrashCourse",
-      "category": "philosophy",
-      "url": "https://www.youtube.com/watch?v=17WiQ_tNld4",
-      "thumbnail": "https://i.ytimg.com/vi/17WiQ_tNld4/hqdefault.jpg",
+      "id": "jxTcsOw215I",
+      "title": "Operation Anthropoid: The Most Important Assassination of WW2 (No AI Documentary)",
+      "channel": "Battle Guide",
+      "category": "history",
+      "url": "https://www.youtube.com/watch?v=jxTcsOw215I",
+      "thumbnail": "https://i.ytimg.com/vi/jxTcsOw215I/hqdefault.jpg",
       "published": "",
-      "learn": "Why David Hume argued that the enduring self is merely a bundle of fleeting perceptions.",
-      "minutes": 9
+      "learn": "How Czech resistance agents executed the daring assassination of high-ranking Nazi leader Reinhard Heydrich.",
+      "minutes": 23
     },
     "more": [
       {
-        "id": "COxJUmf1udI",
-        "title": "Meet The Sari Weavers Keeping A 16th Century Craft Alive | Still Standing | Business Insider",
-        "channel": "Business Insider",
+        "id": "cEqATHUJQHc",
+        "title": "What are the Vedas?",
+        "channel": "Let's Talk Religion",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=COxJUmf1udI",
-        "thumbnail": "https://i.ytimg.com/vi/COxJUmf1udI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cEqATHUJQHc",
+        "thumbnail": "https://i.ytimg.com/vi/cEqATHUJQHc/hqdefault.jpg",
         "published": "",
-        "learn": "How traditional artisans preserve centuries-old handloom weaving techniques amidst modern industrial shifts.",
-        "minutes": 8
+        "learn": "How oral traditions and memory techniques preserved ancient sacred texts before writing existed.",
+        "minutes": 18
       },
       {
-        "id": "PZd5tcGdQqc",
-        "title": "Why Japan industrialized before China",
-        "channel": "Money & Macro",
+        "id": "GPOv72Awo68",
+        "title": "How it Happened - The 2008 Financial Crisis: Crash Course Economics #12",
+        "channel": "CrashCourse",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=PZd5tcGdQqc",
-        "thumbnail": "https://i.ytimg.com/vi/PZd5tcGdQqc/hqdefault.jpg",
-        "published": "2026-07-24"
+        "url": "https://www.youtube.com/watch?v=GPOv72Awo68",
+        "thumbnail": "https://i.ytimg.com/vi/GPOv72Awo68/hqdefault.jpg",
+        "published": "",
+        "learn": "How toxic mortgage securities and leverage triggered the devastating 2008 global financial collapse.",
+        "minutes": 11
       },
       {
-        "id": "ON-vFJbq1Vc",
-        "title": "Decoding ZARA's Billion Dollar Business STRATEGY : Fashion Business Case Study",
-        "channel": "Think School",
+        "id": "AMKgcBzK7cg",
+        "title": "Unit Economics for Startups | eCommerce, Software & Hardware",
+        "channel": "Eric Andrews",
         "category": "business",
-        "url": "https://www.youtube.com/watch?v=ON-vFJbq1Vc",
-        "thumbnail": "https://i.ytimg.com/vi/ON-vFJbq1Vc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AMKgcBzK7cg",
+        "thumbnail": "https://i.ytimg.com/vi/AMKgcBzK7cg/hqdefault.jpg",
         "published": "",
-        "learn": "How Zara mastered ultra-fast supply chains to dominate the global fashion industry.",
-        "minutes": 14
+        "learn": "How to calculate unit economics to prove if a startup business model scales profitably.",
+        "minutes": 18
       },
       {
-        "id": "KG2M4ttzBnY",
-        "title": "Punch Card Programming - Computerphile",
-        "channel": "Computerphile",
+        "id": "GMoOCKkcd_w",
+        "title": "How to Detect Deepfakes: The Science of Recognizing AI Generated Content",
+        "channel": "NOVA PBS Official",
         "category": "ai",
-        "url": "https://www.youtube.com/watch?v=KG2M4ttzBnY",
-        "thumbnail": "https://i.ytimg.com/vi/KG2M4ttzBnY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GMoOCKkcd_w",
+        "thumbnail": "https://i.ytimg.com/vi/GMoOCKkcd_w/hqdefault.jpg",
         "published": "",
-        "learn": "How physical punch cards enabled early mechanical data processing long before electronic computers.",
-        "minutes": 14
+        "learn": "How forensic science detects synthetic media and deepfakes hiding in digital audio and video.",
+        "minutes": 9
       },
       {
-        "id": "L-2Vv4fTsyQ",
-        "title": "The Mere Exposure Effect: The Science Behind Ads",
-        "channel": "Sprouts",
+        "id": "rgJwMuLKRos",
+        "title": "How Your Brain Picks Your Crush!",
+        "channel": "In Search of Self",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=L-2Vv4fTsyQ",
-        "thumbnail": "https://i.ytimg.com/vi/L-2Vv4fTsyQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rgJwMuLKRos",
+        "thumbnail": "https://i.ytimg.com/vi/rgJwMuLKRos/hqdefault.jpg",
         "published": "",
-        "learn": "Why familiarity breeds affection and how marketers exploit the mere exposure effect.",
+        "learn": "How subconscious psychological triggers and neurological patterns dictate human romantic attraction and mate selection.",
         "minutes": 5
       },
       {
-        "id": "nnhkcqeGtSI",
-        "title": "The Tunguska Event | A Short Documentary | Fascinating Horror",
-        "channel": "Fascinating Horror",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=nnhkcqeGtSI",
-        "thumbnail": "https://i.ytimg.com/vi/nnhkcqeGtSI/hqdefault.jpg",
+        "id": "aAWvp2hQlCA",
+        "title": "Advaita Vedanta - Non Duality Explained",
+        "channel": "Indian Monk",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=aAWvp2hQlCA",
+        "thumbnail": "https://i.ytimg.com/vi/aAWvp2hQlCA/hqdefault.jpg",
         "published": "",
-        "learn": "What caused the massive 1908 Siberian explosion that flattened millions of trees.",
-        "minutes": 8
+        "learn": "How Advaita Vedanta resolves the illusion of separateness between the individual soul and ultimate reality.",
+        "minutes": 6
       },
       {
-        "id": "jJdLiKYKWzY",
-        "title": "Why Is (Almost) All Bioluminescence in the Ocean?",
-        "channel": "Real Science",
+        "id": "mIIJd66Ycr8",
+        "title": "How old is the Earth?: Crash Course Geology #17",
+        "channel": "CrashCourse",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=jJdLiKYKWzY",
-        "thumbnail": "https://i.ytimg.com/vi/jJdLiKYKWzY/hqdefault.jpg",
-        "published": "",
-        "learn": "Why deep ocean creatures evolve to create their own chemical light.",
-        "minutes": 15
+        "url": "https://www.youtube.com/watch?v=mIIJd66Ycr8",
+        "thumbnail": "https://i.ytimg.com/vi/mIIJd66Ycr8/hqdefault.jpg",
+        "published": "2026-09-03"
       },
       {
-        "id": "eHTXQW58WhA",
-        "title": "INDIA’S GOT LATENT S2 EP1 ft. Alia Bhatt, Sharvari, Ashish Solanki",
-        "channel": "Samay Raina",
+        "id": "FmTXU3iEq2Y",
+        "title": "Bachpan ji on ANDHA PYAAR ft. @ChiragPanjwani @ComicKaustubhAgarwal and Vivek Samtani",
+        "channel": "Vivek Samtani",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=eHTXQW58WhA",
-        "thumbnail": "https://i.ytimg.com/vi/eHTXQW58WhA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FmTXU3iEq2Y",
+        "thumbnail": "https://i.ytimg.com/vi/FmTXU3iEq2Y/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 59
+        "minutes": 74
       }
     ]
   },
   "podcasts": [
     {
-      "id": "paisa-vaisa-from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
-      "title": "From Salary to ₹10 Crore: What Has to Change? | Paisa Vaisa",
-      "show": "Paisa Vaisa",
-      "category": "money",
-      "audioUrl": "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-      "link": "https://omny.fm/shows/paisa-vaisa-with-anupam-gupta/from-salary-to-10-crore-what-has-to-change-paisa-vaisa",
-      "durationSec": 4002,
+      "id": "startalk-in-theory-with-janna-levin",
+      "title": "In Theory with Janna Levin",
+      "show": "StarTalk",
+      "category": "science",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bfba9d97-7a50-4fba-a19b-c84f42985dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bfba9d97-7a50-4fba-a19b-c84f42985dd0&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 2447,
       "startSec": null,
-      "why": "Discover the exact mindset and financial shifts needed to turn a salary into ten crores."
+      "why": "Explore if physical possibilities are inevitable with astrophysicist Janna Levin."
     },
     {
-      "id": "stuff-you-should-know-don-t-fear-the-grim-reaper",
-      "title": "(Don't Fear) The (Grim) Reaper",
+      "id": "stuff-you-should-know-selects-john-lennon-and-the-fbi",
+      "title": "Selects: John Lennon and the FBI",
       "show": "Stuff You Should Know",
       "category": "science",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "link": "https://omny.fm/shows/stuff-you-should-know-1/dont-fear-the-grim-reaper",
-      "durationSec": 2919,
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/selects-john-lennon-and-the-fbi",
+      "durationSec": 2583,
       "startSec": null,
-      "why": "Explore the wild, surprising history of how different cultures imagined the Grim Reaper."
+      "why": "Discover why Richard Nixon kept a secret FBI file on John Lennon."
     }
   ],
   "onThisDay": [
     {
-      "year": 1867,
-      "kind": "born",
-      "text": "Sister Nivedita, an influential Irish-Indian social worker, author, and close disciple of Swami Vivekananda, was born, shaping early Indian nationalist education.",
-      "url": "https://en.wikipedia.org/wiki/Sister_Nivedita",
-      "india": true
-    },
-    {
-      "year": 1627,
-      "kind": "died",
-      "text": "Jahangir, the fourth Mughal Emperor of India known for his patronage of arts and justice, died, leaving a rich cultural legacy.",
-      "url": "https://en.wikipedia.org/wiki/Jahangir",
-      "india": true
-    },
-    {
-      "year": 1955,
-      "kind": "born",
-      "text": "Indra Nooyi, the trailblazing Indian-American businesswoman and former CEO of PepsiCo who became a global corporate icon, was born.",
-      "url": "https://en.wikipedia.org/wiki/Indra_Nooyi",
-      "india": true
-    },
-    {
-      "year": 1886,
+      "year": 1999,
       "kind": "event",
-      "text": "The Statue of Liberty was dedicated in New York Harbor, becoming a globally recognized symbol of freedom and democracy.",
-      "url": "https://en.wikipedia.org/wiki/New_York_Harbor",
+      "text": "About 10,000 people died when a catastrophic tropical cyclone made landfall in Odisha, marking one of the deadliest natural disasters in Indian history.",
+      "url": "https://en.wikipedia.org/wiki/1999_Odisha_cyclone",
+      "india": true
+    },
+    {
+      "year": 1988,
+      "kind": "died",
+      "text": "Kamaladevi Chattopadhyay died, leaving behind a remarkable legacy as a freedom fighter and social reformer who revived Indian handicrafts.",
+      "url": "https://en.wikipedia.org/wiki/Kamaladevi_Chattopadhyay",
+      "india": true
+    },
+    {
+      "year": 1985,
+      "kind": "born",
+      "text": "Vijender Singh was born, growing up to become an Olympic medalist who revolutionized professional boxing in India.",
+      "url": "https://en.wikipedia.org/wiki/Vijender_Singh",
+      "india": true
+    },
+    {
+      "year": 1956,
+      "kind": "event",
+      "text": "The Suez Crisis began with the Israeli invasion of the Sinai Peninsula, drastically reshaping geopolitical alliances in the Middle East.",
+      "url": "https://en.wikipedia.org/wiki/Suez_Crisis",
       "india": false
     },
     {
-      "year": 1928,
+      "year": 1998,
       "kind": "event",
-      "text": "Wage Rudolf Supratman introduced 'Indonesia Raya', which later became the national anthem of Indonesia during its struggle for independence.",
-      "url": "https://en.wikipedia.org/wiki/Wage_Rudolf_Supratman",
+      "text": "Former astronaut John Glenn returned to space at age 77 aboard the Space Shuttle Discovery, setting a record as the oldest person in space.",
+      "url": "https://en.wikipedia.org/wiki/John_Glenn",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Union Minister Piyush Goyal told Dutch business leaders that Indians want to work hard and never remind anyone about the weekend.",
-      "why": "Sparked massive online debates about toxic work culture.",
-      "url": "https://www.reddit.com/r/india/comments/1xhbz1m/indians_want_to_work_hard_nobody_in_india_will/",
+      "text": "Jio Platforms made a blockbuster stock market entry, becoming India's second-largest company and shaking up the top-5 rankings.",
+      "why": "Massive corporate shakeup involving Reliance and Tata.",
+      "url": "https://telugu.news18.com/news/business/jio-platforms-creates-history-with-blockbuster-listing-becomes-indias-second-largest-company-kb-ws-kn-3255741.html",
+      "source": "News18 Telugu"
+    },
+    {
+      "text": "MakeMyTrip allegedly stranded a family in Tokyo after cancelling their hotel a month prior while sending a confirmed voucher.",
+      "why": "Nightmare travel story sparking major customer outrage.",
+      "url": "https://www.reddit.com/r/india/comments/1xhl2cy/stranded_in_tokyo_at_10_pm_with_my_family/",
       "source": "r/india"
     },
     {
-      "text": "Grand Theft Auto 6 download size has reportedly been revealed to be a massive 210 GB.",
-      "why": "Gamer shock over storage space requirements.",
-      "url": "https://www.reddit.com/r/technology/comments/1xh14wp/grand_theft_auto_6_download_size_revealed_to_be/",
-      "source": "r/technology"
+      "text": "Flávio Bolsonaro arrived in the US after Brazil cancelled his passports, having earlier declared himself the rightful president-elect.",
+      "why": "Absurd political drama making international headlines.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xhi7wc/flávio_bolsonaro_arrives_in_us_after_brazil/",
+      "source": "r/worldnews"
     },
     {
-      "text": "An AI startup successfully hacked Anthropic in just 12 hours, gaining access to employee details and internal messages.",
-      "why": "Major cybersecurity panic regarding AI vulnerabilities.",
-      "url": "https://www.reddit.com/r/technology/comments/1xh1fih/ai_startup_hacks_anthropic_in_12_hours_gains/",
-      "source": "r/technology"
+      "text": "A 6-year-old child in India reportedly won a ₹50 lakh Toyota Fortuner after buying a ₹200 coupon.",
+      "why": "Too wild to believe, instantly viral family luck.",
+      "url": "https://www.aajtak.in/trending/story/6-year-old-boy-wins-50-lakh-toyota-fortuner-200-rupees-lucky-draw-rttw-dskc-2682905-2026-10-29",
+      "source": "AajTak"
     },
     {
-      "text": "A 19-month-old cheetah died of gunshot injuries with pellets extracted from its body in Madhya Pradesh's Kuno National Park.",
-      "why": "Outrage over wildlife security failures.",
-      "url": "https://www.reddit.com/r/india/comments/1xh18j5/19monthold_cheetah_dies_of_gunshot_injuries_in/",
+      "text": "The Calcutta High Court barred the circulation of a Modi-Adani documentary until January 2027.",
+      "why": "Big censorship and political controversy online.",
+      "url": "https://www.reddit.com/r/india/comments/1xhi9y6/modiadani_documentary_calcutta_high_court_bars/",
       "source": "r/india"
-    },
-    {
-      "text": "Reliance Industries shares slipped 2 percent amidst buzz around Jio Platforms IPO listing and upcoming board meetings.",
-      "why": "Big market moves affecting retail investors.",
-      "url": "https://m.economictimes.com/markets/stocks/stock-liveblog/ril-stock-price-today-live-27-oct-2026/liveblog/135223135.cms",
-      "source": "The Economic Times"
     }
   ],
   "read": {
     "quote": {
-      "text": "And now that you don't have to be perfect, you can be good.",
-      "author": "John Steinbeck",
-      "book": "East of Eden"
+      "text": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+      "author": "Antoine de Saint-Exupéry",
+      "book": "The Little Prince"
     },
     "passage": {
-      "text": "Let all the strains of joy mingle in my last song—the joy that makes the earth flow over in the riotous excess of the grass, the joy that sets the twin brothers, life and death, dancing over the wide world, the joy that sweeps in with the tempest, shaking and waking all life with laughter, the joy that sits still with its tears on the open red lotus of pain, and the joy that throws everything it has upon the dust, and knows not a word.",
+      "text": "On the slope of the desolate river among tall grasses I asked her, “Maiden, where do you go shading your lamp with your mantle? My house is all dark and lonesome—lend me your light!” she raised her dark eyes for a moment and looked at my face through the dusk. “I have come to the river,” she said, “to float my lamp on the stream when the daylight wanes in the west.” I stood alone among tall grasses and watched the timid flame of her lamp uselessly drifting in the tide.",
       "book": "Gitanjali",
       "author": "Rabindranath Tagore",
       "context": "",
       "source": "gutenberg",
-      "day": 1,
+      "day": 2,
       "days": 3
     },
     "weekBook": {
       "title": "Atomic Habits",
       "author": "James Clear",
       "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
-      "day": 1,
+      "day": 2,
       "ideas": [
         {
           "title": "Focus on systems instead of rigid goals",

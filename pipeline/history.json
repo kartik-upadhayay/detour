@@ -249,7 +249,16 @@
   "visage",
   "sleek",
   "lurid",
-  "vain"
+  "vain",
+  "garish",
+  "ostentatious",
+  "modish",
+  "mellifluous",
+  "genteel",
+  "ornate",
+  "grandiose",
+  "grandiloquent",
+  "overwrought"
  ],
  "loop": [
   "glazing",
@@ -464,7 +473,15 @@
   "baader-meinhof-phenomenon",
   "bip",
   "erotomania",
-  "fro"
+  "fro",
+  "clutch",
+  "flow-state",
+  "fps",
+  "molyneux-problem",
+  "skill-issue",
+  "griefing",
+  "loss-aversion",
+  "rng"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -746,7 +763,16 @@
   "L-2Vv4fTsyQ",
   "nnhkcqeGtSI",
   "jJdLiKYKWzY",
-  "eHTXQW58WhA"
+  "eHTXQW58WhA",
+  "jxTcsOw215I",
+  "cEqATHUJQHc",
+  "GPOv72Awo68",
+  "AMKgcBzK7cg",
+  "GMoOCKkcd_w",
+  "rgJwMuLKRos",
+  "aAWvp2hQlCA",
+  "mIIJd66Ycr8",
+  "FmTXU3iEq2Y"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -818,7 +844,9 @@
   "https://traffic.megaphone.fm/DSLLC9614527488.mp3",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=01d7c3e9-a2ec-404d-a726-3e07c8cf4ebb&feed=4T39_jAj",
   "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
-  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bfba9d97-7a50-4fba-a19b-c84f42985dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bfba9d97-7a50-4fba-a19b-c84f42985dd0&feed=4T39_jAj",
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1044,10 +1072,19 @@
   "The mere exposure effect: why we learn to like things just by seeing them often",
   "The concept of identity and the self: David Hume and the bundle theory of the mind",
   "The Tunguska event: the massive 1908 mysterious explosion in the Siberian wilderness",
-  "Bioluminescence: why and how animals in the deep ocean create their own light"
+  "Bioluminescence: why and how animals in the deep ocean create their own light",
+  "The oral tradition and structural mastery of Vedic chanting: how ancient texts were preserved without writing",
+  "The 2008 Subprime Mortgage Crisis: How toxic mortgage-backed securities brought down Wall Street",
+  "What is a unit economics",
+  "Deepfakes and identity theft: the cybersecurity risks of AI-generated audio and video media",
+  "The psychology of attraction",
+  "Advaita Vedanta and non-dualism: the ancient Indian philosophy of Atman and Brahman explained",
+  "Operation Anthropoid: the gripping WWII story of the Czechoslovakian agents who assassinated Nazi leader Reinhard Heydrich",
+  "Soap and micelle chemistry: how soap molecules trap grease and kill bacteria at a molecular level"
  ],
  "quotes": [
-  "And now that you don't have to be perfect, you can be good."
+  "And now that you don't have to be perfect, you can be good.",
+  "It is only with the heart that one can see rightly; what is essential is invisible to the eye."
  ],
  "books": {
   "current": {
@@ -1056,9 +1093,10 @@
    "author": "Rabindranath Tagore",
    "days": 3,
    "days_planned": 3,
-   "days_used": 1,
+   "days_used": 2,
    "used": [
-    "Let all the strains of joy mingle in my last song—the joy th"
+    "Let all the strains of joy mingle in my last song—the joy th",
+    "On the slope of the desolate river among tall grasses I aske"
    ]
   },
   "done": []

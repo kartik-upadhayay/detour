@@ -1,0 +1,480 @@
+{
+  "schema": 1,
+  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T04:08:04+00:00",
+  "words": [
+    {
+      "word": "Metamorphosis",
+      "pos": "noun",
+      "pronunciation": "met-uh-MOR-fuh-sis",
+      "meaning": "A complete and radical change in form or nature.",
+      "insteadOf": "major change",
+      "example": "Our college tech fest underwent a complete metamorphosis after we secured the new sponsor."
+    },
+    {
+      "word": "Transmute",
+      "pos": "verb",
+      "pronunciation": "tranz-MYOOT",
+      "meaning": "To change from one form into another, often with better results.",
+      "example": "We need to transmute this messy Python code into a clean, reusable API endpoint.",
+      "insteadOf": ""
+    },
+    {
+      "word": "Mutate",
+      "pos": "verb",
+      "pronunciation": "MYOO-tayt",
+      "meaning": "To undergo a fundamental alteration in character or structure.",
+      "example": "My weekend side project keeps mutating into a massive web app I never planned.",
+      "insteadOf": ""
+    },
+    {
+      "word": "Epochal",
+      "pos": "adjective",
+      "pronunciation": "EP-uh-kul",
+      "meaning": "Marking the beginning of a new and important era of progress.",
+      "insteadOf": "historic",
+      "example": "The release of our research paper felt like an epochal moment for the department."
+    },
+    {
+      "word": "Evolutionary",
+      "pos": "adjective",
+      "pronunciation": "ev-uh-LOO-shun-air-ee",
+      "meaning": "Relating to gradual, step-by-step development and progress.",
+      "insteadOf": "gradual",
+      "example": "My coding style has been evolutionary rather than revolutionary over the last year."
+    },
+    {
+      "word": "Fossilized",
+      "pos": "adjective",
+      "pronunciation": "FOS-uh-lyzd",
+      "meaning": "Stuck in an old, unchangeable state and resistant to progress.",
+      "insteadOf": "outdated",
+      "example": "The university's curriculum is so fossilized we're still taught tools from 2010."
+    },
+    {
+      "word": "Atrophy",
+      "pos": "verb",
+      "pronunciation": "AT-ruh-fee",
+      "meaning": "To waste away or decline from lack of use.",
+      "insteadOf": "fade away",
+      "example": "My calculus skills started to atrophy the moment the semester ended."
+    },
+    {
+      "word": "Tatter",
+      "pos": "verb",
+      "pronunciation": "TAT-ur",
+      "meaning": "To decline into a shredded, ruined, or broken condition.",
+      "insteadOf": "fall apart",
+      "example": "My favorite cricket bat began to tatter after three intense monsoon seasons."
+    },
+    {
+      "word": "Transition",
+      "pos": "noun",
+      "pronunciation": "tran-ZISH-un",
+      "meaning": "The process of changing from one state to another.",
+      "insteadOf": "switch",
+      "example": "The transition from offline college lectures back to remote learning was chaotic."
+    }
+  ],
+  "loop": [
+    {
+      "type": "paradox",
+      "term": "Pareto principle",
+      "meaning": "The rule of thumb stating that roughly 80 percent of consequences come from 20 percent of the causes in any given situation.",
+      "example": "Focus on the top 20 percent of your tasks that drive 80 percent of your revenue.",
+      "context": "A favorite framework for productivity experts and startup founders looking to optimize their time.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "pareto-principle"
+    },
+    {
+      "type": "slang",
+      "term": "Cooked",
+      "meaning": "Doomed, in serious trouble, or completely exhausted.",
+      "example": "Exam is tomorrow and I haven't opened the book. I'm cooked.",
+      "tone": "casual",
+      "context": "Self-roast when things are hopeless. 'We're so cooked' = we're done for.",
+      "id": "cooked",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Red flag / Green flag",
+      "meaning": "Warning sign / positive sign about someone's behaviour.",
+      "example": "Rude to waiters: red flag. Remembers your exam date: green flag.",
+      "tone": "casual",
+      "context": "Quick judgement of partners, friends, bosses.",
+      "id": "red-flag-green-flag",
+      "nsfw": false
+    },
+    {
+      "type": "acronym",
+      "term": "FWB",
+      "meaning": "Friends with benefits: friends who have sex without being in a relationship.",
+      "example": "They said it was just FWB, but feelings happened.",
+      "tone": "casual",
+      "context": "Dating-podcast staple.",
+      "nsfw": true,
+      "id": "fwb"
+    },
+    {
+      "type": "paradox",
+      "term": "Dunning-Kruger effect",
+      "meaning": "People with little knowledge often overestimate their competence; experts often underestimate theirs.",
+      "example": "Watched one reel on stocks, now he's giving tips. Dunning-Kruger.",
+      "tone": "mocking",
+      "context": "Roasting overconfident beginners.",
+      "id": "dunning-kruger-effect",
+      "nsfw": false
+    },
+    {
+      "type": "meme",
+      "term": "He's just like me fr",
+      "meaning": "Ironically relating to a (usually unhinged or tragic) fictional character.",
+      "example": "Joker walking down stairs: 'he's just like me fr'.",
+      "tone": "playful",
+      "context": "Self-deprecating identification with a character.",
+      "id": "he-s-just-like-me-fr",
+      "nsfw": false
+    },
+    {
+      "type": "slang",
+      "term": "Body count",
+      "meaning": "The number of people someone has had sex with.",
+      "example": "Podcasts love asking guests about their body count.",
+      "tone": "crude",
+      "context": "Common in dating-podcast debates; often used judgmentally.",
+      "nsfw": true,
+      "id": "body-count"
+    },
+    {
+      "type": "psych",
+      "term": "Gaslighting",
+      "meaning": "Manipulating someone into doubting their own memory or perception.",
+      "example": "'That never happened, you're imagining things,' when it clearly did.",
+      "tone": "serious",
+      "context": "Describing manipulative partners, bosses or family. Often overused for normal disagreements.",
+      "id": "gaslighting",
+      "nsfw": false
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Authorities in West Bengal have issued high-alert and evacuation warnings for residents along the Sankosh River following a glacial flood in Bhutan.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/shintaphu-glacial-lake-bursting-gasa-tshachu-hot-springs/article71643533.ece"
+      },
+      {
+        "text": "World Bank data reveals that poverty has plunged in India, though the top 10 percent continue to earn 13 times more than the bottom 10 percent.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/poverty-plunges-in-india-but-top-10-earn-13-times-more-than-bottom-10-world-bank/articleshow/135340880.cms"
+      },
+      {
+        "text": "The Prime Minister's Office is reviewing a proposal for a complete foreign direct investment ban in the tobacco sector while assessing potential impacts on farmers.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/tobacco-fdi-foreign-direct-investment-tobacco-farmers-tobacco-industry-exports-procurement-prices-11793262745012.html"
+      },
+      {
+        "text": "ISRO's countdown is progressing for the launch of the GSLV-F18 rocket carrying the NVS-03 navigation satellite from the Satish Dhawan Space Centre.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/sci-tech/science/isros-crucial-gslv-f18-launch-carrying-navigation-satellite-nvs-03/article71643519.ece"
+      },
+      {
+        "text": "The Delhi High Court directed the Wrestling Federation of India to decide on show-cause notices issued to Vinesh Phogat within two weeks.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/delhi-hc-directs-wfi-to-decide-on-vinesh-phogat-show-cause-notices-within-2-weeks-101793330159795.html"
+      },
+      {
+        "text": "Cyclone Arnab has wreaked havoc in Odisha, displacing over 55,000 people and causing significant financial losses estimated at 4,600 crore rupees.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/cyclone-arnab-imd-alert-odisha-andhra-pradesh-telangana-odisha-today-rain-weather-news-live-updates-october-30-2026/article71643382.ece"
+      },
+      {
+        "text": "The Supreme Court noted that passing firecracker ban orders serves little purpose without proper enforcement on the ground.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/firecracker-ban-no-point-in-passing-orders-without-enforcement-says-sc/articleshow/135338253.cms"
+      },
+      {
+        "text": "The Centre has issued fresh guidelines permitting scientifically planned river dredging in forest areas to mitigate floods without classifying it as a non-forest purpose.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/fresh-rules-issued-for-dredging-in-forest-areas-to-mitigate-floods-101793301726183.html"
+      }
+    ],
+    "world": [
+      {
+        "text": "Israeli Prime Minister Benjamin Netanyahu's party accused Arab-led parties of election fraud after his coalition lost its parliamentary majority.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/ckdd8qdl9e0eo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Russian drone strikes on a train station in the central Ukrainian city of Dnipro killed at least 14 people and wounded numerous others.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gdlz1p2ko?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "China expelled a record number of officials from the Chinese Communist Party as part of an intensified political purge.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+      },
+      {
+        "text": "Binance reported that $6.3bn was stolen in what is considered the largest cryptocurrency heist in history after an attacker exploited a compromised laptop.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/economy/2026/10/30/binance-says-2-54bn-in-crypto-funds-frozen-amid-potential-security-issue?traffic_source=rss"
+      },
+      {
+        "text": "North Korean leader Kim Jong Un called for the rapid expansion of unmanned aerial drone technology while observing weapons testing.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/north-koreas-kim-calls-for-rapid-expansion-of-drone-technology-observes-testing-of-weapons/article71643492.ece"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "soEBanqlPiI",
+      "title": "...And Then 1700 People Died.",
+      "channel": "Joe Scott",
+      "category": "science",
+      "url": "https://www.youtube.com/watch?v=soEBanqlPiI",
+      "thumbnail": "https://i.ytimg.com/vi/soEBanqlPiI/hqdefault.jpg",
+      "published": "",
+      "learn": "How a silent cloud of volcanic gas from a lake suffocated an entire valley.",
+      "minutes": 15
+    },
+    "more": [
+      {
+        "id": "O--F6BcKAh4",
+        "title": "Three Stage Nuclear Program of India",
+        "channel": "SuperSimplified",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=O--F6BcKAh4",
+        "thumbnail": "https://i.ytimg.com/vi/O--F6BcKAh4/hqdefault.jpg",
+        "published": "",
+        "learn": "How India plans to fuel its nuclear future using abundant thorium.",
+        "minutes": 16
+      },
+      {
+        "id": "fTTGALaRZoc",
+        "title": "Banking Explained – Money and Credit",
+        "channel": "Kurzgesagt – In a Nutshell",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=fTTGALaRZoc",
+        "thumbnail": "https://i.ytimg.com/vi/fTTGALaRZoc/hqdefault.jpg",
+        "published": "",
+        "learn": "How banks multiply money and credit out of thin air.",
+        "minutes": 6
+      },
+      {
+        "id": "2qanMpnYsjk",
+        "title": "How Amazon's Super-Complex Shipping System Works",
+        "channel": "Wendover Productions",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=2qanMpnYsjk",
+        "thumbnail": "https://i.ytimg.com/vi/2qanMpnYsjk/hqdefault.jpg",
+        "published": "",
+        "learn": "How Amazon's invisible logistics web delivers packages to your door so fast.",
+        "minutes": 18
+      },
+      {
+        "id": "M6mYodf0dJM",
+        "title": "mattpocock/skills: A complete AI Coding workflow, end-to-end",
+        "channel": "Matt Pocock",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=M6mYodf0dJM",
+        "thumbnail": "https://i.ytimg.com/vi/M6mYodf0dJM/hqdefault.jpg",
+        "published": "",
+        "learn": "How to build a complete, end-to-end AI coding workflow for building software.",
+        "minutes": 17
+      },
+      {
+        "id": "vuMt8b4UrcI",
+        "title": "The Milgram Experiment: Obedience to Authority",
+        "channel": "Sprouts",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=vuMt8b4UrcI",
+        "thumbnail": "https://i.ytimg.com/vi/vuMt8b4UrcI/hqdefault.jpg",
+        "published": "",
+        "learn": "Why ordinary people will inflict severe pain simply because authority demands it.",
+        "minutes": 5
+      },
+      {
+        "id": "-wrCpLJ1XAw",
+        "title": "How to Argue - Induction & Abduction: Crash Course Philosophy #3",
+        "channel": "CrashCourse",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=-wrCpLJ1XAw",
+        "thumbnail": "https://i.ytimg.com/vi/-wrCpLJ1XAw/hqdefault.jpg",
+        "published": "",
+        "learn": "Why past observations can never logically guarantee future certainties.",
+        "minutes": 10
+      },
+      {
+        "id": "sgh_77TtX5I",
+        "title": "Survival! The Shackleton Story",
+        "channel": "National Geographic Creative",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=sgh_77TtX5I",
+        "thumbnail": "https://i.ytimg.com/vi/sgh_77TtX5I/hqdefault.jpg",
+        "published": "",
+        "learn": "How Ernest Shackleton kept his entire crew alive after their ship was crushed.",
+        "minutes": 26
+      },
+      {
+        "id": "1MleTY0uFsU",
+        "title": "Loose Emotions EP 1 ft @pannugurleen | @ComicKaustubhAgarwal & Vidit Sharma",
+        "channel": "Vidit Sharma",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=1MleTY0uFsU",
+        "thumbnail": "https://i.ytimg.com/vi/1MleTY0uFsU/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 38
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "the-rest-is-history-716-king-arthur-the-truth-behind-the-legend-part-4",
+      "title": "716. King Arthur: The Truth Behind the Legend (Part 4)",
+      "show": "The Rest Is History",
+      "category": "history",
+      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT5811752589.mp3",
+      "link": "",
+      "durationSec": 3974,
+      "startSec": null,
+      "why": "Discover if the legendary King Arthur was actually a ruthless real-world warlord."
+    },
+    {
+      "id": "planet-money-wanna-slow-down-ai-these-biologists-can-help",
+      "title": "Wanna slow down AI? These biologists can help.",
+      "show": "Planet Money",
+      "category": "money",
+      "audioUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
+      "link": "https://www.npr.org/2026/10/14/nx-s1-6002910/ai-scientific-regulation-conference-asilomar",
+      "durationSec": 1750,
+      "startSec": null,
+      "why": "Learn how geneticists fifty years ago successfully paused terrifying tech—and if AI can do the same."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1909,
+      "kind": "born",
+      "text": "Homi J. Bhabha was born, shaping the future of Indian science as the chief architect of the country's nuclear energy program.",
+      "url": "https://en.wikipedia.org/wiki/Homi_J._Bhabha",
+      "india": true
+    },
+    {
+      "year": 1887,
+      "kind": "born",
+      "text": "Sukumar Ray was born, becoming a pioneer of Bengali nonsense verse and children's literature whose works remain cultural touchstones.",
+      "url": "https://en.wikipedia.org/wiki/Sukumar_Ray",
+      "india": true
+    },
+    {
+      "year": 1883,
+      "kind": "died",
+      "text": "Dayananda Saraswati died, having left a profound legacy as a philosopher and social reformer who founded the Arya Samaj.",
+      "url": "https://en.wikipedia.org/wiki/Dayananda_Saraswati",
+      "india": true
+    },
+    {
+      "year": 1983,
+      "kind": "event",
+      "text": "Argentina held its first democratic election in a decade, marking the end of its military dictatorship and electing Raúl Alfonsín as president.",
+      "url": "https://en.wikipedia.org/wiki/National_Reorganization_Process",
+      "india": false
+    },
+    {
+      "year": 1938,
+      "kind": "event",
+      "text": "CBS Radio broadcast 'The War of the Worlds', a legendary drama that demonstrated the immense power and influence of mass media.",
+      "url": "https://en.wikipedia.org/wiki/CBS_Radio",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Sara Ali Khan reportedly faces a fatwa from a chief mufti over her visits to Kedarnath for Shiv bhakti.",
+      "why": "Sparks intense online debate over faith and religious rules.",
+      "url": "https://www.indiatv.in/entertainment/bollywood/sara-ali-khan-devotion-to-lord-shiva-draws-backlash-fatwa-issued-due-to-kedarnath-visit-says-criminal-in-eyes-of-shariat-2026-10-29-1251706",
+      "source": "India TV Hindi"
+    },
+    {
+      "text": "A Delhi man was stabbed to death in a shocking dispute after asking for extra choley.",
+      "why": "Massive shock and disbelief across social media over the trivial trigger.",
+      "url": "https://www.reddit.com/r/india/comments/1xih2hy/delhi_man_stabbed_to_death_for_asking_extra_choley/",
+      "source": "r/india"
+    },
+    {
+      "text": "The government slashed prices of 137 cancer-curing drugs by 90 percent.",
+      "why": "Massive relief and widespread praise shared across online platforms.",
+      "url": "https://www.reddit.com/r/india/comments/1xihskj/india_cuts_costs_of_137_cancer_curing_drugs_by_90/",
+      "source": "r/india"
+    },
+    {
+      "text": "Reddit CEO Steve Huffman announced that the platform is shifting to become a logged-in-only experience.",
+      "why": "Outrage and memes from users frustrated by the forced login wall.",
+      "url": "https://www.reddit.com/r/technology/comments/1xiuqhd/reddit_will_force_everyone_to_log_in_reddit_is/",
+      "source": "r/technology"
+    },
+    {
+      "text": "An employee won a first-of-its-kind religious exemption against mandatory AI use at work.",
+      "why": "Sparking major discussions about workplace tech and personal beliefs.",
+      "url": "https://www.reddit.com/r/technology/comments/1xih1ic/man_granted_firstofitskind_religious_exemption/",
+      "source": "r/technology"
+    }
+  ],
+  "read": {
+    "quote": {
+      "text": "And, when you want something, all the universe conspires in helping you to achieve it.",
+      "author": "Paulo Coelho",
+      "book": "The Alchemist"
+    },
+    "passage": {
+      "text": "I heard not thy steps as thou camest. Thine eyes were sad when they fell on me; thy voice was tired as thou spokest low—“Ah, I am a thirsty traveller.” I started up from my day-dreams and poured water from my jar on thy joined palms. The leaves rustled overhead; the cuckoo sang from the unseen dark, and perfume of babla flowers came from the bend of the road.",
+      "book": "Gitanjali",
+      "author": "Rabindranath Tagore",
+      "context": "Imagine realizing too late that a fleeting, ordinary moment was actually a profound encounter.",
+      "source": "gutenberg",
+      "day": 3,
+      "days": 3
+    },
+    "weekBook": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+      "day": 3,
+      "ideas": [
+        {
+          "title": "Focus on systems instead of rigid goals",
+          "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+        },
+        {
+          "title": "Make your desired habits completely obvious",
+          "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+        },
+        {
+          "title": "Design your environment for better choices",
+          "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+        },
+        {
+          "title": "Harness the power of tiny improvements",
+          "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+        },
+        {
+          "title": "Pair new habits with actions you enjoy",
+          "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+        },
+        {
+          "title": "Reduce friction for positive daily behaviors",
+          "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+        },
+        {
+          "title": "Identity drives long term personal change",
+          "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+        }
+      ]
+    }
+  }
+}

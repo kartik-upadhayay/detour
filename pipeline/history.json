@@ -258,7 +258,16 @@
   "ornate",
   "grandiose",
   "grandiloquent",
-  "overwrought"
+  "overwrought",
+  "metamorphosis",
+  "transmute",
+  "mutate",
+  "epochal",
+  "evolutionary",
+  "fossilized",
+  "atrophy",
+  "tatter",
+  "transition"
  ],
  "loop": [
   "glazing",
@@ -481,7 +490,15 @@
   "skill-issue",
   "griefing",
   "loss-aversion",
-  "rng"
+  "rng",
+  "pareto-principle",
+  "cooked",
+  "red-flag-green-flag",
+  "fwb",
+  "dunning-kruger-effect",
+  "he-s-just-like-me-fr",
+  "body-count",
+  "gaslighting"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -772,7 +789,16 @@
   "rgJwMuLKRos",
   "aAWvp2hQlCA",
   "mIIJd66Ycr8",
-  "FmTXU3iEq2Y"
+  "FmTXU3iEq2Y",
+  "soEBanqlPiI",
+  "O--F6BcKAh4",
+  "fTTGALaRZoc",
+  "2qanMpnYsjk",
+  "M6mYodf0dJM",
+  "vuMt8b4UrcI",
+  "-wrCpLJ1XAw",
+  "sgh_77TtX5I",
+  "1MleTY0uFsU"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -846,7 +872,9 @@
   "https://traffic.omny.fm/d/clips/e0dce4b3-2eb8-48cb-822c-af1d00e03e20/b3d9fccc-662e-4aa7-a14a-af4e0097d44b/2af0a8fd-1204-42f8-b40d-b4de00c1af36/audio.mp3?utm_source=Podcast&in_playlist=e2ba1850-2b92-4a77-b08f-af4e0097d46c",
   "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/78650bdf-15b9-44c2-949f-b4ef00f62c00/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/bfba9d97-7a50-4fba-a19b-c84f42985dd0/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=bfba9d97-7a50-4fba-a19b-c84f42985dd0&feed=4T39_jAj",
-  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/50977401-b32e-4473-974f-b4ec01254583/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "https://pdst.fm/e/traffic.megaphone.fm/GLT5811752589.mp3",
+  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1080,11 +1108,20 @@
   "The psychology of attraction",
   "Advaita Vedanta and non-dualism: the ancient Indian philosophy of Atman and Brahman explained",
   "Operation Anthropoid: the gripping WWII story of the Czechoslovakian agents who assassinated Nazi leader Reinhard Heydrich",
-  "Soap and micelle chemistry: how soap molecules trap grease and kill bacteria at a molecular level"
+  "Soap and micelle chemistry: how soap molecules trap grease and kill bacteria at a molecular level",
+  "Homi J. Bhabha and the visionary blueprint behind India's three-stage nuclear power program",
+  "How central banks use fractional reserve banking to create money out of thin air",
+  "Amazon's fulfillment network strategy: how predictive inventory placement and automated robotics power same-day delivery",
+  "AI-assisted coding and automated refactoring: how developers use AI agents to write, debug, and ship software faster",
+  "The Milgram experiment: how ordinary people inflicted electric shocks simply because an authority figure told them to",
+  "Inductive logic and the problem of induction: why seeing a million white swans doesn't logically prove all swans are white",
+  "Ernest Shackleton's Imperial Trans-Antarctic Expedition: the harrowing survival story of the Endurance",
+  "The 1986 Lake Nyase disaster: how a limnic eruption of dissolved carbon dioxide from a volcanic lake silently suffocated a valley"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
-  "It is only with the heart that one can see rightly; what is essential is invisible to the eye."
+  "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+  "And, when you want something, all the universe conspires in helping you to achieve it."
  ],
  "books": {
   "current": {
@@ -1093,10 +1130,11 @@
    "author": "Rabindranath Tagore",
    "days": 3,
    "days_planned": 3,
-   "days_used": 2,
+   "days_used": 3,
    "used": [
     "Let all the strains of joy mingle in my last song—the joy th",
-    "On the slope of the desolate river among tall grasses I aske"
+    "On the slope of the desolate river among tall grasses I aske",
+    "I heard not thy steps as thou camest. Thine eyes were sad wh"
    ]
   },
   "done": []

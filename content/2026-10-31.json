@@ -1,0 +1,486 @@
+{
+  "schema": 1,
+  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T06:06:01+00:00",
+  "words": [
+    {
+      "word": "Bespoke",
+      "pos": "adjective",
+      "pronunciation": "bih-SPOHK",
+      "meaning": "Made to order or custom-designed.",
+      "insteadOf": "customized",
+      "example": "She coded a bespoke algorithm for her final year machine learning project."
+    },
+    {
+      "word": "Chic",
+      "pos": "adjective",
+      "pronunciation": "sheek",
+      "meaning": "Stylishly fashionable and elegant.",
+      "insteadOf": "stylish",
+      "example": "The minimalist cafe near campus has a remarkably chic aesthetic for late-night coding."
+    },
+    {
+      "word": "Curated",
+      "pos": "adjective",
+      "pronunciation": "KYOO-ray-tid",
+      "meaning": "Selected, organized, and presented with taste.",
+      "insteadOf": "picked",
+      "example": "His Spotify playlist for chai breaks is a carefully curated indie rock collection."
+    },
+    {
+      "word": "Posh",
+      "pos": "adjective",
+      "pronunciation": "posh",
+      "meaning": "Elegant and luxurious.",
+      "insteadOf": "fancy",
+      "example": "We skipped the posh rooftop lounge and grabbed roadside cutting chai instead."
+    },
+    {
+      "word": "Smashing",
+      "pos": "adjective",
+      "pronunciation": "SMASH-ing",
+      "meaning": "Extremely good or attractive.",
+      "insteadOf": "great",
+      "example": "He hit a smashing cover drive during the inter-hostel cricket tournament."
+    },
+    {
+      "word": "Suave",
+      "pos": "adjective",
+      "pronunciation": "swahv",
+      "meaning": "Charming, confident, and elegant.",
+      "insteadOf": "smooth-talking",
+      "example": "He gave a suave response when the professor questioned his late assignment submission."
+    },
+    {
+      "word": "Dapper",
+      "pos": "adjective",
+      "pronunciation": "DAP-er",
+      "meaning": "Neat and stylish in dress.",
+      "insteadOf": "well-dressed",
+      "example": "He looked quite dapper stepping onto the stage for the college debate finals."
+    },
+    {
+      "word": "Adorned",
+      "pos": "adjective",
+      "pronunciation": "uh-DORND",
+      "meaning": "Decorated or beautified.",
+      "insteadOf": "decorated",
+      "example": "Her hostel room walls were adorned with posters of vintage indie bands."
+    },
+    {
+      "word": "Swanky",
+      "pos": "adjective",
+      "pronunciation": "SWANG-kee",
+      "meaning": "Stylishly expensive and showy.",
+      "insteadOf": "high-end",
+      "example": "The placement dinner was hosted at a swanky hotel downtown."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Giga",
+      "meaning": "Used as a prefix or standalone exclamation to describe something as intensely massive, extreme, or absolute.",
+      "example": "Bro failed his semester exam, that is a giga L.",
+      "context": "Used heavily in gaming and online spaces to amplify adjectives. Casual, non-offensive.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "giga"
+    },
+    {
+      "type": "acronym",
+      "term": "IMO",
+      "meaning": "In my opinion, used to soften a hot take or statement so it sounds less like an absolute fact.",
+      "example": "IMO, season two of that anime completely ruined the character development.",
+      "context": "Text and speech shorthand for sharing subjective viewpoints without starting a fight.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "imo"
+    },
+    {
+      "type": "meme",
+      "term": "Stand proud",
+      "meaning": "An iconic anime line used ironically to praise someone for trying their best even while failing miserably.",
+      "example": "You burned instant ramen noodles, but stand proud, your kitchen confidence was unmatched.",
+      "context": "Popular among anime fans and gaming groups for sarcastic encouragement.",
+      "tone": "mocking",
+      "nsfw": false,
+      "id": "stand-proud"
+    },
+    {
+      "type": "slang",
+      "term": "Lore",
+      "meaning": "The deep backstory, hidden lore, or complex personal history behind a person, meme, or friend group dynamic.",
+      "example": "You have to understand the five-year lore of why they cannot be in the same room together.",
+      "context": "Borrowed from fantasy and gaming culture to describe real-world interpersonal drama. Very common in podcasts.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "lore"
+    },
+    {
+      "type": "slang",
+      "term": "Main Character",
+      "meaning": "Acting as though you are the star of a movie, often dramatic, self-absorbed, or romanticizing your daily commute.",
+      "example": "Look at him staring out the train window with slow-tempo music playing in his earbuds, total main character moment.",
+      "context": "Used to tease friends who act overly dramatic for cinematic effect.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "main-character"
+    },
+    {
+      "type": "slang",
+      "term": "Delulu",
+      "meaning": "Delusional, usually about a crush or an unrealistic hope.",
+      "example": "She thinks the celebrity replied to her story because he likes her. Delulu.",
+      "tone": "mocking",
+      "context": "Teasing unrealistic expectations. 'Delulu is the solulu' jokingly means being delusional is the solution.",
+      "id": "delulu",
+      "nsfw": false
+    },
+    {
+      "type": "psych",
+      "term": "Attachment styles",
+      "meaning": "Patterns of how people bond in relationships: secure, anxious, avoidant, or disorganised.",
+      "example": "Anxious + avoidant: one chases, the other runs. Classic.",
+      "tone": "serious",
+      "context": "Pop-psych favourite for explaining dating dynamics.",
+      "id": "attachment-styles",
+      "nsfw": false
+    },
+    {
+      "type": "acronym",
+      "term": "STD / STI",
+      "meaning": "Sexually transmitted disease / infection, e.g. chlamydia, herpes, HIV.",
+      "example": "Getting tested for STIs is normal and responsible.",
+      "tone": "serious",
+      "context": "Comes up in dating and health discussions.",
+      "nsfw": true,
+      "id": "std-sti"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "The Railway Board ordered all zones to switch off mobile and laptop charging sockets in train coaches between 11 pm and 5 am.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/railways-board-changes-charging-rules-orders-all-zones-to-switch-off-socket-points-between-11-pm-and-5-am-heres-why-11793411409330.html"
+      },
+      {
+        "text": "Tata Motors completed the acquisition of Iveco in a deal valued at approximately $4.32 billion, with Chandrasekaran appointed Chairperson.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/tata-motors-says-iveco-is-now-part-of-group-chandrasekaran-appointed-chairperson/article71648097.ece"
+      },
+      {
+        "text": "The Finance Ministry extended the import duty exemption for cotton until October 31 to support the textile sector.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/government-extends-import-duty-exemption-for-cotton/article71648074.ece"
+      },
+      {
+        "text": "India ordered Sun Pharma to halt production of eye-care drugs at a manufacturing plant following quality lapses.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/india-orders-sun-pharma-to-halt-eye-care-drug-production-at-plant-after-quality-lapses/article71646516.ece"
+      },
+      {
+        "text": "The World Bank reported that India made remarkable progress in reducing extreme poverty, which fell from 27.1 percent in 2011 to 2.6 percent in 2023.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/news/national/india-made-remarkable-progress-in-reducing-poverty-world-bank/article71646460.ece"
+      },
+      {
+        "text": "ISRO successfully launched the NVS-03 satellite into orbit, restoring NavIC to its minimum operational configuration of four satellites.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/isro-successfully-launches-nvs-03-satellite-to-boost-navic-navigation-system-pm-modi-congratulates-things-to-know-11793411611587.html"
+      },
+      {
+        "text": "India flagged the politicisation of the UNHRC, stating that the council's credibility rests on even-handedness.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/credibility-rests-on-even-handedness-india-flags-politicisation-of-unhrc/articleshow/135385954.cms"
+      },
+      {
+        "text": "Sun Pharma reported a 36 percent plunge in second-quarter profit due to exceptional charges despite achieving revenue growth.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/sun-pharma-q2-profit-plunges-36-on-exceptional-charges-despite-revenue-growth/article71646441.ece"
+      }
+    ],
+    "world": [
+      {
+        "text": "The United States approved the sale of 500 Patriot interceptor missiles to Ukraine to help defend against Russian ballistic missile attacks.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Crypto giant Binance is attempting to recover $6.3bn stolen in a massive cyber-attack linked by experts to North Korean hackers.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lp7zy07zo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Canada and the European Union announced a new alliance designed for like-minded nations to navigate an increasingly unstable global environment.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+      },
+      {
+        "text": "The G20 family photo was cancelled after European and allied diplomats objected to being pictured alongside Russia's foreign minister.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/us-scraps-g20-photo-after-europeans-object-to-being-pictured-with-russias-lavrov/article71648078.ece"
+      },
+      {
+        "text": "China expelled a record number of officials from the Communist Party as President Xi Jinping intensified sweeping purges.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/oct/30/china-expels-record-number-communist-party-xi-jinping-purges-officials-fifth-plenum"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "aKMQcGJUuco",
+      "title": "How Manmohan Singh saved India in 1991 | Indian Economic Crisis",
+      "channel": "The Curious Cobra",
+      "category": "india",
+      "url": "https://www.youtube.com/watch?v=aKMQcGJUuco",
+      "thumbnail": "https://i.ytimg.com/vi/aKMQcGJUuco/hqdefault.jpg",
+      "published": "",
+      "learn": "How a balance of payments crisis forced India to open its economy.",
+      "minutes": 8
+    },
+    "more": [
+      {
+        "id": "gYLyRwStCxA",
+        "title": "90% of traders lose money... So how to be in the top 10%?",
+        "channel": "UKspreadbetting",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=gYLyRwStCxA",
+        "thumbnail": "https://i.ytimg.com/vi/gYLyRwStCxA/hqdefault.jpg",
+        "published": "",
+        "learn": "Mathematical and psychological reasons why retail traders consistently bleed money.",
+        "minutes": 5
+      },
+      {
+        "id": "ggUduBmvQ_4",
+        "title": "How Airlines Quietly Became Banks",
+        "channel": "Wendover Productions",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=ggUduBmvQ_4",
+        "thumbnail": "https://i.ytimg.com/vi/ggUduBmvQ_4/hqdefault.jpg",
+        "published": "",
+        "learn": "Why modern airlines operate more like profitable credit card banks than transport companies.",
+        "minutes": 16
+      },
+      {
+        "id": "h9Z4oGN89MU",
+        "title": "How do Graphics Cards Work?  Exploring GPU Architecture",
+        "channel": "Branch Education",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=h9Z4oGN89MU",
+        "thumbnail": "https://i.ytimg.com/vi/h9Z4oGN89MU/hqdefault.jpg",
+        "published": "",
+        "learn": "How parallel architecture inside graphics cards unlocks the massive computing power required for AI.",
+        "minutes": 28
+      },
+      {
+        "id": "arj7oStGLkU",
+        "title": "Inside the Mind of a Master Procrastinator | Tim Urban | TED",
+        "channel": "TED",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=arj7oStGLkU",
+        "thumbnail": "https://i.ytimg.com/vi/arj7oStGLkU/hqdefault.jpg",
+        "published": "",
+        "learn": "The inner mechanics of procrastination and how rational decision-makers fall into its trap.",
+        "minutes": 14
+      },
+      {
+        "id": "ggkd_uyDqz8",
+        "title": "Stoicism: An In-Depth Explanation",
+        "channel": "Jared Henderson",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=ggkd_uyDqz8",
+        "thumbnail": "https://i.ytimg.com/vi/ggkd_uyDqz8/hqdefault.jpg",
+        "published": "",
+        "learn": "Core concepts of ancient Stoicism and how to apply them to modern life.",
+        "minutes": 31
+      },
+      {
+        "id": "I79TpDe3t2g",
+        "title": "The Cold War - OverSimplified (Part 1)",
+        "channel": "OverSimplified",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=I79TpDe3t2g",
+        "thumbnail": "https://i.ytimg.com/vi/I79TpDe3t2g/hqdefault.jpg",
+        "published": "",
+        "learn": "How geopolitical tension between two superpowers shaped the modern world.",
+        "minutes": 16
+      },
+      {
+        "id": "0SCjhI86grU",
+        "title": "What is Natural Selection?",
+        "channel": "Stated Clearly",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=0SCjhI86grU",
+        "thumbnail": "https://i.ytimg.com/vi/0SCjhI86grU/hqdefault.jpg",
+        "published": "",
+        "learn": "How blind genetic variation and environmental pressure drive the evolution of living species.",
+        "minutes": 8
+      },
+      {
+        "id": "qkxuFKqJXWY",
+        "title": "Roommate - Stand Up Comedy Ft. Anubhav Singh Bassi",
+        "channel": "Anubhav Singh Bassi",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=qkxuFKqJXWY",
+        "thumbnail": "https://i.ytimg.com/vi/qkxuFKqJXWY/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 22
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "startalk-the-game-theory-of-ai-with-aza-raskin",
+      "title": "The Game Theory of AI with Aza Raskin",
+      "show": "StarTalk",
+      "category": "science",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 4841,
+      "startSec": null,
+      "why": "Dive into the game theory of AI and find out if we are losing control."
+    },
+    {
+      "id": "planet-money-politicians-are-afraid-to-fix-taxes-so-100-citizens-tried",
+      "title": "Politicians are afraid to fix taxes. So 100 citizens tried.",
+      "show": "Planet Money",
+      "category": "money",
+      "audioUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+      "link": "https://www.npr.org/2026/10/28/nx-s1-6019535/connecticut-citizen-assembly-property-tax-lottery",
+      "durationSec": 1831,
+      "startSec": null,
+      "why": "Watch a hundred ordinary citizens try to fix a totally broken tax system."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 1984,
+      "kind": "event",
+      "text": "Indian prime minister Indira Gandhi was assassinated by her bodyguards, triggering horrific anti-Sikh riots across the country that resulted in thousands of deaths.",
+      "url": "https://en.wikipedia.org/wiki/Indira_Gandhi",
+      "india": true
+    },
+    {
+      "year": 1875,
+      "kind": "born",
+      "text": "Vallabhbhai Patel, the iconic freedom fighter and India's first Deputy Prime Minister who unified the nation, was born.",
+      "url": "https://en.wikipedia.org/wiki/Vallabhbhai_Patel",
+      "india": true
+    },
+    {
+      "year": 2005,
+      "kind": "died",
+      "text": "Amrita Pritam, one of India's most celebrated twentieth-century Punjabi authors and poets, passed away.",
+      "url": "https://en.wikipedia.org/wiki/Amrita_Pritam",
+      "india": true
+    },
+    {
+      "year": 1941,
+      "kind": "event",
+      "text": "Workers completed the monumental 60-foot busts of four U.S. presidents carved into Mount Rushmore in South Dakota.",
+      "url": "https://en.wikipedia.org/wiki/Bust_(sculpture)",
+      "india": false
+    },
+    {
+      "year": 1517,
+      "kind": "event",
+      "text": "Martin Luther posted his Ninety-five Theses in Wittenberg, sparking the Protestant Reformation and fundamentally altering European history.",
+      "url": "https://en.wikipedia.org/wiki/Martin_Luther",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "Manisha Bhanwala made history by becoming the first Indian woman wrestler to win gold at the World Wrestling Championships.",
+      "why": "Massive pride and celebration across social media right now.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xk0pdo/manisha_bhanwala_wins_the_final_and_gold_first/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "Filmmaker Sanjay Gupta, known for directing crime action films like Kaante and Shootout at Wadala, passed away at 59.",
+      "why": "Tributes are pouring in for the iconic Bollywood director.",
+      "url": "https://www.bollywoodhungama.com/news/bollywood/filmmaker-sanjay-gupta-passes-away-director-leaves-behind-a-distinctive-crime-cinema-legacy/",
+      "source": "Bollywood Hungama"
+    },
+    {
+      "text": "A BJP MP took a dip in the Yamuna River and declared it clean, triggering widespread reactions and jokes online.",
+      "why": "Everyone is sharing and mocking the bold political stunt.",
+      "url": "https://www.reddit.com/r/india/comments/1xj9b3u/might_be_crocodiles_here_but_bjp_mp_takes_yamuna/",
+      "source": "r/india"
+    },
+    {
+      "text": "Stephen Curry went viral after dropping Luka Doncic with a nasty crossover and draining a three-pointer over him.",
+      "why": "Basketball fans are going wild over this insane highlight reel.",
+      "url": "https://sports.ndtv.com/us/nba/stephen-curry-drops-luka-doncic-with-a-crossover-and-hits-a-three-over-him-12262239",
+      "source": "NDTV Sports"
+    },
+    {
+      "text": "UP ATS arrested four individuals in Lucknow for plotting targeted killings of army and police personnel via a Pakistani handler.",
+      "why": "Major breaking security news dominating feeds.",
+      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xjgbvh/up_ats_arrested_4_person_including_a_juvenile_in/",
+      "source": "r/IndiaSpeaks"
+    },
+    {
+      "text": "ISRO successfully launched the navigation satellite NVS-03 into its designated orbit.",
+      "why": "Another massive space milestone everyone is celebrating.",
+      "url": "https://www.reddit.com/r/india/comments/1xjodsn/isro_successfully_launches_navigation_satellite/",
+      "source": "r/india"
+    }
+  ],
+  "read": {
+    "quote": {
+      "text": "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+      "author": "Anne Frank",
+      "book": "The Diary of a Young Girl"
+    },
+    "passage": {
+      "text": "My father used to avoid all non-essential comforts and luxuries. However, all necessities for existence, in terms of food, medicine and clothing, were provided for. In fact, I would say mine was a very secure childhood, both materially and emotionally. I normally ate with my mother, sitting on the floor of the kitchen. She would place a banana leaf before me, on which she then patted rice and aromatic sambhar, a variety of sharp home-made pickles and a sharp central dollop of fresh coconut chutney.",
+      "book": "Wings of Fire",
+      "author": "A.P.J. Abdul Kalam",
+      "context": "Describing his simple yet secure childhood with his parents in Rameswaram.",
+      "source": "openlibrary",
+      "day": 1,
+      "days": 3
+    },
+    "weekBook": {
+      "title": "Atomic Habits",
+      "author": "James Clear",
+      "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+      "day": 4,
+      "ideas": [
+        {
+          "title": "Focus on systems instead of rigid goals",
+          "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+        },
+        {
+          "title": "Make your desired habits completely obvious",
+          "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+        },
+        {
+          "title": "Design your environment for better choices",
+          "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+        },
+        {
+          "title": "Harness the power of tiny improvements",
+          "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+        },
+        {
+          "title": "Pair new habits with actions you enjoy",
+          "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+        },
+        {
+          "title": "Reduce friction for positive daily behaviors",
+          "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+        },
+        {
+          "title": "Identity drives long term personal change",
+          "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+        }
+      ]
+    }
+  }
+}

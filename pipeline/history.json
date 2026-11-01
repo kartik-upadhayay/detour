@@ -276,7 +276,16 @@
   "suave",
   "dapper",
   "adorned",
-  "swanky"
+  "swanky",
+  "valueless",
+  "outlay",
+  "venal",
+  "haggling",
+  "venture",
+  "honorarium",
+  "veracity",
+  "overcharged",
+  "hoard"
  ],
  "loop": [
   "glazing",
@@ -515,7 +524,15 @@
   "main-character",
   "delulu",
   "attachment-styles",
-  "std-sti"
+  "std-sti",
+  "gell-amnesia-effect",
+  "roach-mode",
+  "erotic-blueprint",
+  "enm",
+  "coupled-paradox",
+  "baggage-claim",
+  "intermittent-reinforcement",
+  "sff"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -824,7 +841,16 @@
   "ggkd_uyDqz8",
   "I79TpDe3t2g",
   "0SCjhI86grU",
-  "qkxuFKqJXWY"
+  "qkxuFKqJXWY",
+  "k_av6-1uu_4",
+  "_th8zOh29xc",
+  "zBUhQPPS9AY",
+  "DXv1boalsDI",
+  "ha1ZbJIW1f8",
+  "_mFWuooXer8",
+  "SZ8UWobHA3M",
+  "kKKM8Y-u7ds",
+  "IcAV5qiko8M"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -902,7 +928,9 @@
   "https://pdst.fm/e/traffic.megaphone.fm/GLT5811752589.mp3",
   "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/fe8692b3-52a9-469e-a8ea-d46bc049377c/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=fe8692b3-52a9-469e-a8ea-d46bc049377c&feed=hvWWWzRv&t=podcast&e=nx-s1-6002910&p=510289&d=1750&size=28012130",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e&feed=4T39_jAj",
-  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400"
+  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
+  "https://pdst.fm/e/traffic.megaphone.fm/GLT6459272632.mp3",
+  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/bbb489b7-72a4-41d0-98e0-ff97d260114b/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=bbb489b7-72a4-41d0-98e0-ff97d260114b&feed=FO6kxYGj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1152,22 +1180,32 @@
   "Why we procrastinate",
   "Stoicism basics",
   "The Cold War explained",
-  "Evolution by natural selection"
+  "Evolution by natural selection",
+  "How the Election Commission of India conducts the world's largest democratic election using EVMs and VVPATs",
+  "Understanding how income tax slabs, deductions under Section 80C, and the old vs new tax regimes work for salaried employees",
+  "How bootstrapped startups raise seed funding and venture capital through angel investors and institutional rounds",
+  "How end-to-end encryption and the Signal protocol protect messaging apps from man-in-the-middle cyber attacks",
+  "Dopamine and motivation",
+  "Bhagavad Gita philosophy of karma yoga",
+  "Rise of the Ottoman Empire",
+  "Newton's Laws of Motion and momentum conservation: how fundamental physics powers everything from sports to rockets"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
   "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
   "And, when you want something, all the universe conspires in helping you to achieve it.",
-  "How wonderful it is that nobody need wait a single moment before starting to improve the world."
+  "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
+  "We accept the love we think we deserve."
  ],
  "books": {
   "current": {
    "title": "Wings of Fire",
    "author": "A.P.J. Abdul Kalam",
    "days_planned": 3,
-   "days_used": 1,
+   "days_used": 2,
    "used": [
-    "My father used to avoid all non-essential comforts and luxur"
+    "My father used to avoid all non-essential comforts and luxur",
+    "To succeed in your mission, you must have single-minded devo"
    ]
   },
   "done": [

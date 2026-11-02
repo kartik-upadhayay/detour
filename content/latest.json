@@ -1,478 +1,478 @@
 {
   "schema": 1,
-  "date": "2026-11-01",
-  "generatedAt": "2026-11-01T03:26:45+00:00",
+  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T06:35:51+00:00",
   "words": [
     {
-      "word": "Valueless",
+      "word": "Malaise",
+      "pos": "noun",
+      "pronunciation": "muh-LAYZ",
+      "meaning": "A general feeling of discomfort, illness, or unease.",
+      "insteadOf": "feeling sick",
+      "example": "A strange afternoon malaise hit me right before the coding interview."
+    },
+    {
+      "word": "Languid",
       "pos": "adjective",
-      "pronunciation": "/ˈvæljuːlɪs/",
-      "meaning": "Having absolutely no monetary or practical worth.",
-      "insteadOf": "worthless",
-      "example": "That coding boot camp certificate proved valueless when the tech interview started."
+      "pronunciation": "LANG-gwid",
+      "meaning": "Slow and relaxed, lacking physical energy.",
+      "insteadOf": "lazy",
+      "example": "We spent a languid Sunday afternoon sipping chai on the hostel balcony."
     },
     {
-      "word": "Outlay",
+      "word": "Physique",
       "pos": "noun",
-      "pronunciation": "/ˈaʊt.leɪ/",
-      "meaning": "An amount of money spent on something.",
-      "insteadOf": "cost",
-      "example": "The initial hardware outlay for my machine learning project drained my semester savings."
+      "pronunciation": "fuh-ZEEK",
+      "meaning": "The form, size, and development of a person's body.",
+      "insteadOf": "body shape",
+      "example": "He completely transformed his physique by hitting the gym regularly this semester."
     },
     {
-      "word": "Venal",
+      "word": "Pummel",
+      "pos": "verb",
+      "pronunciation": "PUH-muhl",
+      "meaning": "To strike repeatedly with the fists.",
+      "insteadOf": "beat up",
+      "example": "Our college team got pummeled in the inter-university cricket tournament."
+    },
+    {
+      "word": "Mettle",
+      "pos": "noun",
+      "pronunciation": "MET-uhl",
+      "meaning": "A person's ability to cope well with difficulties.",
+      "insteadOf": "toughness",
+      "example": "The overnight hackathon really tested our mental mettle."
+    },
+    {
+      "word": "Pallid",
       "pos": "adjective",
-      "pronunciation": "/ˈviː.nəl/",
-      "meaning": "Showing or motivated by susceptibility to bribery.",
-      "insteadOf": "corrupt",
-      "example": "Even student union elections can turn venal when major campus sponsorships get involved."
+      "pronunciation": "PAL-id",
+      "meaning": "Pale, typically because of poor health.",
+      "insteadOf": "looking pale",
+      "example": "He looked rather pallid after pulling three all-nighters for finals."
     },
     {
-      "word": "Haggling",
-      "pos": "verb",
-      "pronunciation": "/ˈhæɡ.əl.ɪŋ/",
-      "meaning": "Disputing persistently about the cost of something.",
-      "insteadOf": "bargaining",
-      "example": "Haggling with local vendors for a second-hand bicycle is a classic hostel rite of passage."
+      "word": "Lanky",
+      "pos": "adjective",
+      "pronunciation": "LANG-kee",
+      "meaning": "Tall and thin with long, awkward limbs.",
+      "insteadOf": "tall and skinny",
+      "example": "The lanky fresher easily blocked every shot during basketball practice."
     },
     {
-      "word": "Venture",
+      "word": "Pith",
       "pos": "noun",
-      "pronunciation": "/ˈvɛn.tʃər/",
-      "meaning": "A risky or daring commercial enterprise.",
-      "insteadOf": "project",
-      "example": "Our college canteen delivery startup was a fun venture until exam season hit."
+      "pronunciation": "PITH",
+      "meaning": "The essence of something.",
+      "insteadOf": "the main point",
+      "example": "Cut the fluff and get straight to the pith of your research paper."
     },
     {
-      "word": "Honorarium",
-      "pos": "noun",
-      "pronunciation": "/ˌɒn.əˈreə.ri.əm/",
-      "meaning": "A payment given for professional services that are rendered gratis.",
-      "insteadOf": "speaker fee",
-      "example": "The guest lecturer received a modest honorarium for his keynote at the tech symposium."
-    },
-    {
-      "word": "Veracity",
-      "pos": "noun",
-      "pronunciation": "/vəˈræs.ə.ti/",
-      "meaning": "Conformity to facts; accuracy of financial claims.",
-      "insteadOf": "truthfulness",
-      "example": "I questioned the veracity of those internship stipend claims posted on social media."
-    },
-    {
-      "word": "Overcharged",
-      "pos": "verb",
-      "pronunciation": "/ˌəʊ.vəˈtʃɑːdʒd/",
-      "meaning": "Charged someone too much for goods or services.",
-      "insteadOf": "ripped off",
-      "example": "The auto driver overcharged us because it started raining outside the metro station."
-    },
-    {
-      "word": "Hoard",
-      "pos": "verb",
-      "pronunciation": "/hɔːd/",
-      "meaning": "Amass money or valued objects and hide or store away.",
-      "insteadOf": "save up",
-      "example": "I had to hoard my pocket money for months to buy a decent mechanical keyboard."
+      "word": "Muscular",
+      "pos": "adjective",
+      "pronunciation": "MUHS-kyuh-ler",
+      "meaning": "Having well-developed muscles.",
+      "insteadOf": "strong",
+      "example": "He's been working on a muscular build for his upcoming trekking trip."
     }
   ],
   "loop": [
     {
-      "type": "paradox",
-      "term": "Gell Amnesia effect",
-      "meaning": "The tendency to believe media stories on unfamiliar topics while instantly recognizing errors in stories on topics you actually know well.",
-      "example": "I only spotted their awful reporting because it was my industry; that's total Gell-Mann Amnesia.",
-      "context": "Popular among tech, media, and political commentators online. Great for sounding sharp in a debate.",
+      "type": "slang",
+      "term": "Jugaad",
+      "meaning": "An innovative fix or a resourceful workaround using whatever meager items are available.",
+      "example": "The car bumper was falling off, but some duct tape and a wire gave it a proper desi jugaad fix.",
+      "context": "Widely used across India and growing globally in startup culture to describe scrappy problem-solving.",
       "tone": "casual",
       "nsfw": false,
-      "id": "gell-amnesia-effect"
-    },
-    {
-      "type": "slang",
-      "term": "Roach mode",
-      "meaning": "Lying low in your apartment for days, avoiding all social contact, dating apps, and sunlight because you are burnt out from life.",
-      "example": "I'm in full roach mode this weekend, leave me on delivered.",
-      "context": "Used jokingly among friends when canceling plans. Not genuinely offensive, just extremely lazy.",
-      "tone": "playful",
-      "nsfw": false,
-      "id": "roach-mode"
+      "id": "jugaad"
     },
     {
       "type": "psych",
-      "term": "Erotic blueprint",
-      "meaning": "A pop-psychology concept that categorizes what specifically turns a person on and makes them feel desired in the bedroom.",
-      "example": "We read about those erotic blueprints on a podcast and it totally changed our communication.",
-      "context": "Discussed in modern wellness and sex-positive podcasts. Safe to use in open discussions.",
+      "term": "Ego depletion",
+      "meaning": "The pop-psychology theory that self-control and willpower are finite resources that get used up throughout the day.",
+      "example": "I had a great morning workout and ate clean all day, but my ego depletion is real and I just ordered a large pizza at midnight.",
+      "context": "Brought up when explaining why you caved to bad habits, junk food, or procrastination after a long workday.",
       "tone": "casual",
-      "nsfw": true,
-      "id": "erotic-blueprint"
+      "nsfw": false,
+      "id": "ego-depletion"
     },
     {
       "type": "acronym",
-      "term": "ENM",
-      "meaning": "Ethical Non-Monogamy, an umbrella term for practicing romantic or sexual relationships with multiple people with everyone's explicit consent.",
-      "example": "His bio says he's practicing ENM, so don't expect standard exclusivity.",
-      "context": "Standard terminology on dating apps and modern lifestyle podcasts.",
+      "term": "SOP",
+      "meaning": "Standard Operating Procedure, referring to an established or official way of doing a routine task.",
+      "example": "Don't stress about the client onboarding call, just follow the standard SOP document.",
+      "context": "Used constantly in corporate offices, startup pitches, and procedural reels on productivity.",
       "tone": "casual",
       "nsfw": false,
-      "id": "enm"
+      "id": "sop"
     },
     {
       "type": "paradox",
-      "term": "Coupled paradox",
-      "meaning": "The phenomenon where the more dating apps you use to find exact specifications, the less satisfied you feel with any actual human being.",
-      "example": "Swiping through thousands of profiles gave me decision fatigue—classic coupled paradox.",
-      "context": "Brought up in discussions analyzing why dating apps are failing Gen Z.",
-      "tone": "serious",
+      "term": "Bootstrap paradox",
+      "meaning": "A causal loop where an object or piece of information is sent back in time, meaning it has no clear origin or creator.",
+      "example": "If I go back in time and give Shakespeare his own published plays to copy down, who actually wrote them?",
+      "context": "Often brought up in sci-fi discussions, time travel debates, or when talking about cyclical internet memes that seem to have no clear beginning.",
+      "tone": "casual",
       "nsfw": false,
-      "id": "coupled-paradox"
+      "id": "bootstrap-paradox"
     },
     {
-      "type": "slang",
-      "term": "Baggage claim",
-      "meaning": "A derogatory way to describe a person who brings an overwhelming amount of unresolved emotional trauma into a new relationship.",
-      "example": "Bro went on one date and realized she was a whole baggage claim.",
-      "context": "Dropped by friends gossiping about someone's messy dating life. Can be slightly mean.",
+      "type": "meme",
+      "term": "Mocking SpongeBob",
+      "meaning": "The alternating uppercase and lowercase text format paired with a warped SpongeBob image to repeat someone s foolish statement back to them.",
+      "example": "mY sTaRtUp Is GoInG tO dIsRuPt ThE fOoD dElIvErY iNdUsTrY.",
+      "context": "Used in text arguments or replies to mimic and ridicule pretentious or absurd claims.",
       "tone": "mocking",
       "nsfw": false,
-      "id": "baggage-claim"
+      "id": "mocking-spongebob"
+    },
+    {
+      "type": "slang",
+      "term": "Bhai",
+      "meaning": "Brother or buddy, used as a casual and affectionate term of address among friends in India.",
+      "example": "Bhai, you won't believe what happened at the traffic signal this morning.",
+      "context": "Ubiquitous in everyday Indian conversations, reels, and casual chats.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "bhai"
     },
     {
       "type": "psych",
-      "term": "Intermittent reinforcement",
-      "meaning": "A psychological reward schedule where affection is given unpredictably, causing the recipient to become intensely addicted to the person.",
-      "example": "He only texts back once a day and it's pure intermittent reinforcement.",
-      "context": "Used by friends to diagnose why someone cannot get over an inconsistent partner.",
+      "term": "Ambivalent sexism",
+      "meaning": "A psychological framework splitting sexism into hostile attitudes and seemingly benevolent but restrictive attitudes toward gender roles.",
+      "example": "Holding the door open while secretly assuming she can't handle her own luggage is a textbook example of ambivalent sexism.",
+      "context": "Commonly discussed in sociology, modern dating discourse, and gender studies podcasts.",
       "tone": "serious",
       "nsfw": false,
-      "id": "intermittent-reinforcement"
+      "id": "ambivalent-sexism"
     },
     {
       "type": "acronym",
-      "term": "SFF",
-      "meaning": "Single For Fall, a seasonal dating slang acronym for desperately wanting a partner specifically to survive the cold weather months together.",
-      "example": "Cuffing season is ending, time to prep for SFF.",
-      "context": "Used jokingly on Twitter and reels when discussing dating timelines.",
-      "tone": "playful",
+      "term": "UI UX",
+      "meaning": "User Interface and User Experience, referring to how a digital product looks and how easy it is to navigate.",
+      "example": "The app has amazing UI UX design, but the actual backend crashes every five minutes.",
+      "context": "Standard tech slang used by founders, designers, and anyone building an app or website.",
+      "tone": "casual",
       "nsfw": false,
-      "id": "sff"
+      "id": "ui-ux"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Air Chief Marshal Ashutosh Dixit assumed charge as the 29th Chief of Air Staff, succeeding Air Chief Marshal AP Singh.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/air-chief-marshal-dixit-takes-charge-of-iaf-amid-modernisation-push-101793475811068.html"
-      },
-      {
-        "text": "The Union government released an additional tax devolution installment of 1.09 lakh crore rupees to states.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/centre-releases-additional-instalment-of-tax-devolution-of-109-lakh-crore-to-states/article71650532.ece"
-      },
-      {
-        "text": "External Affairs Minister S. Jaishankar called for diversified supply chains and criticized the politicization of energy flows at the G20.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/politicisation-of-energy-flows-harmful-jaishankar-calls-for-diversified-supply-chains-at-g20/articleshow/135414623.cms"
-      },
-      {
-        "text": "Railways Minister Ashwini Vaishnaw announced that Prime Minister Modi approved a bullet train corridor connecting Delhi and Varanasi.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/varanasidelhi-in-3-hours-35-mins-soon-pm-modi-approved-bullet-train-corridor-railway-minister-vaishnaw-101793497017812.html"
-      },
-      {
-        "text": "The Union environment ministry exempted heliport and helipad projects from prior environmental clearance under the EIA Notification.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/no-environmental-nod-needed-for-heliport-or-helipad-projects-govt-101793474490517.html"
-      },
-      {
-        "text": "President Droupadi Murmu inaugurated preparations for the Simhastha Kumbh in Nashik alongside senior Maharashtra leaders.",
+        "text": "Cyclonic storm Murasu has prompted the deployment of disaster response teams and flight cancellations in southern states as authorities brace for landfall.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/maharashtra/president-murmu-inaugurates-simhastha-kumbh-preparations-in-nashik/article71650535.ece"
+        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece"
       },
       {
-        "text": "The India Meteorological Department issued a heavy rainfall alert for Coastal Andhra Pradesh and Yanam due to a developing weather system.",
+        "text": "Three AAP legislators in Punjab have resigned and joined the BJP ahead of the upcoming 2027 state assembly elections.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/big-blow-to-aap-as-three-mlas-resign-join-bjp-ahead-of-2027-assembly-polls-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-prata-101793599396364.html"
+      },
+      {
+        "text": "Madras High Court has ruled that non-Hindus with religious markers should not be permitted entry into Agamic temples unless they follow local customs.",
         "source": "Mint",
-        "url": "https://www.livemint.com/news/india/andhra-pradesh-set-for-another-storm-on-november-3-check-imd-s-heavy-rainfall-alert-full-weather-forecast-here-11793500530793.html"
+        "url": "https://www.livemint.com/news/india/would-defile-sanctity-madras-hc-says-non-hindus-with-religious-markers-should-not-be-allowed-entry-in-agamic-temples-11793597499499.html"
       },
       {
-        "text": "The Central Government extended the tenure of the Nandan Nilekani-led exam reforms panel until January.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/government-extends-nilekani-led-exam-reforms-panel-tenure-till-jan/articleshow/135411465.cms"
+        "text": "Indian rupee fell 21 paise to trade at 94.97 against the US dollar in early trade amid ongoing market pressures.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/markets/sensex-jumps-765-points-during-early-trade-on-sharp-rally-in-reliance-shares-decline-in-oil-prices/article71655320.ece"
+      },
+      {
+        "text": "Coal India reported a 19 percent increase in production as mining operations recovered following the monsoon season.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece"
+      },
+      {
+        "text": "Gross GST collections surged 23 percent to reach Rs 2.31 lakh crore in October driven by strong festive demand.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
+      },
+      {
+        "text": "Enforcement Directorate has registered a money laundering case against Subhash Chandra under the Prevention of Money Laundering Act.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/ed-registers-money-laundering-case-against-subhash-chandra/article71655520.ece"
+      },
+      {
+        "text": "Domestic passenger vehicle dispatches crossed the five-lakh unit mark in October, registering strong year-on-year growth.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece"
       }
     ],
     "world": [
       {
-        "text": "Violent cost of living protests and riots have broken out across Germany, with police deploying tear gas and making arrests in major cities.",
+        "text": "US President Donald Trump held final campaign rallies ahead of the crucial midterms, focusing heavily on tight congressional control races.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cqj34gnd3n30o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Canada and the European Union have announced a new strategic alliance designed for a geopolitical landscape shaken by global crises.",
+        "text": "Cryptocurrency exchange Binance resumed customer withdrawals after a record $6.3bn hack, with the FBI attributing the attack to North Korea.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/30/canada-european-union-alliance"
+        "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
       },
       {
-        "text": "The FBI has blamed North Korea for a record 6.3 billion dollar cryptocurrency heist from Binance, which has covered most of the losses.",
+        "text": "A small jet crash on a Florida street near Mar-a-Lago left all nine people aboard dead.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Ukraine resumed attacks on Russian oil refineries, defying pressure from the United States ahead of the upcoming midterm elections.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+      },
+      {
+        "text": "Iliana Iotova won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
         "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/news/2026/11/1/fbi-blames-north-korea-for-record-6-3bn-crypto-heist?traffic_source=rss"
-      },
-      {
-        "text": "The United States cancelled the traditional G20 foreign ministers' family photo after numerous countries refused to appear alongside Russia.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/oct/31/us-cancels-g20-family-photo-after-australia-uk-and-others-refuse-to-appear-with-russia"
-      },
-      {
-        "text": "Demonstrations against the rising cost of living have spread across France, drawing hundreds of thousands of protesters and leading to clashes with police.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/videos/ck0j0y87j303o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "k_av6-1uu_4",
-      "title": "New Income Tax Slabs 2024-25 | New Tax Regime vs Old Tax Regime Calculation | Budget 2024 Analysis",
-      "channel": "Asset Yogi",
-      "category": "money",
-      "url": "https://www.youtube.com/watch?v=k_av6-1uu_4",
-      "thumbnail": "https://i.ytimg.com/vi/k_av6-1uu_4/hqdefault.jpg",
+      "id": "8-EyxMuvE9A",
+      "title": "How Does Crowdfunding Work in 2026?",
+      "channel": "LaunchBoom",
+      "category": "business",
+      "url": "https://www.youtube.com/watch?v=8-EyxMuvE9A",
+      "thumbnail": "https://i.ytimg.com/vi/8-EyxMuvE9A/hqdefault.jpg",
       "published": "",
-      "learn": "How income tax slabs, deductions, and tax regimes impact take-home salary",
-      "minutes": 11
+      "learn": "How creators validate product demand and fund manufacturing before spending any money.",
+      "minutes": 14
     },
     "more": [
       {
-        "id": "_th8zOh29xc",
-        "title": "Election Process in India | Types of Elections and  Elections [ Hindi ]",
-        "channel": "Bookstawa",
+        "id": "aG5WeudruRw",
+        "title": "How the world's oldest university was lost for 800 years – BBC REEL",
+        "channel": "BBC Global",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=_th8zOh29xc",
-        "thumbnail": "https://i.ytimg.com/vi/_th8zOh29xc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=aG5WeudruRw",
+        "thumbnail": "https://i.ytimg.com/vi/aG5WeudruRw/hqdefault.jpg",
         "published": "",
-        "learn": "How India conducts massive democratic elections using electronic voting machines and paper audit trails",
+        "learn": "How the ancient world's greatest center of learning rose, fell, and vanished.",
+        "minutes": 7
+      },
+      {
+        "id": "RIQ0Af8O8iE",
+        "title": "#1 What is TDS? | Why is TDS Deducted? | All About TDS | New Tax Rules 2025 Explained!",
+        "channel": "Accounts Advice",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=RIQ0Af8O8iE",
+        "thumbnail": "https://i.ytimg.com/vi/RIQ0Af8O8iE/hqdefault.jpg",
+        "published": "",
+        "learn": "How employers deduct taxes at the source and what rules govern your refund.",
+        "minutes": 26
+      },
+      {
+        "id": "Ax7dYaRiY6o",
+        "title": "How Information Travels Wirelessly",
+        "channel": "MITK12Videos",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=Ax7dYaRiY6o",
+        "thumbnail": "https://i.ytimg.com/vi/Ax7dYaRiY6o/hqdefault.jpg",
+        "published": "",
+        "learn": "How invisible radio waves package and transmit data between devices without wires.",
+        "minutes": 7
+      },
+      {
+        "id": "GT8qV326V-8",
+        "title": "The Neuroscience of Exhaustion: How to Stay Motivated",
+        "channel": "Sense of Mind",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=GT8qV326V-8",
+        "thumbnail": "https://i.ytimg.com/vi/GT8qV326V-8/hqdefault.jpg",
+        "published": "",
+        "learn": "How chronic workplace pressure physically exhausts the brain and drains motivation.",
+        "minutes": 25
+      },
+      {
+        "id": "trqDnLNRuSc",
+        "title": "Personal Identity: Crash Course Philosophy #19",
+        "channel": "CrashCourse",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=trqDnLNRuSc",
+        "thumbnail": "https://i.ytimg.com/vi/trqDnLNRuSc/hqdefault.jpg",
+        "published": "",
+        "learn": "What criteria define your continuous self when your body and memories change.",
         "minutes": 8
       },
       {
-        "id": "zBUhQPPS9AY",
-        "title": "How Startup Fundraising Works | Startup School",
-        "channel": "Y Combinator",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=zBUhQPPS9AY",
-        "thumbnail": "https://i.ytimg.com/vi/zBUhQPPS9AY/hqdefault.jpg",
-        "published": "",
-        "learn": "How early-stage startups navigate seed funding and pitch to institutional investors",
-        "minutes": 28
-      },
-      {
-        "id": "DXv1boalsDI",
-        "title": "How Signal Instant Messaging Protocol Works (& WhatsApp etc) - Computerphile",
-        "channel": "Computerphile",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=DXv1boalsDI",
-        "thumbnail": "https://i.ytimg.com/vi/DXv1boalsDI/hqdefault.jpg",
-        "published": "",
-        "learn": "How end-to-end encryption protects messages from interception during transit",
-        "minutes": 9
-      },
-      {
-        "id": "ha1ZbJIW1f8",
-        "title": "How to Maximize Dopamine & Motivation - Andrew Huberman",
-        "channel": "After Skool",
-        "category": "mind",
-        "url": "https://www.youtube.com/watch?v=ha1ZbJIW1f8",
-        "thumbnail": "https://i.ytimg.com/vi/ha1ZbJIW1f8/hqdefault.jpg",
-        "published": "",
-        "learn": "How dopamine pathways regulate daily motivation and goal-directed behavior",
-        "minutes": 11
-      },
-      {
-        "id": "_mFWuooXer8",
-        "title": "Bhagavad Gita Explains Law of Karma and Destiny | Swami Mukundananda",
-        "channel": "Swami Mukundananda",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=_mFWuooXer8",
-        "thumbnail": "https://i.ytimg.com/vi/_mFWuooXer8/hqdefault.jpg",
-        "published": "",
-        "learn": "How the law of karma and destiny is explained in the Bhagavad Gita",
-        "minutes": 6
-      },
-      {
-        "id": "SZ8UWobHA3M",
-        "title": "History Summarized: The Ottoman Empire",
-        "channel": "Overly Sarcastic Productions",
+        "id": "LMt8xm4t7XQ",
+        "title": "Why plague doctors wore beaked masks",
+        "channel": "TED-Ed",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=SZ8UWobHA3M",
-        "thumbnail": "https://i.ytimg.com/vi/SZ8UWobHA3M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LMt8xm4t7XQ",
+        "thumbnail": "https://i.ytimg.com/vi/LMt8xm4t7XQ/hqdefault.jpg",
         "published": "",
-        "learn": "How a small border principality grew into a vast, centuries-spanning global empire",
-        "minutes": 14
+        "learn": "Why medieval plague doctors wore those iconic beaked masks during the pandemic.",
+        "minutes": 5
       },
       {
-        "id": "kKKM8Y-u7ds",
-        "title": "Newton's Laws: Crash Course Physics #5",
-        "channel": "CrashCourse",
+        "id": "3uV8XZcIBbk",
+        "title": "Permanent Artificial Hearts Are Closer Than You Think",
+        "channel": "Bloomberg Originals",
         "category": "science",
-        "url": "https://www.youtube.com/watch?v=kKKM8Y-u7ds",
-        "thumbnail": "https://i.ytimg.com/vi/kKKM8Y-u7ds/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3uV8XZcIBbk",
+        "thumbnail": "https://i.ytimg.com/vi/3uV8XZcIBbk/hqdefault.jpg",
         "published": "",
-        "learn": "How Newton's fundamental laws of motion govern forces and momentum in everyday physics",
-        "minutes": 11
+        "learn": "How mechanical pumps and artificial organs maintain blood circulation when hearts fail.",
+        "minutes": 12
       },
       {
-        "id": "IcAV5qiko8M",
-        "title": "Abhishek Upmanyu - Jealous of Sabziwala (FULL SPECIAL)",
-        "channel": "Abhishek Upmanyu",
+        "id": "sIl8vsWrD8o",
+        "title": "When I met a Delhi Girl | Zakir Khan | Stand-Up Comedy | AIB Diwas",
+        "channel": "Zakir Khan",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=IcAV5qiko8M",
-        "thumbnail": "https://i.ytimg.com/vi/IcAV5qiko8M/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sIl8vsWrD8o",
+        "thumbnail": "https://i.ytimg.com/vi/sIl8vsWrD8o/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 63
+        "minutes": 11
       }
     ]
   },
   "podcasts": [
     {
-      "id": "the-rest-is-history-714-king-arthur-lancelot-and-the-round-table-part-2",
-      "title": "714. King Arthur: Lancelot and the Round Table (Part 2)",
-      "show": "The Rest Is History",
-      "category": "history",
-      "audioUrl": "https://pdst.fm/e/traffic.megaphone.fm/GLT6459272632.mp3",
-      "link": "",
-      "durationSec": 4008,
-      "startSec": null,
-      "why": "Uncover the real history and romance behind Lancelot and the legendary Round Table."
-    },
-    {
-      "id": "ologies-relational-psychology-bonding-via-laughing-with-sara-algoe-and-laura-kur",
-      "title": "Relational Psychology (BONDING VIA  LAUGHING) with Sara Algoe and Laura Kurtz",
+      "id": "ologies-mothman-mythology-yes-mothman-with-jeff-wamsley",
+      "title": "Mothman Mythology (YES, MOTHMAN) with Jeff Wamsley",
       "show": "Ologies",
       "category": "science",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/bbb489b7-72a4-41d0-98e0-ff97d260114b/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=bbb489b7-72a4-41d0-98e0-ff97d260114b&feed=FO6kxYGj",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/100c14de-ed43-4e47-9efc-11b6a1776ce1/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=100c14de-ed43-4e47-9efc-11b6a1776ce1&feed=FO6kxYGj",
       "link": "https://www.siriusxm.com",
-      "durationSec": 3179,
+      "durationSec": 5023,
       "startSec": null,
-      "why": "Discover the surprising science of how laughing and acting like a cornball builds relationships."
+      "why": "Unraveling the wild mythology and bizarre science of Mothman makes bedtime endlessly entertaining."
+    },
+    {
+      "id": "planet-money-is-this-how-the-great-international-borrowing-spree-ends",
+      "title": "Is this how the great international borrowing spree ends?",
+      "show": "Planet Money",
+      "category": "money",
+      "audioUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+      "link": "https://www.npr.org/2026/10/30/nx-s1-6023794/france-protests-students-bonds-debt",
+      "durationSec": 1551,
+      "startSec": null,
+      "why": "A casual, fascinating breakdown of how a massive global economy starts teetering."
     }
   ],
   "onThisDay": [
     {
-      "year": 1956,
-      "kind": "event",
-      "text": "The Indian states Kerala, Andhra Pradesh, and Karnataka were formally created under the States Reorganisation Act, reshaping the nation's internal boundaries along linguistic lines.",
-      "url": "https://en.wikipedia.org/wiki/Kerala",
+      "year": 1965,
+      "kind": "born",
+      "text": "Shah Rukh Khan was born, growing up to become one of Indian cinema's most globally renowned and influential cultural icons.",
+      "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+      "india": true
+    },
+    {
+      "year": 1877,
+      "kind": "born",
+      "text": "Aga Khan III was born, later becoming a prominent leader of the All-India Muslim League and an advocate for higher education.",
+      "url": "https://en.wikipedia.org/wiki/Aga_Khan_III",
+      "india": true
+    },
+    {
+      "year": 2012,
+      "kind": "died",
+      "text": "Shreeram Shankar Abhyankar died, leaving behind a profound legacy in algebraic geometry that influenced mathematics worldwide.",
+      "url": "https://en.wikipedia.org/wiki/Shreeram_Shankar_Abhyankar",
       "india": true
     },
     {
       "year": 2000,
       "kind": "event",
-      "text": "Chhattisgarh officially became the 26th state of India, marking a major milestone in decentralization and regional governance by separating from Madhya Pradesh.",
-      "url": "https://en.wikipedia.org/wiki/Chhattisgarh",
-      "india": true
-    },
-    {
-      "year": 1984,
-      "kind": "event",
-      "text": "Following the tragic assassination of Prime Minister Indira Gandhi, devastating anti-Sikh riots erupted across India, marking one of the darkest chapters in modern Indian history.",
-      "url": "https://en.wikipedia.org/wiki/Assassination_of_Indira_Gandhi",
-      "india": true
-    },
-    {
-      "year": 1981,
-      "kind": "event",
-      "text": "Antigua and Barbuda gained full independence from the United Kingdom, ending centuries of colonial rule and joining the global community of sovereign nations.",
-      "url": "https://en.wikipedia.org/wiki/Associated_State_of_Antigua",
+      "text": "The first resident crew arrived at the International Space Station, marking a major milestone in permanent human habitation of space.",
+      "url": "https://en.wikipedia.org/wiki/Expedition_1",
       "india": false
     },
     {
-      "year": 1944,
+      "year": 1917,
       "kind": "event",
-      "text": "During World War II, an American F-13 Superfortress executed the first Allied flight over Tokyo since the 1942 Doolittle Raid, shifting aerial dominance in the Pacific.",
-      "url": "https://en.wikipedia.org/wiki/World_War_II",
+      "text": "The British government issued the Balfour Declaration, which significantly shaped the geopolitical future of the Middle East by supporting a Jewish homeland.",
+      "url": "https://en.wikipedia.org/wiki/Balfour_Declaration",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "J&K Chief Minister Omar Abdullah reportedly married journalist Nidhi Razdan in Srinagar, sparking widespread online discussion.",
-      "why": "Unexpected high-profile political marriage breaking the internet.",
-      "url": "https://www.reddit.com/r/india/comments/1xk78ei/jk_chief_minister_omar_abdullah_marries/",
+      "text": "TV actor Anuj Thakur tragically passed away at age 33 following a seizure in his sleep, sending shockwaves through social media.",
+      "why": "Sudden celebrity tragedy going viral everywhere.",
+      "url": "https://www.ndtv.com/entertainment/tv-actor-anuj-thakur-dies-at-33-after-seizure-friend-says-met-him-10-days-ago-12269620",
+      "source": "NDTV"
+    },
+    {
+      "text": "Rahul Gandhi claimed that CEC Gyanesh Kumar will be jailed for treason amid opposition rallies against voter roll revisions.",
+      "why": "Explosive political attacks sparking massive online arguments.",
+      "url": "https://www.reddit.com/r/india/comments/1xl56av/rahul_gandhi_says_cec_gyanesh_kumar_will_be/",
       "source": "r/india"
     },
     {
-      "text": "Manisha Bhanwala made history by becoming the first Indian woman to win gold in wrestling at the World Wrestling Championships in Astana.",
-      "why": "Massive sporting milestone making India proud globally.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xk0pdo/manisha_bhanwala_wins_the_final_and_gold_first/",
-      "source": "r/IndiaSpeaks"
-    },
-    {
-      "text": "ISRO successfully launched the NVS-03 satellite carrying an advanced atomic clock into space under the 'One Nation, One Time' initiative.",
-      "why": "Big leap for Indian space tech and timekeeping.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xk4emg/one_nation_one_time_isros_nvs03_satellite/",
-      "source": "r/IndiaSpeaks"
-    },
-    {
-      "text": "Zakir Naik faced severe backlash online after defending the Taliban's curbs on girls' education in Afghanistan.",
-      "why": "Outrage over shocking support for extremist restrictions.",
-      "url": "https://www.reddit.com/r/IndiaSpeaks/comments/1xk2sch/environment_is_not_safe_for_them_to_learn_so/",
-      "source": "r/IndiaSpeaks"
-    },
-    {
-      "text": "Yogi Adityanath raised concerns after claiming that 1 crore Hindu voters are missing from Uttar Pradesh voter rolls.",
-      "why": "Major electoral controversy igniting heavy political debates.",
-      "url": "https://www.reddit.com/r/india/comments/1xkajv7/1_crore_hindu_voters_missing_from_up_voter_rolls/",
+      "text": "Piyush Goyal claimed a foreign deputy PM pressured him regarding his daughter's Bollywood career plans.",
+      "why": "Wild behind-the-scenes political revelation getting heavy traction.",
+      "url": "https://www.reddit.com/r/india/comments/1xkwo8r/foreign_deputy_pm_pressuring_me_over_daughters/",
       "source": "r/india"
+    },
+    {
+      "text": "Ukraine's air raid alert system was hacked, triggering false nuclear and chemical warnings across the country.",
+      "why": "Terrifying cyberattack making global headlines instantly.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xlf29x/ukraines_air_raid_alert_system_hacked_air_force/",
+      "source": "r/worldnews"
+    },
+    {
+      "text": "Two oil tankers reportedly exploded after hitting a mine in the Hormuz Strait, according to the IRGC.",
+      "why": "Major Middle East escalation raising global tensions.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xlevh8/two_oil_tankers_explode_after_hitting_mine_in/",
+      "source": "r/worldnews"
     }
   ],
   "read": {
     "quote": {
-      "text": "We accept the love we think we deserve.",
-      "author": "Stephen Chbosky",
-      "book": "The Perks of Being a Wallflower"
+      "text": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+      "author": "F. Scott Fitzgerald",
+      "book": "The Great Gatsby"
     },
     "passage": {
-      "text": "To succeed in your mission, you must have single-minded devotion to your goal. Individuals who are successful are those who have a clear vision and an unwavering commitment to achieving it. They do not let failures deter them; instead, they learn from their mistakes and use them as fuel to drive themselves further towards their objectives.",
-      "book": "Wings of Fire",
-      "author": "A.P.J. Abdul Kalam",
-      "context": "Discussing the essential ingredients for achieving success and fulfilling one's mission.",
-      "source": "openlibrary",
-      "day": 2,
-      "days": 3
+      "text": "Tellson’s Bank by Temple Bar was an old-fashioned place, even in the year one thousand seven hundred and eighty. It was very small, very dark, very ugly, very incommodious. It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness. They were even boastful of its eminence in those particulars, and were fired by an express conviction that, if it were less objectionable, it would be less respectable. This was no passive belief, but an active weapon which they flashed at more convenient places of business. Tellson’s (they said) wanted no elbow-room, Tellson’s wanted no light, Tellson’s wanted no embellishment. Noakes and Co.’s might, or Snooks Brothers’ might; but Tellson’s, thank Heaven--!",
+      "book": "A Tale of Two Cities",
+      "author": "Charles Dickens",
+      "context": "",
+      "source": "gutenberg",
+      "day": 1,
+      "days": 2
     },
     "weekBook": {
-      "title": "Atomic Habits",
-      "author": "James Clear",
-      "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
-      "day": 5,
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
+      "day": 1,
       "ideas": [
         {
-          "title": "Focus on systems instead of rigid goals",
-          "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+          "title": "Your brain uses two different thinking systems",
+          "text": "Your mind relies on a fast, automatic system for quick guesses and a slow, logical system for tough problems. The fast system jumps to conclusions when you see a stranger's angry face before knowing the context. Pause for five seconds before reacting to a heated message today."
         },
         {
-          "title": "Make your desired habits completely obvious",
-          "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+          "title": "First impressions heavily distort later judgments",
+          "text": "The halo effect makes you assume someone good at one thing is brilliant at everything else. If a professor wears a sharp suit, you might wrongly think their lecture is flawless. Notice if your opinion of a new acquaintance is based on just one trait today."
         },
         {
-          "title": "Design your environment for better choices",
-          "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+          "title": "Losses hurt much more than gains feel good",
+          "text": "Loss aversion means the pain of dropping fifty rupees hits harder than the joy of finding it. Investors panic and sell stocks at a bottom just to stop the bleeding. Identify one minor fear of missing out that is currently driving your choices today."
         },
         {
-          "title": "Harness the power of tiny improvements",
-          "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+          "title": "We rely too much on easily remembered stories",
+          "text": "The availability heuristic tricks us into thinking dramatic events happen constantly because we recall them vividly. After seeing news about a plane crash, you might irrationally fear flying more than driving. Check if your current worry is based on a viral news story today."
         },
         {
-          "title": "Pair new habits with actions you enjoy",
-          "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+          "title": "Past random successes create false confidence",
+          "text": "Survivorship bias makes us copy the habits of extreme outliers while ignoring thousands who failed with the same strategy. Dropping out of college worked for Steve Jobs, but it ruined many others. Question whether your career idol succeeded through skill or sheer luck today."
         },
         {
-          "title": "Reduce friction for positive daily behaviors",
-          "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+          "title": "We ignore baseline statistics for vivid tales",
+          "text": "The narrative fallacy makes us prefer a compelling personal story over boring statistical averages. You might buy a notoriously unreliable phone because your cousin had a good experience with it. Look up the actual failure rates of a gadget or course before buying it today."
         },
         {
-          "title": "Identity drives long term personal change",
-          "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+          "title": "Focusing too narrowly blinds you to reality",
+          "text": "What you see is all there is, meaning your brain builds a complete story from very limited evidence. When preparing for an exam, you often forget to factor in unexpected fatigue or sick days. Write down three missing variables in your current big life plan today."
         }
       ]
     }

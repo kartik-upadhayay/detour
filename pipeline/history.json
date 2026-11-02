@@ -285,7 +285,16 @@
   "honorarium",
   "veracity",
   "overcharged",
-  "hoard"
+  "hoard",
+  "malaise",
+  "languid",
+  "physique",
+  "pummel",
+  "mettle",
+  "pallid",
+  "lanky",
+  "pith",
+  "muscular"
  ],
  "loop": [
   "glazing",
@@ -532,7 +541,15 @@
   "coupled-paradox",
   "baggage-claim",
   "intermittent-reinforcement",
-  "sff"
+  "sff",
+  "jugaad",
+  "ego-depletion",
+  "sop",
+  "bootstrap-paradox",
+  "mocking-spongebob",
+  "bhai",
+  "ambivalent-sexism",
+  "ui-ux"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -850,7 +867,16 @@
   "_mFWuooXer8",
   "SZ8UWobHA3M",
   "kKKM8Y-u7ds",
-  "IcAV5qiko8M"
+  "IcAV5qiko8M",
+  "8-EyxMuvE9A",
+  "aG5WeudruRw",
+  "RIQ0Af8O8iE",
+  "Ax7dYaRiY6o",
+  "GT8qV326V-8",
+  "trqDnLNRuSc",
+  "LMt8xm4t7XQ",
+  "3uV8XZcIBbk",
+  "sIl8vsWrD8o"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -930,7 +956,9 @@
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=6f4f65bc-4f4d-4be0-9c46-abb45dd9cb0e&feed=4T39_jAj",
   "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/d374396d-101e-42df-92f1-be4f70cfe81a/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=d374396d-101e-42df-92f1-be4f70cfe81a&feed=hvWWWzRv&t=podcast&e=nx-s1-6019535&p=510289&d=1831&size=29312400",
   "https://pdst.fm/e/traffic.megaphone.fm/GLT6459272632.mp3",
-  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/bbb489b7-72a4-41d0-98e0-ff97d260114b/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=bbb489b7-72a4-41d0-98e0-ff97d260114b&feed=FO6kxYGj"
+  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/bbb489b7-72a4-41d0-98e0-ff97d260114b/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=bbb489b7-72a4-41d0-98e0-ff97d260114b&feed=FO6kxYGj",
+  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/100c14de-ed43-4e47-9efc-11b6a1776ce1/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=100c14de-ed43-4e47-9efc-11b6a1776ce1&feed=FO6kxYGj",
+  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1188,66 +1216,78 @@
   "Dopamine and motivation",
   "Bhagavad Gita philosophy of karma yoga",
   "Rise of the Ottoman Empire",
-  "Newton's Laws of Motion and momentum conservation: how fundamental physics powers everything from sports to rockets"
+  "Newton's Laws of Motion and momentum conservation: how fundamental physics powers everything from sports to rockets",
+  "Nalanda University history",
+  "Understanding TDS (Tax Deducted at Source) and Form 16: how your employer cuts taxes before you get paid and how to claim refunds",
+  "How crowdfunding and Kickstarter work: pre-selling products and validating demand before spending a dime on manufacturing",
+  "How Wi-Fi and Bluetooth transmit data through invisible radio waves: frequency bands, packets, and modulation explained simply",
+  "The biology and psychology of burnout: chronic exhaustion, depersonalization, and how the brain shuts down under prolonged pressure",
+  "The philosophy of personal identity: what makes you 'you' across time if every cell in your body changes and your memories fade?",
+  "The Black Death",
+  "How artificial hearts and ventricular assist devices keep humans alive when biological hearts fail"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
   "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
   "And, when you want something, all the universe conspires in helping you to achieve it.",
   "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
-  "We accept the love we think we deserve."
+  "We accept the love we think we deserve.",
+  "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life."
  ],
  "books": {
   "current": {
-   "title": "Wings of Fire",
-   "author": "A.P.J. Abdul Kalam",
-   "days_planned": 3,
-   "days_used": 2,
+   "gutenberg": 98,
+   "title": "A Tale of Two Cities",
+   "author": "Charles Dickens",
+   "days": 2,
+   "days_planned": 2,
+   "days_used": 1,
    "used": [
-    "My father used to avoid all non-essential comforts and luxur",
-    "To succeed in your mission, you must have single-minded devo"
+    "Tellson’s Bank by Temple Bar was an old-fashioned place, eve"
    ]
   },
   "done": [
-   "Gitanjali"
+   "Gitanjali",
+   "Wings of Fire"
   ]
  },
  "weekbooks_done": [
-  "Atomic Habits"
+  "Atomic Habits",
+  "Thinking, Fast and Slow"
  ],
  "weekbook": {
-  "title": "Atomic Habits",
-  "author": "James Clear",
-  "start": "2026-10-28",
-  "cover": "https://covers.openlibrary.org/b/id/12539702-M.jpg",
+  "title": "Thinking, Fast and Slow",
+  "author": "Daniel Kahneman",
+  "start": "2026-11-02",
+  "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
   "ideas": [
    {
-    "title": "Focus on systems instead of rigid goals",
-    "text": "Goals are about the results you want, while systems are about the processes that lead to those results. If you want to ace your semester exams, obsessing over top grades is less effective than building a daily two-hour study routine. Try setting a fixed time for studying today rather than just wishing to score high."
+    "title": "Your brain uses two different thinking systems",
+    "text": "Your mind relies on a fast, automatic system for quick guesses and a slow, logical system for tough problems. The fast system jumps to conclusions when you see a stranger's angry face before knowing the context. Pause for five seconds before reacting to a heated message today."
    },
    {
-    "title": "Make your desired habits completely obvious",
-    "text": "We often fail to act simply because cues are hidden in our cluttered rooms or busy minds. Placing your textbook right on your pillow ensures you see it the moment you wake up. Put your running shoes by the front door tonight so you literally trip over your cue tomorrow."
+    "title": "First impressions heavily distort later judgments",
+    "text": "The halo effect makes you assume someone good at one thing is brilliant at everything else. If a professor wears a sharp suit, you might wrongly think their lecture is flawless. Notice if your opinion of a new acquaintance is based on just one trait today."
    },
    {
-    "title": "Design your environment for better choices",
-    "text": "Willpower is a finite resource, so shape your surroundings to make good behavior easy and bad behavior hard. Keeping your phone in another room during study hours stops mindless scrolling before it starts. Hide your junk food on the highest shelf today so reaching for it takes real effort."
+    "title": "Losses hurt much more than gains feel good",
+    "text": "Loss aversion means the pain of dropping fifty rupees hits harder than the joy of finding it. Investors panic and sell stocks at a bottom just to stop the bleeding. Identify one minor fear of missing out that is currently driving your choices today."
    },
    {
-    "title": "Harness the power of tiny improvements",
-    "text": "Getting one percent better every day counts for a massive transformation over a single college year. Reading just ten pages of a non-fiction book daily adds up to over thirty books read annually. Pick one tedious task today and commit to improving just a tiny slice of it."
+    "title": "We rely too much on easily remembered stories",
+    "text": "The availability heuristic tricks us into thinking dramatic events happen constantly because we recall them vividly. After seeing news about a plane crash, you might irrationally fear flying more than driving. Check if your current worry is based on a viral news story today."
    },
    {
-    "title": "Pair new habits with actions you enjoy",
-    "text": "Temptation bundling links an action you need to do with an action you want to do. You can allow yourself to listen to your favorite podcast only while doing your laundry or washing utensils. Put on your favorite playlist today exclusively while cleaning your study desk."
+    "title": "Past random successes create false confidence",
+    "text": "Survivorship bias makes us copy the habits of extreme outliers while ignoring thousands who failed with the same strategy. Dropping out of college worked for Steve Jobs, but it ruined many others. Question whether your career idol succeeded through skill or sheer luck today."
    },
    {
-    "title": "Reduce friction for positive daily behaviors",
-    "text": "Human nature naturally gravitates toward the path of least resistance and maximum convenience. If you want to go to the gym, sleeping in your workout clothes cuts down the steps required to leave. Lay out your college outfit and bag tonight to make your morning departure frictionless."
+    "title": "We ignore baseline statistics for vivid tales",
+    "text": "The narrative fallacy makes us prefer a compelling personal story over boring statistical averages. You might buy a notoriously unreliable phone because your cousin had a good experience with it. Look up the actual failure rates of a gadget or course before buying it today."
    },
    {
-    "title": "Identity drives long term personal change",
-    "text": "True habit change is not about what you achieve, but who you ultimately believe you are. Instead of saying you are trying to study, act like an academic achiever who never skips class. Tell yourself you are a healthy person today before making a smart food choice."
+    "title": "Focusing too narrowly blinds you to reality",
+    "text": "What you see is all there is, meaning your brain builds a complete story from very limited evidence. When preparing for an exam, you often forget to factor in unexpected fatigue or sick days. Write down three missing variables in your current big life plan today."
    }
   ]
  }

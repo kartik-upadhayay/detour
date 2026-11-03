@@ -294,7 +294,16 @@
   "pallid",
   "lanky",
   "pith",
-  "muscular"
+  "muscular",
+  "haggard",
+  "humorless",
+  "hostile",
+  "irascible",
+  "impetuous",
+  "indignant",
+  "impassive",
+  "idiosyncratic",
+  "invidious"
  ],
  "loop": [
   "glazing",
@@ -549,7 +558,15 @@
   "mocking-spongebob",
   "bhai",
   "ambivalent-sexism",
-  "ui-ux"
+  "ui-ux",
+  "kat-kate",
+  "icmyi",
+  "bhai-log",
+  "scene-on",
+  "mid",
+  "cuckold",
+  "ngl-tbh",
+  "ship-of-theseus"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -876,7 +893,16 @@
   "trqDnLNRuSc",
   "LMt8xm4t7XQ",
   "3uV8XZcIBbk",
-  "sIl8vsWrD8o"
+  "sIl8vsWrD8o",
+  "bJLcIBixGj8",
+  "0LaoUV8Kp50",
+  "VJgHkAqohbU",
+  "BLBRRNwMZNE",
+  "84dYijIpWjQ",
+  "yH86jaBQ0F4",
+  "iRdcdtUPJd4",
+  "G5McJw4KkG8",
+  "AU4Nct1lEVU"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -958,7 +984,9 @@
   "https://pdst.fm/e/traffic.megaphone.fm/GLT6459272632.mp3",
   "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/bbb489b7-72a4-41d0-98e0-ff97d260114b/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=bbb489b7-72a4-41d0-98e0-ff97d260114b&feed=FO6kxYGj",
   "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/100c14de-ed43-4e47-9efc-11b6a1776ce1/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=100c14de-ed43-4e47-9efc-11b6a1776ce1&feed=FO6kxYGj",
-  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026"
+  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
+  "https://traffic.megaphone.fm/VMP9745758647.mp3",
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59a147ba-9575-41de-a57f-b4f001119cc1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1224,7 +1252,15 @@
   "The biology and psychology of burnout: chronic exhaustion, depersonalization, and how the brain shuts down under prolonged pressure",
   "The philosophy of personal identity: what makes you 'you' across time if every cell in your body changes and your memories fade?",
   "The Black Death",
-  "How artificial hearts and ventricular assist devices keep humans alive when biological hearts fail"
+  "How artificial hearts and ventricular assist devices keep humans alive when biological hearts fail",
+  "The story of Birsa Munda: how a tribal freedom fighter rebelled against British land laws",
+  "How credit default swaps and derivatives work: understanding financial risk and hedging instruments",
+  "The art of high-stakes negotiation: tactical empathy, framing, and closing deals successfully",
+  "The AI alignment problem: why controlling superintelligent artificial intelligence is a critical safety challenge",
+  "The neuroscience of self-control: how the prefrontal cortex manages willpower and resists instant gratification",
+  "Socratic method",
+  "The mystery of the Amber Room: the missing 8th wonder of the world looted during World War II",
+  "The chemistry of batteries: how lithium-ion movement powers modern electronics and electric vehicles"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
@@ -1232,7 +1268,8 @@
   "And, when you want something, all the universe conspires in helping you to achieve it.",
   "How wonderful it is that nobody need wait a single moment before starting to improve the world.",
   "We accept the love we think we deserve.",
-  "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life."
+  "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
+  "I am not afraid of storms, for I am learning how to sail my ship."
  ],
  "books": {
   "current": {
@@ -1241,9 +1278,10 @@
    "author": "Charles Dickens",
    "days": 2,
    "days_planned": 2,
-   "days_used": 1,
+   "days_used": 2,
    "used": [
-    "Tellson’s Bank by Temple Bar was an old-fashioned place, eve"
+    "Tellson’s Bank by Temple Bar was an old-fashioned place, eve",
+    "One year and three months. During all that time Lucie was ne"
    ]
   },
   "done": [

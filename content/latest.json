@@ -1,450 +1,455 @@
 {
   "schema": 1,
-  "date": "2026-11-02",
-  "generatedAt": "2026-11-02T06:35:51+00:00",
+  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T07:05:58+00:00",
   "words": [
     {
-      "word": "Malaise",
-      "pos": "noun",
-      "pronunciation": "muh-LAYZ",
-      "meaning": "A general feeling of discomfort, illness, or unease.",
-      "insteadOf": "feeling sick",
-      "example": "A strange afternoon malaise hit me right before the coding interview."
-    },
-    {
-      "word": "Languid",
+      "word": "Haggard",
       "pos": "adjective",
-      "pronunciation": "LANG-gwid",
-      "meaning": "Slow and relaxed, lacking physical energy.",
-      "insteadOf": "lazy",
-      "example": "We spent a languid Sunday afternoon sipping chai on the hostel balcony."
+      "pronunciation": "HAG-erd",
+      "meaning": "Looking exhausted and unwell, especially from fatigue.",
+      "insteadOf": "looking tired",
+      "example": "I looked completely haggard the morning after pulling an all-nighter for the hackathon."
     },
     {
-      "word": "Physique",
-      "pos": "noun",
-      "pronunciation": "fuh-ZEEK",
-      "meaning": "The form, size, and development of a person's body.",
-      "insteadOf": "body shape",
-      "example": "He completely transformed his physique by hitting the gym regularly this semester."
-    },
-    {
-      "word": "Pummel",
-      "pos": "verb",
-      "pronunciation": "PUH-muhl",
-      "meaning": "To strike repeatedly with the fists.",
-      "insteadOf": "beat up",
-      "example": "Our college team got pummeled in the inter-university cricket tournament."
-    },
-    {
-      "word": "Mettle",
-      "pos": "noun",
-      "pronunciation": "MET-uhl",
-      "meaning": "A person's ability to cope well with difficulties.",
-      "insteadOf": "toughness",
-      "example": "The overnight hackathon really tested our mental mettle."
-    },
-    {
-      "word": "Pallid",
+      "word": "Humorless",
       "pos": "adjective",
-      "pronunciation": "PAL-id",
-      "meaning": "Pale, typically because of poor health.",
-      "insteadOf": "looking pale",
-      "example": "He looked rather pallid after pulling three all-nighters for finals."
+      "pronunciation": "HYOO-mer-lis",
+      "meaning": "Lacking a sense of humor or refusing to laugh.",
+      "insteadOf": "too serious",
+      "example": "The professor was so humorless that even our cricket victory celebration felt quiet."
     },
     {
-      "word": "Lanky",
+      "word": "Hostile",
       "pos": "adjective",
-      "pronunciation": "LANG-kee",
-      "meaning": "Tall and thin with long, awkward limbs.",
-      "insteadOf": "tall and skinny",
-      "example": "The lanky fresher easily blocked every shot during basketball practice."
+      "pronunciation": "HOS-tyl",
+      "meaning": "Unfriendly and aggressive.",
+      "insteadOf": "mean",
+      "example": "The rival debating team adopted a hostile tone during the cross-questioning round."
     },
     {
-      "word": "Pith",
-      "pos": "noun",
-      "pronunciation": "PITH",
-      "meaning": "The essence of something.",
-      "insteadOf": "the main point",
-      "example": "Cut the fluff and get straight to the pith of your research paper."
-    },
-    {
-      "word": "Muscular",
+      "word": "Irascible",
       "pos": "adjective",
-      "pronunciation": "MUHS-kyuh-ler",
-      "meaning": "Having well-developed muscles.",
-      "insteadOf": "strong",
-      "example": "He's been working on a muscular build for his upcoming trekking trip."
+      "pronunciation": "ih-RAS-uh-buhl",
+      "meaning": "Having or showing a tendency to be easily angered.",
+      "insteadOf": "short-tempered",
+      "example": "The database administrator is notoriously irascible if you query without indexing."
+    },
+    {
+      "word": "Impetuous",
+      "pos": "adjective",
+      "pronunciation": "im-PET-oo-uhs",
+      "meaning": "Acting or done quickly without thought or care.",
+      "insteadOf": "impulsive",
+      "example": "Dropping out of the elective course was an impetuous decision I later regretted."
+    },
+    {
+      "word": "Indignant",
+      "pos": "adjective",
+      "pronunciation": "in-DIG-nuhnt",
+      "meaning": "Feeling or showing anger at what is perceived as unfair treatment.",
+      "insteadOf": "offended",
+      "example": "We were all indignant when the internship stipend was suddenly cut in half."
+    },
+    {
+      "word": "Impassive",
+      "pos": "adjective",
+      "pronunciation": "im-PAS-iv",
+      "meaning": "Not feeling or showing emotion.",
+      "insteadOf": "blank-faced",
+      "example": "He sat entirely impassive while the panel grilled him on his final year project."
+    },
+    {
+      "word": "Idiosyncratic",
+      "pos": "adjective",
+      "pronunciation": "id-ee-oh-sin-KRAT-ik",
+      "meaning": "Relating to peculiar or individual structural traits.",
+      "insteadOf": "quirky",
+      "example": "Her idiosyncratic coding style makes peer-reviewing her pull requests an adventure."
+    },
+    {
+      "word": "Invidious",
+      "pos": "adjective",
+      "pronunciation": "in-VID-ee-uhs",
+      "meaning": "Arousing or likely to arouse resentment or anger in others.",
+      "insteadOf": "unfair",
+      "example": "Comparing students based on internal test scores puts an invidious pressure on us."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Jugaad",
-      "meaning": "An innovative fix or a resourceful workaround using whatever meager items are available.",
-      "example": "The car bumper was falling off, but some duct tape and a wire gave it a proper desi jugaad fix.",
-      "context": "Widely used across India and growing globally in startup culture to describe scrappy problem-solving.",
-      "tone": "casual",
+      "term": "Kat Kate",
+      "meaning": "An Indian internet slang term used to describe someone who switches sides or changes their stance depending on who is watching or what benefits them.",
+      "example": "Bro is a total Kat Kate, praising management to their face and roasting them on the group chat.",
+      "context": "Used heavily in college and office gossip in India. Casual and mocking, but rarely used with genuine malice.",
+      "tone": "mocking",
       "nsfw": false,
-      "id": "jugaad"
-    },
-    {
-      "type": "psych",
-      "term": "Ego depletion",
-      "meaning": "The pop-psychology theory that self-control and willpower are finite resources that get used up throughout the day.",
-      "example": "I had a great morning workout and ate clean all day, but my ego depletion is real and I just ordered a large pizza at midnight.",
-      "context": "Brought up when explaining why you caved to bad habits, junk food, or procrastination after a long workday.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "ego-depletion"
+      "id": "kat-kate"
     },
     {
       "type": "acronym",
-      "term": "SOP",
-      "meaning": "Standard Operating Procedure, referring to an established or official way of doing a routine task.",
-      "example": "Don't stress about the client onboarding call, just follow the standard SOP document.",
-      "context": "Used constantly in corporate offices, startup pitches, and procedural reels on productivity.",
+      "term": "ICMYI",
+      "meaning": "In Case You Missed It, used when sharing a piece of news, article, or internet drama that happened recently.",
+      "example": "ICMYI, the local cafe we loved shut down last week after a rent dispute.",
+      "context": "Standard internet shorthand used in group chats, newsletters, and social media captions.",
       "tone": "casual",
       "nsfw": false,
-      "id": "sop"
-    },
-    {
-      "type": "paradox",
-      "term": "Bootstrap paradox",
-      "meaning": "A causal loop where an object or piece of information is sent back in time, meaning it has no clear origin or creator.",
-      "example": "If I go back in time and give Shakespeare his own published plays to copy down, who actually wrote them?",
-      "context": "Often brought up in sci-fi discussions, time travel debates, or when talking about cyclical internet memes that seem to have no clear beginning.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "bootstrap-paradox"
-    },
-    {
-      "type": "meme",
-      "term": "Mocking SpongeBob",
-      "meaning": "The alternating uppercase and lowercase text format paired with a warped SpongeBob image to repeat someone s foolish statement back to them.",
-      "example": "mY sTaRtUp Is GoInG tO dIsRuPt ThE fOoD dElIvErY iNdUsTrY.",
-      "context": "Used in text arguments or replies to mimic and ridicule pretentious or absurd claims.",
-      "tone": "mocking",
-      "nsfw": false,
-      "id": "mocking-spongebob"
+      "id": "icmyi"
     },
     {
       "type": "slang",
-      "term": "Bhai",
-      "meaning": "Brother or buddy, used as a casual and affectionate term of address among friends in India.",
-      "example": "Bhai, you won't believe what happened at the traffic signal this morning.",
-      "context": "Ubiquitous in everyday Indian conversations, reels, and casual chats.",
+      "term": "Bhai Log",
+      "meaning": "Literally translates to 'brothers people', used affectionately to refer to one's close circle of male friends or homies.",
+      "example": "Bhai log, we need to pool in money for the trip advance tonight.",
+      "context": "Ubiquitous in Indian guy friend groups. Can range from street-style swagger to warm camaraderie.",
       "tone": "casual",
       "nsfw": false,
-      "id": "bhai"
+      "id": "bhai-log"
+    },
+    {
+      "type": "slang",
+      "term": "Scene On",
+      "meaning": "An affirmation meaning the plan is confirmed, the hangout is happening, or the vibe is successfully set.",
+      "example": "The club manager let us in without cover charges, so the scene is fully on.",
+      "context": "Used during group planning when logistics finally lock into place. Very common in Delhi and Mumbai youth circles.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "scene-on"
+    },
+    {
+      "type": "slang",
+      "term": "Mid",
+      "meaning": "Average, mediocre, overhyped.",
+      "example": "Everyone hyped that cafe, but honestly the food was mid.",
+      "tone": "mocking",
+      "context": "Dismissive review of food, movies, songs or people's takes.",
+      "id": "mid",
+      "nsfw": false
     },
     {
       "type": "psych",
-      "term": "Ambivalent sexism",
-      "meaning": "A psychological framework splitting sexism into hostile attitudes and seemingly benevolent but restrictive attitudes toward gender roles.",
-      "example": "Holding the door open while secretly assuming she can't handle her own luggage is a textbook example of ambivalent sexism.",
-      "context": "Commonly discussed in sociology, modern dating discourse, and gender studies podcasts.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "ambivalent-sexism"
+      "term": "Cuckold",
+      "meaning": "Historically a man whose wife cheats on him; now also a fetish where someone is aroused by their partner being with someone else.",
+      "example": "Appears in cheating stories and as an insult ('cuck') online.",
+      "tone": "crude",
+      "context": "'Cuck' is a common online insult for a weak or submissive man.",
+      "nsfw": true,
+      "id": "cuckold"
     },
     {
       "type": "acronym",
-      "term": "UI UX",
-      "meaning": "User Interface and User Experience, referring to how a digital product looks and how easy it is to navigate.",
-      "example": "The app has amazing UI UX design, but the actual backend crashes every five minutes.",
-      "context": "Standard tech slang used by founders, designers, and anyone building an app or website.",
+      "term": "NGL / TBH",
+      "meaning": "Not gonna lie / to be honest.",
+      "example": "NGL, the sequel was better.",
       "tone": "casual",
-      "nsfw": false,
-      "id": "ui-ux"
+      "context": "Softens an honest opinion.",
+      "id": "ngl-tbh",
+      "nsfw": false
+    },
+    {
+      "type": "paradox",
+      "term": "Ship of Theseus",
+      "meaning": "If you replace every part of a ship one by one, is it still the same ship?",
+      "example": "'After 10 years and a new everything, is it still the same band?' Ship of Theseus.",
+      "tone": "playful",
+      "context": "Used for identity questions: people changing, bands with new members, your body's cells.",
+      "id": "ship-of-theseus",
+      "nsfw": false
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Cyclonic storm Murasu has prompted the deployment of disaster response teams and flight cancellations in southern states as authorities brace for landfall.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/andhra-pradesh/cyclonic-storm-murasu-to-make-landfall-close-to-ongole/article71654237.ece"
-      },
-      {
-        "text": "Three AAP legislators in Punjab have resigned and joined the BJP ahead of the upcoming 2027 state assembly elections.",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/big-blow-to-aap-as-three-mlas-resign-join-bjp-ahead-of-2027-assembly-polls-harmeet-singh-pathanmajra-chetan-singh-jouramajra-kunwar-vijay-prata-101793599396364.html"
-      },
-      {
-        "text": "Madras High Court has ruled that non-Hindus with religious markers should not be permitted entry into Agamic temples unless they follow local customs.",
+        "text": "Delhi's air quality index surged to 324, crossing the 300-mark threshold to enter the 'very poor' category for the first time this season.",
         "source": "Mint",
-        "url": "https://www.livemint.com/news/india/would-defile-sanctity-madras-hc-says-non-hindus-with-religious-markers-should-not-be-allowed-entry-in-agamic-temples-11793597499499.html"
+        "url": "https://www.livemint.com/news/india/shocked-by-the-sudden-delhi-haze-smog-and-whatnot-this-is-the-reason-11793681560023.html"
       },
       {
-        "text": "Indian rupee fell 21 paise to trade at 94.97 against the US dollar in early trade amid ongoing market pressures.",
+        "text": "Cyclone Murasu made landfall on the Andhra Pradesh coast, bringing heavy rain and winds reaching 120 kmph to the southern region.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/cyclone-murasus-eye-touches-andhras-coast-as-landfall-continues-heavy-rain-120-kmph-winds-batter-shore-11793668983271.html"
+      },
+      {
+        "text": "An Indian national was killed and two others injured after two helicopters collided near the Mount Everest base camp in Nepal.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/world/indian-national-killed-two-others-injured-after-helicopters-collide-near-mount-everest-base-camp-in-nepal-watch-video-11793687568876.html"
+      },
+      {
+        "text": "The Ministry of External Affairs confirmed that an Indian seafarer was killed and another vessel attacked off the Oman coast.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/targeting-civilian-infrastructure-must-end-mea-after-indian-national-killed-in-attack-on-ship-in-oman/articleshow/135485434.cms"
+      },
+      {
+        "text": "The Supreme Court took judicial note of media reports regarding the open sale of firecrackers in Delhi markets and ordered government action.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/supreme-court-takes-note-of-ht-report-on-sale-firecrackers-delhi-ncr-qr-no-qr-everything-available-sc-101793686859170.html"
+      },
+      {
+        "text": "The Reserve Bank of India reopened urban cooperative bank licensing after 22 years alongside the introduction of new audit regulations.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/markets/sensex-jumps-765-points-during-early-trade-on-sharp-rally-in-reliance-shares-decline-in-oil-prices/article71655320.ece"
+        "url": "https://www.thehindu.com/business/Economy/after-22-years-rbi-reopens-ucb-licensing-can-new-audit-rules-ensure-a-safer-banking-sector-explained/article71659655.ece"
       },
       {
-        "text": "Coal India reported a 19 percent increase in production as mining operations recovered following the monsoon season.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Economy/coal-indias-production-increases-19-as-mining-recovers-after-monsoon-slump/article71652572.ece"
-      },
-      {
-        "text": "Gross GST collections surged 23 percent to reach Rs 2.31 lakh crore in October driven by strong festive demand.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Economy/gst-collections-in-october/article71652320.ece"
-      },
-      {
-        "text": "Enforcement Directorate has registered a money laundering case against Subhash Chandra under the Prevention of Money Laundering Act.",
+        "text": "The central government proposed ten new import gateways for drugs and medical devices to reduce inland transportation distances and ease logistics.",
         "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/ed-registers-money-laundering-case-against-subhash-chandra/article71655520.ece"
+        "url": "https://www.thehindu.com/news/national/centre-proposes-10-new-import-gateways-for-drugs-medical-devices/article71659502.ece"
       },
       {
-        "text": "Domestic passenger vehicle dispatches crossed the five-lakh unit mark in October, registering strong year-on-year growth.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/domestic-pv-dispatches-cross-five-lakh-units-mark-in-october-on-strong-festive-demand/article71652936.ece"
+        "text": "India and Israel voted against a United Nations General Assembly draft resolution concerning regional conventional arms control.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/national/india-israel-vote-against-unga-draft-on-regional-conventional-arms-control/article71659577.ece"
+      },
+      {
+        "text": "The Ministry of Electronics and Information Technology launched a handbook to ensure safe data sharing practices for artificial intelligence training.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/education/meity-launches-new-handbook-to-ensure-safe-data-sharing-for-ai-training-12274604#publisher=newsstand"
       }
     ],
     "world": [
       {
-        "text": "US President Donald Trump held final campaign rallies ahead of the crucial midterms, focusing heavily on tight congressional control races.",
+        "text": "United States military forces carried out limited strikes on Iran's Qeshm Island ahead of the midterm elections, according to officials.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Cryptocurrency exchange Binance resumed customer withdrawals after a record $6.3bn hack, with the FBI attributing the attack to North Korea.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/business/2026/nov/01/binance-losses-covered-hack-fbi-north-korea-cryptocurrency"
-      },
-      {
-        "text": "A small jet crash on a Florida street near Mar-a-Lago left all nine people aboard dead.",
+        "text": "Russian bombing attacks in Ukraine killed 26 people at an aid centre following the expiration of a regional ceasefire in Kherson.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Ukraine resumed attacks on Russian oil refineries, defying pressure from the United States ahead of the upcoming midterm elections.",
+        "text": "Voters across the United States head to the polls for midterm elections that will determine control of both congressional chambers.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/us-votes-for-mid-term-elections-seen-as-referendum-on-trump/article71659267.ece"
+      },
+      {
+        "text": "Reserve Bank of Australia hiked its official cash rate to 4.85%, marking the fifth increase in a bid to curb economic pressures.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/01/ukraine-defies-trump-resumes-attacks-russian-oil"
+        "url": "https://www.theguardian.com/australia-news/2026/nov/03/rba-interest-rates-decision-cash-rate-november-reserve-bank-australia"
       },
       {
-        "text": "Iliana Iotova won Bulgaria’s presidential runoff, becoming the country’s first elected female president.",
-        "source": "Al Jazeera",
-        "url": "https://www.aljazeera.com/video/newsfeed/2026/11/2/bulgaria-has-its-first-elected-female-president?traffic_source=rss"
+        "text": "Supermarket refrigeration systems in seven European countries malfunctioned following a suspected cyber-attack that spiked internal temperatures.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kd1nee80eo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "8-EyxMuvE9A",
-      "title": "How Does Crowdfunding Work in 2026?",
-      "channel": "LaunchBoom",
-      "category": "business",
-      "url": "https://www.youtube.com/watch?v=8-EyxMuvE9A",
-      "thumbnail": "https://i.ytimg.com/vi/8-EyxMuvE9A/hqdefault.jpg",
+      "id": "bJLcIBixGj8",
+      "title": "The OTHER AI Alignment Problem: Mesa-Optimizers and Inner Alignment",
+      "channel": "Robert Miles AI Safety ",
+      "category": "ai",
+      "url": "https://www.youtube.com/watch?v=bJLcIBixGj8",
+      "thumbnail": "https://i.ytimg.com/vi/bJLcIBixGj8/hqdefault.jpg",
       "published": "",
-      "learn": "How creators validate product demand and fund manufacturing before spending any money.",
-      "minutes": 14
+      "learn": "Why aligning superintelligent artificial intelligence is a critical and complex safety challenge.",
+      "minutes": 23
     },
     "more": [
       {
-        "id": "aG5WeudruRw",
-        "title": "How the world's oldest university was lost for 800 years – BBC REEL",
-        "channel": "BBC Global",
+        "id": "0LaoUV8Kp50",
+        "title": "Birsa Munda | Munda Ulgulan 1899 | Complete Story | THE HISTORY FILES | Edu Teria IAS",
+        "channel": "EDU TERIA IAS",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=aG5WeudruRw",
-        "thumbnail": "https://i.ytimg.com/vi/aG5WeudruRw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0LaoUV8Kp50",
+        "thumbnail": "https://i.ytimg.com/vi/0LaoUV8Kp50/hqdefault.jpg",
         "published": "",
-        "learn": "How the ancient world's greatest center of learning rose, fell, and vanished.",
-        "minutes": 7
+        "learn": "How Birsa Munda mobilized indigenous tribes against oppressive British land laws and exploitation.",
+        "minutes": 15
       },
       {
-        "id": "RIQ0Af8O8iE",
-        "title": "#1 What is TDS? | Why is TDS Deducted? | All About TDS | New Tax Rules 2025 Explained!",
-        "channel": "Accounts Advice",
+        "id": "VJgHkAqohbU",
+        "title": "Stock Options Explained",
+        "channel": "The Plain Bagel",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=RIQ0Af8O8iE",
-        "thumbnail": "https://i.ytimg.com/vi/RIQ0Af8O8iE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=VJgHkAqohbU",
+        "thumbnail": "https://i.ytimg.com/vi/VJgHkAqohbU/hqdefault.jpg",
         "published": "",
-        "learn": "How employers deduct taxes at the source and what rules govern your refund.",
-        "minutes": 26
+        "learn": "How stock options work and how to evaluate financial risk using derivative instruments.",
+        "minutes": 10
       },
       {
-        "id": "Ax7dYaRiY6o",
-        "title": "How Information Travels Wirelessly",
-        "channel": "MITK12Videos",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=Ax7dYaRiY6o",
-        "thumbnail": "https://i.ytimg.com/vi/Ax7dYaRiY6o/hqdefault.jpg",
+        "id": "BLBRRNwMZNE",
+        "title": "HARVARD Negotiator:  How To Get What You Want Every Time",
+        "channel": "LITTLE BIT BETTER",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=BLBRRNwMZNE",
+        "thumbnail": "https://i.ytimg.com/vi/BLBRRNwMZNE/hqdefault.jpg",
         "published": "",
-        "learn": "How invisible radio waves package and transmit data between devices without wires.",
-        "minutes": 7
+        "learn": "How to use tactical empathy and strategic framing to navigate high-stakes negotiations successfully.",
+        "minutes": 11
       },
       {
-        "id": "GT8qV326V-8",
-        "title": "The Neuroscience of Exhaustion: How to Stay Motivated",
-        "channel": "Sense of Mind",
+        "id": "84dYijIpWjQ",
+        "title": "How to Build Extreme Willpower | David Goggins & Dr. Andrew Huberman",
+        "channel": "Huberman Lab Clips",
         "category": "mind",
-        "url": "https://www.youtube.com/watch?v=GT8qV326V-8",
-        "thumbnail": "https://i.ytimg.com/vi/GT8qV326V-8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=84dYijIpWjQ",
+        "thumbnail": "https://i.ytimg.com/vi/84dYijIpWjQ/hqdefault.jpg",
         "published": "",
-        "learn": "How chronic workplace pressure physically exhausts the brain and drains motivation.",
-        "minutes": 25
+        "learn": "How the prefrontal cortex regulates willpower and builds resilience against instant gratification.",
+        "minutes": 13
       },
       {
-        "id": "trqDnLNRuSc",
-        "title": "Personal Identity: Crash Course Philosophy #19",
-        "channel": "CrashCourse",
+        "id": "yH86jaBQ0F4",
+        "title": "A Lesson From Socrates That Will Change The Way You Think",
+        "channel": "Robot Banana",
         "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=trqDnLNRuSc",
-        "thumbnail": "https://i.ytimg.com/vi/trqDnLNRuSc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yH86jaBQ0F4",
+        "thumbnail": "https://i.ytimg.com/vi/yH86jaBQ0F4/hqdefault.jpg",
         "published": "",
-        "learn": "What criteria define your continuous self when your body and memories change.",
-        "minutes": 8
-      },
-      {
-        "id": "LMt8xm4t7XQ",
-        "title": "Why plague doctors wore beaked masks",
-        "channel": "TED-Ed",
-        "category": "history",
-        "url": "https://www.youtube.com/watch?v=LMt8xm4t7XQ",
-        "thumbnail": "https://i.ytimg.com/vi/LMt8xm4t7XQ/hqdefault.jpg",
-        "published": "",
-        "learn": "Why medieval plague doctors wore those iconic beaked masks during the pandemic.",
+        "learn": "How to use targeted questioning to uncover hidden assumptions and transform your thinking.",
         "minutes": 5
       },
       {
-        "id": "3uV8XZcIBbk",
-        "title": "Permanent Artificial Hearts Are Closer Than You Think",
-        "channel": "Bloomberg Originals",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=3uV8XZcIBbk",
-        "thumbnail": "https://i.ytimg.com/vi/3uV8XZcIBbk/hqdefault.jpg",
+        "id": "iRdcdtUPJd4",
+        "title": "The Amber Room - A Nazi Treasure Mystery",
+        "channel": "Mark Felton Productions",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=iRdcdtUPJd4",
+        "thumbnail": "https://i.ytimg.com/vi/iRdcdtUPJd4/hqdefault.jpg",
         "published": "",
-        "learn": "How mechanical pumps and artificial organs maintain blood circulation when hearts fail.",
-        "minutes": 12
+        "learn": "How the legendary Amber Room vanished during World War II and remains a mystery.",
+        "minutes": 5
       },
       {
-        "id": "sIl8vsWrD8o",
-        "title": "When I met a Delhi Girl | Zakir Khan | Stand-Up Comedy | AIB Diwas",
-        "channel": "Zakir Khan",
+        "id": "G5McJw4KkG8",
+        "title": "How do Lithium-ion Batteries Work?",
+        "channel": "Branch Education",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=G5McJw4KkG8",
+        "thumbnail": "https://i.ytimg.com/vi/G5McJw4KkG8/hqdefault.jpg",
+        "published": "",
+        "learn": "How lithium-ion movement generates electrical energy to power modern devices and vehicles.",
+        "minutes": 9
+      },
+      {
+        "id": "AU4Nct1lEVU",
+        "title": "Kanpur & River Ganga - Stand Up Comedy by Harsh Gujral",
+        "channel": "Harsh gujral",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=sIl8vsWrD8o",
-        "thumbnail": "https://i.ytimg.com/vi/sIl8vsWrD8o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AU4Nct1lEVU",
+        "thumbnail": "https://i.ytimg.com/vi/AU4Nct1lEVU/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 11
+        "minutes": 12
       }
     ]
   },
   "podcasts": [
     {
-      "id": "ologies-mothman-mythology-yes-mothman-with-jeff-wamsley",
-      "title": "Mothman Mythology (YES, MOTHMAN) with Jeff Wamsley",
-      "show": "Ologies",
-      "category": "science",
-      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/100c14de-ed43-4e47-9efc-11b6a1776ce1/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=100c14de-ed43-4e47-9efc-11b6a1776ce1&feed=FO6kxYGj",
-      "link": "https://www.siriusxm.com",
-      "durationSec": 5023,
+      "id": "how-i-built-this-airbnb-ceo-brian-chesky-i-was-a-great-founder-and-a-terrible-ce",
+      "title": "Airbnb CEO Brian Chesky: “I Was a Great Founder and a Terrible CEO”",
+      "show": "How I Built This",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/VMP9745758647.mp3",
+      "link": "https://youtu.be/ZYf-DfxJg1c⁠",
+      "durationSec": 4537,
       "startSec": null,
-      "why": "Unraveling the wild mythology and bizarre science of Mothman makes bedtime endlessly entertaining."
+      "why": "Hear how a 26-year-old turned air mattresses into a multi-billion-dollar global empire."
     },
     {
-      "id": "planet-money-is-this-how-the-great-international-borrowing-spree-ends",
-      "title": "Is this how the great international borrowing spree ends?",
-      "show": "Planet Money",
-      "category": "money",
-      "audioUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/da5ac6fe-f193-4ead-991e-b95e74c47923/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=da5ac6fe-f193-4ead-991e-b95e74c47923&feed=hvWWWzRv&t=podcast&e=nx-s1-6023794&p=510289&d=1551&size=24826026",
-      "link": "https://www.npr.org/2026/10/30/nx-s1-6023794/france-protests-students-bonds-debt",
-      "durationSec": 1551,
+      "id": "stuff-you-should-know-selects-salem-witchcraft-trials-more-bonkers-than-you-know",
+      "title": "Selects: Salem Witchcraft Trials: More Bonkers Than You Know",
+      "show": "Stuff You Should Know",
+      "category": "science",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59a147ba-9575-41de-a57f-b4f001119cc1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+      "link": "https://omny.fm/shows/stuff-you-should-know-1/selects-salem-witchcraft-trials-more-bonkers-than-you-know",
+      "durationSec": 3019,
       "startSec": null,
-      "why": "A casual, fascinating breakdown of how a massive global economy starts teetering."
+      "why": "Uncover the wild, shocking truth behind the Salem witch trials with a casual deep dive."
     }
   ],
   "onThisDay": [
     {
-      "year": 1965,
+      "year": 1618,
       "kind": "born",
-      "text": "Shah Rukh Khan was born, growing up to become one of Indian cinema's most globally renowned and influential cultural icons.",
-      "url": "https://en.wikipedia.org/wiki/Shah_Rukh_Khan",
+      "text": "Mughal Emperor Aurangzeb was born, significantly expanding the empire to its greatest territorial extent during his controversial reign.",
+      "url": "https://en.wikipedia.org/wiki/Aurangzeb",
       "india": true
     },
     {
-      "year": 1877,
+      "year": 1933,
       "kind": "born",
-      "text": "Aga Khan III was born, later becoming a prominent leader of the All-India Muslim League and an advocate for higher education.",
-      "url": "https://en.wikipedia.org/wiki/Aga_Khan_III",
+      "text": "Renowned Indian economist and Nobel laureate Amartya Sen was born, known for his pioneering work on welfare economics and famine prevention.",
+      "url": "https://en.wikipedia.org/wiki/Amartya_Sen",
       "india": true
     },
     {
-      "year": 2012,
-      "kind": "died",
-      "text": "Shreeram Shankar Abhyankar died, leaving behind a profound legacy in algebraic geometry that influenced mathematics worldwide.",
-      "url": "https://en.wikipedia.org/wiki/Shreeram_Shankar_Abhyankar",
-      "india": true
-    },
-    {
-      "year": 2000,
+      "year": 1838,
       "kind": "event",
-      "text": "The first resident crew arrived at the International Space Station, marking a major milestone in permanent human habitation of space.",
-      "url": "https://en.wikipedia.org/wiki/Expedition_1",
+      "text": "The Times of India was founded as The Bombay Times and Journal of Commerce, growing to become a globally influential English-language daily.",
+      "url": "https://en.wikipedia.org/wiki/The_Times_of_India",
+      "india": true
+    },
+    {
+      "year": 1957,
+      "kind": "event",
+      "text": "The Soviet Union launched Sputnik 2, carrying the space dog Laika as the first living creature to enter Earth's orbit.",
+      "url": "https://en.wikipedia.org/wiki/Sputnik_2",
       "india": false
     },
     {
-      "year": 1917,
+      "year": 1534,
       "kind": "event",
-      "text": "The British government issued the Balfour Declaration, which significantly shaped the geopolitical future of the Middle East by supporting a Jewish homeland.",
-      "url": "https://en.wikipedia.org/wiki/Balfour_Declaration",
+      "text": "The English Parliament passed the Act of Supremacy, making King Henry VIII the head of the Church of England and breaking ties with the Pope.",
+      "url": "https://en.wikipedia.org/wiki/Parliament_of_England",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "TV actor Anuj Thakur tragically passed away at age 33 following a seizure in his sleep, sending shockwaves through social media.",
-      "why": "Sudden celebrity tragedy going viral everywhere.",
-      "url": "https://www.ndtv.com/entertainment/tv-actor-anuj-thakur-dies-at-33-after-seizure-friend-says-met-him-10-days-ago-12269620",
-      "source": "NDTV"
+      "text": "Gold prices dropped sharply across India, hitting a one-year low ahead of Dhanteras and making yellow metal cheaper.",
+      "why": "Everyone checking festive gold rates before buying.",
+      "url": "https://www.bbc.com/hindi/articles/c52e9lmd72e0o",
+      "source": "BBC"
     },
     {
-      "text": "Rahul Gandhi claimed that CEC Gyanesh Kumar will be jailed for treason amid opposition rallies against voter roll revisions.",
-      "why": "Explosive political attacks sparking massive online arguments.",
-      "url": "https://www.reddit.com/r/india/comments/1xl56av/rahul_gandhi_says_cec_gyanesh_kumar_will_be/",
+      "text": "Rahul Gandhi publicly challenged PM Modi to a debate on foreign help, declaring he is ready on any stage.",
+      "why": "Massive political showdown sparking fierce online debates.",
+      "url": "https://www.reddit.com/r/india/comments/1xlx41r/any_stage_any_time_rahul_gandhi_challenges_pm/",
       "source": "r/india"
     },
     {
-      "text": "Piyush Goyal claimed a foreign deputy PM pressured him regarding his daughter's Bollywood career plans.",
-      "why": "Wild behind-the-scenes political revelation getting heavy traction.",
-      "url": "https://www.reddit.com/r/india/comments/1xkwo8r/foreign_deputy_pm_pressuring_me_over_daughters/",
+      "text": "The Supreme Court refused an urgent plea against skyrocketing airfares during the Diwali travel rush.",
+      "why": "Peak festive travel frustration hitting social media hard.",
+      "url": "https://www.reddit.com/r/india/comments/1xlswj3/dont_travel_by_air_supreme_court_refuses_urgent/",
       "source": "r/india"
     },
     {
-      "text": "Ukraine's air raid alert system was hacked, triggering false nuclear and chemical warnings across the country.",
-      "why": "Terrifying cyberattack making global headlines instantly.",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xlf29x/ukraines_air_raid_alert_system_hacked_air_force/",
-      "source": "r/worldnews"
+      "text": "Bollywood actor Imran Khan issued an unconditional apology to the Bombay High Court over a protest against the Election Commission.",
+      "why": "Celebrity court drama making headlines everywhere.",
+      "url": "https://www.reddit.com/r/india/comments/1xlwla3/imran_khan_apologises_to_bombay_high_court_over/",
+      "source": "r/india"
     },
     {
-      "text": "Two oil tankers reportedly exploded after hitting a mine in the Hormuz Strait, according to the IRGC.",
-      "why": "Major Middle East escalation raising global tensions.",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xlevh8/two_oil_tankers_explode_after_hitting_mine_in/",
-      "source": "r/worldnews"
+      "text": "Patanjali faced strict action from Tukaram Mundhe in Mumbai with authorities seizing ghee worth over 20 lakh rupees.",
+      "why": "Major brand raid sparking immediate social media memes.",
+      "url": "https://www.reddit.com/r/india/comments/1xmkobz/patanjali_faces_tukaram_mundhe_action_ghee_worth/",
+      "source": "r/india"
     }
   ],
   "read": {
     "quote": {
-      "text": "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
-      "author": "F. Scott Fitzgerald",
-      "book": "The Great Gatsby"
+      "text": "I am not afraid of storms, for I am learning how to sail my ship.",
+      "author": "Louisa May Alcott",
+      "book": "Little Women"
     },
     "passage": {
-      "text": "Tellson’s Bank by Temple Bar was an old-fashioned place, even in the year one thousand seven hundred and eighty. It was very small, very dark, very ugly, very incommodious. It was an old-fashioned place, moreover, in the moral attribute that the partners in the House were proud of its smallness, proud of its darkness, proud of its ugliness, proud of its incommodiousness. They were even boastful of its eminence in those particulars, and were fired by an express conviction that, if it were less objectionable, it would be less respectable. This was no passive belief, but an active weapon which they flashed at more convenient places of business. Tellson’s (they said) wanted no elbow-room, Tellson’s wanted no light, Tellson’s wanted no embellishment. Noakes and Co.’s might, or Snooks Brothers’ might; but Tellson’s, thank Heaven--!",
+      "text": "One year and three months. During all that time Lucie was never sure, from hour to hour, but that the Guillotine would strike off her husband’s head next day. Every day, through the stony streets, the tumbrils now jolted heavily, filled with Condemned. Lovely girls; bright women, brown-haired, black-haired, and grey; youths; stalwart men and old; gentle born and peasant born; all red wine for La Guillotine, all daily brought into light from the dark cellars of the loathsome prisons, and carried to her through the streets to slake her devouring thirst. Liberty, equality, fraternity, or death;--the last, much the easiest to bestow, O Guillotine!",
       "book": "A Tale of Two Cities",
       "author": "Charles Dickens",
-      "context": "",
+      "context": "During the French Revolution, Lucie Manette lives in constant terror that her imprisoned husband will be executed by the guillotine.",
       "source": "gutenberg",
-      "day": 1,
+      "day": 2,
       "days": 2
     },
     "weekBook": {
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
       "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
-      "day": 1,
+      "day": 2,
       "ideas": [
         {
           "title": "Your brain uses two different thinking systems",

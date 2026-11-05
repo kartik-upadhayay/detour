@@ -1,0 +1,486 @@
+{
+  "schema": 1,
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T07:10:11+00:00",
+  "words": [
+    {
+      "word": "Veneer",
+      "pos": "noun",
+      "pronunciation": "vuh-NEER",
+      "meaning": "An attractive appearance that conceals someone's true nature or feelings.",
+      "insteadOf": "fake smile",
+      "example": "He dropped his cheerful veneer after messing up the DBMS viva."
+    },
+    {
+      "word": "Nefarious",
+      "pos": "adjective",
+      "pronunciation": "nuh-FAIR-ee-us",
+      "meaning": "Wicked or criminal, usually describing an activity or plot.",
+      "insteadOf": "shady",
+      "example": "We suspected some nefarious activity behind the rigged college fest voting."
+    },
+    {
+      "word": "Ostensible",
+      "pos": "adjective",
+      "pronunciation": "os-TEN-suh-buhl",
+      "meaning": "Stated or appearing to be true, but not necessarily so.",
+      "insteadOf": "supposedly",
+      "example": "His ostensible reason for missing the lecture was a doctor's appointment."
+    },
+    {
+      "word": "Verisimilitude",
+      "pos": "noun",
+      "pronunciation": "ver-uh-si-MIL-i-tood",
+      "meaning": "The appearance of being true or real.",
+      "insteadOf": "realism",
+      "example": "The indie game lacked verisimilitude in how the physics engine handled gravity."
+    },
+    {
+      "word": "Nullify",
+      "pos": "verb",
+      "pronunciation": "NUHL-uh-fy",
+      "meaning": "Make legally null and void; cancel out.",
+      "insteadOf": "cancel",
+      "example": "A single syntax error will nullify the entire compilation of our code."
+    },
+    {
+      "word": "Vindictive",
+      "pos": "adjective",
+      "pronunciation": "vin-DIK-tiv",
+      "meaning": "Having or showing a strong or unreasoning desire for revenge.",
+      "insteadOf": "holding a grudge",
+      "example": "She was too vindictive to let go of a stolen hostel snack debate."
+    },
+    {
+      "word": "Noncommittal",
+      "pos": "adjective",
+      "pronunciation": "non-kuh-MIT-uhl",
+      "meaning": "Not expressing or revealing commitment to a definite opinion or course of action.",
+      "insteadOf": "being vague",
+      "example": "Our senior gave a noncommittal response about joining the hackathon team."
+    },
+    {
+      "word": "Overt",
+      "pos": "adjective",
+      "pronunciation": "oh-VURT",
+      "meaning": "Done or shown openly; plainly apparent or not secret.",
+      "insteadOf": "obvious",
+      "example": "His overt bias during the debate judging annoyed everyone in the hall."
+    },
+    {
+      "word": "Notorious",
+      "pos": "adjective",
+      "pronunciation": "noh-TOR-ee-us",
+      "meaning": "Famous or well known, typically for some bad quality or deed.",
+      "insteadOf": "infamous",
+      "example": "That one mess hall dinner is notorious for making half the hostel sick."
+    }
+  ],
+  "loop": [
+    {
+      "type": "slang",
+      "term": "Bande",
+      "meaning": "An Indian slang term for a guy or dude, often used casually among friends to refer to someone reliable or part of the gang.",
+      "example": "Woh bande ne poora scene sort kar diya bina kisi ko bole.",
+      "context": "Used in casual conversations among Indian friends when talking about a male friend or acquaintance. Completely friendly and normal.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "bande"
+    },
+    {
+      "type": "psych",
+      "term": "Zeigarnik effect",
+      "meaning": "A psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
+      "example": "I can't stop thinking about that unfinished script because of the Zeigarnik effect.",
+      "context": "Frequently dropped on productivity podcasts and study vlogs to explain why cliffhangers stick in our heads.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "zeigarnik-effect"
+    },
+    {
+      "type": "acronym",
+      "term": "LTV",
+      "meaning": "Lifetime Value, a business and startup metric predicting the total net profit a company can expect from a single customer account.",
+      "example": "Our customer acquisition cost is too high compared to our LTV.",
+      "context": "Heard constantly in startup pitches, business podcasts, and among founder bros.",
+      "tone": "serious",
+      "nsfw": false,
+      "id": "ltv"
+    },
+    {
+      "type": "paradox",
+      "term": "IKEA effect",
+      "meaning": "A cognitive bias in which consumers place a disproportionately high value on products they partially created or assembled themselves.",
+      "example": "We love this crooked bookshelf way too much just because we built it—pure IKEA effect.",
+      "context": "Used in product design, marketing, and self-worth discussions to explain why effort increases perceived value.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "ikea-effect"
+    },
+    {
+      "type": "slang",
+      "term": "Scene off",
+      "meaning": "An Indian slang phrase meaning plans are cancelled, the vibe is dead, or a situation has gone wrong or turned sour.",
+      "example": "Party ka plan banaya tha par ab lag raha hai scene off hai.",
+      "context": "Used when plans fall through or an event gets canceled. Very common in Delhi and Mumbai youth circles.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "scene-off"
+    },
+    {
+      "type": "psych",
+      "term": "Ben Franklin effect",
+      "meaning": "A psychological phenomenon where a person who has already performed a favor for someone is more likely to do another favor, compared to if they had received a favor from that person.",
+      "example": "If you want him to like you, ask him to borrow a pen; it triggers the Ben Franklin effect.",
+      "context": "Discussed in dating and social psychology content as a counterintuitive trick for building rapport.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "ben-franklin-effect"
+    },
+    {
+      "type": "acronym",
+      "term": "WFH",
+      "meaning": "Work From Home, a professional arrangement where employees perform their job duties from their place of residence.",
+      "example": "Traffic is insane today, so glad I have a WFH day.",
+      "context": "Extremely common office slang used daily in corporate India and global chat groups.",
+      "tone": "casual",
+      "nsfw": false,
+      "id": "wfh"
+    },
+    {
+      "type": "slang",
+      "term": "Funday",
+      "meaning": "A nostalgic Indian college slang term used to describe a completely wild, chaotic, or fun-filled day, often involving bunking classes.",
+      "example": "Kal subah 8 baje ka lecture bunk karke pura funday karenge.",
+      "context": "Used by college students when planning a day of pure leisure and rebellion.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "funday"
+    }
+  ],
+  "news": {
+    "india": [
+      {
+        "text": "Supreme Court rules that the 24-hour arrest deadline begins from the moment of detention rather than formal arrest.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/sc-rules-24-hour-arrest-deadline-begins-from-detention-not-formal-arrest-101793861000408.html"
+      },
+      {
+        "text": "CERT-In issues new testing guidelines for AI agents to prevent unauthorized tool use and privilege abuse.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
+      },
+      {
+        "text": "Two people died and several others are feared trapped following a three-storey building collapse in Delhi's Chawri Bazaar.",
+        "source": "NDTV",
+        "url": "https://www.ndtv.com/india-news/several-feared-trapped-after-three-storey-building-collapses-in-delhis-chawri-bazaar-hauz-qazi-area-12285871#publisher=newsstand"
+      },
+      {
+        "text": "Union Health Ministry proposes immediate suspension of manufacturing licenses for drugs that fail quality standards.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/centre-proposes-immediate-suspension-of-licences-for-substandard-drugs/articleshow/135557911.cms"
+      },
+      {
+        "text": "Indian stock markets surge as global crude oil prices decline following the US midterm elections.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece"
+      },
+      {
+        "text": "US sanctions several India-based entities and individuals accused of facilitating the transport of Iranian oil using fake vessel registrations.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/fake-ship-flags-iran-oil-trade-us-sanctions-indian-entities-in-expanding-crackdown-on-tehran-11793845050850.html"
+      },
+      {
+        "text": "Atomic Energy Regulatory Board chairperson stresses that safety standards will not be compromised under private sector nuclear participation.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/news/national/private-sector-participation-in-nuclear-energy-aerb-will-provide-enabling-environment-without-compromising-safety-says-chairperson/article71668479.ece"
+      },
+      {
+        "text": "India secures 400 billion dollars in renewable energy investment commitments from overseas investors.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece"
+      }
+    ],
+    "world": [
+      {
+        "text": "US Democrats won control of Congress in the midterm elections, dealing a significant political blow to Donald Trump and boosting markets.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Vice-President JD Vance openly blamed the costly war with Iran for the Republican Party's sweeping defeat in the midterm elections.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Joshua Wong, a prominent face of Hong Kong's pro-democracy protests, was sentenced to 10 years in prison under the national security law.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "South Africa's ruling African National Congress faced a bruising local election result amid widespread public anger over severe water and power outages.",
+        "source": "The Guardian",
+        "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
+      },
+      {
+        "text": "Syria and Saudi Arabia signed a defense cooperation agreement and agreed to $403 million in loans during a high-level diplomatic visit.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
+      }
+    ]
+  },
+  "videos": {
+    "hero": {
+      "id": "03ESwNlyG8k",
+      "title": "Utilitarianism",
+      "channel": "Jeffrey Kaplan",
+      "category": "philosophy",
+      "url": "https://www.youtube.com/watch?v=03ESwNlyG8k",
+      "thumbnail": "https://i.ytimg.com/vi/03ESwNlyG8k/hqdefault.jpg",
+      "published": "",
+      "learn": "Why actions are judged solely by their ability to maximize overall human happiness.",
+      "minutes": 31
+    },
+    "more": [
+      {
+        "id": "3bZoB8PiXas",
+        "title": "How did British Empire take over India? | Fall of Mughal Empire | Dhruv Rathee",
+        "channel": "Dhruv Rathee",
+        "category": "india",
+        "url": "https://www.youtube.com/watch?v=3bZoB8PiXas",
+        "thumbnail": "https://i.ytimg.com/vi/3bZoB8PiXas/hqdefault.jpg",
+        "published": "",
+        "learn": "How internal decay and British cunning dismantled the once-mighty Mughal Empire.",
+        "minutes": 25
+      },
+      {
+        "id": "JUtes-k-VX4",
+        "title": "Investing Basics: Mutual Funds",
+        "channel": "Charles Schwab",
+        "category": "money",
+        "url": "https://www.youtube.com/watch?v=JUtes-k-VX4",
+        "thumbnail": "https://i.ytimg.com/vi/JUtes-k-VX4/hqdefault.jpg",
+        "published": "",
+        "learn": "How pooling money lets everyday investors buy a diversified basket of stocks instantly.",
+        "minutes": 5
+      },
+      {
+        "id": "jK-QDdeKFl4",
+        "title": "Business Is Easy After You Achieve Product Market Fit",
+        "channel": "Daniel Priestley",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=jK-QDdeKFl4",
+        "thumbnail": "https://i.ytimg.com/vi/jK-QDdeKFl4/hqdefault.jpg",
+        "published": "",
+        "learn": "Why scaling a company becomes effortless once customers are actively demanding your product.",
+        "minutes": 15
+      },
+      {
+        "id": "Z-T0iJEXiwM",
+        "title": "Reinforcement Learning: Essential Concepts",
+        "channel": "StatQuest with Josh Starmer",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=Z-T0iJEXiwM",
+        "thumbnail": "https://i.ytimg.com/vi/Z-T0iJEXiwM/hqdefault.jpg",
+        "published": "",
+        "learn": "How software agents learn optimal behaviors through trial, error, and reward signals.",
+        "minutes": 18
+      },
+      {
+        "id": "Om7jApT9cVc",
+        "title": "How to Make the Best First Impressions",
+        "channel": "Stanford Graduate School of Business",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=Om7jApT9cVc",
+        "thumbnail": "https://i.ytimg.com/vi/Om7jApT9cVc/hqdefault.jpg",
+        "published": "",
+        "learn": "How warmth and competence shape immediate trust during your very first meeting.",
+        "minutes": 11
+      },
+      {
+        "id": "8qRZcXIODNU",
+        "title": "The French Revolution - OverSimplified (Part 1)",
+        "channel": "OverSimplified",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=8qRZcXIODNU",
+        "thumbnail": "https://i.ytimg.com/vi/8qRZcXIODNU/hqdefault.jpg",
+        "published": "",
+        "learn": "How extreme inequality and royal vanity sparked a bloody revolution that transformed Europe.",
+        "minutes": 17
+      },
+      {
+        "id": "ZuvK-od647c",
+        "title": "Quantum Entanglement & Spooky Action at a Distance",
+        "channel": "Veritasium",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=ZuvK-od647c",
+        "thumbnail": "https://i.ytimg.com/vi/ZuvK-od647c/hqdefault.jpg",
+        "published": "",
+        "learn": "How two particles can remain mysteriously linked across vast distances in the universe.",
+        "minutes": 9
+      },
+      {
+        "id": "8bPWXYM2ysU",
+        "title": "Childhood Dreams | Aakash Gupta | Stand-up Comedy | Crowd Work",
+        "channel": "Aakash Gupta",
+        "category": "fun",
+        "url": "https://www.youtube.com/watch?v=8bPWXYM2ysU",
+        "thumbnail": "https://i.ytimg.com/vi/8bPWXYM2ysU/hqdefault.jpg",
+        "published": "",
+        "learn": "",
+        "minutes": 8
+      }
+    ]
+  },
+  "podcasts": [
+    {
+      "id": "founders-439-how-eiichiro-oda-works",
+      "title": "#439 How Eiichiro Oda Works",
+      "show": "Founders",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC9750399936.mp3",
+      "link": "",
+      "durationSec": 1950,
+      "startSec": null,
+      "why": "Discover how a relentless creative genius built one of the greatest fictional universes ever."
+    },
+    {
+      "id": "startalk-the-habitable-worlds-observatory-with-evgenya-shkolnik",
+      "title": "The Habitable Worlds Observatory with Evgenya Shkolnik",
+      "show": "StarTalk",
+      "category": "science",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 3035,
+      "startSec": null,
+      "why": "Neil deGrasse Tyson makes the cosmic search for alien habitable worlds surprisingly fun."
+    }
+  ],
+  "onThisDay": [
+    {
+      "year": 2013,
+      "kind": "event",
+      "text": "The Indian Space Research Organisation launched the Mars Orbiter Mission, marking India's historic entry into interplanetary exploration.",
+      "url": "https://en.wikipedia.org/wiki/ISRO",
+      "india": true
+    },
+    {
+      "year": 1556,
+      "kind": "event",
+      "text": "At the Second Battle of Panipat, Mughal forces under Emperor Akbar decisively defeated Hemu, consolidating Mughal rule in northern India.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Panipat",
+      "india": true
+    },
+    {
+      "year": 1988,
+      "kind": "born",
+      "text": "Virat Kohli, one of modern cricket's greatest batsmen and former Indian captain, was born.",
+      "url": "https://en.wikipedia.org/wiki/Virat_Kohli",
+      "india": true
+    },
+    {
+      "year": 1605,
+      "kind": "event",
+      "text": "Guy Fawkes was arrested while guarding explosives, foiling the Gunpowder Plot to blow up the English Parliament.",
+      "url": "https://en.wikipedia.org/wiki/Guy_Fawkes",
+      "india": false
+    },
+    {
+      "year": 1757,
+      "kind": "event",
+      "text": "Prussian forces led by Frederick the Great achieved a stunning tactical victory against allied French and Habsburg armies at the Battle of Rossbach.",
+      "url": "https://en.wikipedia.org/wiki/Seven_Years'_War",
+      "india": false
+    }
+  ],
+  "trending": [
+    {
+      "text": "A Gujarat-based digital wallet startup named SD Pay has reportedly scammed people out of over Rs 1200 crore through a multi-level marketing trap.",
+      "why": "Massive financial fraud sparking outrage and viral warnings online.",
+      "url": "https://www.reddit.com/r/india/comments/1xnldnj/a_digital_wallet_app_by_a_gujaratbased_startup_sd/",
+      "source": "r/india"
+    },
+    {
+      "text": "Tamil Nadu has officially permitted six movie shows a day, including early 6 am screenings, for new Tamil releases during their opening week.",
+      "why": "Massive win for movie buffs and celebratory theater owners.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-permits-six-shows-a-day-for-new-tamil-films-for-a-week-from-release-date/article71660886.ece",
+      "source": "The Hindu"
+    },
+    {
+      "text": "Nithya Raman, an Indian-origin leader born in Kerala, has won the Los Angeles mayoral election.",
+      "why": "Huge global representation milestone being shared everywhere.",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-origin-nithya-raman-elected-los-angeles-mayor-defeats-karen-bass/articleshow/135559698.cms",
+      "source": "The Times of India"
+    },
+    {
+      "text": "Hackers reportedly hijacked French blood plasma freezers, dangerously altering their temperature settings from −30°C to 110°C.",
+      "why": "Wild and terrifying cyberattack story dominating world news.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xnhtji/hackers_hijacked_french_blood_plasma_freezers/",
+      "source": "r/worldnews"
+    },
+    {
+      "text": "Adani Airports CEO reportedly told foreign airlines to shift operations to Navi Mumbai or stop flying to Mumbai altogether.",
+      "why": "Major airport capacity clash triggering intense online debates.",
+      "url": "https://www.reddit.com/r/india/comments/1xo8p12/shift_to_navi_mumbai_or_stop_flying_to_mumbai/",
+      "source": "r/india"
+    },
+    {
+      "text": "Afghanistan and Zimbabwe are facing off in their 1st Test match in the UAE with a historic WTC spot on the horizon.",
+      "why": "Big cricket stakes getting massive search traction.",
+      "url": "https://www.cricbuzz.com/live-cricket-scores/172727/afg-vs-zim-1st-test-afghanistan-vs-zimbabwe-in-uae-2026",
+      "source": "Cricbuzz"
+    }
+  ],
+  "read": {
+    "quote": {
+      "text": "You must allow me to tell you how ardently I admire and love you.",
+      "author": "Jane Austen",
+      "book": "Pride and Prejudice"
+    },
+    "passage": {
+      "text": "Having been pondering while slowly walking along, he now stopped as these thoughts caught hold of him, and right away another thought sprang forth from these, a new thought, which was: “That I know nothing about myself, that Siddhartha has remained thus alien and unknown to me, stems from one cause, a single cause: I was afraid of myself, I was fleeing from myself! I searched Atman, I searched Brahman, I was willing to dissect my self and peel off all of its layers, to find the core of all peels in its unknown interior, the Atman, life, the divine part, the ultimate part. But I have lost myself in the process.”",
+      "book": "Siddhartha",
+      "author": "Hermann Hesse",
+      "context": "",
+      "source": "gutenberg",
+      "day": 2,
+      "days": 3
+    },
+    "weekBook": {
+      "title": "Thinking, Fast and Slow",
+      "author": "Daniel Kahneman",
+      "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
+      "day": 4,
+      "ideas": [
+        {
+          "title": "Your brain uses two different thinking systems",
+          "text": "Your mind relies on a fast, automatic system for quick guesses and a slow, logical system for tough problems. The fast system jumps to conclusions when you see a stranger's angry face before knowing the context. Pause for five seconds before reacting to a heated message today."
+        },
+        {
+          "title": "First impressions heavily distort later judgments",
+          "text": "The halo effect makes you assume someone good at one thing is brilliant at everything else. If a professor wears a sharp suit, you might wrongly think their lecture is flawless. Notice if your opinion of a new acquaintance is based on just one trait today."
+        },
+        {
+          "title": "Losses hurt much more than gains feel good",
+          "text": "Loss aversion means the pain of dropping fifty rupees hits harder than the joy of finding it. Investors panic and sell stocks at a bottom just to stop the bleeding. Identify one minor fear of missing out that is currently driving your choices today."
+        },
+        {
+          "title": "We rely too much on easily remembered stories",
+          "text": "The availability heuristic tricks us into thinking dramatic events happen constantly because we recall them vividly. After seeing news about a plane crash, you might irrationally fear flying more than driving. Check if your current worry is based on a viral news story today."
+        },
+        {
+          "title": "Past random successes create false confidence",
+          "text": "Survivorship bias makes us copy the habits of extreme outliers while ignoring thousands who failed with the same strategy. Dropping out of college worked for Steve Jobs, but it ruined many others. Question whether your career idol succeeded through skill or sheer luck today."
+        },
+        {
+          "title": "We ignore baseline statistics for vivid tales",
+          "text": "The narrative fallacy makes us prefer a compelling personal story over boring statistical averages. You might buy a notoriously unreliable phone because your cousin had a good experience with it. Look up the actual failure rates of a gadget or course before buying it today."
+        },
+        {
+          "title": "Focusing too narrowly blinds you to reality",
+          "text": "What you see is all there is, meaning your brain builds a complete story from very limited evidence. When preparing for an exam, you often forget to factor in unexpected fatigue or sick days. Write down three missing variables in your current big life plan today."
+        }
+      ]
+    }
+  }
+}

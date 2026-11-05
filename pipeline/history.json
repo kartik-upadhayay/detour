@@ -312,7 +312,16 @@
   "ingenuous",
   "logicality",
   "gaucherie",
-  "ideate"
+  "ideate",
+  "veneer",
+  "nefarious",
+  "ostensible",
+  "verisimilitude",
+  "nullify",
+  "vindictive",
+  "noncommittal",
+  "overt",
+  "notorious"
  ],
  "loop": [
   "glazing",
@@ -583,7 +592,15 @@
   "unc",
   "sweat",
   "moral-licensing",
-  "hud"
+  "hud",
+  "bande",
+  "zeigarnik-effect",
+  "ltv",
+  "ikea-effect",
+  "scene-off",
+  "ben-franklin-effect",
+  "wfh",
+  "funday"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -928,7 +945,16 @@
   "8bIys6JoEDw",
   "Rb8pGJy2aXs",
   "3tCMd1ytvWg",
-  "Cdsnc70Un14"
+  "Cdsnc70Un14",
+  "03ESwNlyG8k",
+  "3bZoB8PiXas",
+  "JUtes-k-VX4",
+  "jK-QDdeKFl4",
+  "Z-T0iJEXiwM",
+  "Om7jApT9cVc",
+  "8qRZcXIODNU",
+  "ZuvK-od647c",
+  "8bPWXYM2ysU"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -1014,7 +1040,9 @@
   "https://traffic.megaphone.fm/VMP9745758647.mp3",
   "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/59a147ba-9575-41de-a57f-b4f001119cc1/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c0abbff3-ae98-4e23-a389-5ee0fd824f51/darknet-diaries-ep182-blackshades.mp3",
-  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e"
+  "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
+  "https://traffic.megaphone.fm/DSLLC9750399936.mp3",
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1296,7 +1324,15 @@
   "How the 'third place' concept shapes community, friendship, and mental health in modern life",
   "The ethics of whistleblowing: when is it morally right to break the law and betray your organization for the greater good?",
   "The Battle of Tours in 732 AD: how Charles Martel stopped the Umayyad advance and shaped European history",
-  "How the cosmic microwave background radiation is the literal afterglow and echo of the Big Bang"
+  "How the cosmic microwave background radiation is the literal afterglow and echo of the Big Bang",
+  "How the Mughal Empire declined",
+  "What is a mutual fund",
+  "Product market fit",
+  "Reinforcement learning basics",
+  "How to make a strong first impression",
+  "Utilitarianism",
+  "The French Revolution",
+  "What is quantum entanglement"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
@@ -1306,7 +1342,8 @@
   "We accept the love we think we deserve.",
   "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
   "I am not afraid of storms, for I am learning how to sail my ship.",
-  "Youth is a gift of nature, but age is a work of art."
+  "Youth is a gift of nature, but age is a work of art.",
+  "You must allow me to tell you how ardently I admire and love you."
  ],
  "books": {
   "current": {
@@ -1315,9 +1352,10 @@
    "author": "Hermann Hesse",
    "days": 3,
    "days_planned": 3,
-   "days_used": 1,
+   "days_used": 2,
    "used": [
-    "After having been standing by the gate of the garden for a l"
+    "After having been standing by the gate of the garden for a l",
+    "Having been pondering while slowly walking along, he now sto"
    ]
   },
   "done": [

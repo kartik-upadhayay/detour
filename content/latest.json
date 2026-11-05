@@ -1,458 +1,456 @@
 {
   "schema": 1,
-  "date": "2026-11-04",
-  "generatedAt": "2026-11-04T06:11:50+00:00",
+  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T07:10:11+00:00",
   "words": [
     {
-      "word": "Grandstand",
-      "pos": "verb",
-      "pronunciation": "GRAND-stand",
-      "meaning": "To act to impress an audience and gain applause.",
-      "insteadOf": "show off",
-      "example": "Stop grandstanding during the project meeting and actually share some data."
-    },
-    {
-      "word": "Improvident",
-      "pos": "adjective",
-      "pronunciation": "im-PROV-uh-dent",
-      "meaning": "Not planning for the future; thoughtless with money.",
-      "insteadOf": "irresponsible",
-      "example": "His improvident spending on gaming gear left him broke before month-end."
-    },
-    {
-      "word": "Gobbledygook",
+      "word": "Veneer",
       "pos": "noun",
-      "pronunciation": "GOB-ul-dee-gook",
-      "meaning": "Language that is meaningless or is made unintelligible by excessive use of abstruse technical terms.",
-      "insteadOf": "nonsense",
-      "example": "The tech blog post was pure gobbledygook to anyone who hadn't coded in Python."
+      "pronunciation": "vuh-NEER",
+      "meaning": "An attractive appearance that conceals someone's true nature or feelings.",
+      "insteadOf": "fake smile",
+      "example": "He dropped his cheerful veneer after messing up the DBMS viva."
     },
     {
-      "word": "Inveigh",
-      "pos": "verb",
-      "pronunciation": "in-VAY",
-      "meaning": "To speak or write about something with great hostility.",
-      "insteadOf": "complain",
-      "example": "He loves to inveigh against college attendance policies over late-night chai."
-    },
-    {
-      "word": "Glib",
+      "word": "Nefarious",
       "pos": "adjective",
-      "pronunciation": "GLIB",
-      "meaning": "Fluent and voluble but insincere and shallow.",
-      "insteadOf": "smooth-talking",
-      "example": "The professor saw right through his glib explanation for the missing assignment."
+      "pronunciation": "nuh-FAIR-ee-us",
+      "meaning": "Wicked or criminal, usually describing an activity or plot.",
+      "insteadOf": "shady",
+      "example": "We suspected some nefarious activity behind the rigged college fest voting."
     },
     {
-      "word": "Ingenuous",
+      "word": "Ostensible",
       "pos": "adjective",
-      "pronunciation": "in-JEN-yoo-us",
-      "meaning": "Innocent and unsuspecting.",
-      "insteadOf": "naive",
-      "example": "It was ingenuous of him to trust an unverified internship listing on Telegram."
+      "pronunciation": "os-TEN-suh-buhl",
+      "meaning": "Stated or appearing to be true, but not necessarily so.",
+      "insteadOf": "supposedly",
+      "example": "His ostensible reason for missing the lecture was a doctor's appointment."
     },
     {
-      "word": "Logicality",
+      "word": "Verisimilitude",
       "pos": "noun",
-      "pronunciation": "loj-i-KAL-i-tee",
-      "meaning": "The quality of being logical and consistent.",
-      "insteadOf": "making sense",
-      "example": "I questioned the logicality of rewriting our entire backend for one minor feature."
+      "pronunciation": "ver-uh-si-MIL-i-tood",
+      "meaning": "The appearance of being true or real.",
+      "insteadOf": "realism",
+      "example": "The indie game lacked verisimilitude in how the physics engine handled gravity."
     },
     {
-      "word": "Gaucherie",
-      "pos": "noun",
-      "pronunciation": "goh-shuh-REE",
-      "meaning": "Awkward and unsophisticated ways.",
-      "insteadOf": "social awkwardness",
-      "example": "His momentary gaucherie during the alumni dinner gave us all a good laugh."
-    },
-    {
-      "word": "Ideate",
+      "word": "Nullify",
       "pos": "verb",
-      "pronunciation": "EYE-dee-ayt",
-      "meaning": "To form an idea or concept; brainstorm.",
-      "insteadOf": "brainstorm",
-      "example": "We need to stay back in the lab to ideate for the hackathon."
+      "pronunciation": "NUHL-uh-fy",
+      "meaning": "Make legally null and void; cancel out.",
+      "insteadOf": "cancel",
+      "example": "A single syntax error will nullify the entire compilation of our code."
+    },
+    {
+      "word": "Vindictive",
+      "pos": "adjective",
+      "pronunciation": "vin-DIK-tiv",
+      "meaning": "Having or showing a strong or unreasoning desire for revenge.",
+      "insteadOf": "holding a grudge",
+      "example": "She was too vindictive to let go of a stolen hostel snack debate."
+    },
+    {
+      "word": "Noncommittal",
+      "pos": "adjective",
+      "pronunciation": "non-kuh-MIT-uhl",
+      "meaning": "Not expressing or revealing commitment to a definite opinion or course of action.",
+      "insteadOf": "being vague",
+      "example": "Our senior gave a noncommittal response about joining the hackathon team."
+    },
+    {
+      "word": "Overt",
+      "pos": "adjective",
+      "pronunciation": "oh-VURT",
+      "meaning": "Done or shown openly; plainly apparent or not secret.",
+      "insteadOf": "obvious",
+      "example": "His overt bias during the debate judging annoyed everyone in the hall."
+    },
+    {
+      "word": "Notorious",
+      "pos": "adjective",
+      "pronunciation": "noh-TOR-ee-us",
+      "meaning": "Famous or well known, typically for some bad quality or deed.",
+      "insteadOf": "infamous",
+      "example": "That one mess hall dinner is notorious for making half the hostel sick."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Tryhard",
-      "meaning": "Someone who is putting in an excessive, exhausting amount of effort in a casual game or setting.",
-      "example": "Bro, why are you sweating in a normal match? Stop being such a tryhard.",
-      "context": "Used in gaming and sports chats to mock someone for playing like a million dollars is on the line. Not a compliment.",
-      "tone": "mocking",
+      "term": "Bande",
+      "meaning": "An Indian slang term for a guy or dude, often used casually among friends to refer to someone reliable or part of the gang.",
+      "example": "Woh bande ne poora scene sort kar diya bina kisi ko bole.",
+      "context": "Used in casual conversations among Indian friends when talking about a male friend or acquaintance. Completely friendly and normal.",
+      "tone": "casual",
       "nsfw": false,
-      "id": "tryhard"
+      "id": "bande"
     },
     {
       "type": "psych",
-      "term": "Attachment injury",
-      "meaning": "A specific betrayal or abandonment by a partner during a time of high need that damages relationship trust.",
-      "example": "When he went on vacation while she was in the ER, it caused a massive attachment injury.",
-      "context": "Used in modern relationship therapy talk and deep-dive podcasts discussing deep-seated emotional trauma.",
+      "term": "Zeigarnik effect",
+      "meaning": "A psychological phenomenon where people remember uncompleted or interrupted tasks better than completed ones.",
+      "example": "I can't stop thinking about that unfinished script because of the Zeigarnik effect.",
+      "context": "Frequently dropped on productivity podcasts and study vlogs to explain why cliffhangers stick in our heads.",
       "tone": "serious",
       "nsfw": false,
-      "id": "attachment-injury"
+      "id": "zeigarnik-effect"
     },
     {
       "type": "acronym",
-      "term": "VOD",
-      "meaning": "Video on Demand; the recorded archive of a live stream that you can watch later.",
-      "example": "I missed the live broadcast last night, but I will catch the VOD on YouTube later.",
-      "context": "Everyday streamer and gamer terminology when talking about past broadcast content.",
-      "tone": "casual",
+      "term": "LTV",
+      "meaning": "Lifetime Value, a business and startup metric predicting the total net profit a company can expect from a single customer account.",
+      "example": "Our customer acquisition cost is too high compared to our LTV.",
+      "context": "Heard constantly in startup pitches, business podcasts, and among founder bros.",
+      "tone": "serious",
       "nsfw": false,
-      "id": "vod"
+      "id": "ltv"
     },
     {
       "type": "paradox",
-      "term": "Gambler s fallacy",
-      "meaning": "The mistaken belief that if something happens more frequently than normal during a given period, it will happen less frequently in the future.",
-      "example": "The roulette wheel landed on black six times in a row, so red is definitely due, right? That is the gambler s fallacy.",
-      "context": "Brought up in finance, betting, and gaming conversations when math takes a back seat to wishful thinking.",
-      "tone": "serious",
-      "nsfw": false,
-      "id": "gambler-s-fallacy"
-    },
-    {
-      "type": "meme",
-      "term": "Unc",
-      "meaning": "Short for uncle, used ironically by Gen Z to call anyone over twenty-five old, out of touch, or washed up.",
-      "example": "Look at Unc over here trying to do TikTok dances.",
-      "context": "Playful banter used by younger guys to tease older friends or streamers.",
+      "term": "IKEA effect",
+      "meaning": "A cognitive bias in which consumers place a disproportionately high value on products they partially created or assembled themselves.",
+      "example": "We love this crooked bookshelf way too much just because we built it—pure IKEA effect.",
+      "context": "Used in product design, marketing, and self-worth discussions to explain why effort increases perceived value.",
       "tone": "playful",
       "nsfw": false,
-      "id": "unc"
+      "id": "ikea-effect"
     },
     {
       "type": "slang",
-      "term": "Sweat",
-      "meaning": "A hyper-competitive player who plays with extreme intensity, usually in multiplayer shooters or battle royales.",
-      "example": "Watch out, there is a full squad of absolute sweats landing at our POI.",
-      "context": "Common in gaming talk. Used when people want to describe lobbies full of overly skilled or intense players.",
+      "term": "Scene off",
+      "meaning": "An Indian slang phrase meaning plans are cancelled, the vibe is dead, or a situation has gone wrong or turned sour.",
+      "example": "Party ka plan banaya tha par ab lag raha hai scene off hai.",
+      "context": "Used when plans fall through or an event gets canceled. Very common in Delhi and Mumbai youth circles.",
       "tone": "casual",
       "nsfw": false,
-      "id": "sweat"
+      "id": "scene-off"
     },
     {
       "type": "psych",
-      "term": "Moral licensing",
-      "meaning": "The psychological phenomenon where doing something good makes people feel licensed to do something bad later.",
-      "example": "I hit the gym this morning, so my moral licensing means I can eat an entire pizza tonight.",
-      "context": "Used playfully or analytically when someone justifies a bad habit because of a prior good deed.",
+      "term": "Ben Franklin effect",
+      "meaning": "A psychological phenomenon where a person who has already performed a favor for someone is more likely to do another favor, compared to if they had received a favor from that person.",
+      "example": "If you want him to like you, ask him to borrow a pen; it triggers the Ben Franklin effect.",
+      "context": "Discussed in dating and social psychology content as a counterintuitive trick for building rapport.",
       "tone": "playful",
       "nsfw": false,
-      "id": "moral-licensing"
+      "id": "ben-franklin-effect"
     },
     {
       "type": "acronym",
-      "term": "HUD",
-      "meaning": "Heads-Up Display; the visual overlay on a game screen showing health, ammo, and mini-maps.",
-      "example": "This immersive survival game has no HUD, so you have to check your actual physical gear for ammo.",
-      "context": "Standard gaming vocabulary discussed when reviewing video game interfaces and graphics settings.",
+      "term": "WFH",
+      "meaning": "Work From Home, a professional arrangement where employees perform their job duties from their place of residence.",
+      "example": "Traffic is insane today, so glad I have a WFH day.",
+      "context": "Extremely common office slang used daily in corporate India and global chat groups.",
       "tone": "casual",
       "nsfw": false,
-      "id": "hud"
+      "id": "wfh"
+    },
+    {
+      "type": "slang",
+      "term": "Funday",
+      "meaning": "A nostalgic Indian college slang term used to describe a completely wild, chaotic, or fun-filled day, often involving bunking classes.",
+      "example": "Kal subah 8 baje ka lecture bunk karke pura funday karenge.",
+      "context": "Used by college students when planning a day of pure leisure and rebellion.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "funday"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "Telangana CM asks Irrigation officials to continue dialogue with Maharashtra on Tummidihatti barrage",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/telangana/telangana-cm-asks-irrigation-officials-to-continue-dialogue-with-maharashtra-on-tummidihatti-barrage/article71661841.ece"
-      },
-      {
-        "text": "BJP had no role to play, says Ram Madhav as friction in NC intensifies",
+        "text": "Supreme Court rules that the 24-hour arrest deadline begins from the moment of detention rather than formal arrest.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/bjp-had-no-role-to-play-says-ram-madhav-as-friction-in-nc-intensifies-101793772000979.html"
+        "url": "https://www.hindustantimes.com/india-news/sc-rules-24-hour-arrest-deadline-begins-from-detention-not-formal-arrest-101793861000408.html"
       },
       {
-        "text": "FIR against Prashant Bhushan for sharing fake video of Russian minister criticising India",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/fir-against-prashant-bhushan-for-sharing-fake-video-of-russian-minister-criticising-india/articleshow/135521291.cms"
-      },
-      {
-        "text": "Planning To Study In US, UK, Canada? 6 Ways To Make Your Application Stand Out",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/education/want-to-study-abroad-6-things-that-can-give-your-application-an-edge-12279972#publisher=newsstand"
-      },
-      {
-        "text": "US midterm elections 2026: Vivek Ramaswamy loses to Democrat Amy Acton in Ohio governor’s race — What we know",
-        "source": "Mint",
-        "url": "https://www.livemint.com/news/us-news/us-midterm-elections-2026-vivek-ramaswamy-loses-to-democrat-amy-acton-in-ohio-governor-s-race-what-we-know-so-far-11793762908736.html"
-      },
-      {
-        "text": "Oil rises on Iran war uncertainty after Trump’s Republicans face election rout",
+        "text": "CERT-In issues new testing guidelines for AI agents to prevent unauthorized tool use and privilege abuse.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Economy/oil-rises-on-iran-war-uncertainty-after-trumps-republicans-face-election-rout/article71664204.ece"
+        "url": "https://www.thehindu.com/business/Industry/cert-in-calls-for-testing-ai-agents-for-unauthorised-tool-use-privilege-abuse/article71668646.ece"
       },
       {
-        "text": "ED raids 11 locations in Keralam, Tamil Nadu over alleged money laundering linked to BLM cooperative society",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/kerala/ed-raids-11-locations-in-keralam-tamil-nadu-over-alleged-money-laundering-linked-to-blm-cooperative-society/article71664144.ece"
-      },
-      {
-        "text": "Derek O'Brien hits back at Amit Shah over SIR debate, recalls 2025 Rajya Sabha proceedings",
-        "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/derek-obrien-hits-back-at-amit-shah-over-sir-debate-recalls-2025-rajya-sabha-proceedings-101793770397210.html"
-      },
-      {
-        "text": "One more Indian seafarer killed near Oman; toll 23",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/one-more-indian-seafarer-killed-near-oman-toll-23/articleshow/135517912.cms"
-      },
-      {
-        "text": "CAT 2026 Admit Card LIVE: Common Admission Test Hall Ticket Download Link Here",
+        "text": "Two people died and several others are feared trapped following a three-storey building collapse in Delhi's Chawri Bazaar.",
         "source": "NDTV",
-        "url": "https://www.ndtv.com/education/cat-2026-admit-card-live-common-admission-test-hall-ticket-download-link-here-12280239#publisher=newsstand"
+        "url": "https://www.ndtv.com/india-news/several-feared-trapped-after-three-storey-building-collapses-in-delhis-chawri-bazaar-hauz-qazi-area-12285871#publisher=newsstand"
+      },
+      {
+        "text": "Union Health Ministry proposes immediate suspension of manufacturing licenses for drugs that fail quality standards.",
+        "source": "Times of India",
+        "url": "https://timesofindia.indiatimes.com/india/centre-proposes-immediate-suspension-of-licences-for-substandard-drugs/articleshow/135557911.cms"
+      },
+      {
+        "text": "Indian stock markets surge as global crude oil prices decline following the US midterm elections.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/markets/stock-markets-on-november-5-2026-sensex-and-nifty-oil-prices/article71668596.ece"
+      },
+      {
+        "text": "US sanctions several India-based entities and individuals accused of facilitating the transport of Iranian oil using fake vessel registrations.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/us-news/fake-ship-flags-iran-oil-trade-us-sanctions-indian-entities-in-expanding-crackdown-on-tehran-11793845050850.html"
+      },
+      {
+        "text": "Atomic Energy Regulatory Board chairperson stresses that safety standards will not be compromised under private sector nuclear participation.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/news/national/private-sector-participation-in-nuclear-energy-aerb-will-provide-enabling-environment-without-compromising-safety-says-chairperson/article71668479.ece"
+      },
+      {
+        "text": "India secures 400 billion dollars in renewable energy investment commitments from overseas investors.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/business/Industry/india-secures-400-bn-investment-commitments-in-renewables-almm-review-in-15-days/article71667048.ece"
       }
     ],
     "world": [
       {
-        "text": "Democrats achieved a major victory in the United States midterm elections, flipping both chambers of Congress and securing key gubernatorial races in a rebuke to President Donald Trump.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/international/us-midterm-elections-2026-senate-governor-races-winners-losers-trump-republicans-democrats-news/article71663818.ece"
+        "text": "US Democrats won control of Congress in the midterm elections, dealing a significant political blow to Donald Trump and boosting markets.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq1kdgnn2xdeo?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Brazil published the world's first global roadmap for phasing out fossil fuels at the Cop30 summit, outlining steps to break dependence on coal, oil, and gas.",
+        "text": "Vice-President JD Vance openly blamed the costly war with Iran for the Republican Party's sweeping defeat in the midterm elections.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "Joshua Wong, a prominent face of Hong Kong's pro-democracy protests, was sentenced to 10 years in prison under the national security law.",
+        "source": "BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g3rlp8jlo?at_medium=RSS&at_campaign=rss"
+      },
+      {
+        "text": "South Africa's ruling African National Congress faced a bruising local election result amid widespread public anger over severe water and power outages.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/environment/2026/nov/03/brazil-first-global-roadmap-phasing-out-fossil-fuels"
+        "url": "https://www.theguardian.com/world/2026/nov/04/anc-south-africa-local-elections-water-outages-power-cuts"
       },
       {
-        "text": "Spanish transport minister resigned following a deadly train collision south of Madrid that resulted in at least 69 fatalities and numerous injuries.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Supermarkets across ten European countries experienced severe disruptions and were forced to discard food following coordinated cyberattacks targeting refrigeration freezers.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cwy8lm1m59mvo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Russian attacks on Ukrainian medical and humanitarian facilities killed at least 38 people within a 24-hour period, prompting warnings that many more remain trapped.",
-        "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynez5y599o?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "Australia's High Court ruled that Uber must pay its drivers minimum wages and is liable for an $81 million payroll tax bill.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/technology/2026/nov/04/uber-australia-high-court-loss-driver-wages-81m-payroll-tax-bill-ntwnfb"
+        "text": "Syria and Saudi Arabia signed a defense cooperation agreement and agreed to $403 million in loans during a high-level diplomatic visit.",
+        "source": "Al Jazeera",
+        "url": "https://www.aljazeera.com/news/2026/11/5/syria-saudi-arabia-sign-defence-cooperation-deal-agree-403m-in-loans?traffic_source=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "9Ku9csXhvJY",
-      "title": "Nowhere to Go: The Loss of Third Places",
-      "channel": "Elliot Sang",
-      "category": "mind",
-      "url": "https://www.youtube.com/watch?v=9Ku9csXhvJY",
-      "thumbnail": "https://i.ytimg.com/vi/9Ku9csXhvJY/hqdefault.jpg",
+      "id": "03ESwNlyG8k",
+      "title": "Utilitarianism",
+      "channel": "Jeffrey Kaplan",
+      "category": "philosophy",
+      "url": "https://www.youtube.com/watch?v=03ESwNlyG8k",
+      "thumbnail": "https://i.ytimg.com/vi/03ESwNlyG8k/hqdefault.jpg",
       "published": "",
-      "learn": "How the disappearance of community spaces outside home and work damages our mental health.",
-      "minutes": 36
+      "learn": "Why actions are judged solely by their ability to maximize overall human happiness.",
+      "minutes": 31
     },
     "more": [
       {
-        "id": "JzkpptDhUCE",
-        "title": "Siliguri Corridor: India’s Weakness or Strategic Strength? | Chickens Neck | StudyIQ IAS English",
-        "channel": "StudyIQ IAS: English",
+        "id": "3bZoB8PiXas",
+        "title": "How did British Empire take over India? | Fall of Mughal Empire | Dhruv Rathee",
+        "channel": "Dhruv Rathee",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=JzkpptDhUCE",
-        "thumbnail": "https://i.ytimg.com/vi/JzkpptDhUCE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=3bZoB8PiXas",
+        "thumbnail": "https://i.ytimg.com/vi/3bZoB8PiXas/hqdefault.jpg",
         "published": "",
-        "learn": "How a narrow strip of land dictates India's geopolitical security and military vulnerabilities.",
-        "minutes": 20
+        "learn": "How internal decay and British cunning dismantled the once-mighty Mughal Empire.",
+        "minutes": 25
       },
       {
-        "id": "19_lW_Su4sA",
-        "title": "WARNING: Why Peer To Peer Lending is a BAD INVESTMENT",
-        "channel": "Graham Stephan",
+        "id": "JUtes-k-VX4",
+        "title": "Investing Basics: Mutual Funds",
+        "channel": "Charles Schwab",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=19_lW_Su4sA",
-        "thumbnail": "https://i.ytimg.com/vi/19_lW_Su4sA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=JUtes-k-VX4",
+        "thumbnail": "https://i.ytimg.com/vi/JUtes-k-VX4/hqdefault.jpg",
         "published": "",
-        "learn": "Why peer-to-peer lending carries hidden risks that can wipe out your investment.",
-        "minutes": 13
+        "learn": "How pooling money lets everyday investors buy a diversified basket of stocks instantly.",
+        "minutes": 5
       },
       {
-        "id": "UWImfFax8Ew",
-        "title": "Revenue, Profits, and Price: Crash Course Economics #24",
-        "channel": "CrashCourse",
+        "id": "jK-QDdeKFl4",
+        "title": "Business Is Easy After You Achieve Product Market Fit",
+        "channel": "Daniel Priestley",
         "category": "business",
-        "url": "https://www.youtube.com/watch?v=UWImfFax8Ew",
-        "thumbnail": "https://i.ytimg.com/vi/UWImfFax8Ew/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jK-QDdeKFl4",
+        "thumbnail": "https://i.ytimg.com/vi/jK-QDdeKFl4/hqdefault.jpg",
         "published": "",
-        "learn": "How revenue, profit, and pricing interact to drive the survival of any business.",
+        "learn": "Why scaling a company becomes effortless once customers are actively demanding your product.",
+        "minutes": 15
+      },
+      {
+        "id": "Z-T0iJEXiwM",
+        "title": "Reinforcement Learning: Essential Concepts",
+        "channel": "StatQuest with Josh Starmer",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=Z-T0iJEXiwM",
+        "thumbnail": "https://i.ytimg.com/vi/Z-T0iJEXiwM/hqdefault.jpg",
+        "published": "",
+        "learn": "How software agents learn optimal behaviors through trial, error, and reward signals.",
+        "minutes": 18
+      },
+      {
+        "id": "Om7jApT9cVc",
+        "title": "How to Make the Best First Impressions",
+        "channel": "Stanford Graduate School of Business",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=Om7jApT9cVc",
+        "thumbnail": "https://i.ytimg.com/vi/Om7jApT9cVc/hqdefault.jpg",
+        "published": "",
+        "learn": "How warmth and competence shape immediate trust during your very first meeting.",
         "minutes": 11
       },
       {
-        "id": "mpQZVYPuDGU",
-        "title": "How a DNS Server (Domain Name System) works.",
-        "channel": "PowerCert Animated Videos",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=mpQZVYPuDGU",
-        "thumbnail": "https://i.ytimg.com/vi/mpQZVYPuDGU/hqdefault.jpg",
-        "published": "",
-        "learn": "How domain name servers translate human web addresses into computer IP destinations.",
-        "minutes": 6
-      },
-      {
-        "id": "8bIys6JoEDw",
-        "title": "Kant & Categorical Imperatives: Crash Course Philosophy #35",
-        "channel": "CrashCourse",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=8bIys6JoEDw",
-        "thumbnail": "https://i.ytimg.com/vi/8bIys6JoEDw/hqdefault.jpg",
-        "published": "",
-        "learn": "How Immanuel Kant's categorical imperative determines moral duty without relying on outcomes.",
-        "minutes": 10
-      },
-      {
-        "id": "Rb8pGJy2aXs",
-        "title": "The Battle of Tours 732 AD",
-        "channel": "BazBattles",
+        "id": "8qRZcXIODNU",
+        "title": "The French Revolution - OverSimplified (Part 1)",
+        "channel": "OverSimplified",
         "category": "history",
-        "url": "https://www.youtube.com/watch?v=Rb8pGJy2aXs",
-        "thumbnail": "https://i.ytimg.com/vi/Rb8pGJy2aXs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8qRZcXIODNU",
+        "thumbnail": "https://i.ytimg.com/vi/8qRZcXIODNU/hqdefault.jpg",
         "published": "",
-        "learn": "How Charles Martel stopped the Umayyad advance at Tours and altered European history.",
+        "learn": "How extreme inequality and royal vanity sparked a bloody revolution that transformed Europe.",
+        "minutes": 17
+      },
+      {
+        "id": "ZuvK-od647c",
+        "title": "Quantum Entanglement & Spooky Action at a Distance",
+        "channel": "Veritasium",
+        "category": "science",
+        "url": "https://www.youtube.com/watch?v=ZuvK-od647c",
+        "thumbnail": "https://i.ytimg.com/vi/ZuvK-od647c/hqdefault.jpg",
+        "published": "",
+        "learn": "How two particles can remain mysteriously linked across vast distances in the universe.",
         "minutes": 9
       },
       {
-        "id": "3tCMd1ytvWg",
-        "title": "Cosmic Microwave Background Explained",
-        "channel": "PBS Space Time",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=3tCMd1ytvWg",
-        "thumbnail": "https://i.ytimg.com/vi/3tCMd1ytvWg/hqdefault.jpg",
-        "published": "",
-        "learn": "How ancient microwave radiation serves as the direct thermal afterglow of the Big Bang.",
-        "minutes": 7
-      },
-      {
-        "id": "Cdsnc70Un14",
-        "title": "Exams, CBSE, Punishments - Stand Up Comedy by Kenny Sebastian",
-        "channel": "Kenny Sebastian",
+        "id": "8bPWXYM2ysU",
+        "title": "Childhood Dreams | Aakash Gupta | Stand-up Comedy | Crowd Work",
+        "channel": "Aakash Gupta",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=Cdsnc70Un14",
-        "thumbnail": "https://i.ytimg.com/vi/Cdsnc70Un14/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8bPWXYM2ysU",
+        "thumbnail": "https://i.ytimg.com/vi/8bPWXYM2ysU/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 10
+        "minutes": 8
       }
     ]
   },
   "podcasts": [
     {
-      "id": "darknet-diaries-182-blackshades",
-      "title": "182: Blackshades",
-      "show": "Darknet Diaries",
-      "category": "ai",
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c0abbff3-ae98-4e23-a389-5ee0fd824f51/darknet-diaries-ep182-blackshades.mp3",
-      "link": "https://darknetdiaries.com/episode/182/",
-      "durationSec": 2357,
+      "id": "founders-439-how-eiichiro-oda-works",
+      "title": "#439 How Eiichiro Oda Works",
+      "show": "Founders",
+      "category": "business",
+      "audioUrl": "https://traffic.megaphone.fm/DSLLC9750399936.mp3",
+      "link": "",
+      "durationSec": 1950,
       "startSec": null,
-      "why": "A wild true-crime cyber-thriller tracking how a spyware tool took over half a million computers."
+      "why": "Discover how a relentless creative genius built one of the greatest fictional universes ever."
     },
     {
-      "id": "stuff-you-should-know-ba-dum-bum-goes-your-heart",
-      "title": "Ba-Dum-Bum Goes Your Heart!",
-      "show": "Stuff You Should Know",
+      "id": "startalk-the-habitable-worlds-observatory-with-evgenya-shkolnik",
+      "title": "The Habitable Worlds Observatory with Evgenya Shkolnik",
+      "show": "StarTalk",
       "category": "science",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
-      "link": "https://omny.fm/shows/stuff-you-should-know-1/ba-dum-bum-goes-your-heart",
-      "durationSec": 2804,
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj",
+      "link": "siriusxm.com",
+      "durationSec": 3035,
       "startSec": null,
-      "why": "A fun, casual deep-dive into how the incredible human heart keeps your body ticking."
+      "why": "Neil deGrasse Tyson makes the cosmic search for alien habitable worlds surprisingly fun."
     }
   ],
   "onThisDay": [
     {
-      "year": 1929,
-      "kind": "born",
-      "text": "Shakuntala Devi, celebrated globally as the \"Human Computer\" for her astounding mental calculation abilities, was born.",
-      "url": "https://en.wikipedia.org/wiki/Shakuntala_Devi",
-      "india": true
-    },
-    {
-      "year": 1971,
-      "kind": "born",
-      "text": "Tabu, one of Indian cinema's most critically acclaimed and versatile actresses, was born.",
-      "url": "https://en.wikipedia.org/wiki/Tabu_(actress)",
-      "india": true
-    },
-    {
-      "year": 2016,
+      "year": 2013,
       "kind": "event",
-      "text": "The Paris Agreement came into effect, marking a major global commitment to combat climate change.",
-      "url": "https://en.wikipedia.org/wiki/Paris_Agreement",
+      "text": "The Indian Space Research Organisation launched the Mars Orbiter Mission, marking India's historic entry into interplanetary exploration.",
+      "url": "https://en.wikipedia.org/wiki/ISRO",
+      "india": true
+    },
+    {
+      "year": 1556,
+      "kind": "event",
+      "text": "At the Second Battle of Panipat, Mughal forces under Emperor Akbar decisively defeated Hemu, consolidating Mughal rule in northern India.",
+      "url": "https://en.wikipedia.org/wiki/Second_Battle_of_Panipat",
+      "india": true
+    },
+    {
+      "year": 1988,
+      "kind": "born",
+      "text": "Virat Kohli, one of modern cricket's greatest batsmen and former Indian captain, was born.",
+      "url": "https://en.wikipedia.org/wiki/Virat_Kohli",
+      "india": true
+    },
+    {
+      "year": 1605,
+      "kind": "event",
+      "text": "Guy Fawkes was arrested while guarding explosives, foiling the Gunpowder Plot to blow up the English Parliament.",
+      "url": "https://en.wikipedia.org/wiki/Guy_Fawkes",
       "india": false
     },
     {
-      "year": 2008,
+      "year": 1757,
       "kind": "event",
-      "text": "Barack Obama was elected as the first African-American President of the United States.",
-      "url": "https://en.wikipedia.org/wiki/Barack_Obama",
+      "text": "Prussian forces led by Frederick the Great achieved a stunning tactical victory against allied French and Habsburg armies at the Battle of Rossbach.",
+      "url": "https://en.wikipedia.org/wiki/Seven_Years'_War",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Donald Trump reportedly announced plans to cut the $4 billion annual U.S. aid package to Israel, sparking major international discussions.",
-      "why": "Massive geopolitical shockwaves over a sudden U.S. policy shift.",
-      "url": "https://www.aajtak.in/world/story/trump-announces-end-of-us-economic-aid-to-israel-midterm-elections-impact-ntc-acwi-dskc-2687690-2026-11-04",
-      "source": "AajTak"
-    },
-    {
-      "text": "Bethesda officially revealed that the next Elder Scrolls game is titled 'Sentinel', sending gaming communities into a massive frenzy.",
-      "why": "The ultimate gaming sequel finally gets a real name.",
-      "url": "https://www.theverge.com/news/1025273/the-elder-scrolls-vi-sentinel-name-announcement",
-      "source": "The Verge"
-    },
-    {
-      "text": "Rahul Gandhi publicly challenged Prime Minister Narendra Modi to a live debate over alleged foreign links, keeping the political heat high.",
-      "why": "Direct political showdown demands everyone's attention.",
-      "url": "https://www.reddit.com/r/india/comments/1xmvtig/24_hours_have_passed_modi_ji_rahul_renews_debate/",
+      "text": "A Gujarat-based digital wallet startup named SD Pay has reportedly scammed people out of over Rs 1200 crore through a multi-level marketing trap.",
+      "why": "Massive financial fraud sparking outrage and viral warnings online.",
+      "url": "https://www.reddit.com/r/india/comments/1xnldnj/a_digital_wallet_app_by_a_gujaratbased_startup_sd/",
       "source": "r/india"
     },
     {
-      "text": "PV Sindhu expressed shock over a mid-season funding cut, prompting clarifications from the Sports Authority of India.",
-      "why": "Outrage over elite athletes facing sudden financial hurdles.",
-      "url": "https://www.reddit.com/r/india/comments/1xmptvt/pv_sindhu_shocked_by_midseason_funding_cut_sports/",
+      "text": "Tamil Nadu has officially permitted six movie shows a day, including early 6 am screenings, for new Tamil releases during their opening week.",
+      "why": "Massive win for movie buffs and celebratory theater owners.",
+      "url": "https://www.thehindu.com/news/national/tamil-nadu/tn-govt-permits-six-shows-a-day-for-new-tamil-films-for-a-week-from-release-date/article71660886.ece",
+      "source": "The Hindu"
+    },
+    {
+      "text": "Nithya Raman, an Indian-origin leader born in Kerala, has won the Los Angeles mayoral election.",
+      "why": "Huge global representation milestone being shared everywhere.",
+      "url": "https://timesofindia.indiatimes.com/world/us/us-mid-term-elections/news/indian-origin-nithya-raman-elected-los-angeles-mayor-defeats-karen-bass/articleshow/135559698.cms",
+      "source": "The Times of India"
+    },
+    {
+      "text": "Hackers reportedly hijacked French blood plasma freezers, dangerously altering their temperature settings from −30°C to 110°C.",
+      "why": "Wild and terrifying cyberattack story dominating world news.",
+      "url": "https://www.reddit.com/r/worldnews/comments/1xnhtji/hackers_hijacked_french_blood_plasma_freezers/",
+      "source": "r/worldnews"
+    },
+    {
+      "text": "Adani Airports CEO reportedly told foreign airlines to shift operations to Navi Mumbai or stop flying to Mumbai altogether.",
+      "why": "Major airport capacity clash triggering intense online debates.",
+      "url": "https://www.reddit.com/r/india/comments/1xo8p12/shift_to_navi_mumbai_or_stop_flying_to_mumbai/",
       "source": "r/india"
     },
     {
-      "text": "The Bombay High Court slammed BJP leaders over Dia Mirza's firecracker video and ordered the BMC to restore it.",
-      "why": "A fiery clash between free speech, politics, and courts.",
-      "url": "https://www.reddit.com/r/india/comments/1xmnkoq/india_is_a_secular_country_bombay_high_court/",
-      "source": "r/india"
+      "text": "Afghanistan and Zimbabwe are facing off in their 1st Test match in the UAE with a historic WTC spot on the horizon.",
+      "why": "Big cricket stakes getting massive search traction.",
+      "url": "https://www.cricbuzz.com/live-cricket-scores/172727/afg-vs-zim-1st-test-afghanistan-vs-zimbabwe-in-uae-2026",
+      "source": "Cricbuzz"
     }
   ],
   "read": {
     "quote": {
-      "text": "Youth is a gift of nature, but age is a work of art.",
-      "author": "Stanisław Jerzy Lec",
-      "book": "Unkempt Thoughts"
+      "text": "You must allow me to tell you how ardently I admire and love you.",
+      "author": "Jane Austen",
+      "book": "Pride and Prejudice"
     },
     "passage": {
-      "text": "After having been standing by the gate of the garden for a long time, Siddhartha realised that his desire was foolish, which had made him go up to this place, that he could not help his son, that he was not allowed to cling to him. Deeply, he felt the love for the run-away in his heart, like a wound, and he felt at the same time that this wound had not been given to him in order to turn the knife in it, that it had to become a blossom and had to shine.",
+      "text": "Having been pondering while slowly walking along, he now stopped as these thoughts caught hold of him, and right away another thought sprang forth from these, a new thought, which was: “That I know nothing about myself, that Siddhartha has remained thus alien and unknown to me, stems from one cause, a single cause: I was afraid of myself, I was fleeing from myself! I searched Atman, I searched Brahman, I was willing to dissect my self and peel off all of its layers, to find the core of all peels in its unknown interior, the Atman, life, the divine part, the ultimate part. But I have lost myself in the process.”",
       "book": "Siddhartha",
       "author": "Hermann Hesse",
-      "context": "Siddhartha realizes his possessive love for his runaway son must transform into grace rather than pain.",
+      "context": "",
       "source": "gutenberg",
-      "day": 1,
+      "day": 2,
       "days": 3
     },
     "weekBook": {
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
       "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
-      "day": 3,
+      "day": 4,
       "ideas": [
         {
           "title": "Your brain uses two different thinking systems",

@@ -321,7 +321,16 @@
   "vindictive",
   "noncommittal",
   "overt",
-  "notorious"
+  "notorious",
+  "coerce",
+  "commanding",
+  "compel",
+  "condemn",
+  "conscript",
+  "consolidate",
+  "constrain",
+  "contend",
+  "contrive"
  ],
  "loop": [
   "glazing",
@@ -600,7 +609,15 @@
   "scene-off",
   "ben-franklin-effect",
   "wfh",
-  "funday"
+  "funday",
+  "vibe-coding",
+  "technical-debt",
+  "llm",
+  "jevons-paradox",
+  "b2b-saas",
+  "product-market-fit",
+  "vc",
+  "conway-s-law"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -954,7 +971,16 @@
   "Om7jApT9cVc",
   "8qRZcXIODNU",
   "ZuvK-od647c",
-  "8bPWXYM2ysU"
+  "8bPWXYM2ysU",
+  "sUltX735Hbs",
+  "ySDZme-0mQM",
+  "R8VBRCs2jTU",
+  "dzejHGniMTQ",
+  "G08hY8dSrUY",
+  "jM3azhiOy5E",
+  "N2LVcu01QEU",
+  "5MuIMqhT8DM",
+  "Z4aMdO8K0XE"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -1042,7 +1068,9 @@
   "https://www.podtrac.com/pts/redirect.mp3/dovetail.prxu.org/7057/c0abbff3-ae98-4e23-a389-5ee0fd824f51/darknet-diaries-ep182-blackshades.mp3",
   "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/a91018a4-ea4f-4130-bf55-ae270180c327/30849b3a-b398-4257-8034-b4ef00f8421f/audio.mp3?utm_source=Podcast&in_playlist=44710ecc-10bb-48d1-93c7-ae270180c33e",
   "https://traffic.megaphone.fm/DSLLC9750399936.mp3",
-  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj"
+  "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj",
+  "https://traffic.megaphone.fm/VMP4247798433.mp3",
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdfx42.mp3"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1332,7 +1360,15 @@
   "How to make a strong first impression",
   "Utilitarianism",
   "The French Revolution",
-  "What is quantum entanglement"
+  "What is quantum entanglement",
+  "How the National Highways Authority of India (NHAI) funds highway construction and operates FASTag electronic toll collection",
+  "How interest rates affect the economy",
+  "How Costco makes money",
+  "Copyright, intellectual property, and legal gray areas in generative AI art and code generation",
+  "How to handle criticism and rejection gracefully without letting it damage your self-esteem",
+  "Political philosophy of Thomas Hobbes and John Locke: The Social Contract and why governments exist",
+  "Ferdinand Magellan's expedition: The thrilling and tragic story of the first circumnavigation of the Earth",
+  "How sleep affects the brain"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
@@ -1343,7 +1379,8 @@
   "I was within and without, simultaneously enchanted and repelled by the inexhaustible variety of life.",
   "I am not afraid of storms, for I am learning how to sail my ship.",
   "Youth is a gift of nature, but age is a work of art.",
-  "You must allow me to tell you how ardently I admire and love you."
+  "You must allow me to tell you how ardently I admire and love you.",
+  "It is our choices, Harry, that show what we truly are, far more than our abilities."
  ],
  "books": {
   "current": {
@@ -1352,10 +1389,11 @@
    "author": "Hermann Hesse",
    "days": 3,
    "days_planned": 3,
-   "days_used": 2,
+   "days_used": 3,
    "used": [
     "After having been standing by the gate of the garden for a l",
-    "Having been pondering while slowly walking along, he now sto"
+    "Having been pondering while slowly walking along, he now sto",
+    "Quoth Siddhartha: “I’ve had thoughts, yes, and insight, agai"
    ]
   },
   "done": [

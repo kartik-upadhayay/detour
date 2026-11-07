@@ -330,7 +330,16 @@
   "consolidate",
   "constrain",
   "contend",
-  "contrive"
+  "contrive",
+  "profuse",
+  "spate",
+  "proliferate",
+  "punitive",
+  "stentorian",
+  "mammoth",
+  "protracted",
+  "voluminous",
+  "perceptible"
  ],
  "loop": [
   "glazing",
@@ -617,7 +626,15 @@
   "b2b-saas",
   "product-market-fit",
   "vc",
-  "conway-s-law"
+  "conway-s-law",
+  "chindi",
+  "triangulation",
+  "nris",
+  "cobra-effect",
+  "jcb-ki-khudai",
+  "bindaas",
+  "emotional-flashback",
+  "itr"
  ],
  "videos": [
   "meSctH_a7HM",
@@ -980,7 +997,16 @@
   "jM3azhiOy5E",
   "N2LVcu01QEU",
   "5MuIMqhT8DM",
-  "Z4aMdO8K0XE"
+  "Z4aMdO8K0XE",
+  "01aFP88qfQs",
+  "jEVKdiMQC6w",
+  "vO2KGm8NM8E",
+  "BzB5xtGGsTc",
+  "ciNHn38EyRc",
+  "VRJzvJ5XPQI",
+  "Dr9954kaFBs",
+  "Pd6E38FfuMg",
+  "oFjheenO-ao"
  ],
  "podcasts": [
   "https://traffic.libsyn.com/secure/philosophizethis/han_part_2.mp3?dest-id=144660",
@@ -1070,7 +1096,9 @@
   "https://traffic.megaphone.fm/DSLLC9750399936.mp3",
   "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/8b62332a-56b8-4d25-b175-1e588b078323/episodes/51551b0f-3c5c-4bae-b3b8-750b4179074a/audio/128/default.mp3?aid=rss_feed&awCollectionId=8b62332a-56b8-4d25-b175-1e588b078323&awEpisodeId=51551b0f-3c5c-4bae-b3b8-750b4179074a&feed=4T39_jAj",
   "https://traffic.megaphone.fm/VMP4247798433.mp3",
-  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdfx42.mp3"
+  "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdfx42.mp3",
+  "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/360f7ae1-6a26-4e82-a04b-e47c03cde44f/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=360f7ae1-6a26-4e82-a04b-e47c03cde44f&feed=FO6kxYGj",
+  "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653"
  ],
  "topics": [
   "How the UPI payment system works seamlessly under the hood",
@@ -1368,7 +1396,15 @@
   "How to handle criticism and rejection gracefully without letting it damage your self-esteem",
   "Political philosophy of Thomas Hobbes and John Locke: The Social Contract and why governments exist",
   "Ferdinand Magellan's expedition: The thrilling and tragic story of the first circumnavigation of the Earth",
-  "How sleep affects the brain"
+  "How sleep affects the brain",
+  "Jagadish Chandra Bose and the invention of wireless telegraphy before Marconi",
+  "Emergency fund basics",
+  "How airlines make money",
+  "How SQL injection and cross-site scripting (XSS) vulnerabilities compromise web applications",
+  "The mechanics of charisma and how non-verbal body language influences room presence",
+  "Utilitarianism",
+  "The downfall of Napoleon Bonaparte: how ambition, winter warfare, and Waterloo ended an empire",
+  "How ice ages happen: Milankovitch cycles and the astronomical drivers of Earth's climate"
  ],
  "quotes": [
   "And now that you don't have to be perfect, you can be good.",
@@ -1380,26 +1416,26 @@
   "I am not afraid of storms, for I am learning how to sail my ship.",
   "Youth is a gift of nature, but age is a work of art.",
   "You must allow me to tell you how ardently I admire and love you.",
-  "It is our choices, Harry, that show what we truly are, far more than our abilities."
+  "It is our choices, Harry, that show what we truly are, far more than our abilities.",
+  "What you seek is seeking you."
  ],
  "books": {
   "current": {
-   "gutenberg": 2500,
-   "title": "Siddhartha",
-   "author": "Hermann Hesse",
-   "days": 3,
+   "gutenberg": 64317,
+   "title": "The Great Gatsby",
+   "author": "F. Scott Fitzgerald",
+   "days": 2,
    "days_planned": 3,
-   "days_used": 3,
+   "days_used": 1,
    "used": [
-    "After having been standing by the gate of the garden for a l",
-    "Having been pondering while slowly walking along, he now sto",
-    "Quoth Siddhartha: “I’ve had thoughts, yes, and insight, agai"
+    "Her husband, among various physical accomplishments, had bee"
    ]
   },
   "done": [
    "Gitanjali",
    "Wings of Fire",
-   "A Tale of Two Cities"
+   "A Tale of Two Cities",
+   "Siddhartha"
   ]
  },
  "weekbooks_done": [

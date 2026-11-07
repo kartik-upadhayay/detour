@@ -1,454 +1,450 @@
 {
   "schema": 1,
-  "date": "2026-11-06",
-  "generatedAt": "2026-11-06T07:09:49+00:00",
+  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T06:21:49+00:00",
   "words": [
     {
-      "word": "Coerce",
-      "pos": "verb",
-      "pronunciation": "koh-URS",
-      "meaning": "To persuade someone by using force, threats, or relentless pressure.",
-      "insteadOf": "force someone",
-      "example": "He tried to coerce the team lead into rushing the sprint release."
-    },
-    {
-      "word": "Commanding",
+      "word": "Profuse",
       "pos": "adjective",
-      "pronunciation": "kuh-MAN-ding",
-      "meaning": "Having a position of authority or a presence that demands immediate attention.",
-      "insteadOf": "strong and confident",
-      "example": "She took a commanding tone during the college fest budget meeting."
+      "pronunciation": "pruh-fyoos",
+      "meaning": "Plentiful, pouring forth in great amounts.",
+      "insteadOf": "a lot of",
+      "example": "He offered profuse apologies for missing the hackathon deadline."
     },
     {
-      "word": "Compel",
-      "pos": "verb",
-      "pronunciation": "kuhm-PEL",
-      "meaning": "To force or oblige someone to do something through sheer necessity or influence.",
-      "insteadOf": "make someone do it",
-      "example": "The unexpected market crash will compel founders to rethink their pitch decks."
+      "word": "Spate",
+      "pos": "noun",
+      "pronunciation": "spayt",
+      "meaning": "A large number of similar things coming in a short time.",
+      "insteadOf": "a bunch of",
+      "example": "A sudden spate of server crashes ruined our overnight deployment."
     },
     {
-      "word": "Condemn",
+      "word": "Proliferate",
       "pos": "verb",
-      "pronunciation": "kuhn-DEM",
-      "meaning": "To express complete disapproval of something officially or publicly.",
-      "insteadOf": "strongly criticize",
-      "example": "The professor did not hesitate to condemn the blatant plagiarism in the assignment."
+      "pronunciation": "pruh-lif-uh-rayt",
+      "meaning": "To increase rapidly in numbers or size.",
+      "insteadOf": "spread everywhere",
+      "example": "Bug reports began to proliferate across our GitHub repository."
     },
     {
-      "word": "Conscript",
-      "pos": "verb",
-      "pronunciation": "kuhn-SKRIPT",
-      "meaning": "To enlist someone compulsorily into an activity or organization.",
-      "insteadOf": "draft into a team",
-      "example": "They tried to conscript me into building the entire frontend overnight."
+      "word": "Punitive",
+      "pos": "adjective",
+      "pronunciation": "pyoo-ni-tiv",
+      "meaning": "Inflicting or aiming at large-scale punishment.",
+      "insteadOf": "harsh",
+      "example": "The professor imposed punitive grading for the copied code."
     },
     {
-      "word": "Consolidate",
-      "pos": "verb",
-      "pronunciation": "kuhn-SOL-i-dayt",
-      "meaning": "To combine several things into a single, more effective or powerful whole.",
-      "insteadOf": "bring together",
-      "example": "We need to consolidate our research notes before the final thesis presentation."
+      "word": "Stentorian",
+      "pos": "adjective",
+      "pronunciation": "sten-tawr-ee-uhn",
+      "meaning": "Loud and powerful in sound intensity.",
+      "insteadOf": "very loud",
+      "example": "My roommate spoke in a stentorian voice during online gaming."
     },
     {
-      "word": "Constrain",
-      "pos": "verb",
-      "pronunciation": "kuhn-STRAYN",
-      "meaning": "To severely restrict or limit someone's actions or freedom.",
-      "insteadOf": "hold back",
-      "example": "Strict college curfew rules constrain how late we can stay in the lab."
+      "word": "Mammoth",
+      "pos": "adjective",
+      "pronunciation": "mam-uhth",
+      "meaning": "Enormous in size or scale.",
+      "insteadOf": "huge",
+      "example": "Preparing for the end-semester exams was a mammoth task."
     },
     {
-      "word": "Contend",
-      "pos": "verb",
-      "pronunciation": "kuhn-TEND",
-      "meaning": "To struggle against a difficulty or assert a point in a debate.",
-      "insteadOf": "argue or fight",
-      "example": "I had to contend with a terrible Wi-Fi connection during the online interview."
+      "word": "Protracted",
+      "pos": "adjective",
+      "pronunciation": "pruh-trakt-id",
+      "meaning": "Lasting for a long time or longer than expected.",
+      "insteadOf": "dragging on",
+      "example": "We had a protracted argument about which pizza place to order from."
     },
     {
-      "word": "Contrive",
-      "pos": "verb",
-      "pronunciation": "kuhn-TRYV",
-      "meaning": "To cleverly create or arrange something, often through a clever scheme.",
-      "insteadOf": "manage to pull off",
-      "example": "We managed to contrive a working prototype just hours before the hackathon deadline."
+      "word": "Voluminous",
+      "pos": "adjective",
+      "pronunciation": "vuh-loo-muh-nus",
+      "meaning": "Occupying much space; very lengthy.",
+      "insteadOf": "very long",
+      "example": "I had to read voluminous research papers for the seminar."
+    },
+    {
+      "word": "Perceptible",
+      "pos": "adjective",
+      "pronunciation": "per-sep-tuh-buhl",
+      "meaning": "Able to be seen or noticed, even if small in scale.",
+      "insteadOf": "noticeable",
+      "example": "There was a perceptible drop in room temperature when the AC turned on."
     }
   ],
   "loop": [
     {
       "type": "slang",
-      "term": "Vibe coding",
-      "meaning": "Using AI tools to generate entire software applications simply by describing what you want in plain language, without writing the actual code yourself.",
-      "example": "I didn't debug a single line of this app, I was just vibe coding with Claude all weekend.",
-      "context": "Used in tech and startup circles to describe the shift from traditional programming to prompt-driven development. Casual and slightly mocking of hardcode engineers.",
+      "term": "Chindi",
+      "meaning": "Extremely cheap or miserly, often used to describe someone who goes to great lengths to save a tiny amount of money.",
+      "example": "Bro is so chindi, he asked for a refund on a 10-rupee chai.",
+      "context": "Used among friends when someone acts overly stingy. Mildly insulting but usually delivered in a joking manner.",
       "tone": "playful",
       "nsfw": false,
-      "id": "vibe-coding"
+      "id": "chindi"
     },
     {
       "type": "psych",
-      "term": "Technical debt",
-      "meaning": "A metaphor for the long-term consequences of taking coding shortcuts to launch a product quickly, which later requires painful fixes.",
-      "example": "We pushed that buggy login feature last month and now our technical debt is completely killing our velocity.",
-      "context": "Adopted from software engineering into general startup strategy. Used seriously by product managers and developers.",
+      "term": "Triangulation",
+      "meaning": "A manipulative communication dynamic where two people involve a third person to reduce tension or pressure in a conflict.",
+      "example": "She keeps bringing her ex into our arguments just to make me insecure; that's classic triangulation.",
+      "context": "Popular on modern relationship podcasts and psychology reels when analyzing toxic dating behaviors.",
       "tone": "serious",
       "nsfw": false,
-      "id": "technical-debt"
+      "id": "triangulation"
     },
     {
       "type": "acronym",
-      "term": "LLM",
-      "meaning": "Large Language Model, the underlying artificial intelligence architecture that powers chatbots like ChatGPT and Claude.",
-      "example": "They fine-tuned an open-source LLM on legal documents to build a local Indian contract reviewer.",
-      "context": "Ubiquitous in tech podcasts and casual conversations about AI. Never rude; standard technical vocabulary.",
+      "term": "NRIs",
+      "meaning": "Non-Resident Indians; Indian citizens who live abroad for work, education, or permanent residence.",
+      "example": "Half the comments on that reel complaining about Indian traffic are from delusional NRIs.",
+      "context": "Ubiquitous in Indian internet culture, especially when discussing cultural disconnect or diaspora behavior.",
       "tone": "casual",
       "nsfw": false,
-      "id": "llm"
+      "id": "nris"
     },
     {
       "type": "paradox",
-      "term": "Jevons paradox",
-      "meaning": "An economic observation that as technological efficiency makes a resource cheaper to use, total consumption of that resource actually increases rather than decreases.",
-      "example": "Making AI code generation faster didn't save developers time; it just made companies demand five times more features, proving Jevons paradox.",
-      "context": "Referenced in tech podcasts and deep-dive essays discussing energy usage, automation, and productivity.",
+      "term": "Cobra Effect",
+      "meaning": "When an attempted solution to a problem accidentally makes the problem worse due to unintended perverse incentives.",
+      "example": "Giving a bounty for every stray rat just led people to start breeding rats for easy cash; absolute cobra effect.",
+      "context": "Referenced in economics and policy discussions when pointing out failed bureaucratic interventions.",
       "tone": "serious",
       "nsfw": false,
-      "id": "jevons-paradox"
+      "id": "cobra-effect"
+    },
+    {
+      "type": "meme",
+      "term": "JCB Ki Khudai",
+      "meaning": "A classic Indian meme phenomenon where random live streams or videos of a JCB earthmover digging dirt attract millions of mesmerized viewers.",
+      "example": "Nothing on TV tonight, let's just watch a YouTube video of JCB ki khudai.",
+      "context": "An iconic piece of Indian internet lore used to poke fun at mindless scrolling and viral absurdities.",
+      "tone": "playful",
+      "nsfw": false,
+      "id": "jcb-ki-khudai"
     },
     {
       "type": "slang",
-      "term": "B2B SaaS",
-      "meaning": "Business-to-Business Software-as-a-Service, the holy grail of tech startups that sell subscription-based software to other companies rather than regular consumers.",
-      "example": "Every single guy in Koramangala is launching a B2B SaaS tool for automated invoicing.",
-      "context": "Constantly dropped in Indian startup hubs like Bangalore. Used seriously in pitches or mockingly about the oversaturated market.",
+      "term": "Bindaas",
+      "meaning": "Carefree, fearless, and living life on one's own terms without worrying about what others think.",
+      "example": "She quit her corporate job to travel solo; her lifestyle is totally bindaas.",
+      "context": "An old-school Hindi slang word that has made a comeback in modern conversational reels and podcasts describing a carefree attitude.",
       "tone": "casual",
       "nsfw": false,
-      "id": "b2b-saas"
+      "id": "bindaas"
     },
     {
       "type": "psych",
-      "term": "Product-market fit",
-      "meaning": "The psychological and commercial sweet spot where customer demand actually matches what your startup is building, causing organic growth.",
-      "example": "We can run all the ads we want, but until we hit true product-market fit, users just churn out.",
-      "context": "The buzzword every venture capitalist throws around in meetings. Used seriously in business discussions.",
+      "term": "Emotional Flashback",
+      "meaning": "A sudden, intense re-experiencing of a past emotional trauma triggered by a seemingly minor current event.",
+      "example": "Getting yelled at at work triggered an emotional flashback to my strict childhood.",
+      "context": "Frequently dropped by mental health creators and wellness podcasters discussing trauma recovery.",
       "tone": "serious",
       "nsfw": false,
-      "id": "product-market-fit"
+      "id": "emotional-flashback"
     },
     {
       "type": "acronym",
-      "term": "VC",
-      "meaning": "Venture Capitalist, an investor who provides capital to high-growth startups in exchange for equity.",
-      "example": "Every college dropout in Indiranagar is trying to pitch their random app idea to some angel investor or VC.",
-      "context": "Used constantly in startup banter and business reels. Can carry a slightly mocking tone depending on context.",
+      "term": "ITR",
+      "meaning": "Income Tax Return; the form individuals file with the government to report their annual earnings and tax liability.",
+      "example": "Everyone on financial Twitter is stressing out about filing their ITR before the deadline.",
+      "context": "Standard finance bro terminology that spikes heavily on social media during tax season in India.",
       "tone": "casual",
       "nsfw": false,
-      "id": "vc"
-    },
-    {
-      "type": "paradox",
-      "term": "Conway's law",
-      "meaning": "An adage stating that organizations which design software systems are inevitably constrained to produce designs which are copies of the communication structures of these organizations.",
-      "example": "Our backend architecture is an absolute mess because our engineering team is split across three different cities, proving Conway's law.",
-      "context": "Used by software engineers and tech managers explaining why system bugs mirror office politics.",
-      "tone": "casual",
-      "nsfw": false,
-      "id": "conway-s-law"
+      "id": "itr"
     }
   ],
   "news": {
     "india": [
       {
-        "text": "The Supreme Court ruled that its March 11 OBC creamy layer quota order will not apply retrospectively, averting widespread disruptions to past appointments and admissions.",
+        "text": "State-run oil marketing companies have rejected Karnataka’s report on excessive ethanol content in vehicular fuel, demanding additional testing details.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/business/Industry/omcs-refute-karnatakas-e20-report-seeks-additional-details-about-procedure/article71675835.ece"
+      },
+      {
+        "text": "Delhi's air quality dropped to very poor levels with an AQI of 364, prompting authorities to order hybrid classes for primary students.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/cities/Delhi/delhi-air-very-poor-with-aqi-reading-of-364/article71677336.ece"
+      },
+      {
+        "text": "The Union government mandated rice and paddy stock declarations to prevent hoarding amidst rising prices, allowing southern states to impose limits.",
+        "source": "The Hindu Business",
+        "url": "https://www.thehindu.com/news/national/amid-price-rise-centre-mandates-rice-paddy-stock-declaration/article71675997.ece"
+      },
+      {
+        "text": "State-run oil companies disputed Karnataka's claims of high ethanol blends in petrol, asserting that supplies meet all prescribed quality standards.",
         "source": "Hindustan Times",
-        "url": "https://www.hindustantimes.com/india-news/march-11-obc-creamy-layer-quota-order-would-not-apply-retrospectively-supreme-court-101793948160057.html"
+        "url": "https://www.hindustantimes.com/india-news/oil-companies-reject-karnataka-s-claim-of-26-31-ethanol-in-petrol-seek-test-reports-101794029902539.html"
       },
       {
-        "text": "The Central government eased immigration regulations for persecuted religious minorities from Pakistan and Afghanistan as well as other foreign nationals.",
-        "source": "Times of India",
-        "url": "https://timesofindia.indiatimes.com/india/centre-eases-immigration-rules-for-pakistani-afghan-minorities-and-other-foreign-nationals/articleshow/135593727.cms"
+        "text": "The death toll in the Old Delhi building collapse rose to three after rescue teams recovered another body from the site.",
+        "source": "Hindustan Times",
+        "url": "https://www.hindustantimes.com/india-news/toll-in-old-delhis-chawri-bazar-building-collapse-rises-to-3-as-another-body-pulled-out-101794027333177.html"
       },
       {
-        "text": "The Agnipath military recruitment scheme's new service modifications will apply exclusively to serving Agniveers, retaining the four-year tenure for incoming recruits.",
-        "source": "NDTV",
-        "url": "https://www.ndtv.com/india-news/agnipath-changes-only-for-serving-agniveers-new-recruits-still-get-4-years-12291310#publisher=newsstand"
-      },
-      {
-        "text": "The National Company Law Tribunal declared Videocon promoter Venugopal Dhoot bankrupt over unpaid debts totaling 12,668 crore rupees to the State Bank of India.",
+        "text": "The India Meteorological Department issued a heavy rainfall alert for parts of Tamil Nadu and Puducherry over the coming days.",
         "source": "Mint",
-        "url": "https://www.livemint.com/news/india/venugopal-dhoot-videocon-bankruptcy-11793939447110.html"
+        "url": "https://www.livemint.com/news/india/weather-update-imd-issues-heavy-rainfall-alert-in-tamil-nadu-puducherry-in-next-few-days-check-region-wise-warning-11794019120029.html"
       },
       {
-        "text": "UNESCO inscribed India’s 'Maratha Military Landscapes', comprising twelve historic forts across Maharashtra and Tamil Nadu, onto the World Heritage List.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/indias-maratha-military-landscapes-inscribed-on-unesco-world-heritage-list/article69802028.ece"
-      },
-      {
-        "text": "The Union Mines Ministry launched its ninth tranche of auctions, putting twenty critical and strategic mineral blocks up for bidding.",
+        "text": "The Central Bureau of Investigation booked Future Retail and promoter Kishore Biyani in connection with a 904 crore rupee bank fraud case.",
         "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Economy/ninth-tranche-of-mineral-block-auctions-offers-20-blocks/article71671174.ece"
+        "url": "https://www.thehindu.com/business/Industry/cbi-books-future-retail-kishore-biyani-others-in-904-crore-bank-fraud-case-searches-conducted-in-mumbai/article71675017.ece"
       },
       {
-        "text": "A Hyderabad-based startup opened India’s first private space debris recovery facility to track and mitigate threats posed by non-operational satellites in orbit.",
-        "source": "The Hindu",
-        "url": "https://www.thehindu.com/news/national/telangana/hyderabad-startup-opens-indias-first-private-space-debris-recovery-facility/article71670668.ece"
-      },
-      {
-        "text": "The National Payments Corporation of India established a new technology subsidiary to develop artificial intelligence, blockchain, and digital financial infrastructure solutions.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/npci-sets-up-tech-subsidiary-to-tap-ai-blockchain-and-gcc-opportunities/article71672846.ece"
-      },
-      {
-        "text": "Automobile retail sales in India dropped 24 percent in October compared to the previous year, driven by a high base effect across major vehicle segments.",
-        "source": "The Hindu Business",
-        "url": "https://www.thehindu.com/business/Industry/automobile-retail-sales-fall-24-in-october-on-high-base-effect-a-year-ago/article71673102.ece"
+        "text": "The Commission for Air Quality Management invoked GRAP-III measures in the Delhi-NCR region as pollution levels neared the severe category.",
+        "source": "Mint",
+        "url": "https://www.livemint.com/news/india/caqm-imposes-grap-iii-in-delhi-ncr-ahead-of-diwali-as-aqi-soars-to-382-here-s-what-s-allowed-and-restricted-11794022821945.html"
       }
     ],
     "world": [
       {
-        "text": "Global tech stocks plunged as US midterm election results fueled investor fears over potential tougher regulatory scrutiny of the artificial intelligence industry.",
+        "text": "Paraguayan President Santiago Peña was impeached, arrested, and placed under military protection following a severe banking crisis that froze millions of accounts.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss"
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss"
       },
       {
-        "text": "Paraguayan President Santiago Peña resigned following a major political and financial crisis triggered by frozen bank savings.",
+        "text": "Global stock markets fell sharply as investors sold off tech shares amid concerns over future artificial intelligence policies following the US midterm elections.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/05/paraguay-president-santiago-pena-resigns"
+        "url": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph"
       },
       {
-        "text": "Hong Kong activist Joshua Wong was sentenced to ten years in prison under a national security case.",
+        "text": "Kenyan doomsday sect leader Paul Mackenzie was sentenced to 200 years in prison for the starvation murders of 190 children and one adult.",
         "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/05/hong-kong-joshua-wong-sentenced-national-security-case"
+        "url": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie"
       },
       {
-        "text": "French labor unions led widespread strikes and protests over the high cost of living, drawing hundreds of thousands of participants.",
+        "text": "US military forces carried out fresh targeted strikes against Iran while Tehran reviewed international proposals regarding its nuclear program.",
+        "source": "The Hindu",
+        "url": "https://www.thehindu.com/news/international/us-military-carries-out-fresh-targeted-strikes-on-iran-as-tehran-weighs-mediators-proposals/article71677274.ece"
+      },
+      {
+        "text": "European airlines faced a new wave of bomb threats that prompted widespread security investigations across the continent.",
         "source": "BBC",
-        "url": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss"
-      },
-      {
-        "text": "South Korea announced plans to expand naval operations closer to the Strait of Hormuz amid mounting regional tensions.",
-        "source": "The Guardian",
-        "url": "https://www.theguardian.com/world/2026/nov/05/south-korea-to-expand-anti-piracy-unit-strait-of-hormuz"
+        "url": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss"
       }
     ]
   },
   "videos": {
     "hero": {
-      "id": "sUltX735Hbs",
-      "title": "Insane True Story of the First Trip Around Earth",
-      "channel": "Map Pack",
-      "category": "history",
-      "url": "https://www.youtube.com/watch?v=sUltX735Hbs",
-      "thumbnail": "https://i.ytimg.com/vi/sUltX735Hbs/hqdefault.jpg",
+      "id": "01aFP88qfQs",
+      "title": "What Milankovitch Cycles Will Do To Earth",
+      "channel": "Astrum",
+      "category": "science",
+      "url": "https://www.youtube.com/watch?v=01aFP88qfQs",
+      "thumbnail": "https://i.ytimg.com/vi/01aFP88qfQs/hqdefault.jpg",
       "published": "",
-      "learn": "The grueling and perilous reality of humanity's first global circumnavigation expedition.",
-      "minutes": 42
+      "learn": "How subtle astronomical shifts in Earth's orbit trigger massive ice ages over millennia.",
+      "minutes": 13
     },
     "more": [
       {
-        "id": "ySDZme-0mQM",
-        "title": "What is FASTag | How FASTag Work | Colors of FASTag | Pros and Cons of FASTag | What is RFID Device",
-        "channel": "Khan GS Research Centre",
+        "id": "jEVKdiMQC6w",
+        "title": "J C Bose - Real inventor of RADIO | Father of wireless communication | Abhi and Niyu",
+        "channel": "Abhi and Niyu",
         "category": "india",
-        "url": "https://www.youtube.com/watch?v=ySDZme-0mQM",
-        "thumbnail": "https://i.ytimg.com/vi/ySDZme-0mQM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=jEVKdiMQC6w",
+        "thumbnail": "https://i.ytimg.com/vi/jEVKdiMQC6w/hqdefault.jpg",
         "published": "",
-        "learn": "How FASTag technology and toll collection systems operate across Indian national highways.",
-        "minutes": 15
+        "learn": "How Jagadish Chandra Bose pioneered wireless telegraphy and radio waves long before Marconi.",
+        "minutes": 5
       },
       {
-        "id": "R8VBRCs2jTU",
-        "title": "How does raising interest rates control inflation?",
-        "channel": "The Economist",
+        "id": "vO2KGm8NM8E",
+        "title": "What is an Emergency Fund? | How to build it? | Personal Finance for Beginners Ep - 1",
+        "channel": "Zerodha Varsity",
         "category": "money",
-        "url": "https://www.youtube.com/watch?v=R8VBRCs2jTU",
-        "thumbnail": "https://i.ytimg.com/vi/R8VBRCs2jTU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vO2KGm8NM8E",
+        "thumbnail": "https://i.ytimg.com/vi/vO2KGm8NM8E/hqdefault.jpg",
         "published": "",
-        "learn": "How central banks use interest rates to cool down or stimulate the economy.",
+        "learn": "Why you need an emergency fund and the exact steps to build one safely.",
+        "minutes": 7
+      },
+      {
+        "id": "BzB5xtGGsTc",
+        "title": "The Economics of Airline Class",
+        "channel": "Wendover Productions",
+        "category": "business",
+        "url": "https://www.youtube.com/watch?v=BzB5xtGGsTc",
+        "thumbnail": "https://i.ytimg.com/vi/BzB5xtGGsTc/hqdefault.jpg",
+        "published": "",
+        "learn": "How airlines use class structures and pricing tricks to turn a profit.",
+        "minutes": 11
+      },
+      {
+        "id": "ciNHn38EyRc",
+        "title": "Running an SQL Injection Attack - Computerphile",
+        "channel": "Computerphile",
+        "category": "ai",
+        "url": "https://www.youtube.com/watch?v=ciNHn38EyRc",
+        "thumbnail": "https://i.ytimg.com/vi/ciNHn38EyRc/hqdefault.jpg",
+        "published": "",
+        "learn": "How malicious SQL inputs can bypass security and compromise entire web databases.",
+        "minutes": 17
+      },
+      {
+        "id": "VRJzvJ5XPQI",
+        "title": "Body Language Expert Explains How to Show Confidence | WIRED",
+        "channel": "WIRED",
+        "category": "mind",
+        "url": "https://www.youtube.com/watch?v=VRJzvJ5XPQI",
+        "thumbnail": "https://i.ytimg.com/vi/VRJzvJ5XPQI/hqdefault.jpg",
+        "published": "",
+        "learn": "How non-verbal body language cues project genuine confidence and command a room.",
+        "minutes": 14
+      },
+      {
+        "id": "Dr9954kaFBs",
+        "title": "Utilitarianism - John Stuart Mill",
+        "channel": "Then & Now",
+        "category": "philosophy",
+        "url": "https://www.youtube.com/watch?v=Dr9954kaFBs",
+        "thumbnail": "https://i.ytimg.com/vi/Dr9954kaFBs/hqdefault.jpg",
+        "published": "",
+        "learn": "How John Stuart Mill shaped utilitarianism to prioritize the greatest happiness for all.",
         "minutes": 8
       },
       {
-        "id": "dzejHGniMTQ",
-        "title": "How Costco Became A Massive \"Members Only\" Retailer",
-        "channel": "CNBC",
-        "category": "business",
-        "url": "https://www.youtube.com/watch?v=dzejHGniMTQ",
-        "thumbnail": "https://i.ytimg.com/vi/dzejHGniMTQ/hqdefault.jpg",
+        "id": "Pd6E38FfuMg",
+        "title": "Napoleon Bonaparte: Crash Course European History #22",
+        "channel": "CrashCourse",
+        "category": "history",
+        "url": "https://www.youtube.com/watch?v=Pd6E38FfuMg",
+        "thumbnail": "https://i.ytimg.com/vi/Pd6E38FfuMg/hqdefault.jpg",
         "published": "",
-        "learn": "How Costco generates massive profits almost entirely through membership fees rather than markups.",
-        "minutes": 22
+        "learn": "How overextended ambition, brutal winter warfare, and Waterloo destroyed Napoleon's empire.",
+        "minutes": 15
       },
       {
-        "id": "G08hY8dSrUY",
-        "title": "A.I. Versus The Law",
-        "channel": "LegalEagle",
-        "category": "ai",
-        "url": "https://www.youtube.com/watch?v=G08hY8dSrUY",
-        "thumbnail": "https://i.ytimg.com/vi/G08hY8dSrUY/hqdefault.jpg",
-        "published": "",
-        "learn": "How current copyright laws apply to generative art and code creation.",
-        "minutes": 20
-      },
-      {
-        "id": "jM3azhiOy5E",
-        "title": "How to Deal with Rejection Sensitivity",
-        "channel": "How to ADHD",
-        "category": "mind",
-        "url": "https://www.youtube.com/watch?v=jM3azhiOy5E",
-        "thumbnail": "https://i.ytimg.com/vi/jM3azhiOy5E/hqdefault.jpg",
-        "published": "",
-        "learn": "Why rejection feels physically painful and how to manage rejection sensitivity.",
-        "minutes": 9
-      },
-      {
-        "id": "N2LVcu01QEU",
-        "title": "Thomas Hobbes and John Locke:  Two Philosophers Compared",
-        "channel": "Tom Richey",
-        "category": "philosophy",
-        "url": "https://www.youtube.com/watch?v=N2LVcu01QEU",
-        "thumbnail": "https://i.ytimg.com/vi/N2LVcu01QEU/hqdefault.jpg",
-        "published": "",
-        "learn": "How Hobbes and Locke used the social contract to justify government power.",
-        "minutes": 16
-      },
-      {
-        "id": "5MuIMqhT8DM",
-        "title": "Sleep Is Your Superpower | Matt Walker | TED",
-        "channel": "TED",
-        "category": "science",
-        "url": "https://www.youtube.com/watch?v=5MuIMqhT8DM",
-        "thumbnail": "https://i.ytimg.com/vi/5MuIMqhT8DM/hqdefault.jpg",
-        "published": "",
-        "learn": "How sleep radically enhances memory consolidation, immune function, and brain health.",
-        "minutes": 19
-      },
-      {
-        "id": "Z4aMdO8K0XE",
-        "title": "INDIA’S GOT LATENT S2 EP8 ft. MC Stan, Tanmay Bhat, Madhur Virli, Arpit Bala",
-        "channel": "Samay Raina",
+        "id": "oFjheenO-ao",
+        "title": "BLIND LOVE | Haryanvi Special ft @GoyatNeeraj @boi_onkar @ComicKaustubhAgarwal and Vivek",
+        "channel": "Vivek Samtani",
         "category": "fun",
-        "url": "https://www.youtube.com/watch?v=Z4aMdO8K0XE",
-        "thumbnail": "https://i.ytimg.com/vi/Z4aMdO8K0XE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oFjheenO-ao",
+        "thumbnail": "https://i.ytimg.com/vi/oFjheenO-ao/hqdefault.jpg",
         "published": "",
         "learn": "",
-        "minutes": 50
+        "minutes": 93
       }
     ]
   },
   "podcasts": [
     {
-      "id": "how-i-built-this-dell-computers-michael-dell-the-college-dropout-who-took-on-ibm",
-      "title": "Dell Computers: Michael Dell. The College Dropout Who Took on IBM (2018)",
-      "show": "How I Built This",
-      "category": "business",
-      "audioUrl": "https://traffic.megaphone.fm/VMP4247798433.mp3",
-      "link": "",
-      "durationSec": 2808,
+      "id": "ologies-chickenology-hens-roosters-part-1-encore-with-tove-danovich",
+      "title": "Chickenology (HENS & ROOSTERS) Part 1 Encore with Tove Danovich",
+      "show": "Ologies",
+      "category": "science",
+      "audioUrl": "https://pdst.fm/e/dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/89060b63-e603-4297-b6e8-5a654e50244e/episodes/360f7ae1-6a26-4e82-a04b-e47c03cde44f/audio/128/default.mp3?aid=rss_feed&awCollectionId=89060b63-e603-4297-b6e8-5a654e50244e&awEpisodeId=360f7ae1-6a26-4e82-a04b-e47c03cde44f&feed=FO6kxYGj",
+      "link": "https://www.siriusxm.com",
+      "durationSec": 4766,
       "startSec": null,
-      "why": "Discover how a college dropout built a tech empire from his dorm room."
+      "why": "Discover how a casual backyard chicken experiment turned into a fascinating and unique journey."
     },
     {
-      "id": "you-re-dead-to-me-medieval-saints-radio-edit",
-      "title": "Medieval Saints (Radio Edit)",
-      "show": "You're Dead to Me",
-      "category": "history",
-      "audioUrl": "http://open.live.bbc.co.uk/mediaselector/6/redir/version/2.0/mediaset/audio-nondrm-download-rss/proto/http/vpid/p0pdfx42.mp3",
-      "link": "http://www.bbc.co.uk/programmes/p0pfft31",
-      "durationSec": 1686,
+      "id": "planet-money-inside-the-insurance-industry-s-destruction-lab",
+      "title": "Inside the insurance industry’s destruction lab",
+      "show": "Planet Money",
+      "category": "money",
+      "audioUrl": "https://tracking.swap.fm/track/XvDEoI11TR00olTUO8US/prfx.byspotify.com/e/play.podtrac.com/npr-510289/npr.simplecastaudio.com/43b5acee-463e-4612-95ad-d2596d9dd337/episodes/1e049bd1-7af5-4822-bae2-28d526ef53fd/audio/128/default.mp3?awCollectionId=43b5acee-463e-4612-95ad-d2596d9dd337&awEpisodeId=1e049bd1-7af5-4822-bae2-28d526ef53fd&feed=hvWWWzRv&t=podcast&e=nx-s1-6032860&p=510289&d=1943&size=31091653",
+      "link": "https://www.npr.org/2026/11/06/nx-s1-6032860/fire-insurance-industry-destruction-lab",
+      "durationSec": 1943,
       "startSec": null,
-      "why": "Historians and comedians break down the bizarre world of medieval saints and relics."
+      "why": "Find out why an insurance company is deliberately burning down houses to test them."
     }
   ],
   "onThisDay": [
     {
-      "year": 1976,
-      "kind": "event",
-      "text": "Nearly 800 men of Uttawar village underwent forced mass vasectomies during India's Emergency, highlighting a dark period of authoritarian state-sponsored overreach.",
-      "url": "https://en.wikipedia.org/wiki/Uttawar_forced_sterilisations",
+      "year": 1888,
+      "kind": "born",
+      "text": "C. V. Raman was born, later becoming a legendary physicist and the first Asian to win a Nobel Prize in science for his pioneering work on light scattering.",
+      "url": "https://en.wikipedia.org/wiki/C._V._Raman",
       "india": true
     },
     {
-      "year": 1985,
+      "year": 1862,
       "kind": "died",
-      "text": "Sanjeev Kumar died, leaving behind a legendary legacy as one of Indian cinema's most versatile actors renowned for deeply complex, mature roles.",
-      "url": "https://en.wikipedia.org/wiki/Sanjeev_Kumar",
+      "text": "Bahadur Shah II, the last Mughal emperor, died in exile, marking the definitive end of the Mughal dynasty following the 1857 rebellion.",
+      "url": "https://en.wikipedia.org/wiki/Bahadur_Shah_Zafar",
       "india": true
     },
     {
-      "year": 1944,
+      "year": 1627,
+      "kind": "died",
+      "text": "Jahangir, the fourth Mughal emperor known for his patronage of the arts and justice system, died.",
+      "url": "https://en.wikipedia.org/wiki/Jahangir",
+      "india": true
+    },
+    {
+      "year": 1996,
       "kind": "event",
-      "text": "The B Reactor at the Hanford Site began producing plutonium, fueling the American nuclear arsenal and accelerating the atomic age.",
-      "url": "https://en.wikipedia.org/wiki/B_Reactor",
+      "text": "NASA launched the Mars Global Surveyor, beginning a successful mission that provided decades of vital data about the Martian surface and atmosphere.",
+      "url": "https://en.wikipedia.org/wiki/NASA",
       "india": false
     },
     {
       "year": 1917,
       "kind": "event",
-      "text": "Canadian forces captured Passendale after grueling fighting during the First World War, marking a significant and costly Allied victory.",
+      "text": "British forces captured Gaza during World War I, marking a strategic turning point in the Middle Eastern theatre against the Ottoman Empire.",
       "url": "https://en.wikipedia.org/wiki/World_War_I",
       "india": false
     }
   ],
   "trending": [
     {
-      "text": "Chinmay Sutar shattered a 103-year-old Ranji Trophy record by scoring 834 runs across just five innings.",
-      "why": "Cricket fans are going wild over India's newest domestic batting sensation.",
-      "url": "https://www.aajtak.in/sports/cricket/story/chinmay-sutar-breaks-old-world-record-most-runs-first-six-first-class-innings-ranji-trophy-2026-27-tspoa-dskc-2688631-2026-11-05",
-      "source": "AajTak"
-    },
-    {
-      "text": "Deepinder Goyal announced that Blinkit ambulances will charge for non-emergency services, sparking heavy online debates.",
-      "why": "People are arguing over the ethics of monetizing emergency medical services.",
-      "url": "https://www.reddit.com/r/india/comments/1xof8fv/deepinder_goyal_says_blinkit_ambulance_to_charge/",
+      "text": "Karnataka test data revealed that petrol pumps in the state are selling over-blended fuel containing up to 31.2% ethanol instead of E20.",
+      "why": "Drivers are furious over potential vehicle engine damage and fuel fraud.",
+      "url": "https://www.reddit.com/r/india/comments/1xp9ge5/karnataka_finds_ethanol_blending_of_up_to_312_in/",
       "source": "r/india"
     },
     {
-      "text": "An 8-year-old boy in Panchkula brutally attacked a girl, claiming he thought beating her would earn game points in Free Fire.",
-      "why": "Massive shock and horror online over the extreme influence of violent video games.",
-      "url": "https://www.reddit.com/r/india/comments/1xocz07/panchkula_school_horror_i_thought_beating_her/",
-      "source": "r/india"
+      "text": "Gold prices in India registered a sharp drop, plummeting by nearly Rs 1,960 per sovereign after five consecutive days of hikes.",
+      "why": "Everyone with jewelry on their mind is buzzing about the sudden market dip.",
+      "url": "https://www.polimernews.com/justnownews/gold-price-drops-rs-1960-per-sovereign-silver-price-falls-12788902",
+      "source": "Polimer News"
     },
     {
-      "text": "BJP MLA Ravinder Negi publicly threatened Shah Rukh Khan over Deepika Padukone's saffron dress scene in a song.",
-      "why": "Bollywood and political controversy colliding has everyone talking and picking sides.",
-      "url": "https://www.reddit.com/r/india/comments/1xojzrf/shah_rukh_khan_ko_main_jihadi_bulaunga_bjp_mla/",
-      "source": "r/india"
+      "text": "Saba Haider from Uttar Pradesh won a US state assembly election with 71% of the vote, sparking widespread celebration and pride.",
+      "why": "An Indian-origin politician winning big abroad is all over social media feeds.",
+      "url": "https://www.bbc.com/hindi/articles/c574ppgnvlrno",
+      "source": "BBC"
     },
     {
-      "text": "Tanvi Patri made history by becoming the first Indian woman to win a Youth Olympics badminton medal.",
-      "why": "Everyone is celebrating her massive milestone for Indian sports.",
-      "url": "https://www.reddit.com/r/india/comments/1xozuk3/15yearold_tanvi_patri_scripts_history_becomes/",
-      "source": "r/india"
+      "text": "Luka Doncic went viral globally after scoring an incredible 62-foot 3-pointer just as the halftime buzzer sounded.",
+      "why": "Basketball fans are spamming clips of this jaw-dropping half-court shot everywhere.",
+      "url": "https://www.usatoday.com/story/sports/nba/lakers/2026/11/06/luka-doncic-buzzer-beater-heave-62-feet/92655599007/",
+      "source": "USA Today"
     },
     {
-      "text": "Mass protests swept across France as workers and students flooded the streets to demand higher pay and funding.",
-      "why": "Dramatic footage of nationwide strikes is trending globally.",
-      "url": "https://www.reddit.com/r/worldnews/comments/1xoxlbi/mass_protests_sweep_france_as_workers_and/",
-      "source": "r/worldnews"
+      "text": "An injured soldier tragically died after his ambulance got stuck in severe traffic caused by a political party rally.",
+      "why": "Outrage is surging online over VVIP traffic congestion costing a life.",
+      "url": "https://www.reddit.com/r/india/comments/1xp8wj5/injured_soldier_dies_after_ambulance_gets_stuck/",
+      "source": "r/india"
     }
   ],
   "read": {
     "quote": {
-      "text": "It is our choices, Harry, that show what we truly are, far more than our abilities.",
-      "author": "J.K. Rowling",
-      "book": "Harry Potter and the Chamber of Secrets"
+      "text": "What you seek is seeking you.",
+      "author": "Rumi",
+      "book": "The Masnavi"
     },
     "passage": {
-      "text": "Quoth Siddhartha: “I’ve had thoughts, yes, and insight, again and again. Sometimes, for an hour or for an entire day, I have felt knowledge in me, as one would feel life in one’s heart. There have been many thoughts, but it would be hard for me to convey them to you. Look, my dear Govinda, this is one of my thoughts, which I have found: wisdom cannot be passed on. Wisdom which a wise man tries to pass on to someone always sounds like foolishness.”",
-      "book": "Siddhartha",
-      "author": "Hermann Hesse",
-      "context": "Siddhartha explains to his old friend why he must leave him and cannot accept the Buddha's teachings as ultimate truth.",
+      "text": "Her husband, among various physical accomplishments, had been one of the most powerful ends that ever played football at New Haven—a national figure in a way, one of those men who reach such an acute limited excellence at twenty-one that everything afterward savours of anticlimax. His family were enormously wealthy—even in college his freedom with money was a matter for reproach—but now he’d left Chicago and come East in a fashion that rather took your breath away: for instance, he’d brought down a string of polo ponies from Lake Forest. It was hard to realize that a man in my own generation was wealthy enough to do that.",
+      "book": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "context": "Describing Tom Buchanan, a college football star whose peak arrived at age twenty-one.",
       "source": "gutenberg",
-      "day": 3,
+      "day": 1,
       "days": 3
     },
     "weekBook": {
       "title": "Thinking, Fast and Slow",
       "author": "Daniel Kahneman",
       "cover": "https://covers.openlibrary.org/b/id/13290711-M.jpg",
-      "day": 5,
+      "day": 6,
       "ideas": [
         {
           "title": "Your brain uses two different thinking systems",

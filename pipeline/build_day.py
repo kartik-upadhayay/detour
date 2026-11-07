@@ -38,6 +38,7 @@ PIPE = ROOT / "pipeline"
 CONTENT = ROOT / "content"
 HISTORY = PIPE / "history.json"
 VIDEO_POOL = PIPE / "video_pool.json"   # every candidate seen on good days; used when YouTube refuses us
+HOLD = CONTENT / "hold.json"            # present while the app has the route on hold
 IST = dt.timezone(dt.timedelta(hours=5, minutes=30))
 UA = "Mozilla/5.0 (DetourDaily; personal use)"
 
@@ -559,11 +560,19 @@ def main() -> int:
     ap.add_argument("--skip-if-done", action="store_true", help="exit if today's content already exists")
     ap.add_argument("--videos-only", action="store_true", help="refresh only today's videos, keep everything else")
     ap.add_argument("--refresh-cards", action="store_true", help="on a same-day rerun, regenerate words and loop cards too")
+    ap.add_argument("--hold", choices=["on", "off"], help="pause daily builds (festivals, trips) or resume them")
     args = ap.parse_args()
 
     now = dt.datetime.now(dt.timezone.utc)
     # The day turns over at 06:00 IST, matching the app: a 01:00 run still belongs to yesterday.
     day = (now.astimezone(IST) - dt.timedelta(hours=6)).date()
+    if args.hold == "on":
+        return start_hold(day)
+    if args.hold == "off":
+        end_hold(day)
+    elif HOLD.exists():
+        print(f"Route on hold since {json.loads(HOLD.read_text(encoding='utf-8'))['since']}; nothing to build")
+        return 0
     if args.skip_if_done and (CONTENT / "latest.json").exists():
         if json.loads((CONTENT / "latest.json").read_text(encoding="utf-8")).get("date") == day.isoformat():
             print(f"{day} already built; nothing to do")
@@ -636,6 +645,33 @@ def main() -> int:
     VIDEO_POOL.write_text(json.dumps(pool, indent=1, ensure_ascii=False), encoding="utf-8")
     print(f"Wrote content/latest.json and content/{day.isoformat()}.json")
     return 0
+
+
+def start_hold(day: dt.date) -> int:
+    """Stop at the last built day. Nothing new is made, so no words, book days or ideas get used up."""
+    if HOLD.exists():
+        print(f"Already on hold since {json.loads(HOLD.read_text(encoding='utf-8'))['since']}")
+        return 0
+    latest = CONTENT / "latest.json"
+    since = json.loads(latest.read_text(encoding="utf-8"))["date"] if latest.exists() else day.isoformat()
+    HOLD.write_text(json.dumps({"since": since}) + "\n", encoding="utf-8")
+    print(f"Route on hold from {since}; daily builds pause until it's resumed")
+    return 0
+
+
+def end_hold(day: dt.date) -> None:
+    """Carry on from the held day: the book of the week resumes at the next idea, not at today's date."""
+    if not HOLD.exists():
+        return
+    since = dt.date.fromisoformat(json.loads(HOLD.read_text(encoding="utf-8"))["since"])
+    gap = (day - since).days - 1
+    hist = load_history()
+    if gap > 0 and hist.get("weekbook"):
+        start = dt.date.fromisoformat(hist["weekbook"]["start"]) + dt.timedelta(days=gap)
+        hist["weekbook"]["start"] = start.isoformat()
+        HISTORY.write_text(json.dumps(hist, indent=1, ensure_ascii=False), encoding="utf-8")
+    HOLD.unlink()
+    print(f"Resumed after a hold from {since} ({max(gap, 0)} day(s) skipped)")
 
 
 def validate(c: dict) -> list[str]:

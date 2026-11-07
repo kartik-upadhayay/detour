@@ -19,6 +19,10 @@ on:
         description: "Regenerate today's words and loop cards too"
         type: boolean
         default: false
+      hold:
+        description: "on = pause daily builds where they are; off = resume (blank = leave as is)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -51,10 +55,12 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GOOGLE_BOOKS_KEY: ${{ secrets.GOOGLE_BOOKS_KEY }}
+          HOLD: ${{ inputs.hold }}
         run: |
           for attempt in 1 2 3; do
             if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ inputs.skip_if_done }}" = "true" ]; then FLAGS="--skip-if-done"; else FLAGS=""; fi
             if [ "${{ inputs.refresh_cards }}" = "true" ]; then FLAGS="$FLAGS --refresh-cards"; fi
+            case "$HOLD" in on|off) FLAGS="$FLAGS --hold $HOLD" ;; esac
             python pipeline/build_day.py $FLAGS && exit 0
             echo "Attempt $attempt failed, retrying in 60s"; sleep 60
           done
@@ -66,6 +72,8 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add content pipeline/history.json pipeline/video_pool.json
           git diff --cached --quiet && exit 0
-          git commit -m "content: $(TZ=Asia/Kolkata date +%F)"
+          MSG="content: $(TZ=Asia/Kolkata date +%F)"
+          [ -f content/hold.json ] && MSG="hold: route paused since $(sed -E 's/.*"since": "([^"]+)".*/\1/' content/hold.json)"
+          git commit -m "$MSG"
           git pull --rebase origin main
           git push

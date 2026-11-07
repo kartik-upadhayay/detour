@@ -239,7 +239,8 @@ def _cover(title: str, author: str) -> str:
 def build_week_book(key, gemini, prompt, hist: dict, day: dt.date) -> dict | None:
     wb = hist.get("weekbook")
     start = dt.date.fromisoformat(wb["start"]) if wb else None
-    if not wb or (day - start).days >= 7 or (day.weekday() == 0 and day != start):
+    # Seven days per book, counted from its start (which a hold moves forward, so no idea is skipped).
+    if not wb or (day - start).days >= 7:
         if not key:
             return None
         done = hist.setdefault("weekbooks_done", [])
